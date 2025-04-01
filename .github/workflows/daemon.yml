@@ -1,0 +1,66 @@
+name: Crawl & Deploy
+
+on:
+  workflow_dispatch:
+
+  # test
+  pull_request:
+    branches: [ "main" ]
+  
+  schedule:
+    # this workflow triggers every day at 20:30 UTC (05:30 KST)
+    - cron: "30 20 * * *"
+permissions:
+  actions: write
+jobs:
+  daemon:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: daemon
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Rust
+        uses: dtolnay/rust-toolchain@nightly
+      - name: Retrieve cargo cache
+        uses: Leafwing-Studios/cargo-cache@v2
+        
+      - name: Clone ssufid repository
+        uses: actions/checkout@v4
+        with:
+          path: ssufid
+          repository: yourssu/ssufid
+          ref: main
+
+      - name: Copy ssufid cache directory
+        run: cp -r .cache/ ssufid/
+
+      # test
+      - run: ls -al && tree -a -I target
+
+      - name: Run ssufid
+        run: |
+          cd ssufid
+          cargo run
+          cd -
+
+      # test
+      - run: ls -al && tree -a -I target
+        
+      - name: Update data and cache
+        run: |
+          cp -r ssufid/.cache/ .
+          cp -r ssufid/out/* .
+
+      # test
+      - run: ls -al && tree -a -I target
+
+      - run: rm -rf ssufid
+
+      - name: Push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email ""
+          git add .
+          git commit -m "$(date +'%Y-%m-%d')"
+          git push
