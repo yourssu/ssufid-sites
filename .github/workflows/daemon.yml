@@ -44,6 +44,11 @@ jobs:
           cargo run
           cd -
         
+      - name: Archive artifacts
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ssufid/out/
+
       - name: Update data and cache
         run: |
           cp -r ssufid/.cache/ .
@@ -58,3 +63,6 @@ jobs:
           git add .
           git commit -m "update: $(date +'%Y-%m-%d %H:%M')"
           git push
+          
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
