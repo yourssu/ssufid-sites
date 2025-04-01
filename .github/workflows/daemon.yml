@@ -25,6 +25,7 @@ jobs:
       - name: Retrieve cargo cache
         uses: Leafwing-Studios/cargo-cache@v2
         with:
+          cargo-target-dir: ssufid/target
           manifest-path: ssufid/Cargo.toml
         
       - name: Clone ssufid repository
