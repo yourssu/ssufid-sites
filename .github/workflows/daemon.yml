@@ -6,7 +6,10 @@ on:
     # this workflow triggers every hour
     - cron: "30 * * * *"
 permissions:
+  # push
   contents: write
+  # deploy-pages
+  pages: write
   id-token: write
 jobs:
   daemon:
