@@ -2,14 +2,9 @@ name: Crawl & Deploy
 
 on:
   workflow_dispatch:
-
-  # test
-  pull_request:
-    branches: [ "main" ]
-  
   schedule:
-    # this workflow triggers every day at 20:30 UTC (05:30 KST)
-    - cron: "30 20 * * *"
+    # this workflow triggers every hour
+    - cron: "30 * * * *"
 permissions:
   contents: write
 jobs:
@@ -21,14 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: actions/daemon
+          ref: main
       - name: Setup Rust
         uses: dtolnay/rust-toolchain@nightly
-    #   - name: Retrieve cargo cache
-    #     uses: Leafwing-Studios/cargo-cache@v2
-    #     with:
-    #       cargo-target-dir: ssufid/target
-    #       manifest-path: ssufid/Cargo.toml
         
       - name: Clone ssufid repository
         uses: actions/checkout@v4
@@ -37,30 +27,27 @@ jobs:
           repository: yourssu/ssufid
           ref: main
 
+      - name: Retrieve cargo cache
+        uses: Leafwing-Studios/cargo-cache@v2
+        with:
+          cargo-target-dir: ssufid/target
+          manifest-path: ssufid/Cargo.toml
+
       - name: Copy ssufid cache directory
         run: |
           mkdir -p .cache/
           cp -r .cache/ ssufid/
-
-      # test
-      - run: ls -al && tree -a -I target -I .git
 
       - name: Run ssufid
         run: |
           cd ssufid
           cargo run
           cd -
-
-      # test
-      - run: ls -al && tree -a -I target -I .git
         
       - name: Update data and cache
         run: |
           cp -r ssufid/.cache/ .
           cp -r ssufid/out/* .
-
-      # test
-      - run: ls -al && tree -a -I target -I .git
 
       - run: rm -rf ssufid
 
@@ -69,5 +56,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email ""
           git add .
-          git commit -m "$(date +'%Y-%m-%d')"
+          git commit -m "update: $(date +'%Y-%m-%d %H:%M')"
           git push
