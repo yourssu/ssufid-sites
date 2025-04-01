@@ -36,7 +36,9 @@ jobs:
           ref: main
 
       - name: Copy ssufid cache directory
-        run: cp -r .cache/ ssufid/
+        run: |
+          mkdir -p .cache/
+          cp -r .cache/ ssufid/
 
       # test
       - run: ls -al && tree -a -I target
