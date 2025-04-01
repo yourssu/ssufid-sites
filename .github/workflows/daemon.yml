@@ -11,7 +11,7 @@ on:
     # this workflow triggers every day at 20:30 UTC (05:30 KST)
     - cron: "30 20 * * *"
 permissions:
-  actions: write
+  contents: write
 jobs:
   daemon:
     runs-on: ubuntu-latest
@@ -41,7 +41,7 @@ jobs:
           cp -r .cache/ ssufid/
 
       # test
-      - run: ls -al && tree -a -I target
+      - run: ls -al && tree -a -I target -I .git
 
       - name: Run ssufid
         run: |
@@ -50,7 +50,7 @@ jobs:
           cd -
 
       # test
-      - run: ls -al && tree -a -I target
+      - run: ls -al && tree -a -I target -I .git
         
       - name: Update data and cache
         run: |
@@ -58,7 +58,7 @@ jobs:
           cp -r ssufid/out/* .
 
       # test
-      - run: ls -al && tree -a -I target
+      - run: ls -al && tree -a -I target -I .git
 
       - run: rm -rf ssufid
 
