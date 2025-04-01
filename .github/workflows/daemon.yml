@@ -24,6 +24,8 @@ jobs:
         uses: dtolnay/rust-toolchain@nightly
       - name: Retrieve cargo cache
         uses: Leafwing-Studios/cargo-cache@v2
+        with:
+          manifest-path: ssufid/Cargo.toml
         
       - name: Clone ssufid repository
         uses: actions/checkout@v4
