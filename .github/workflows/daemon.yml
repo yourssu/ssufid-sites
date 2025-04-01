@@ -20,6 +20,8 @@ jobs:
       cancel-in-progress: true
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: actions/daemon
       - name: Setup Rust
         uses: dtolnay/rust-toolchain@nightly
     #   - name: Retrieve cargo cache
