@@ -1,0 +1,72 @@
+name: Crawl & Deploy
+
+on:
+  workflow_dispatch:
+  schedule:
+    # this workflow triggers every hour
+    - cron: "30 * * * *"
+permissions:
+  # push
+  contents: write
+  # deploy-pages
+  pages: write
+  id-token: write
+jobs:
+  daemon:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: daemon
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Setup Rust
+        uses: dtolnay/rust-toolchain@nightly
+        
+      - name: Clone ssufid repository
+        uses: actions/checkout@v4
+        with:
+          path: ssufid
+          repository: yourssu/ssufid
+          ref: main
+
+      - name: Retrieve cargo cache
+        uses: Leafwing-Studios/cargo-cache@v2
+        with:
+          cargo-target-dir: ssufid/target
+          manifest-path: ssufid/Cargo.toml
+
+      - name: Copy ssufid cache directory
+        run: |
+          mkdir -p .cache/
+          cp -r .cache/ ssufid/
+
+      - name: Run ssufid
+        run: |
+          cd ssufid
+          cargo run
+          cd -
+        
+      - name: Archive artifacts
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ssufid/out/
+
+      - name: Update data and cache
+        run: |
+          cp -r ssufid/.cache/ .
+          cp -r ssufid/out/* .
+
+      - run: rm -rf ssufid
+
+      - name: Push changes
+        run: |
+          sudo timedatectl set-timezone 'Asia/Seoul'
+          git config user.name "GitHub Actions"
+          git config user.email ""
+          git add .
+          (git commit -m "update: $(date +'%Y-%m-%d %H:%M')" && git push) || echo "no contents to commit"
+          
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
