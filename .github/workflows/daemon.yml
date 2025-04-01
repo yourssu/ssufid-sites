@@ -59,11 +59,11 @@ jobs:
 
       - name: Push changes
         run: |
+          sudo timedatectl set-timezone 'Asia/Seoul'
           git config user.name "GitHub Actions"
           git config user.email ""
           git add .
-          git commit -m "update: $(date +'%Y-%m-%d %H:%M')"
-          git push
+          (git commit -m "update: $(date +'%Y-%m-%d %H:%M')" && git push) || echo "no contents to commit"
           
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
