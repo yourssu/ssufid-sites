@@ -9,5 +9,5 @@
 ### SSU:catch 공지사항
 
 - Target url: https://scatch.ssu.ac.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/
-- RSS: https://yourssu.github.io/ssufid-sites/scatch.ssu.ac.kr/rss.xml
-- JSON: https://yourssu.github.io/ssufid-sites/scatch.ssu.ac.kr/data.json
+- RSS: https://ssufid.yourssu.com/scatch.ssu.ac.kr/rss.xml
+- JSON: https://ssufid.yourssu.com/scatch.ssu.ac.kr/data.json
