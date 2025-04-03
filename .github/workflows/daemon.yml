@@ -46,6 +46,7 @@ jobs:
       # 나머지 이전 데이터 폴더를 ssufid/out으로 이동시킵니다.
       - name: Set previous data directory
         run: |
+          shopt -s extglob
           mkdir -p ssufid/out/
           mv !(.*|ssufid)/ ssufid/out/
 
