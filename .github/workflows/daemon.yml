@@ -64,7 +64,7 @@ jobs:
       - name: Update data and cache
         run: |
           cp -rv ssufid/.cache/ .
-          cp -rv ssufid/out/. .
+          cp -rv ssufid/out/* .
 
       - run: rm -rf ssufid
 
