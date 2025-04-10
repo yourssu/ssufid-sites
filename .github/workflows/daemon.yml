@@ -47,6 +47,11 @@ jobs:
           cd ssufid
           cargo run
           cd -
+
+      # TODO
+      # - name: Report error
+      #   run: ... report to slack or something
+      #   if: failure()
         
       - name: Archive artifacts
         uses: actions/upload-pages-artifact@v3
