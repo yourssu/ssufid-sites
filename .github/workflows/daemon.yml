@@ -58,33 +58,33 @@ jobs:
 
       # TODO
       # - name: Report error
-      #   run: ... report to slack or something
       #   if: failure()
+      #   run: ... report to slack or something
         
       - name: Archive artifacts
+        if: always()
         uses: actions/upload-pages-artifact@v3
         with:
           path: ssufid/out/
-        if: always()
 
       - name: Update data and cache
+        if: always()
         run: |
           cp -rv ssufid/.cache/ .
           cp -rv ssufid/out/* .
-        if: always()
 
-      - run: rm -rf ssufid
-        if: always()
+      - if: always()
+        run: rm -rf ssufid
 
       - name: Push changes
+        if: always()
         run: |
           sudo timedatectl set-timezone 'Asia/Seoul'
           git config user.name "GitHub Actions"
           git config user.email ""
           git add .
           (git commit -m "update: $(date +'%Y-%m-%d %H:%M')" && git push) || echo "no changes to commit"
-        if: always()
           
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
         if: always()
+        uses: actions/deploy-pages@v4
