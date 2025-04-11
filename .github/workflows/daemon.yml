@@ -55,20 +55,29 @@ jobs:
           cd ssufid
           cargo run
           cd -
+
+      # TODO
+      # - name: Report error
+      #   if: failure()
+      #   run: ... report to slack or something
         
       - name: Archive artifacts
+        if: always()
         uses: actions/upload-pages-artifact@v3
         with:
           path: ssufid/out/
 
       - name: Update data and cache
+        if: always()
         run: |
           cp -rv ssufid/.cache/ .
           cp -rv ssufid/out/* .
 
       - run: rm -rf ssufid
+        if: always()
 
       - name: Push changes
+        if: always()
         run: |
           sudo timedatectl set-timezone 'Asia/Seoul'
           git config user.name "GitHub Actions"
@@ -77,4 +86,5 @@ jobs:
           (git commit -m "update: $(date +'%Y-%m-%d %H:%M')" && git push) || echo "no changes to commit"
           
       - name: Deploy to GitHub Pages
+        if: always()
         uses: actions/deploy-pages@v4
