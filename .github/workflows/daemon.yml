@@ -73,8 +73,8 @@ jobs:
           cp -rv ssufid/.cache/ .
           cp -rv ssufid/out/* .
 
-      - if: always()
-        run: rm -rf ssufid
+      - run: rm -rf ssufid
+        if: always()
 
       - name: Push changes
         if: always()
