@@ -48,7 +48,7 @@ jobs:
         run: |
           shopt -s extglob
           mkdir -p ssufid/out/
-          mv !(.*|ssufid)/ ssufid/out/
+          (mv !(.*|ssufid)/ ssufid/out/) || echo "no dir"
 
       - name: Run ssufid
         run: |
