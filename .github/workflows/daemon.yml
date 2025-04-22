@@ -51,6 +51,9 @@ jobs:
           (mv !(.*|ssufid)/ ssufid/out/) || echo "no dir"
 
       - name: Run ssufid
+        env: 
+          SSU_ID: ${{ secrets.SSU_ID }}
+          SSU_PASSWORD: ${{ secrets.SSU_PASSWORD }}
         run: |
           cd ssufid
           cargo run
