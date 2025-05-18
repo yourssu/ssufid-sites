@@ -59,10 +59,10 @@ jobs:
           cargo run
           cd -
 
-      # TODO
-      # - name: Report error
-      #   if: failure()
-      #   run: ... report to slack or something
+      - name: Report error
+        if: failure()
+        run: |
+          curl -F "text=ssufid 실행 중 오류가 발생했슈~\n\n${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" -F "channel=${{ secrets.SLACK_CHANNEL_ID }}" -H "Authorization:Bearer ${{ secrets.SLACK_WORKSPACE_TOKEN }}" https://slack.com/api/chat.postMessage
         
       - name: Archive artifacts
         if: always()
