@@ -22,7 +22,10 @@ jobs:
         with:
           ref: main
       - name: Setup Rust
-        uses: dtolnay/rust-toolchain@nightly
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
         
       - name: Clone ssufid repository
         uses: actions/checkout@v4
