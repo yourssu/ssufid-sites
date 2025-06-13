@@ -15,6 +15,8 @@ jobs:
     secrets:
       SSU_ID: ${{ secrets.SSU_ID }}
       SSU_PASSWORD: ${{ secrets.SSU_PASSWORD }}
+      SLACK_WORKSPACE_TOKEN: ${{ secrets.SLACK_WORKSPACE_TOKEN }}
+      SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
     permissions:
       # push
       contents: write
