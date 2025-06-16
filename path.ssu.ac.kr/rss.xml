@@ -5,102 +5,6 @@
     <link>https://path.ssu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmList.do</link>
     <description>숭실대학교 비교과 시스템 SSU-PATH의 비교과 프로그램 정보를 제공합니다.</description>
     <item>
-      <title>프로그래밍 고급(AI Engineer 양성과정: 머신러닝&amp;딥러닝)</title>
-      <link>https://path.ssu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ee63cfd2987c8b9f4203b58ae5d88f4b</link>
-      <description><![CDATA[파이썬 프로그래밍을 활용한 인공지능 모델 개발 및 프로젝트 실습 교육]]></description>
-      <author>공학교육혁신팀</author>
-      <category>모집중</category>
-      <enclosure url="/common/cmnFile/thumbnail.do?encSvrFileNm=96b0df0bf30bf9a1e71a99e31138e4e8ee0201aca3e612ecfc22c921d7e048d9a30d80ce0077fc9436b6bf2f1d0c88d480650370298cc506269aafbe1b768a0b&amp;width=170&amp;height=120" length="0" type="image/*"/>
-      <guid isPermaLink="false">ee63cfd2987c8b9f4203b58ae5d88f4b</guid>
-      <pubDate>Mon, 16 Jun 2025 10:00:00 +0900</pubDate>
-      <content:encoded><![CDATA[---
-선정방법: 선정방법
-신청기간: 2025.06.16 10:00 ~ 2025.07.04 10:00
-신청대상: 공과대학IT대학자연과학대학
-신청방법: 내부
-신청신분: 학생
-운영년도/학기: 2025년 1학기
-운영방식: 비대면
-운영조직: 공학교육혁신팀
-이수 인증서: O
-정원/대기자: 정원 25명 / 대기자 15명
-지급 마일리지: '480'
-첨부파일: '-'
-프로그램 목표: 프로그래밍 언어인 파이썬 심화교육으로, 데이터 가공능력과 업무 자동화 스킬을 습득하고 프로그래밍 생산성을 높이기 위한 AI 기반 다양한 도구를 학습하는 프로그램입니다.
-프로그램 분류: 전공탐색프로그램
-프로그램 유형: |-
-  학습역량강화
-  /
-  SW분야 프로그램
-프로그램 한줄 소개: 파이썬 프로그래밍을 활용한 인공지능 모델 개발 및 프로젝트 실습 교육
-프로그램 형식: 비교과 (비학점)
-학생 신청대상 상세정보: 학적:재학, 휴학, 제적, 수료구분:대학학년:전체
-핵심역량 비중도: |-
-  융합역량50%
-  리더십역량50%
-
-운영년도 및 학기: 2025/1학기
-진행속성: 일정기간 참여
-출석관리: Y
-1회차:
-  1회차: 교육기간
-  강좌명: '프로그래밍 고급(AI Engineer 양성과정: 머신러닝&딥러닝)'
-  과제제출: 미제출
-  교육장소/강사: /
-  첨부파일: '-'
-
----
-]]></content:encoded>
-    </item>
-    <item>
-      <title>프로그래밍 중급(생성형AI와 AI에이전트 개발 교육)</title>
-      <link>https://path.ssu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=eed62326e3643513eae13bf4f55ab395</link>
-      <description><![CDATA[생성형AI의 원리와 대규모 언어 모델(LLM)의 이해를 바탕으로 한 프로젝트 실습 교육]]></description>
-      <author>공학교육혁신팀</author>
-      <category>모집중</category>
-      <enclosure url="/common/cmnFile/thumbnail.do?encSvrFileNm=96b0df0bf30bf9a1e71a99e31138e4e8bfdbdd3a4b06c25c34f8187da626f92fcde1c964890300efcbfed7a013d72047af16fe827573ae031cd1777da84c184c&amp;width=170&amp;height=120" length="0" type="image/*"/>
-      <guid isPermaLink="false">eed62326e3643513eae13bf4f55ab395</guid>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 +0900</pubDate>
-      <content:encoded><![CDATA[---
-선정방법: 선정방법
-신청기간: 2025.06.16 00:00 ~ 2025.06.27 10:00
-신청대상: 공과대학IT대학자연과학대학
-신청방법: 내부
-신청신분: 학생
-운영년도/학기: 2025년 1학기
-운영방식: 비대면
-운영조직: 공학교육혁신팀
-이수 인증서: O
-정원/대기자: 정원 15명 / 대기자 10명
-지급 마일리지: '250'
-첨부파일: '-'
-프로그램 목표: 프로그래밍 언어인 파이썬의 기초 문법을 이해하고 20함수, 데이터 분석과 수집을 위한 스크래핑 방법을 학습하는 프로그램입니다.
-프로그램 분류: 전공탐색프로그램
-프로그램 유형: |-
-  학습역량강화
-  /
-  SW분야 프로그램
-프로그램 한줄 소개: 생성형AI의 원리와 대규모 언어 모델(LLM)의 이해를 바탕으로 한 프로젝트 실습 교육
-프로그램 형식: 비교과 (비학점)
-학생 신청대상 상세정보: 학적:재학, 휴학, 수료구분:대학학년:전체
-핵심역량 비중도: |-
-  창의역량50%
-  융합역량50%
-
-운영년도 및 학기: 2025/1학기
-진행속성: 일정기간 참여
-출석관리: Y
-1회차:
-  1회차: 교육기간
-  강좌명: 프로그래밍 중급 과정(생성형AI와 AI에이전트 개발 교육)
-  과제제출: 미제출
-  교육장소/강사: /
-  첨부파일: '-'
-
----
-]]></content:encoded>
-    </item>
-    <item>
       <title>2025 중앙도서관 우수이용자 시상</title>
       <link>https://path.ssu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=4e0000cffe7256486a620147e8a907ba</link>
       <description><![CDATA[2025학년도 중앙도서관 우수이용자 선발]]></description>
@@ -197,6 +101,102 @@
 ---
 2025학년도 1학기 비교과 마일리지 장학금 안내입니다.이 프로그램을 통해서 신청한 재학생에 대해서만 비교과 마일리지 장학금 선정 지원 인정됩니다.  ★펀시스템에서 슈패스로 마일리지가 이관되었습니다. (2024년 8월 20일자로 이전 마일리지 0점 처리되었으며, 그 이후 적립된 마일리지에 대해서만 인정 및 이관되었습니다)2024학년도 2학기 비교과 마일리지 장학금 선발자는 선발과 동시에 0점 처리 완료되었습니다.  ★ 2025-1학기 기준 재학생(1학점이라도 수강신청 한 학생/0학점 인정 불가능)만 장학금 수령이 가능합니다.확인하시어 신청 부탁 드립니다. ★ 신청기간: 2025.06.23.(월). ~ 2025.06.29.(일) 23:59분  ★ 인정 마일리지 : 2024년 8월 20일 이후 누적된(사용되지 않은) 마일리지, 2025년 6월 30일까지 이수처리 후 마일리지 지급 완료된 마일리지까지만 인정. (마일리지 인정일 연장 불가)※ FAQ Q. 전액 장학금을 받으면 비교과 마일리지로 장학금 신청이 불가한가요?A. 아니요, 비교과 마일리지 활용은 별개의 장학금으로 지급됩니다. 따라서 비교과 마일리지 장학금 수여가 가능합니다. Q. 과거 참여한 프로그램에 마일리지가 적립이 안됐습니다. 어떻게 해야 하나요? A. 프로그램을 신청하여 성실하게 이수한 경우에 마일리지가 적립됩니다.     프로그램의 이수여부는 각 프로그램의 운영주체, 운영자가 담당하므로 해당 프로그램의 운영자에게 문의해주시기 바랍니다.     (참여한 프로그램의 상세페이지에서 연락처 확인 가능) Q. 아직 마일리지 적립이 되지 않았습니다. 어떻게 해야 하나요?A. 2024년 8월 20일 ~ 2025년 6월 29일 기준으로 적립된 마일리지만을 산정합니다. 이후 적립 마일리지는 다음학기 마일리지 장학금에 활용 바랍니다.]]></content:encoded>
       <atom:updated>2025-06-12T05:43:48.624446968Z</atom:updated>
+    </item>
+    <item>
+      <title>프로그래밍 고급(AI Engineer 양성과정: 머신러닝&amp;딥러닝)</title>
+      <link>https://path.ssu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ee63cfd2987c8b9f4203b58ae5d88f4b</link>
+      <description><![CDATA[파이썬 프로그래밍을 활용한 인공지능 모델 개발 및 프로젝트 실습 교육]]></description>
+      <author>공학교육혁신팀</author>
+      <category>모집중</category>
+      <enclosure url="/common/cmnFile/thumbnail.do?encSvrFileNm=96b0df0bf30bf9a1e71a99e31138e4e8ee0201aca3e612ecfc22c921d7e048d9a30d80ce0077fc9436b6bf2f1d0c88d480650370298cc506269aafbe1b768a0b&amp;width=170&amp;height=120" length="0" type="image/*"/>
+      <guid isPermaLink="false">ee63cfd2987c8b9f4203b58ae5d88f4b</guid>
+      <pubDate>Mon, 16 Jun 2025 10:00:00 +0900</pubDate>
+      <content:encoded><![CDATA[---
+선정방법: 선정방법
+신청기간: 2025.06.16 10:00 ~ 2025.07.04 10:00
+신청대상: 공과대학IT대학자연과학대학
+신청방법: 내부
+신청신분: 학생
+운영년도/학기: 2025년 1학기
+운영방식: 비대면
+운영조직: 공학교육혁신팀
+이수 인증서: O
+정원/대기자: 정원 25명 / 대기자 15명
+지급 마일리지: '480'
+첨부파일: '-'
+프로그램 목표: 프로그래밍 언어인 파이썬 심화교육으로, 데이터 가공능력과 업무 자동화 스킬을 습득하고 프로그래밍 생산성을 높이기 위한 AI 기반 다양한 도구를 학습하는 프로그램입니다.
+프로그램 분류: 전공탐색프로그램
+프로그램 유형: |-
+  학습역량강화
+  /
+  SW분야 프로그램
+프로그램 한줄 소개: 파이썬 프로그래밍을 활용한 인공지능 모델 개발 및 프로젝트 실습 교육
+프로그램 형식: 비교과 (비학점)
+학생 신청대상 상세정보: 학적:재학, 휴학, 제적, 수료구분:대학학년:전체
+핵심역량 비중도: |-
+  융합역량50%
+  리더십역량50%
+
+운영년도 및 학기: 2025/1학기
+진행속성: 일정기간 참여
+출석관리: Y
+1회차:
+  1회차: 교육기간
+  강좌명: '프로그래밍 고급(AI Engineer 양성과정: 머신러닝&딥러닝)'
+  과제제출: 미제출
+  교육장소/강사: /
+  첨부파일: '-'
+
+---
+]]></content:encoded>
+    </item>
+    <item>
+      <title>프로그래밍 중급(생성형AI와 AI에이전트 개발 교육)</title>
+      <link>https://path.ssu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=eed62326e3643513eae13bf4f55ab395</link>
+      <description><![CDATA[생성형AI의 원리와 대규모 언어 모델(LLM)의 이해를 바탕으로 한 프로젝트 실습 교육]]></description>
+      <author>공학교육혁신팀</author>
+      <category>모집중</category>
+      <enclosure url="/common/cmnFile/thumbnail.do?encSvrFileNm=96b0df0bf30bf9a1e71a99e31138e4e8bfdbdd3a4b06c25c34f8187da626f92fcde1c964890300efcbfed7a013d72047af16fe827573ae031cd1777da84c184c&amp;width=170&amp;height=120" length="0" type="image/*"/>
+      <guid isPermaLink="false">eed62326e3643513eae13bf4f55ab395</guid>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0900</pubDate>
+      <content:encoded><![CDATA[---
+선정방법: 선정방법
+신청기간: 2025.06.16 00:00 ~ 2025.06.27 10:00
+신청대상: 공과대학IT대학자연과학대학
+신청방법: 내부
+신청신분: 학생
+운영년도/학기: 2025년 1학기
+운영방식: 비대면
+운영조직: 공학교육혁신팀
+이수 인증서: O
+정원/대기자: 정원 15명 / 대기자 10명
+지급 마일리지: '250'
+첨부파일: '-'
+프로그램 목표: 프로그래밍 언어인 파이썬의 기초 문법을 이해하고 20함수, 데이터 분석과 수집을 위한 스크래핑 방법을 학습하는 프로그램입니다.
+프로그램 분류: 전공탐색프로그램
+프로그램 유형: |-
+  학습역량강화
+  /
+  SW분야 프로그램
+프로그램 한줄 소개: 생성형AI의 원리와 대규모 언어 모델(LLM)의 이해를 바탕으로 한 프로젝트 실습 교육
+프로그램 형식: 비교과 (비학점)
+학생 신청대상 상세정보: 학적:재학, 휴학, 수료구분:대학학년:전체
+핵심역량 비중도: |-
+  창의역량50%
+  융합역량50%
+
+운영년도 및 학기: 2025/1학기
+진행속성: 일정기간 참여
+출석관리: Y
+1회차:
+  1회차: 교육기간
+  강좌명: 프로그래밍 중급 과정(생성형AI와 AI에이전트 개발 교육)
+  과제제출: 미제출
+  교육장소/강사: /
+  첨부파일: '-'
+
+---
+]]></content:encoded>
     </item>
     <item>
       <title>글로벌 커뮤니케이션 머슬캠프 - 2025 SW전공 영어 특강 -</title>
