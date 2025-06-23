@@ -4,6 +4,20 @@
   "description": "숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "14607",
+      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14607",
+      "author": "최*진",
+      "title": "2025학년도 여름방학 도서관 이용 안내",
+      "description": null,
+      "category": [],
+      "created_at": "2025-06-23T10:34:32+09:00",
+      "updated_at": "2025-06-23T10:34:32+09:00",
+      "thumbnail": null,
+      "content": "<p><img alt=\"\" src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/34d617c8-ecc0-4aa9-af91-9be7ca7d52ae\" style=\"height:720px; width:960px\" /></p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "14595",
       "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14595",
       "author": "양*아",
