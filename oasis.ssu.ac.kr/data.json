@@ -4,6 +4,20 @@
   "description": "숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "14618",
+      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14618",
+      "author": "이*학",
+      "title": "[안내] 여름방학 숭실고독 참가자 선정 결과",
+      "description": null,
+      "category": [],
+      "created_at": "2025-06-25T10:24:38+09:00",
+      "updated_at": "2025-06-25T10:24:38+09:00",
+      "thumbnail": null,
+      "content": "<p><strong>안녕하세요. 중앙도서관입니다.&nbsp;</strong></p>\n\n<p><strong>숭실고독에 관심 갖고 지원해주신 모든 분들께 감사드립니다.&nbsp;</strong></p>\n\n<p><strong>참가자 선정 결과 안내드립니다.</strong></p>\n\n<p><img alt=\"\" src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/1538eaff-6d7f-4270-93d9-339fdf05b86c\" style=\"height:638px; width:444px\" /></p>\n\n<p><strong>합격하신 분들께는 단톡방 링크문자를 발송해드리고 있습니다.&nbsp;</strong></p>\n\n<p><strong>불참자 발생시 후보자분들께 순차적으로 연락드리고 있으니 참고부탁드립니다.&nbsp;</strong></p>\n\n<p><strong>감사합니다.</strong></p>\n\n<p>&nbsp;</p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "14614",
       "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14614",
       "author": "김*진",
