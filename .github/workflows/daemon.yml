@@ -12,6 +12,8 @@ jobs:
     concurrency:
       group: daemon
       cancel-in-progress: true
+    with:
+      excludes: ${{ vars.EXCLUDES }}
     secrets:
       SSU_ID: ${{ secrets.SSU_ID }}
       SSU_PASSWORD: ${{ secrets.SSU_PASSWORD }}
