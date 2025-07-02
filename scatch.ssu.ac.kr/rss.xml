@@ -5,6 +5,65 @@
     <link>https://scatch.ssu.ac.kr</link>
     <description>숭실대학교 공식 홈페이지의 공지사항을 제공합니다.</description>
     <item>
+      <title>교내 IT 서비스 시스템 작업으로 인한 서비스 일시 중단 안내</title>
+      <link>https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&amp;category&amp;paged=1&amp;slug=%EA%B5%90%EB%82%B4-it-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9E%91%EC%97%85%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9D%BC%EC%8B%9C-%EC%A4%91-2&amp;keyword</link>
+      <description><![CDATA[<div>
+									
+									<p><span style="font-fami...]]></description>
+      <author>클라우드운영팀 및 정보보호팀</author>
+      <category>학사</category>
+      <guid isPermaLink="false">교내-it-서비스-시스템-작업으로-인한-서비스-일시-중-2</guid>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0900</pubDate>
+      <content:encoded><![CDATA[<div>
+									
+									<p><span style="font-family: arial, helvetica, sans-serif">1. 관련</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif">&nbsp; &nbsp; 가. 정보시스템 운영보안 지침 제 51조</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif">&nbsp; &nbsp; 나. 클라우드운영팀-307(2025.06.26.) </span><span style="font-family: arial, helvetica, sans-serif">「SAP 서버 OS 패치 작업 계획(3차)」&nbsp;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif">2. 교내 IT 서비스 시스템 작업으로 인하여 일부 서비스가 일시 중단됩니다.</span></p>
+<table border="1" cellpadding="0" cellspacing="0" style="width: 636px;height: 362px">
+<tbody>
+<tr class="xfeDeleteRow" style="height: 43px">
+<td class="xfe_zb" style="width: 85px;text-align: center;height: 43px"><span style="font-family: arial, helvetica, sans-serif">작업명</span></td>
+<td class="xfe_zb" style="width: 545px;text-align: center;height: 43px"><span style="font-family: arial, helvetica, sans-serif">OS 패치</span></td>
+</tr>
+<tr class="xfeDeleteRow" style="height: 37px">
+<td class="xfe_zb" style="width: 85px;text-align: center;height: 37px"><span style="font-family: arial, helvetica, sans-serif">대상 시스템</span></td>
+<td class="xfe_zb" style="width: 545px;text-align: center;height: 37px"><span style="font-family: arial, helvetica, sans-serif">SAP S/4 HANA, u-SAINT 운영 서버</span></td>
+</tr>
+<tr class="xfeDeleteRow" style="height: 27px">
+<td class="xfe_zb" style="width: 85px;text-align: center;height: 44px"><span style="font-family: arial, helvetica, sans-serif">작업 시간&nbsp;</span></td>
+<td class="xfe_zb" style="width: 545px;text-align: center;height: 44px"><span style="font-family: arial, helvetica, sans-serif"><strong>7.5.(토) 10:00 ~ 7.6.(일) 01:00,</strong></span><p></p>
+<p><span style="font-family: arial, helvetica, sans-serif"><strong>7.6.(일) 10:00 ~ 7.7.(월) 01:00</strong></span></p></td>
+</tr>
+<tr style="height: 56px">
+<td class="xfe_zb" style="width: 85px;text-align: center;height: 45px"><span style="font-family: arial, helvetica, sans-serif">작 업 자</span></td>
+<td class="xfe_zb" style="width: 545px;text-align: center;height: 45px"><span style="font-family: arial, helvetica, sans-serif">클라우드운영팀 이수민 (8320, <a href="mailto:iamsumin@ssu.ac.kr">iamsumin@ssu.ac.kr</a>)</span></td>
+</tr>
+<tr style="height: 193px">
+<td class="xfe_zb" style="width: 85px;text-align: center;height: 193px">
+<p class="0"><span style="font-family: arial, helvetica, sans-serif">영 향 도&nbsp;</span></p>
+</td>
+<td class="xfe_zb" style="width: 545px;height: 193px">
+<p style="text-align: center"><strong><span style="font-family: arial, helvetica, sans-serif"><u>작업 시간 중</u></span></strong></p>
+<p style="text-align: center"><strong><span style="font-family: arial, helvetica, sans-serif"><u>SAP GUI 및 u-SAINT (saint,ssu.ac.kr)</u></span></strong></p>
+<p style="text-align: center"><strong><span style="font-family: arial, helvetica, sans-serif"><u>증명서(certi.ssu.ac.kr) 접속 불가</u></span></strong></p>
+<p style="text-align: center"><span style="font-family: arial, helvetica, sans-serif"><strong>※ 그 외 서비스는 정상 접속 및 이용 가능</strong></span></p>
+<p style="text-align: center"><span style="font-family: arial, helvetica, sans-serif">(예) 메일(mail.ssu.ac.kr / mail.soongsil.ac.kr), 그룹웨어(gw.ssu.ac.kr),</span></p>
+<p style="text-align: center"><span style="font-family: arial, helvetica, sans-serif">&nbsp; &nbsp; LMS(class.ssu.ac.kr) 등</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-family: arial, helvetica, sans-serif">3. 각 대학 및 유관기관이 있는 부서에서는 학과, 연구소 등 유관기관에 시스템 작업 및</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif">&nbsp; &nbsp;서비스&nbsp;중단을 안내하여 주시기 바랍니다.&nbsp;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif">&nbsp;&nbsp;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif">4. 서비스 중단으로 인해 다소 불편하시더라도 양해하여 주시기 바랍니다.&nbsp;&nbsp;끝.</span></p>
+									
+									
+																		
+								</div>]]></content:encoded>
+    </item>
+    <item>
       <title>★ 2025학년도 1학기 특별장학금(국가장학금 Ⅱ유형 보전) 지급 안내</title>
       <link>https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&amp;category&amp;paged=1&amp;slug=2025%ED%95%99%EB%85%84%EB%8F%84-1%ED%95%99%EA%B8%B0-%ED%8A%B9%EB%B3%84%EC%9E%A5%ED%95%99%EA%B8%88%EA%B5%AD%EA%B0%80%EC%9E%A5%ED%95%99%EA%B8%88-%E2%85%A1%EC%9C%A0%ED%98%95-%EB%B3%B4%EC%A0%84&amp;keyword</link>
       <description><![CDATA[<div>
@@ -7133,67 +7192,6 @@ o 최종합격자 발표 : 8. 18(월)<br>
 									<p><img alt="" class="aligncenter size-full wp-image-90205" height="1121" sizes="(max-width: 793px) 100vw, 793px" src="https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/06/2025-1학기-학점포기-신청-안내_1.jpg" srcset="https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/06/2025-1학기-학점포기-신청-안내_1.jpg 793w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/06/2025-1학기-학점포기-신청-안내_1-212x300.jpg 212w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/06/2025-1학기-학점포기-신청-안내_1-768x1086.jpg 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/06/2025-1학기-학점포기-신청-안내_1-724x1024.jpg 724w" width="793"></p>
 									
 									
-																		
-								</div>]]></content:encoded>
-    </item>
-    <item>
-      <title>[대학일자리플러스사업단] 2025 숭실 커리어 취업캠프_면접마스터 캠프</title>
-      <link>https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&amp;category&amp;paged=1&amp;slug=%EB%8C%80%ED%95%99%EC%9D%BC%EC%9E%90%EB%A6%AC%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%82%AC%EC%97%85%EB%8B%A8-2025-%EC%88%AD%EC%8B%A4-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%B7%A8%EC%97%85%EC%BA%A0%ED%94%84_%EB%A9%B4&amp;keyword</link>
-      <description><![CDATA[<div>
-									
-									<p style="text-align: cen...]]></description>
-      <author>진로취업센터</author>
-      <category>비교과·행사</category>
-      <enclosure url="https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/06/25.jpg" length="0" type="image/jpeg"/>
-      <guid isPermaLink="false">대학일자리플러스사업단-2025-숭실-커리어-취업캠프_면</guid>
-      <pubDate>Sat, 07 Jun 2025 00:00:00 +0900</pubDate>
-      <content:encoded><![CDATA[<div>
-									
-									<p style="text-align: center"><span style="font-family: 'arial black', sans-serif;font-size: 24pt"><strong>2025학년도 숭실 커리어 취업캠프_면접마스터 캠프</strong></span></p>
-<p style="text-align: center"><img alt="" class="aligncenter size-full wp-image-90173" height="939" sizes="(max-width: 690px) 100vw, 690px" src="https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/06/25.jpg" srcset="https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/06/25.jpg 690w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/06/25-220x300.jpg 220w" width="690"></p>
-<p>&nbsp;</p>
-<h1 style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>1박2일 집중코스로 면접 마스터 되기!</strong></span></h1>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif;font-size: 14pt"><strong>놓치면 후회하는 마지막 기회!</strong></span></p>
-<p>&nbsp;</p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>[핵심혜택]</strong></span></p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>✅ 대기업 전,현직 인사담당자의 직접 코칭</strong></span></p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>✅ 실전 모의면접으로 완벽 실력 완성</strong></span></p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>✅ 나만을 위한 맞춤 피드백&nbsp;제공</strong></span></p>
-<p>&nbsp;</p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>[변화의 스토리]</strong></span></p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>🎯 떨리는 면접 → 여유로운 면접</strong></span></p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>🎯 준비 없는 나 → 완벽 준비된 나</strong></span></p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>🎯 혼자만의 연습 → 전문가와 함께</strong></span></p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>🎯 불안한 마음 → 확신에 찬 자신감</strong></span></p>
-<p>&nbsp;</p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>– 신청기간&nbsp;: 2025. 6. 5.&nbsp;~ 2025. 6. 19.</strong></span></p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>-캠프일정 : 2025. 6. 26(목)~6.27(금)</strong></span></p>
-<ul>
-<li style="text-align: center"><strong><span style="font-family: 'arial black', sans-serif">– 대상 : 재학생 및 졸업생(휴학생, 수료생 포함) 30명(선발)</span></strong></li>
-</ul>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>-장소: 용인 대웅경영개발원</strong></span></p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif">&nbsp; &nbsp; &nbsp;필요서류- 슈패스 상세페이지 참고</span></p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif">★&nbsp;취업캠프 1탄 “서류&nbsp;마스터 캠프”&nbsp;참여자&nbsp;우선 선발</span></p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif"><strong>&nbsp;</strong><strong>이력서, 자기소개서 제출시 반드시 ‘서류마스터캠프’ 참여여부 기재해주세요.</strong></span></p>
-<p>&nbsp;</p>
-<p style="text-align: center"><span style="font-family: 'arial black', sans-serif;font-size: 18pt"><strong># 신청 : 슈패스 로그인 → 비교과프로그램 → 면접마스터 검색</strong></span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-									
-									
-																		<ul class="download-list mt-5">
-																				<li>
-											<a download="" href="/download.php?data=T4ojlsI54Vy0JJ5saH%2BImw%3D%3D" target="_blank">
-												<span><i class="icon-ssu icon-ssu-icon-28"></i> </span>
-												<i class="icon-ssu icon-ssu-icon-29"></i>
-											</a>
-										</li>
-																			</ul>
 																		
 								</div>]]></content:encoded>
     </item>
