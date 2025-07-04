@@ -4,6 +4,20 @@
   "description": "숭실대학교 국제법무학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "1514",
+      "url": "http://lawyer.ssu.ac.kr/web/05/notice_list.do",
+      "author": null,
+      "title": "[안내]제7회 법무부 통일법제 논문 공모전",
+      "description": null,
+      "category": [],
+      "created_at": "2025-07-04T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n                    <p></p><p><img src=\"/dataFile/popup/0838d531-8177-4f27-8118-ffad2f5d4c1b.jpg\" title=\"%EC%A0%9C7%ED%9A%8C%20%ED%86%B5%EC%9D%BC%EB%B2%95%EC%A0%9C%20%EB%85%BC%EB%AC%B8%20%EA%B3%B5%EB%AA%A8%EC%A0%84_%ED%8F%AC%EC%8A%A4%ED%84%B0_1.jpg\"><br style=\"clear:both;\"><br></p><p></p>\n                ",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "1510",
       "url": "http://lawyer.ssu.ac.kr/web/05/notice_list.do",
       "author": null,
