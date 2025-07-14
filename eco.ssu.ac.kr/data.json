@@ -4,6 +4,33 @@
   "description": "숭실대학교 경제학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "85",
+      "url": "https://eco.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=85&page=1",
+      "author": "최고관리자",
+      "title": "2025학년도 2학기 국내대학 학점교류 실시 및 신청 안내",
+      "description": null,
+      "category": [
+        "학사안내"
+      ],
+      "created_at": "2025-07-14T10:32:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p style=\"color:rgb(57,57,57);font-size:11pt;line-height:23.4667px;\"><span style=\"font-family:Arial;\">2025학년도 2학기 국내대학 학점교류 신청 안내&nbsp;</span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;line-height:23.4667px;\"><span style=\"font-family:Arial;\">첨부파일에서 공지내용 확인 바랍니다.</span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;line-height:23.4667px;\"><span style=\"font-family:Arial;\"><br></span></p>",
+      "attachments": [
+        {
+          "url": "https://eco.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=85&no=0&page=1",
+          "name": "4. 홈페이지공지 2025학년도 2학기 국내대학 학점교류 신청 안내.pdf",
+          "mime_type": null
+        },
+        {
+          "url": "https://eco.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=85&no=1&page=1",
+          "name": "1. 숭실대학교 국내대학 학점교류 신청서양식.xlsx",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "84",
       "url": "https://eco.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=84&page=1",
       "author": "최고관리자",
