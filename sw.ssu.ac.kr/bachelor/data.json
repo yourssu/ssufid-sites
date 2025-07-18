@@ -4,6 +4,28 @@
   "description": "숭실대학교 소프트웨어 홈페이지의 학사 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "1554",
+      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1554&page=1",
+      "author": "최고관리자",
+      "title": "자랑스러운소프트웨어인상 공고",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2025-07-18T10:42:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-size:small;letter-spacing:-0.7px;font-family:Arial, Helvetica, sans-serif;background-color:rgb(255,255,255);\"><span style=\"vertical-align:middle;font-family:'돋움', Dotum;font-size:11pt;\">소프트웨어학부에서는 소프트웨어학부의 위상을 높인 자를 격려하고자 \"자랑스러운 소프트웨어인상\"을 제정하였습니다.</span></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-size:small;letter-spacing:-0.7px;font-family:Arial, Helvetica, sans-serif;background-color:rgb(255,255,255);\"><span style=\"vertical-align:middle;font-family:'돋움', Dotum;font-size:11pt;\">소프트웨어학부가 신설된 2015년부터 지금까지 소프트웨어학부의 위상을 높이는데 기여한 자들 중 심사를 통해 이 상을 수여하고자 합니다.</span></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-size:small;letter-spacing:-0.7px;font-family:Arial, Helvetica, sans-serif;background-color:rgb(255,255,255);\"><span style=\"vertical-align:middle;font-family:'돋움', Dotum;font-size:11pt;\">학생의 경우&nbsp;정부(지자체)나 학회에서 주관하는 전국 규모 이상의 대회에서 입상했거나 우수 논문을 발표하는 등의 경우에 대상자가 됩니다.</span></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-size:small;letter-spacing:-0.7px;font-family:Arial, Helvetica, sans-serif;background-color:rgb(255,255,255);\"><br></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-size:small;letter-spacing:-0.7px;font-family:Arial, Helvetica, sans-serif;background-color:rgb(255,255,255);\"><span style=\"vertical-align:middle;font-family:'돋움', Dotum;font-size:11pt;\">선정된 자에게는 상패 및 상금이 지급됩니다.</span>&nbsp;</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-size:small;letter-spacing:-0.7px;font-family:Arial, Helvetica, sans-serif;background-color:rgb(255,255,255);\"><span style=\"vertical-align:middle;font-family:'돋움', Dotum;font-size:11pt;\">많은 신청 또는 추천 바랍니다.</span>&nbsp;</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-size:small;letter-spacing:-0.7px;font-family:Arial, Helvetica, sans-serif;background-color:rgb(255,255,255);\"><br></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-size:small;letter-spacing:-0.7px;font-family:Arial, Helvetica, sans-serif;background-color:rgb(255,255,255);\"><span style=\"vertical-align:middle;font-family:'돋움', Dotum;font-size:11pt;\">추천기한&nbsp;: 2025년 8월 25일</span></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-size:small;letter-spacing:-0.7px;font-family:Arial, Helvetica, sans-serif;background-color:rgb(255,255,255);\"><span style=\"vertical-align:middle;font-family:'돋움', Dotum;font-size:11pt;\">신청서류 : 추천서 및 증빙 서류&nbsp;</span></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-size:small;letter-spacing:-0.7px;font-family:Arial, Helvetica, sans-serif;background-color:rgb(255,255,255);\"><br></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-size:small;letter-spacing:-0.7px;font-family:Arial, Helvetica, sans-serif;background-color:rgb(255,255,255);\"><span style=\"vertical-align:middle;font-family:'돋움', Dotum;font-size:11pt;\">참고 : 이상의 상패 및 상금은&nbsp;최인숙 여사(류성열 명예교수 부인)께서 출연한 발전기금에서 지급됩니다.</span></div>",
+      "attachments": [
+        {
+          "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1554&no=0&page=1",
+          "name": "자랑스러운소프트웨어인상 추천서 양식.hwp",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "1553",
       "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1553&page=1",
       "author": "최고관리자",
@@ -1782,22 +1804,6 @@
       "updated_at": null,
       "thumbnail": null,
       "content": "<div><br></div>\n<div>소프트웨어학부 소속 학생들의 경우 공학교육인증체계를 준수하여 수업을 들으셔야합니다.&nbsp;</div>\n<div>추후 공학인증을 포기하시더라도 3학년 2학기까지 공학교육인증 시스템 제한을 적용합니다.&nbsp;</div>\n<div><br></div>\n<div>따라서 공학교육인증 선후수체계의 선수과목인 [확률및통계]는 소프트웨어학부에서 개설한 과목을 이수하셔야합니다.&nbsp;</div>\n<div>빅데이터융합전공을 진행하는 학생들도 마찬가지입니다.&nbsp;</div>\n<div>AI융합학부에서 개설한 [확률및통계]는 소프트웨어학부에서 개설한 [확률및통계]와 동일한 과목으로 인정되지 않습니다.&nbsp;</div>\n<div>앞으로 AI융합학부 [확률및통계]는 수강신청을 진행할 수 없으며, 해당 과목을 소프트웨어학부 전공선택학점으로 인정하지 않습니다.&nbsp;</div>\n<div><br></div>\n<div>수강신청에 유의하시기 바랍니다.&nbsp;</div>\n<div><br></div>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "1223",
-      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1223&page=1",
-      "author": "최고관리자",
-      "title": "종합설계 이수 변경사항 안내(졸업관련)",
-      "description": null,
-      "category": [
-        "공지"
-      ],
-      "created_at": "2021-11-11T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<p><font face=\"바탕\" size=\"3\">종합설계 이수 변경 사항 안내 (졸업관련)&nbsp;</font></p>\n<p><font face=\"바탕\" size=\"3\"><br></font></p>\n<p><font face=\"바탕\" size=\"3\">공학교육인증을 수료하기 위한 종합설계 이수 체계가 변경되었습니다.</font></p>\n<p><font face=\"바탕\" size=\"3\">2021년 8월 졸업자까지는 아래의 기존 이수체계 였으나&nbsp;</font></p>\n<p><span style=\"font-family:'바탕';font-size:medium;\">①</span><font face=\"바탕\" size=\"3\">&nbsp;1학년 2학기 창의적 공학설계(기초설계/인증필수)</font></p>\n<p><span style=\"font-family:'바탕';font-size:medium;\">②</span><span style=\"font-family:'바탕';font-size:medium;\">&nbsp;3학년 2학기 캡스톤디자인종합프로젝트1(종합설계/인증필수)</span></p>\n<p><font face=\"바탕\" size=\"3\"><br></font></p>\n<p><font face=\"바탕\" size=\"3\">2022년 02월 졸업자부터는 아래의 종합설계 이수체계로 변경됩니다.&nbsp;</font></p>\n<p><font face=\"바탕\" size=\"3\">① 1학년 2학기 창의적공학설계(기초설계/인증필수)&nbsp;</font></p>\n<p><font face=\"바탕\" size=\"3\">② 3학년 2학기 캡스톤디자인종합프로젝트1 (종합설계/인증선택)</font></p>\n<p><font face=\"바탕\" size=\"3\">&nbsp; &nbsp;4학년 1학기 캡스톤디자인종합프로젝트2 (종합설계/인증선택) 중 택 1과목</font></p>\n<p><font face=\"바탕\" size=\"3\"><br></font></p>\n<p><font color=\"#ff0000\" face=\"바탕\" size=\"3\"><b>즉 종합설계이수는 &lt;창의적공학설계&gt;필수 수강 후&nbsp;</b></font></p>\n<p><font face=\"바탕\" size=\"3\"><b><font color=\"#ff0000\">&lt;캡스톤디자인종합프로젝트1&gt; 또는&lt;캡스톤디자인종합프로젝트2&gt;중 1과목만 수강하여도 완성됩니다.</font></b>&nbsp;</font></p>\n<p><br></p>\n<p><font face=\"바탕\" size=\"3\"><b>2022년 03월부터 졸업사정에 자동으로 반영되며, 2022년 02월 졸업자의 경우 졸업사정에 반영되지 않았을 경우 졸업신청서 제출 때 해당 내용을 알려주시면 졸업사정에 바로 반영하도록 하겠습니다.&nbsp;</b></font></p>\n<p><font face=\"바탕\" size=\"3\"><br></font></p>\n<p><font face=\"바탕\" size=\"3\">감사합니다.&nbsp;</font></p>\n<div><br></div>\n<p></p>",
       "attachments": [],
       "metadata": null
     }
