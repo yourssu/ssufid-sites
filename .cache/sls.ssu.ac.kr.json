@@ -261,9 +261,11 @@
     "author": null,
     "title": "[교과]학과(부)별 수강 추천 교과목",
     "description": null,
-    "category": [],
+    "category": [
+      "공지"
+    ],
     "created_at": "2025-06-10T00:00:00+09:00",
-    "updated_at": "2025-07-11T02:34:22.302720921Z",
+    "updated_at": "2025-07-21T02:42:16.390736646Z",
     "thumbnail": null,
     "content": "\n\t\t\t\t\t\t<p>각 학기 개설되는 수강 추천 교과목을 안내합니다. 수강신청에 참고하시기 바라며 교과목 수강 관련 문의는 개설 학과(부)에 문의하시기 바랍니다.</p>\n<p>첨부파일 및 아래 링크에서 확인하실 수 있습니다.</p>\n<p><span style=\"color: #0000ff\"><strong><a href=\"https://funny-smelt-157.notion.site/21711bd17bd380f29c4ec436db5d3dfc?pvs=74\" rel=\"noopener\" style=\"color: #0000ff\" target=\"_blank\">🔗(링크)학과(부)별 이수 추천 교과목 안내</a></strong></span></p>\n\t\t\t\t\t",
     "attachments": [],
