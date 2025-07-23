@@ -37,7 +37,7 @@
 <strong>*반드시 LMS는 본인 학번으로 로그인하시기 바랍니다. 다른 학생의 LMS로 로그인하여 TOPIK 단체접수를 신청할 경우, LMS 로그인 학번과 단체접수 신청서의 본인 학번이 다르기 때문에 신청이 제한될 수 있습니다.</strong></p>
 <p>-Học sinh bắt buộc phải đăng nhập vào LMS bằng mã số sinh viên của bản thân.Nếu học sinh đăng nhập bằng LMS của sinh viên khác để đăng ký TOPIK tập thể, thì mã số sinh viên khi đăng nhập LMS và mã số sinh viên ghi trong đơn đăng ký tập thể sẽ không trùng khớp, dẫn đến không thể xác minh danh tính và việc đăng ký có thể bị hạn chế.</p>
 <p>-请务必使用自己的学号登录LMS。如果使用其他同学的LMS账号登录并申请TOPIK团体报名，由于LMS登录的学号与团体报名申请表上的本人学号不一致，将无法确认本人身份，会限制您的报名申请。</p>
-<p>-LMSアカウントの学籍番号とTOPIK申込書に記入した学籍番号が異なる場合、本人確認が出来かねますので、申し込みの受付ができない場合もございますので、LMSログインにご注意ください</p>
+<p>-LMSアカウントの学籍番号とTOPIK申込書に記入した学籍番号が異なる場合、本人確認が出来かねます。本人確認ができない場合、申し込みの受付ができない場合もございますので、LMSログインにご注意ください</p>
 <p>1) LMS 로그인:&nbsp;<a href="https://lms.ssu.ac.kr/"><u>https://lms.ssu.ac.kr/</u></a><br>
 登录LMS系统：<a href="https://lms.ssu.ac.kr/"><u>https://lms.ssu.ac.kr/</u></a><br>
 Đăng nhập LMS:&nbsp;<a href="https://lms.ssu.ac.kr/"><u>https://lms.ssu.ac.kr/</u></a></p>
@@ -66,6 +66,7 @@ Sau khi đăng nhập &gt; Chọn mục Công nhận điểm và các loại đ�
 									
 																		
 								</div>]]></content:encoded>
+      <atom:updated>2025-07-23T07:46:03.544230674Z</atom:updated>
     </item>
     <item>
       <title>2025-2학기 창업대체학점 인정제(창업기업실습, 창업동아리실습) 신청 안내</title>
