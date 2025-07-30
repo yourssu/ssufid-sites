@@ -4,6 +4,20 @@
   "description": "숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "14770",
+      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14770",
+      "author": "임*리",
+      "title": "[안내] 🎓2025년 8월 졸업예정자 도서관 이용 안내(✔️8/8 대출 마감)",
+      "description": null,
+      "category": [],
+      "created_at": "2025-07-30T13:52:04+09:00",
+      "updated_at": "2025-07-30T13:52:37+09:00",
+      "thumbnail": null,
+      "content": "<p><span style=\"font-size:20px\">2025년 8월 졸업(수료) 예정인 학부 및 대학원생의 도서관 이용&nbsp;안내드립니다.</span></p>\n\n<p><img alt=\"\" src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/955f3cf9-530a-4e41-bf30-d416633a4fc4\" style=\"height:800px; width:800px\" /><a href=\"https://oasis.ssu.ac.kr/library-services/user04\"><img alt=\"\" src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/e54601d4-cfd3-4e7f-bcce-18acccc515db\" style=\"height:800px; width:800px\" /></a></p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "14765",
       "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14765",
       "author": "김*진",
