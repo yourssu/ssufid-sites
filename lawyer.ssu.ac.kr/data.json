@@ -4,6 +4,20 @@
   "description": "숭실대학교 국제법무학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "1522",
+      "url": "http://lawyer.ssu.ac.kr/web/05/notice_list.do",
+      "author": null,
+      "title": "[모집] 하나은행 금융연수",
+      "description": null,
+      "category": [],
+      "created_at": "2025-08-04T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n                    <p></p><div>* 장소 : 하나 은행 Club 1</div><div>* 일시 : 8/22(금) 15시</div><div>* 내용 : 금융 특강, 업무 현장 견학, 미술품 도슨트 강의, 금융 상담 룸 체험</div><div>* 연수 모집 인원 : 15명 내외</div><div>* 신청 기간 : 8/4(월) ~ 8/15(금) 15:00까지</div><div>*아래 구글폼으로 신청해주세요.</div><div><a href=\"https://forms.gle/pfA9XGCjVjcYRYZYA\" target=\"_self\">https://forms.gle/pfA9XGCjVjcYRYZYA<br></a></div><p></p>\n                ",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "1520",
       "url": "http://lawyer.ssu.ac.kr/web/05/notice_list.do",
       "author": null,
