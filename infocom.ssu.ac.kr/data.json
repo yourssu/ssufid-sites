@@ -4,6 +4,20 @@
   "description": "숭실대학교 전자정보공학부 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "2249",
+      "url": "http://infocom.ssu.ac.kr/kor/notice/undergraduate.php?m=v&idx=2249&pNo=1&code=notice",
+      "author": null,
+      "title": "[전자공학전공] 2학년 기초회로실험 수요조사 실시(~8/14 16시)",
+      "description": null,
+      "category": [],
+      "created_at": "2025-08-07T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t<p><span style=\"font-size: 14pt;\">안녕하세요.</span></p><p>&nbsp;</p><p><span style=\"font-size: 14pt;\">전자공학전공 2학년 기초회로실험(김영탁교수님)수요조사를 실시하고자 합니다.</span></p><p>&nbsp;</p><p><span style=\"font-size: 14pt;\"><b>8/14 16시까지</b> 아래의 구글폼으로 신청바랍니다.</span></p><p><span style=\"font-size: 14pt;\">실제 수요인원이 10명 미만인 경우에는 분반 추가가 어렵다는 점도 양해 바랍니다.</span></p><p><a href=\"https://forms.gle/nS5J4Bq2pRSkgCDm8\" target=\"_self\"><span style=\"font-size: 14pt;\"><b>https://forms.gle/nS5J4Bq2pRSkgCDm8</b></span></a>&nbsp;</p><p><span style=\"font-size: 14pt;\">감사합니다.</span></p><p>&nbsp;</p><p>&nbsp;</p>\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "2245",
       "url": "http://infocom.ssu.ac.kr/kor/notice/undergraduate.php?m=v&idx=2245&pNo=1&code=notice",
       "author": null,
@@ -21,13 +35,13 @@
       "id": "2243",
       "url": "http://infocom.ssu.ac.kr/kor/notice/undergraduate.php?m=v&idx=2243&pNo=1&code=notice",
       "author": null,
-      "title": "[IT융합전공] 25-2학기 분반 증원 안내 (08.05.13:30)",
+      "title": "[IT융합전공] 25-2학기 분반 증원 안내 (08.07. 증원완료)",
       "description": null,
       "category": [],
       "created_at": "2025-08-05T00:00:00+09:00",
-      "updated_at": "2025-08-05T05:52:39.623436289Z",
+      "updated_at": "2025-08-07T07:47:45.407464698Z",
       "thumbnail": null,
-      "content": "\n\t\t<p><span style=\"font-size: 11pt;\">IT융합전공 2학기&nbsp;</span></p><p><span style=\"font-size: 11pt;\">과목/분반별 증원내용입니다.</span></p><p>&nbsp;</p><p><b><span style=\"color: rgb(255, 0, 0); font-size: 11pt;\">* 전체날 증원내용 반영됩니다!</span></b></p><p>&nbsp;</p><p><span style=\"font-size: 11pt;\">- 신호및시스템1분반 (신오순교수님) : 3명증원예정</span></p><p><span style=\"font-size: 11pt;\">- 신호및시스템 2분반 (김솔교수님) : 9명증원예정</span></p><p><span style=\"font-size: 11pt;\">- 회로망해석(오준택교수님)<b>1분반</b> : 10명증원예정&nbsp;</span></p><p><span style=\"font-size: 11pt;\">&nbsp; &nbsp;(2분반은 40인강의실이고 다른강의실이동이 어려워 증원불가합니다)</span></p><p><span style=\"font-size: 11pt;\">- 컴퓨터구조 (이영서교수님): 두 분반 모두 5명씩 증원예정</span></p><p><span style=\"font-size: 11pt;\">&nbsp;</span></p><p><span style=\"font-size: 11pt;\">&nbsp;</span></p><p><span style=\"font-size: 11pt;\">*IT융합전공 (주전공 다전공 모두) 학생들은</span></p><p><span style=\"font-size: 11pt;\"><b>- 물리2및실험 7,8,9,10분반&nbsp;</b></span></p><p><span style=\"font-size: 11pt;\"><b>- 기초공학수학2 5,6반</b></span></p><p><span style=\"font-size: 11pt;\"><b>- 프로그래밍및실습 5,6,7반</b></span></p><p><span style=\"font-size: 11pt;\">이 수강대상입니다.&nbsp; 수강신청할때 참고바랍니다.&nbsp;</span></p>\t",
+      "content": "\n\t\t<p><span style=\"font-size: 11pt;\">IT융합전공 2학기&nbsp;</span></p><p><span style=\"font-size: 11pt;\">과목/분반별 증원내용입니다.</span></p><p>&nbsp;</p><p><b><span style=\"color: rgb(255, 0, 0); font-size: 11pt;\">* 전체날 증원내용 반영됩니다!</span></b></p><p>&nbsp;</p><p><span style=\"font-size: 11pt;\">- 신호및시스템1분반 (신오순교수님) : 3명증원완료 (08.07.16:00)</span></p><p><span style=\"font-size: 11pt;\">- 신호및시스템 2분반 (김솔교수님) : 9명증원<span style=\"font-size: 14.6667px;\">완료 (08.07.16:00)</span></span></p><p><span style=\"font-size: 11pt;\">- 회로망해석(오준택교수님)<b>1분반</b> : 10명증원<span style=\"font-size: 14.6667px;\">완료 (08.07.16:00)</span></span></p><p><span style=\"font-size: 11pt;\">&nbsp; &nbsp;(2분반은 40인강의실이고 다른강의실이동이 어려워 증원불가합니다)</span></p><p><span style=\"font-size: 11pt;\">- 컴퓨터구조 (이영서교수님): 두 분반 모두 5명씩 증원<span style=\"font-size: 14.6667px;\">완료 (08.07.16:00)</span></span></p><p><span style=\"font-size: 11pt;\">&nbsp;</span></p><p><span style=\"font-size: 11pt;\">&nbsp;</span></p><p><span style=\"font-size: 11pt;\">*IT융합전공 (주전공 다전공 모두) 학생들은</span></p><p><span style=\"font-size: 11pt;\"><b>- 물리2및실험 7,8,9,10분반&nbsp;</b></span></p><p><span style=\"font-size: 11pt;\"><b>- 기초공학수학2 5,6반</b></span></p><p><span style=\"font-size: 11pt;\"><b>- 프로그래밍및실습 5,6,7반</b></span></p><p><span style=\"font-size: 11pt;\">이 수강대상입니다.&nbsp; 수강신청할때 참고바랍니다.&nbsp;</span></p>\t",
       "attachments": [],
       "metadata": null
     },

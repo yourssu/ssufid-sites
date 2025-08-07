@@ -4,6 +4,20 @@
   "description": "숭실대학교 컴퓨터학부 홈페이지의 학사 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "4835",
+      "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=4835&page=1",
+      "author": "최고관리자",
+      "title": "[25-2학기 수강신청 안내] 2150336201 프로그래밍2및실습(가)분반 여석증원 안내(8/8 수강신청 가능)",
+      "description": null,
+      "category": [],
+      "created_at": "2025-08-07T16:36:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">안녕하세요.</p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">학부사무실입니다.</p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\"><br></p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">25-2학기 프로그래밍2및실습(가)분반(과목번호:2150336201) 최종정원 50명으로 증원 예정입니다.</p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\"><br></p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">8/8(금) 오전 10시부터 수강신청 가능합니다.</p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\"><br></p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">-학부사무실 드림.&nbsp;</p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "4834",
       "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=4834&page=1",
       "author": "최고관리자",
@@ -1700,20 +1714,6 @@
       "updated_at": null,
       "thumbnail": null,
       "content": "<p>안녕하세요.</p>\n<p>학부사무실입니다.</p>\n<p><br></p>\n<p>24-2학기에 유용석 교수님께서 강의하시는 알고리즘_가분반(2150528501) 수업의 대상외수강제한을 해제할 예정입니다.</p>\n<p>*타 학년 수강신청 가능</p>\n<p>9월 6일(금) 오전 10시부터 수강신청 가능하니 참고 부탁드립니다.&nbsp;</p>\n<p><br></p>\n<p>감사합니다.</p>\n<p><br></p>\n<p>-학부사무실 드림.&nbsp;</p>\n<p><br></p>\n<p><br></p>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "4735",
-      "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=4735&page=3",
-      "author": "최고관리자",
-      "title": "[수강신청 안내]  정보보안(2150630801) 여석 증원 안내(9/4 수강신청 가능)",
-      "description": null,
-      "category": [],
-      "created_at": "2024-09-03T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<p>안녕하세요.</p>\n<p>학부사무실입니다.</p>\n<p><br></p>\n<p>24-2학기 정보보안(2150630801) 여석을 60석으로 조정합니다.&nbsp;</p>\n<p>9월 4일 수요일 오전 10시부터 수강신청 가능하니 참고바랍니다.</p>\n<p><br></p>\n<p>감사합니다.</p>\n<p><br></p>\n<p>-학부사무실 드림.&nbsp;</p>\n<p><br></p>",
       "attachments": [],
       "metadata": null
     }
