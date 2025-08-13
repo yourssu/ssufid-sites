@@ -4,6 +4,22 @@
   "description": "숭실대학교 영화예술전공 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "665",
+      "url": "http://ssfilm.ssu.ac.kr/notice/index",
+      "author": "student2",
+      "title": "2025-2학기 개강합동수업",
+      "description": null,
+      "category": [
+        "SSFilm 공지"
+      ],
+      "created_at": "2025-08-13T14:54:58+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div style=\"text-align: left;\" align=\"left\"><span style=\"font-size: 11pt;\">일시: 08/29(금) 13시 30분 ~17시</span></div><div><br></div><div><span style=\"font-size: 11pt;\">-장소: 전산관 다솜홀(105호)</span></div><div><br></div><div><span style=\"font-size: 11pt;\">-대상: 2025-2학기 재학생, 전공 수업 담당교수 등</span></div><div><br></div><div><span style=\"font-size: 11pt;\">&nbsp;</span></div><div><br></div><div><span style=\"font-size: 11pt;\">*2025-2학기 전공 수업 중 하나로, 출결 체크 예정</span></div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "664",
       "url": "http://ssfilm.ssu.ac.kr/notice/index",
       "author": "student2",
