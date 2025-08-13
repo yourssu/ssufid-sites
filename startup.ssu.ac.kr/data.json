@@ -4,6 +4,33 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "3680",
+      "url": "https://startup.ssu.ac.kr/board/notice/3680?boardEnName=notice",
+      "author": "admin",
+      "title": "2025년 대학 창업 아이디어 챌린지",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2025-08-13T13:48:53+09:00",
+      "updated_at": "2025-08-13T13:48:53+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/08/b51a54f4-c148-49e1-a0e9-cc460ef0fd97.jpg&quot;&gt;&lt;/figure&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2590",
+          "name": "2025년 대학창업아이디어챌린지 포스터.jpg",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2591",
+          "name": "2025 대학 창업 아이디어 챌린지 공고문.hwp",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "3679",
       "url": "https://startup.ssu.ac.kr/board/notice/3679?boardEnName=notice",
       "author": "admin",
