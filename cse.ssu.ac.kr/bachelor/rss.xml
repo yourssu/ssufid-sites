@@ -307,36 +307,54 @@
 <p>학부사무실입니다.</p>
 <p><br></p>
 <p>2024년 입학자부터 컴퓨터학부 복수필수 교과목이 변경되었습니다.</p>
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;width:416pt;" width="554"><colgroup><col style="width:25pt;" width="33"><col style="width:91pt;" width="121"><col style="width:96pt;" width="128"><col span="2" style="width:102pt;" width="136"></colgroup><tbody><tr style="height:23.25pt;"><td height="62" rowspan="2" style="border-width:0.5pt;border-style:solid;border-color:#000000;height:46.5pt;width:25pt;text-align:center;background:rgb(217,217,217);" width="33">　</td>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;width:416pt;" width="554">
+ <colgroup><col style="width:25pt;" width="33">
+ <col style="width:91pt;" width="121">
+ <col style="width:96pt;" width="128">
+ <col span="2" style="width:102pt;" width="136">
+ </colgroup><tbody><tr style="height:23.25pt;">
+  <td height="62" rowspan="2" style="border-width:0.5pt;border-style:solid;border-color:#000000;height:46.5pt;width:25pt;text-align:center;background:rgb(217,217,217);" width="33">　</td>
   <td colspan="2" style="border-left:none;width:187pt;font-weight:700;text-align:center;border-top:0.5pt solid;border-right:0.5pt solid;border-bottom:0.5pt solid;background:rgb(217,217,217);" width="249">24년
   이전 입학자 복필과목</td>
   <td colspan="2" style="border-left:none;width:204pt;font-weight:700;text-align:center;border-top:0.5pt solid;border-right:0.5pt solid;border-bottom:0.5pt solid;background:rgb(217,217,217);" width="272">24년
   입학자 이후 복필과목</td>
- </tr><tr style="height:23.25pt;"><td height="31" style="height:23.25pt;border-top:none;border-left:none;font-weight:700;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;background:rgb(217,217,217);">과목번호</td>
+ </tr>
+ <tr style="height:23.25pt;">
+  <td height="31" style="height:23.25pt;border-top:none;border-left:none;font-weight:700;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;background:rgb(217,217,217);">과목번호</td>
   <td style="border-top:none;border-left:none;font-weight:700;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;background:rgb(217,217,217);">과목명</td>
   <td style="border-top:none;border-left:none;font-weight:700;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;background:rgb(217,217,217);">과목번호</td>
   <td style="border-top:none;border-left:none;font-weight:700;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;background:rgb(217,217,217);">과목명</td>
- </tr><tr style="height:23.25pt;"><td height="31" style="height:23.25pt;border-top:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;border-left:0.5pt solid;">1</td>
+ </tr>
+ <tr style="height:23.25pt;">
+  <td height="31" style="height:23.25pt;border-top:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;border-left:0.5pt solid;">1</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">21501899</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">자료구조</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">21505285</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">알고리즘</td>
- </tr><tr style="height:23.25pt;"><td height="31" style="height:23.25pt;border-top:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;border-left:0.5pt solid;">2</td>
+ </tr>
+ <tr style="height:23.25pt;">
+  <td height="31" style="height:23.25pt;border-top:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;border-left:0.5pt solid;">2</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">21502133</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">프로그래밍언어</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">21505162</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">운영체제</td>
- </tr><tr style="height:23.25pt;"><td height="31" style="height:23.25pt;border-top:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;border-left:0.5pt solid;">3</td>
+ </tr>
+ <tr style="height:23.25pt;">
+  <td height="31" style="height:23.25pt;border-top:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;border-left:0.5pt solid;">3</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">21502464</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">컴퓨터구조</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">　</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">　</td>
- </tr><tr style="height:23.25pt;"><td height="31" style="height:23.25pt;border-top:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;border-left:0.5pt solid;">4</td>
+ </tr>
+ <tr style="height:23.25pt;">
+  <td height="31" style="height:23.25pt;border-top:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;border-left:0.5pt solid;">4</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">21505285</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">알고리즘</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">　</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">　</td>
- </tr><tr style="height:23.25pt;"><td height="31" style="height:23.25pt;border-top:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;border-left:0.5pt solid;">5</td>
+ </tr>
+ <tr style="height:23.25pt;">
+  <td height="31" style="height:23.25pt;border-top:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;border-left:0.5pt solid;">5</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">21505162</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">운영체제</td>
   <td style="border-top:none;border-left:none;text-align:center;border-right:0.5pt solid;border-bottom:0.5pt solid;">　</td>
@@ -353,6 +371,7 @@
 <p>-학부사무실 드림.&nbsp;</p>
 <p><br></p>
 <p><br></p>]]></content:encoded>
+      <atom:updated>2025-08-16T19:35:00.332802209Z</atom:updated>
     </item>
     <item>
       <title>[스파르탄SW교육원] 스파르탄 머슬캠프 with AI</title>
