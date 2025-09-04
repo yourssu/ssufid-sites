@@ -4,6 +4,70 @@
   "description": "숭실대학교 소프트웨어 홈페이지의 학사 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "1567",
+      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1567&page=1",
+      "author": "최고관리자",
+      "title": "[수강신청 안내] 25-2학기 데이터사이언스(21500279) 증원 안내",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2025-09-04T15:49:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">안녕하세요.</p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">학부사무실입니다.</p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\"><br></p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">25-2학기에 김창훈 교수님께서 강의하실 데이터사이언스(2150027901) 최종 정원 60명으로 조정되었습니다.&nbsp;</p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\"><span style=\"letter-spacing:-0.7px;\">조정된 정원은 9월 5일(금) 오전 10시부터 수강신청이 가능하오니, 수강계획에 참고하시기 바랍니다.</span></p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\"><br></p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">감사합니다.</p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\"><br></p>\n<p style=\"color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">-학부사무실 드림.&nbsp;</p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
+      "id": "1566",
+      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1566&page=1",
+      "author": "최고관리자",
+      "title": "소프트웨어학부 개강식 취소 안내",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2025-08-27T14:06:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p>안녕하세요 소프트웨어학부 사무실입니다.&nbsp;</p>\n<p><br></p>\n<p>2025.09.04(목) 오전 11시에 예정되어 있던 개강식은 취소되었습니다.&nbsp;</p>\n<p><br></p>\n<p>AI대학 관련하여 재학생들의 궁금증이 가장 많으실 것으로 예상되어 개강식을 통해 안내를 드리려고 했지만 아직 논의가 진행 중인 건이 많아 정확하고 확실한 정보를 전달드리기 어렵다고 판단되었습니다.&nbsp;</p>\n<p>추후 다른 자리를 마련하여 재학생 여러분을 찾아뵙겠습니다.</p>\n<p>재학생 여러분들의 많은 양해를 부탁드립니다.&nbsp;</p>\n<p><br></p>\n<p>* 최고학점상, 소프트웨어공모전 수상, 자랑스러운소프트웨어인상 수상과 관련하여서는 추후 해당 학생들에게 별도 안내 드리도록 하겠습니다.&nbsp;</p>\n<p><br></p>\n<p>감사합니다.</p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
+      "id": "1564",
+      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1564&page=1",
+      "author": "최고관리자",
+      "title": "2025학년도 2학기 교내장학금 2차 신청 안내",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2025-08-22T14:41:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><strong><span style=\"clear:both;font-size:11pt;\">1. 교내장학금 자격요건</span></strong></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><span style=\"clear:both;font-size:11pt;\"><b>&nbsp;&nbsp;</b>가. 2025학년도 2학기 국가장학금 신청 및 서류제출을 완료하고 소득분위가 조회된 자</span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><span style=\"clear:both;font-size:11pt;\">&nbsp; &nbsp; &nbsp;(국가장학금 지급 대상 분위의 경우 심사가 완료된 자)</span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><span style=\"clear:both;font-size:11pt;\">&nbsp; &nbsp; &nbsp;※ 국가장학금 1차 신청기간: 2025.05.23(금) 9:00 ~ 06.23(월) 18:00[마감]</span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><span style=\"clear:both;font-size:11pt;\">&nbsp; &nbsp; &nbsp; &nbsp;<b><span style=\"clear:both;color:rgb(0,0,0);\"><u>국가장학금 2차 신청기간: 2025.8.13(수) 9:00 ~ 9.10(수) 18:00</u></span></b></span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><span style=\"clear:both;font-size:11pt;\">&nbsp; &nbsp;나. 2025학년도 2학기 재학 및 복학(예정)자로 등록금 납부 예정인 자</span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><span style=\"clear:both;font-size:11pt;\">&nbsp; &nbsp; &nbsp;1) 2025학년도 2학기 前 등록휴학 후 복학 시 장학생 선발대상에서 제외</span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><span style=\"clear:both;font-size:11pt;\">&nbsp; &nbsp; &nbsp;2) 미등록, 입학취소, 복학취소, 휴학 등 학적변동 시 모든 장학금 취소</span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><span style=\"clear:both;font-size:11pt;\">&nbsp; &nbsp;다. 직전학기 15학점 이상 이수한 자(최종 직전학기는 12학점)</span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><span style=\"clear:both;font-size:11pt;\">&nbsp; &nbsp;라. 정규등록학기가 8학기 이내인 자(건축학부 건축학전공은 10학기 이내)</span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\">&nbsp;</p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><strong><span style=\"clear:both;font-size:11pt;\">2. 학생 신청 절차</span></strong></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\"><span style=\"clear:both;font-size:11pt;\">&nbsp; &nbsp;</span><span style=\"clear:both;font-size:11pt;\">가. 온라인 신청 및 서류제출기간:</span><span style=\"clear:both;font-size:11pt;\">&nbsp;</span><b style=\"font-size:11pt;\"><u><span style=\"clear:both;color:rgb(0,0,255);\">2025.9.1(월) 9:00 ~ 2025.9.26(금) 17:30</span></u></b></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\">&nbsp; &nbsp;나. 신청방법: u-SAINT포털 → 등록/장학&nbsp;<span style=\"clear:both;font-size:14px;\">→</span>&nbsp;장학&nbsp;<span style=\"clear:both;font-size:14px;\">→</span>&nbsp;장학금 신청</p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\">&nbsp; &nbsp;다. 서류제출: 온라인 신청기간 내 방문 및 등기우편제출 가능(세부내용 붙임 파일 참<span style=\"clear:both;font-size:11pt;\">조)</span></p>\n<p style=\"color:rgb(57,57,57);font-size:11pt;font-family:'한컴바탕';line-height:23px;\">&nbsp; &nbsp;※ 단, 전문자격시험합격자장학금의 경우 등기우편 불가</p>",
+      "attachments": [
+        {
+          "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1564&no=0&page=1",
+          "name": "2025학년도 2학기 교내장학금 2차 신청공고.pdf",
+          "mime_type": null
+        },
+        {
+          "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1564&no=1&page=1",
+          "name": "2025-2학기_교내장학금 선발자격 및 제출서류 안내 1.pdf",
+          "mime_type": null
+        },
+        {
+          "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1564&no=2&page=1",
+          "name": "교내장학금 신청 매뉴얼 7.pdf",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "1562",
       "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1562&page=1",
       "author": "최고관리자",
@@ -1777,59 +1841,6 @@
         {
           "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1469&no=1&page=3",
           "name": "홈페이지24년 2학기 국가장학금 2차 신청매뉴얼.pdf",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "1465",
-      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1465&page=4",
-      "author": "최고관리자",
-      "title": "창업지원단 교양 개설 교과목 홍보",
-      "description": null,
-      "category": [],
-      "created_at": "2024-08-08T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<p>창업지원단 교양 개설 교과목 홍보&nbsp;<br></p>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "1464",
-      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1464&page=4",
-      "author": "최고관리자",
-      "title": "2학년  수강신청 여석 관련 공지",
-      "description": null,
-      "category": [],
-      "created_at": "2024-08-06T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<p><span style=\"font-size:12pt;\">안녕하세요.&nbsp;</span></p>\n<p><span style=\"font-size:12pt;\">소프트웨어학부 사무실입니다.</span></p>\n<p><br></p>\n<p><span style=\"font-size:12pt;\">2학년 전공 수강신청과 관련하여 안내드립니다.</span></p>\n<p><br></p>\n<p><span style=\"font-size:12pt;\">데이터통신과네트워크 및 생명정보과학은 정규 수강신청 기간 내 여석 증원 예정이 없음을 안내드립니다.&nbsp;</span></p>\n<p><br></p>\n<p><span style=\"font-size:12pt;\">- 데이터통신과 네트워크의 경우 본 분반에 들어가지 못한 2학년 학생들은 공통반 수강신청을 부탁드립니다.</span></p>\n<p><span style=\"font-size:12pt;\">- 생명정보과학의 경우 강의 교원 부족으로 올해에는 공통반을 개설하지 못하였으나 내년에는 공통반을 개설할 예정이니 양해 부탁드립니다.&nbsp;</span></p>\n<p><br></p>\n<p><span style=\"font-size:12pt;\">이외의 추가 정원 증원 여부는 전체수강신청일 종료 후 학부홈페이지를 통해 공지드리겠습니다.&nbsp;</span></p>\n<p><br></p>\n<p><span style=\"font-size:12pt;\">감사합니다.</span></p>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "1463",
-      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1463&page=4",
-      "author": "최고관리자",
-      "title": "[한국장학재단] 2024년 대한민국 인재상 홍보",
-      "description": null,
-      "category": [],
-      "created_at": "2024-08-05T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<p><span style=\"white-space:normal;\"><span style=\"white-space:pre;\">\t</span>[한국장학재단] 2024년 대한민국 인재상 홍보&nbsp;</span>&nbsp;</p>\n<p style=\"color:rgb(57,57,57);font-family:'굴림체';font-size:12pt;margin-top:6.67px;margin-right:6.67px;line-height:7.62mm;\">가.&nbsp;<b>선발 및 접수</b></p>\n<p style=\"color:rgb(57,57,57);font-family:'굴림체';font-size:12pt;margin-top:4px;margin-right:6.67px;line-height:7.62mm;\">&nbsp;&nbsp;๐ (<b>지원자격</b>)&nbsp;<b>대한민국 국적</b>을 가진&nbsp;<b>만 15세 이상 만 34세 이하인 청년</b></p>\n<p style=\"color:rgb(57,57,57);font-family:'굴림체';font-size:12pt;margin-top:4px;margin-right:6.67px;margin-left:32.43px;line-height:7.62mm;text-indent:-32.43px;\">&nbsp;&nbsp;๐ (<b>선발인원</b>)&nbsp;<b>총 100명</b>(고등학생 50명, 대학생·청년일반 50명)</p>\n<p style=\"color:rgb(57,57,57);font-size:10pt;font-family:'한양중고딕';margin-top:4px;margin-right:6.67px;line-height:6.35mm;\">&nbsp;&nbsp;&nbsp;&nbsp;※ 분과별 선발인원은 중앙심사위원회 심의를 통해 최대 10명까지 조정 가능(분야별 40~60명) &nbsp;&nbsp;</p>\n<p style=\"color:rgb(57,57,57);font-family:'굴림체';font-size:12pt;margin-top:4px;margin-right:6.67px;margin-left:123.28px;line-height:7.62mm;text-indent:-123.28px;\">&nbsp;&nbsp;๐ (<b>선발대상</b>)&nbsp;<b>지혜와 열정으로 탁월한 성취</b>를 이루며,&nbsp;<b>창의적 사고로 새로운 가치를 창출</b>하고,&nbsp;<b>배려와 사회 발전에 기여</b>한 우수 인재</p>\n<p style=\"color:rgb(57,57,57);font-family:'굴림체';font-size:12pt;margin-top:4px;margin-right:6.67px;margin-left:123.28px;line-height:7.62mm;text-indent:-123.28px;\">&nbsp;&nbsp;๐ (<b>시상</b>) 국무총리 및 부총리 겸 교육부장관상, 상금 수여</p>\n<p style=\"color:rgb(57,57,57);font-family:'굴림체';font-size:12pt;margin-top:4px;margin-right:6.67px;line-height:7.62mm;\">&nbsp;&nbsp;๐ (<b>접수기간</b>)&nbsp;<b>2024년 7월 31일(수)</b>&nbsp;∼&nbsp;<b>9월 1일(일) 24시</b><b>(24:00 이후 지원 불가)</b></p>\n<p style=\"color:rgb(57,57,57);font-family:'굴림체';font-size:12pt;margin-top:4px;margin-right:6.67px;line-height:7.62mm;\">&nbsp;&nbsp;๐ (<b>접수방법</b>)</p>\n<p style=\"color:rgb(57,57,57);font-family:'굴림체';font-size:12pt;margin-top:4px;margin-right:6.67px;line-height:7.62mm;\">&nbsp;&nbsp;&nbsp;-&nbsp;<b>대한민국 인재상 접수포털</b><b>(</b><a href=\"http://injaeaward.saramin.co.kr/\" rel=\"nofollow\" style=\"color:rgb(57,57,57);\">https://injaeaward.saramin.co.kr</a><b>)</b>로 지원서 접수 및 서류 제출</p>\n<p style=\"color:rgb(57,57,57);font-family:'굴림체';font-size:12pt;margin-top:4px;margin-right:6.67px;line-height:7.62mm;\">&nbsp;&nbsp;&nbsp;- 단, 제출서류 중 추천서는 유의사항을 참조하여 분과별 접수처로 우편 제출</p>\n<p style=\"color:rgb(57,57,57);font-size:10pt;font-family:'한양중고딕';margin-top:4px;margin-right:6.67px;line-height:6.35mm;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※&nbsp;<b>2024.8.30.(금) 18:00 우체국 소인분(도장)까지 인정</b>하며 접수처에 직접 제출도 가능</p>\n<p style=\"color:rgb(57,57,57);font-size:10pt;font-family:'한양중고딕';margin-top:5.33px;margin-right:6.67px;line-height:6.35mm;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※ 서류 작성‧제출요령: 선발공고문 및 접수포털 지원서 작성 시 안내된 작성요령 참고</p>",
-      "attachments": [
-        {
-          "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1463&no=0&page=4",
-          "name": "붙임1. 2024년 대한민국 인재상 선발 공고문.hwp",
-          "mime_type": null
-        },
-        {
-          "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1463&no=1&page=4",
-          "name": "붙임2. 2024년 대한민국 인재상 선발 홍보물.zip",
           "mime_type": null
         }
       ],
