@@ -4,6 +4,22 @@
   "description": "숭실대학교 영화예술전공 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "670",
+      "url": "http://ssfilm.ssu.ac.kr/notice/index",
+      "author": "student2",
+      "title": "2025학년도 영화예술전공 총 MT 안내",
+      "description": null,
+      "category": [
+        "SSFilm 공지"
+      ],
+      "created_at": "2025-09-09T16:31:25+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div><span style=\"font-size: 11pt;\">2025학년도 영화예술전공 총 MT 안내&nbsp;</span></div><div><br></div><div><span style=\"font-size: 11pt;\">일시: 2025년 9월 12일(금)–13일(토)</span></div><div><br></div><div><span style=\"font-size: 11pt;\">집합: 9월 12일(금) 15:00, 대성리역</span></div><div><br></div><div><span style=\"font-size: 11pt;\">숙소 이동: 학생회 인솔에 따라 숙소까지 픽업차로 이동</span></div><div><br></div><div><span style=\"font-size: 11pt;\">유의사항: 개인 차량 운용 금지</span></div><div><span style=\"font-size: 11pt;\">*팬션 내 주차 공간이 협소합니다. 더줄어 음주 운전 관련 사고 예방을 위해 자차 이용은 불가합니다. 양해해주셔서 감사합니다.</span></div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "668",
       "url": "http://ssfilm.ssu.ac.kr/notice/index",
       "author": "student2",
