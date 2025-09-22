@@ -4,6 +4,20 @@
   "description": "숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "14973",
+      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14973",
+      "author": "임*리",
+      "title": "[교육] 화학·이공계열 SciFinder DB 교육 안내(🧪10/2 목 10:00)",
+      "description": null,
+      "category": [],
+      "created_at": "2025-09-22T15:32:11+09:00",
+      "updated_at": "2025-09-22T15:43:17+09:00",
+      "thumbnail": null,
+      "content": "<p><span style=\"font-size:16px\">안녕하세요. 중앙도서관입니다.</span></p>\n\n<p><span style=\"font-size:16px\">화학&middot;이공계열 SciFinder DB 교육 안내드립니다. ※본 교육은 숭실대&nbsp;학생만을 대상으로 진행됩니다.&nbsp;</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\">🎯&nbsp;<strong><span style=\"background-color:#ffffcc\">추천하는 대상은?&nbsp;</span></strong></span></p>\n\n<ul>\n\t<li data-end=\"197\" data-start=\"158\"><span style=\"font-size:16px\">자연과학 및&nbsp;공학 계열 학부생/대학원생&nbsp;</span></li>\n\t<li data-end=\"197\" data-start=\"158\"><span style=\"font-size:16px\">연구주제를 정하거나, 논문을 찾아야 하는 학생</span></li>\n\t<li data-end=\"197\" data-start=\"158\"><span style=\"font-size:16px\">합성 방법, 반응식 확인, 고분자 검색과 활용팁이 궁금한&nbsp;학생</span></li>\n\t<li data-end=\"197\" data-start=\"158\"><span style=\"font-size:16px\">실험 제형&middot;제제 조성&middot;분석법 등 실험 정보가 필요한 학생</span></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\">📌<strong><span style=\"background-color:#ffffcc\">SciFinder Discovery Platform 사용자 교육 신청 안내&nbsp;</span></strong></span></p>\n\n<ul>\n\t<li><span style=\"font-size:16px\">&nbsp;대상: 숭실대 학부생 및 대학원생&nbsp;</span></li>\n\t<li><span style=\"font-size:16px\">&nbsp;일시: 2025. <strong><span style=\"background-color:#ecf0f1\">10. 2. (목) 10:00</span>&nbsp;</strong>~ 11:30</span></li>\n\t<li><span style=\"font-size:16px\">&nbsp;방법: 온라인(zoom)&nbsp;<strong>🔗&nbsp;참여방법은? 직접 교육 등록 후 접속&nbsp; &gt; </strong></span><span style=\"font-size:18px\"><strong><a href=\"http:// https://american-chemical-society.zoom.com/meeting/register/-UFI1exNReKbWJf4mfFdcQ\"><span style=\"color:#ffffff\"><span style=\"background-color:#27ae60\">등록하기 클릭</span></span></a></strong></span></li>\n\t<li><span style=\"font-size:16px\">&nbsp;내용</span></li>\n</ul>\n\n<ol>\n\t<li><span style=\"font-size:16px\">&nbsp;CAS SciFinder</span>\n\n\t<ul>\n\t\t<li><span style=\"font-size:16px\">연구주제에 관련된 문헌 빠르게 검토하기</span></li>\n\t\t<li><span style=\"font-size:16px\">합성방법 및 반응식 확인하기</span></li>\n\t\t<li><span style=\"font-size:16px\">고분자 검색 팁</span></li>\n\t</ul>\n\t</li>\n\t<li><span style=\"font-size:16px\">&nbsp;CAS Formulus: 제형/제제의 조성, 실험값 등의 정보 비교하기</span></li>\n\t<li><span style=\"font-size:16px\">&nbsp;CAS Analytical Methods: 실험 후 다양한 분석방법 탐색하기</span></li>\n</ol>\n\n<p><span style=\"font-size:16px\">&nbsp;</span><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/q8hofa9oE3Q?si=gaPpVLdS9asFK9mD\" title=\"YouTube video player\" width=\"560\"></iframe></p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "14967",
       "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14967",
       "author": "임*리",

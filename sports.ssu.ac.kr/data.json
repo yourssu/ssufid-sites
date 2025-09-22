@@ -4,6 +4,34 @@
   "description": "숭실대학교 스포츠학부 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "3970",
+      "url": "http://sports.ssu.ac.kr/%ec%9e%90%eb%a3%8c%ec%8b%a4/%ec%8b%a0%ec%95%99%ec%9e%90%eb%a3%8c%ec%8b%a4/?term_id&slug=3970",
+      "author": null,
+      "title": "2025학년도 2학기 다전공(신청/변경/포기) 신청 기간 안내",
+      "description": null,
+      "category": [],
+      "created_at": "2025-09-22T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p><img alt=\"\" class=\"aligncenter size-full wp-image-3969\" height=\"864\" sizes=\"(max-width: 596px) 100vw, 596px\" src=\"http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/1.png\" srcset=\"http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/1.png 596w, http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/1-207x300.png 207w\" width=\"596\"></p>\n<p><img alt=\"\" class=\"aligncenter size-full wp-image-3968\" height=\"863\" sizes=\"(max-width: 596px) 100vw, 596px\" src=\"http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/2.png\" srcset=\"http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/2.png 596w, http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/2-207x300.png 207w\" width=\"596\"></p>\n<p><img alt=\"\" class=\"aligncenter size-full wp-image-3967\" height=\"865\" sizes=\"(max-width: 597px) 100vw, 597px\" src=\"http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/3.png\" srcset=\"http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/3.png 597w, http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/3-207x300.png 207w\" width=\"597\"></p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
+      "id": "3972",
+      "url": "http://sports.ssu.ac.kr/%ec%9e%90%eb%a3%8c%ec%8b%a4/%ec%8b%a0%ec%95%99%ec%9e%90%eb%a3%8c%ec%8b%a4/?term_id&slug=3972",
+      "author": null,
+      "title": "2025학년도 2학기 조기졸업 신청 안내",
+      "description": null,
+      "category": [],
+      "created_at": "2025-09-22T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p><img alt=\"\" class=\"aligncenter size-full wp-image-3973\" height=\"858\" sizes=\"(max-width: 596px) 100vw, 596px\" src=\"http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/4.png\" srcset=\"http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/4.png 596w, http://sports.ssu.ac.kr/wp-content/uploads/sites/39/2025/09/4-208x300.png 208w\" width=\"596\"></p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "3952",
       "url": "http://sports.ssu.ac.kr/%ec%9e%90%eb%a3%8c%ec%8b%a4/%ec%8b%a0%ec%95%99%ec%9e%90%eb%a3%8c%ec%8b%a4/?term_id&slug=3952",
       "author": null,
