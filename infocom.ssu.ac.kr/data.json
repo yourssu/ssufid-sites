@@ -4,6 +4,20 @@
   "description": "숭실대학교 전자정보공학부 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "2349",
+      "url": "http://infocom.ssu.ac.kr/kor/notice/undergraduate.php?m=v&idx=2349&pNo=1&code=notice",
+      "author": null,
+      "title": "9월 29일 월요일 2교시 시간대 319호 사용불가안내",
+      "description": null,
+      "category": [],
+      "created_at": "2025-09-22T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t<p>학부사무실입니다.</p><p>&nbsp;</p><p>9월 29일 월요일</p><p>&nbsp;</p><p>오전 09시 ~ 10:15분까지 이찬호교수님 수업으로 인해</p><p>&nbsp;</p><p>319호 pc실 사용이 불가합을 안내합니다.</p><p>&nbsp;</p>\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "2348",
       "url": "http://infocom.ssu.ac.kr/kor/notice/undergraduate.php?m=v&idx=2348&pNo=1&code=notice",
       "author": null,

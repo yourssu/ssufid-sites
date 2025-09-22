@@ -4,6 +4,28 @@
   "description": "숭실대학교 신소재공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "412",
+      "url": "https://materials.ssu.ac.kr/bbs/board.php?tbl=bbs51&mode=VIEW&num=412&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1",
+      "author": null,
+      "title": "2025학년도 2학기 조기졸업 신청 안내",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2025-09-22T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t<p><img src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B3%B5%EC%A7%80-2025-2%ED%95%99%EA%B8%B0-%EC%A1%B0%EA%B8%B0%EC%A1%B8%EC%97%85-%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4001-1.jpg\"></p>\t\t\t\t\t\t\t<div class=\"file_box\">\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<em><img alt=\"\" src=\"/images/sub/sub0501_icon01.png\"></em>\n\t\t\t\t\t\t\t<a href=\"/bbs/download2.php?tbl=bbs51&amp;no=435\">홈페이지-공지-2025-2학기-조기졸업-신청-안내.pdf</a>\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t\t\t\t",
+      "attachments": [
+        {
+          "url": "https://materials.ssu.ac.kr/bbs/download2.php?tbl=bbs51&no=435",
+          "name": "홈페이지-공지-2025-2학기-조기졸업-신청-안내.pdf",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "411",
       "url": "https://materials.ssu.ac.kr/bbs/board.php?tbl=bbs51&mode=VIEW&num=411&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1",
       "author": null,
