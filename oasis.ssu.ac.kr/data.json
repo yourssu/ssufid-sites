@@ -4,6 +4,20 @@
   "description": "숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "14967",
+      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14967",
+      "author": "임*리",
+      "title": "[교육] 신·편입생을 위한 중앙도서관 OT 📺[도서관 리부트] 다시보기",
+      "description": null,
+      "category": [],
+      "created_at": "2025-09-22T10:02:24+09:00",
+      "updated_at": "2025-09-22T10:15:54+09:00",
+      "thumbnail": null,
+      "content": "<p><span style=\"font-size:18px\">2025-2학기 신&middot;편입생을 위한 중앙도서관 오리엔테이션,&nbsp;</span></p>\n\n<p><span style=\"font-size:18px\"><strong>『도서관 리부트(Reboot): 기초부터 심화까지, 도서관 활용법』 녹화 영상 다시보기</strong>입니다.</span></p>\n\n<p><span style=\"font-size:18px\">도서관 리부트는 단순한 재시작이 아니라, 새로운 시작을 의미합니다. 도서관과 함께하는 캠퍼스 라이프, 성장과 도전을 응원합니다.</span></p>\n\n<p><span style=\"font-size:18px\">&nbsp;</span><br />\n<span style=\"font-size:20px\"><strong>⚡ [기초] <span style=\"background-color:#ffff99\">나의 캠퍼스 라이프, 도서관으로 리부트</span>&nbsp;(<a href=\"https://www.youtube.com/watch?v=ekRtA9igK50\">링크 클릭</a>)</strong></span></p>\n\n<p><br />\n<span style=\"font-size:18px\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/ekRtA9igK50?si=W8y52wuySiaL1JSt\" title=\"YouTube video player\" width=\"560\"></iframe></span></p>\n\n<p>&nbsp;</p>\n\n<p><br />\n<span style=\"font-size:20px\"><strong>⚡ [심화] <span style=\"background-color:#ff9999\">검색력, 정리력 UP! 도서관 DB로 레벨업</span><span style=\"color:#ffffff\"> </span>(<a href=\"https://youtu.be/hdHqM00lSyo?si=W2heaxom6L2m4NBO&amp;t=1\">링크 클릭</a>)</strong></span></p>\n\n<p><br />\n<span style=\"font-size:18px\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/hdHqM00lSyo?si=na01qAO-iUsRV1qZ\" title=\"YouTube video player\" width=\"560\"></iframe></span></p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "14956",
       "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14956",
       "author": "김*진",
