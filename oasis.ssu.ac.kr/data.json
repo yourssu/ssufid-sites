@@ -4,6 +4,20 @@
   "description": "숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "15035",
+      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/15035",
+      "author": "김*진",
+      "title": "[안내] 2025-2학기 중간고사 기간 도서관 운영 안내",
+      "description": null,
+      "category": [],
+      "created_at": "2025-10-02T12:49:14+09:00",
+      "updated_at": "2025-10-02T12:49:14+09:00",
+      "thumbnail": null,
+      "content": "<p><img src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/c12d0aef-fad1-4641-9b68-b77b2f5e3ece\" /></p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "15032",
       "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/15032",
       "author": "김*진",
