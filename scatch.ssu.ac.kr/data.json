@@ -4,6 +4,22 @@
   "description": "숭실대학교 공식 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "u-saint-시스템-작업으로-인한-서비스-일시-중단-안내",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=u-saint-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9E%91%EC%97%85%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9D%BC%EC%8B%9C-%EC%A4%91%EB%8B%A8-%EC%95%88%EB%82%B4&keyword",
+      "author": "정보화팀",
+      "title": "",
+      "description": null,
+      "category": [
+        "학사"
+      ],
+      "created_at": "2025-10-14T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><span style=\"font-family: arial, helvetica, sans-serif\">1. 관련 : 클라우드운영팀</span><span style=\"font-family: arial, helvetica, sans-serif\">-616(2025.10.13) 「SAP EP/XI 신규 보안취약점 조치 작업 계획」&nbsp;</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">2. u-SAINT 시스템 작업으로 인하여 서비스가 일시 중단됩니다.&nbsp;</span></p>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width: 560px;height: 102px\">\n<tbody>\n<tr class=\"xfeDeleteRow\" style=\"height: 22px\">\n<td class=\"xfe_zb\" style=\"width: 99.1719px;text-align: center;height: 38px\"><span style=\"font-family: arial, helvetica, sans-serif\">작업명</span></td>\n<td class=\"xfe_zb\" style=\"width: 454.828px;text-align: center;height: 38px\"><span style=\"font-family: arial, helvetica, sans-serif\">보안 취약점 패치 Support Package 반영</span></td>\n</tr>\n<tr class=\"xfeDeleteRow\" style=\"height: 24px\">\n<td class=\"xfe_zb\" style=\"width: 99.1719px;text-align: center;height: 34px\"><span style=\"font-family: arial, helvetica, sans-serif\">대상 시스템</span></td>\n<td class=\"xfe_zb\" style=\"width: 454.828px;text-align: center;height: 34px\"><span style=\"font-family: arial, helvetica, sans-serif\">u-SAINT 서버</span></td>\n</tr>\n<tr class=\"xfeDeleteRow\" style=\"height: 56px\">\n<td class=\"xfe_zb\" style=\"width: 99.1719px;text-align: center;height: 10px\"><span style=\"font-family: arial, helvetica, sans-serif\">작업 시간</span></td>\n<td class=\"xfe_zb\" style=\"width: 454.828px;text-align: center;height: 10px\"><span style=\"font-family: arial, helvetica, sans-serif\"><strong>10.16.(목) 18:00 ~ 24:00</strong></span></td>\n</tr>\n<tr style=\"height: 56px\">\n<td class=\"xfe_zb\" style=\"width: 99.1719px;text-align: center;height: 10px\"><span style=\"font-family: arial, helvetica, sans-serif\">작업자</span></td>\n<td class=\"xfe_zb\" style=\"width: 454.828px;text-align: center;height: 10px\"><span style=\"font-family: arial, helvetica, sans-serif\">클라우드운영팀 이수민(iamsumin@ssu.ac.kr)</span></td>\n</tr>\n<tr style=\"height: 216px\">\n<td class=\"xfe_zb\" style=\"width: 99.1719px;text-align: center;height: 10px\">\n<p class=\"0\"><span style=\"font-family: arial, helvetica, sans-serif\">영 향 도&nbsp;</span></p>\n</td>\n<td class=\"xfe_zb\" style=\"width: 454.828px;height: 10px\">\n<p style=\"text-align: center\"><span style=\"font-family: arial, helvetica, sans-serif\"><strong><u>작업시간 중 u-SAINT (saint.ssu.ac.kr) 접속 불가</u></strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\"><strong>&nbsp; ※ 그 외 서비스는 정상 접속 및 사용 가능</strong></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\"><strong>&nbsp;</strong> &nbsp;&nbsp;&nbsp;&nbsp; (예) LMS(class.ssu.ac.kr), 증명서(certi.ssu.ac.kr),</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;중앙도서관(oasis.ssu.ac.kr) 등</span></p></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">3.&nbsp;각 대학 및 유관기관이 있는 부서에서는 학과,&nbsp;연구소&nbsp;등 유관기관에 시스템 작업 및</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">&nbsp; &nbsp;서비스&nbsp;중단을 안내하여 주시기 바랍니다.&nbsp;</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">4.&nbsp;서비스 중단으로 인해 다소 불편하시더라도 양해하여 주시기 바랍니다.&nbsp;&nbsp;끝.</span></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "2026학년도-1학기-복학-휴학-유급-신청-안내",
       "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-1%ED%95%99%EA%B8%B0-%EB%B3%B5%ED%95%99-%ED%9C%B4%ED%95%99-%EC%9C%A0%EA%B8%89-%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4&keyword",
       "author": "학사팀",
@@ -2181,28 +2197,6 @@
       "thumbnail": "https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/학습역량-진단도구-연구과제-홍보물-001-1024x1024.jpg",
       "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p>학습역량 진단도구가 새롭게 변신하기 위해 준비중입니다.</p>\n<p>새로운 학습역량 진단도구 개발 연구 &lt;예비 조사&gt;에 참여할 학생들을 모집합니다.</p>\n<p>&nbsp;</p>\n<p>진단에 참여만 해도, 커피쿠폰이 증정되오니</p>\n<p>학생 여러분들의 많은 참여 바랍니다.</p>\n<p>&nbsp;</p>\n<p>설문조사 링크:&nbsp;<a href=\"https://forms.gle/zL9iEWSDjMsLNpEw8\">https://forms.gle/zL9iEWSDjMsLNpEw8</a>(바로가기)</p>\n<p>&nbsp;</p>\n<p><img alt=\"\" class=\"alignleft size-large wp-image-93857\" height=\"1024\" sizes=\"(max-width: 1024px) 100vw, 1024px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/학습역량-진단도구-연구과제-홍보물-001-1024x1024.jpg\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/학습역량-진단도구-연구과제-홍보물-001-1024x1024.jpg 1024w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/학습역량-진단도구-연구과제-홍보물-001-150x150.jpg 150w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/학습역량-진단도구-연구과제-홍보물-001-300x300.jpg 300w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/학습역량-진단도구-연구과제-홍보물-001-768x768.jpg 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/학습역량-진단도구-연구과제-홍보물-001.jpg 1080w\" width=\"1024\"></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
       "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "2025년-고속도로-장학생-선발-안내",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2025%EB%85%84-%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B4&keyword",
-      "author": "장학팀",
-      "title": "2025년 고속도로 장학생 선발 안내",
-      "description": null,
-      "category": [
-        "장학"
-      ],
-      "created_at": "2025-09-09T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": "https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/1-7.png",
-      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><img alt=\"\" class=\"aligncenter size-full wp-image-93844\" height=\"779\" sizes=\"(max-width: 571px) 100vw, 571px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/1-7.png\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/1-7.png 571w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/1-7-220x300.png 220w\" width=\"571\"><img alt=\"\" class=\"aligncenter size-full wp-image-93845\" height=\"779\" sizes=\"(max-width: 571px) 100vw, 571px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/2-7.png\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/2-7.png 571w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/2-7-220x300.png 220w\" width=\"571\"></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"download-list mt-5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fr2JRtCa0d95tEmndIDnaJEbZtHLqMxBk0%2FfF0TWfJ%2FqYZoobhiY814I25%2BvNAnxOHBviJqFYOR1cXcpzzIp%2BCkEHHmVUs2iWWIwjUy2Mlk5\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 장학생-선발-안내문.pdf</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
-      "attachments": [
-        {
-          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fr2JRtCa0d95tEmndIDnaJEbZtHLqMxBk0%2FfF0TWfJ%2FqYZoobhiY814I25%2BvNAnxOHBviJqFYOR1cXcpzzIp%2BCkEHHmVUs2iWWIwjUy2Mlk5",
-          "name": "장학생-선발-안내문.pdf",
-          "mime_type": null
-        }
-      ],
       "metadata": null
     }
   ]
