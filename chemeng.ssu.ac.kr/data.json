@@ -4,6 +4,22 @@
   "description": "숭실대학교 화학공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "750",
+      "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=750&sk=&sw=&offset=&category=",
+      "author": "관리자",
+      "title": "2025학년도 제43회 형남과학상 공모전: 신청기간 10/13(월) ~ 11.07(금) 17:00",
+      "description": null,
+      "category": [
+        "학부공지사항"
+      ],
+      "created_at": "2025-10-15T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div class=\"body\">\n\t\t\t\n\t<p><img src=\"/uploaded/webedit/2510/21e6bd9f44b71712f9240d51f71d242a_1760513701_42.jpg\" title=\"21e6bd9f44b71712f9240d51f71d242a_1760513701_42.jpg\"><br style=\"clear:both;\">&nbsp;</p>\n\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "748",
       "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=748&sk=&sw=&offset=&category=",
       "author": "관리자",
