@@ -4,6 +4,22 @@
   "description": "숭실대학교 공식 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "2026년도-두산연강재단-두산연강-대학-장학생-선발-안내",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84%EB%8F%84-%EB%91%90%EC%82%B0%EC%97%B0%EA%B0%95%EC%9E%AC%EB%8B%A8-%EB%91%90%EC%82%B0%EC%97%B0%EA%B0%95-%EB%8C%80%ED%95%99-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B4&keyword",
+      "author": "장학팀",
+      "title": "",
+      "description": null,
+      "category": [
+        "장학"
+      ],
+      "created_at": "2025-10-15T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": "https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문.jpg",
+      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><a href=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문.jpg\"><img alt=\"\" class=\"aligncenter size-full wp-image-94899\" height=\"844\" sizes=\"(max-width: 598px) 100vw, 598px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문.jpg\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문.jpg 598w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문-213x300.jpg 213w\" width=\"598\"></a><a href=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문_1.jpg\"><img alt=\"\" class=\"aligncenter size-full wp-image-94900\" height=\"844\" sizes=\"(max-width: 598px) 100vw, 598px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문_1.jpg\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문_1.jpg 598w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문_1-213x300.jpg 213w\" width=\"598\"></a><a href=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문_2.jpg\"><img alt=\"\" class=\"aligncenter size-full wp-image-94901\" height=\"844\" sizes=\"(max-width: 598px) 100vw, 598px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문_2.jpg\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문_2.jpg 598w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/1.-2026년도-두산연강재단-장학생-선발-공고문_2-213x300.jpg 213w\" width=\"598\"></a></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "★-2025학년도-2학기-유한재단-장학생학업장려비-추천",
       "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-2025%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%9C%A0%ED%95%9C%EC%9E%AC%EB%8B%A8-%EC%9E%A5%ED%95%99%EC%83%9D%ED%95%99%EC%97%85%EC%9E%A5%EB%A0%A4%EB%B9%84-%EC%B6%94%EC%B2%9C&keyword",
       "author": "장학팀",
@@ -2214,22 +2230,6 @@
           "mime_type": null
         }
       ],
-      "metadata": null
-    },
-    {
-      "id": "교수학습혁신센터-2025학년도-2학기-학습법-워크숍학",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%EC%84%BC%ED%84%B0-2025%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%ED%95%99%EC%8A%B5%EB%B2%95-%EC%9B%8C%ED%81%AC%EC%88%8D%ED%95%99&keyword",
-      "author": "교수학습혁신센터",
-      "title": "[교수학습혁신센터] 2025학년도 2학기 학습법 워크숍(학업 스트레스 현명하게 극복하기) 운영",
-      "description": null,
-      "category": [
-        "비교과·행사"
-      ],
-      "created_at": "2025-09-10T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": "https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/2025학년도-2학기-학습법-워크숍_포스터.png",
-      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><a href=\"https://path.ssu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=0667a04cd002a2f6f5cd0ee22ae63102&amp;paginationInfo.currentPageNo=1\">신청하러가기(슈패스 로그인 후 접속)</a></p>\n<p><img alt=\"\" class=\"aligncenter wp-image-93911 size-full\" height=\"1260\" sizes=\"(max-width: 891px) 100vw, 891px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/2025학년도-2학기-학습법-워크숍_포스터.png\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/2025학년도-2학기-학습법-워크숍_포스터.png 891w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/2025학년도-2학기-학습법-워크숍_포스터-212x300.png 212w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/2025학년도-2학기-학습법-워크숍_포스터-768x1086.png 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/09/2025학년도-2학기-학습법-워크숍_포스터-724x1024.png 724w\" width=\"891\"></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
-      "attachments": [],
       "metadata": null
     }
   ]
