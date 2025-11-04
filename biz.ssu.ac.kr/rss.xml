@@ -1116,7 +1116,7 @@
 },
 "bi": [ ],
 "bidt": { }
-}--></div><p style="line-height: 1.5;"><span style="font-size: 10pt;">&nbsp;</span></p><p>- 졸업시험 장소</p><p>&nbsp;</p><table border="0" cellpadding="0" cellspacing="0" class="__se_tbl" style="">
+}--></div><p style="line-height: 1.5;"><span style="font-size: 10pt;">&nbsp;</span></p><p style="line-height: 1.5;"><span style="font-size: 10pt;">1.졸업시험 일시</span></p><p style="line-height: 1.5;"><span style="font-size: 10pt;">&nbsp; &nbsp;<span style="color: rgb(0, 117, 200);"><b>2025년 11월 8일 (토) 11시</b></span></span></p><p style="line-height: 1.5;"><span style="font-size: 10pt;">&nbsp; &nbsp; * 한과목 응시자 : 11:00~12:00 (60분)</span></p><p style="line-height: 1.5;"><span style="font-size: 10pt;">&nbsp; &nbsp; * 두과목 응시자 : 11:00~13:00 (120분)</span></p><p style="line-height: 1.5;"><span style="font-size: 10pt;">&nbsp;</span></p><p style="line-height: 1.5;"><span style="font-size: 10pt;">&nbsp;</span></p><p>-2.졸업시험 장소</p><p>&nbsp;</p><table border="0" cellpadding="0" cellspacing="0" class="__se_tbl" style="">
  <colgroup><col style="width:109.33333333333333px;">
  <col style="width:94.66666666666667px;">
  <col style="width:158.66666666666666px;">
@@ -1130,7 +1130,7 @@
 	border-left:1px solid #8CB5F9;
 	background:#D9E7FD;
 	mso-pattern:black none; height:19px;width:109.33333333333333px;">시험장소</td>
-  <td class="xl85" style="height:19px; font-family:'맑은 고딕', monospace;
+  <td class="xl78" style="height:19px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	vertical-align:middle;
@@ -1140,7 +1140,7 @@
 	border-left:1px solid #8CB5F9;
 	background:#D9E7FD;
 	mso-pattern:black none; width:94.66666666666667px;">학번</td>
-  <td class="xl84" style="height:19px; font-family:'맑은 고딕', monospace;
+  <td class="xl77" style="height:19px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border-top:1px solid #8CB5F9;
@@ -1151,7 +1151,7 @@
 	mso-pattern:black none; border-left-width: initial; border-left-style: none; width: 158.66666666666666px;">시험과목</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl83" rowspan="21" style="width:109.33333333333333px; font-family:'맑은 고딕', monospace;
+  <td class="xl80" rowspan="21" style="width:109.33333333333333px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	vertical-align:middle;
@@ -1159,214 +1159,214 @@
 	border-right:none;
 	border-bottom:none;
 	border-left:1px solid #8CB5F9; border-bottom: 1pt solid rgb(140, 181, 249); height: 379px; border-top-width: initial; border-top-style: none;">면제</td>
-  <td class="xl79" style="height:18px; width:94.66666666666667px; color:black;
+  <td class="xl73" style="height:18px; width:94.66666666666667px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9;">20131140</td>
-  <td class="xl74" style="height:18px; width:158.66666666666666px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:158.66666666666666px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20171789</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20171807</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20171851</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20181904</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20181925</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20200129</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20202565</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20202574</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20202603</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210031</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210803</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210833</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210858</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210859</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210882</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20212120</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20212544</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20212549</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20213113</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:19px;">
-  <td class="xl80" style="width:109.33333333333333px; color:black;
+  <td class="xl74" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border-top:1px solid #8CB5F9;
 	border-right:1px solid #8CB5F9;
 	border-bottom:1.0pt solid #8CB5F9;
 	border-left:1px solid #8CB5F9; height: 19px; border-top-width: initial; border-top-style: none;">20220977</td>
-  <td class="xl77" style="height:19px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl71" style="height:19px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border-top:1px solid #8CB5F9;
@@ -1375,22 +1375,22 @@
 	border-left:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">면제</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl72" rowspan="45" style="width:109.33333333333333px; font-family:'맑은 고딕', monospace;
+  <td class="xl83" rowspan="46" style="width:109.33333333333333px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	vertical-align:middle;
 	border-top:1.0pt solid #8CB5F9;
 	border-right:none;
 	border-bottom:none;
-	border-left:1px solid #8CB5F9; border-bottom: 1pt solid rgb(140, 181, 249); height: 808px; border-top-width: initial; border-top-style: none;">교육관 301호</td>
-  <td class="xl78" style="height:18px; width:94.66666666666667px; color:black;
+	border-left:1px solid #8CB5F9; border-bottom: 1pt solid rgb(140, 181, 249); height: 826px; border-top-width: initial; border-top-style: none;">교육관 301호</td>
+  <td class="xl72" style="height:18px; width:94.66666666666667px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border-top:none;
 	border-right:1px solid #8CB5F9;
 	border-bottom:1px solid #8CB5F9;
 	border-left:1px solid #8CB5F9;">20171794</td>
-  <td class="xl76" style="height:18px; width:158.66666666666666px; font-family:'맑은 고딕', monospace;
+  <td class="xl70" style="height:18px; width:158.66666666666666px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border-top:none;
@@ -1399,438 +1399,448 @@
 	border-left:1px solid #8CB5F9; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20171839</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험</td>
  </tr>
  <tr style="height:17px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 17px; border-top-width: initial; border-top-style: none;">20181776</td>
-  <td class="xl75" style="height:17px; width:94.66666666666667px; text-align:center;
+  <td class="xl69" style="height:17px; width:94.66666666666667px; text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:17px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 17px; border-top-width: initial; border-top-style: none;">20181829</td>
-  <td class="xl75" style="height:17px; width:94.66666666666667px; text-align:center;
+  <td class="xl69" style="height:17px; width:94.66666666666667px; text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20190195</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191439</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191451</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191511</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191516</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191529</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191536</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20193413</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20200853</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20200901</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20200909</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20200911</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20201928</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20202074</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20202116</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20202557</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20202591</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210034</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210045</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210078</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210177</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210811</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210819</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210828</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:17px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 17px; border-top-width: initial; border-top-style: none;">20210834</td>
-  <td class="xl75" style="height:17px; width:94.66666666666667px; text-align:center;
+  <td class="xl69" style="height:17px; width:94.66666666666667px; text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20213326</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20213330</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20213338</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220083</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220085</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220096</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220099</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220104</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220105</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220107</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220108</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
+	text-align:center;
+	vertical-align:middle;
+	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220109</td>
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+	mso-font-charset:129;
+	text-align:center;
+	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
+ </tr>
+ <tr style="height:18px;">
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220115</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220947</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20223357</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20223359</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:19px;">
-  <td class="xl80" style="width:109.33333333333333px; color:black;
+  <td class="xl74" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border-top:1px solid #8CB5F9;
 	border-right:1px solid #8CB5F9;
 	border-bottom:1.0pt solid #8CB5F9;
 	border-left:1px solid #8CB5F9; height: 19px; border-top-width: initial; border-top-style: none;">20223385</td>
-  <td class="xl77" style="height:19px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl71" style="height:19px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border-top:1px solid #8CB5F9;
@@ -1839,22 +1849,22 @@
 	border-left:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl72" rowspan="45" style="width:109.33333333333333px; font-family:'맑은 고딕', monospace;
+  <td class="xl83" rowspan="46" style="width:109.33333333333333px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	vertical-align:middle;
 	border-top:1.0pt solid #8CB5F9;
 	border-right:none;
 	border-bottom:none;
-	border-left:1px solid #8CB5F9; border-bottom: 1pt solid rgb(140, 181, 249); height: 808px; border-top-width: initial; border-top-style: none;">교육관 302호</td>
-  <td class="xl78" style="height:18px; width:94.66666666666667px; color:black;
+	border-left:1px solid #8CB5F9; border-bottom: 1pt solid rgb(140, 181, 249); height: 826px; border-top-width: initial; border-top-style: none;">교육관 302호</td>
+  <td class="xl72" style="height:18px; width:94.66666666666667px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border-top:none;
 	border-right:1px solid #8CB5F9;
 	border-bottom:1px solid #8CB5F9;
 	border-left:1px solid #8CB5F9;">20171840</td>
-  <td class="xl76" style="height:18px; width:158.66666666666666px; font-family:'맑은 고딕', monospace;
+  <td class="xl70" style="height:18px; width:158.66666666666666px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border-top:none;
@@ -1863,438 +1873,448 @@
 	border-left:1px solid #8CB5F9; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20171947</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20180733</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20181812</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20190133</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20190154</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191452</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191455</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191518</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191523</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191545</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20191547</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:17px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 17px; border-top-width: initial; border-top-style: none;">20200156</td>
-  <td class="xl75" style="height:17px; width:94.66666666666667px; text-align:center;
+  <td class="xl69" style="height:17px; width:94.66666666666667px; text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20200480</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20200854</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20200898</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:17px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 17px; border-top-width: initial; border-top-style: none;">20200915</td>
-  <td class="xl75" style="height:17px; width:94.66666666666667px; text-align:center;
+  <td class="xl69" style="height:17px; width:94.66666666666667px; text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20202061</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20202393</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20202575</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210048</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210063</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210598</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210809</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210824</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:17px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 17px; border-top-width: initial; border-top-style: none;">20210866</td>
-  <td class="xl75" style="height:17px; width:94.66666666666667px; text-align:center;
+  <td class="xl69" style="height:17px; width:94.66666666666667px; text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210877</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20210879</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20211983</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20213304</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20213315</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20213649</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
+	text-align:center;
+	vertical-align:middle;
+	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220082</td>
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+	mso-font-charset:129;
+	text-align:center;
+	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
+ </tr>
+ <tr style="height:18px;">
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220089</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220090</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220097</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220110</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220121</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220123</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220181</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220725</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20220983</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20222346</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20223372</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none;">20223373</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:19px;">
-  <td class="xl80" style="width:109.33333333333333px; color:black;
+  <td class="xl74" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border-top:1px solid #8CB5F9;
 	border-right:1px solid #8CB5F9;
 	border-bottom:1.0pt solid #8CB5F9;
 	border-left:1px solid #8CB5F9; height: 19px; border-top-width: initial; border-top-style: none;">20223451</td>
-  <td class="xl77" style="height:19px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl71" style="height:19px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border-top:1px solid #8CB5F9;
@@ -2303,22 +2323,22 @@
 	border-left:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl72" rowspan="74" style="width:109.33333333333333px; font-family:'맑은 고딕', monospace;
+  <td class="xl83" rowspan="75" style="width:109.33333333333333px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	vertical-align:middle;
 	border-top:1.0pt solid #8CB5F9;
 	border-right:none;
 	border-bottom:none;
-	border-left:1px solid #8CB5F9; border-right: 1px solid rgb(140, 181, 249); border-bottom: 1pt solid rgb(140, 181, 249); height: 1329px; border-top-width: initial; border-top-style: none;">교육관 303호</td>
-  <td class="xl78" style="height:18px; width:94.66666666666667px; color:black;
+	border-left:1px solid #8CB5F9; border-right: 1px solid rgb(140, 181, 249); border-bottom: 1pt solid rgb(140, 181, 249); height: 1347px; border-top-width: initial; border-top-style: none;">교육관 303호</td>
+  <td class="xl72" style="height:18px; width:94.66666666666667px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border-top:none;
 	border-right:1px solid #8CB5F9;
 	border-bottom:1px solid #8CB5F9;
 	border-left:1px solid #8CB5F9; border-left-width: initial; border-left-style: none;">20161570</td>
-  <td class="xl76" style="height:18px; width:158.66666666666666px; font-family:'맑은 고딕', monospace;
+  <td class="xl70" style="height:18px; width:158.66666666666666px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border-top:none;
@@ -2327,726 +2347,736 @@
 	border-left:1px solid #8CB5F9; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20171882</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20181097</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20181795</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20181843</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20181879</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20190026</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20190787</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20191436</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20191445</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20191447</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20191537</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20200024</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20200081</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20200170</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20200846</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20200855</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20200857</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20200889</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20200924</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20202561</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210004</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210041</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210084</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210104</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210165</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210179</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210199</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210490</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210802</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210815</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:17px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 17px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210826</td>
-  <td class="xl75" style="height:17px; width:94.66666666666667px; text-align:center;
+  <td class="xl69" style="height:17px; width:94.66666666666667px; text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210838</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210840</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210843</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210848</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210857</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:17px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 17px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210868</td>
-  <td class="xl75" style="height:17px; width:94.66666666666667px; text-align:center;
+  <td class="xl69" style="height:17px; width:94.66666666666667px; text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20210870</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:17px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 17px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20211809</td>
-  <td class="xl75" style="height:17px; width:94.66666666666667px; text-align:center;
+  <td class="xl69" style="height:17px; width:94.66666666666667px; text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
+	text-align:center;
+	vertical-align:middle;
+	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20212020</td>
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+	mso-font-charset:129;
+	text-align:center;
+	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험</td>
+ </tr>
+ <tr style="height:18px;">
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20212063</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20212568</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20213302</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20213318</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20213364</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20213634</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220084</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220087</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220088</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220091</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220092</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220093</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220098</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220100</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220103</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220111</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220113</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220117</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220118</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공시험&nbsp;</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220122</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20220124</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:17px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 17px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20221010</td>
-  <td class="xl75" style="height:17px; width:94.66666666666667px; text-align:center;
+  <td class="xl69" style="height:17px; width:94.66666666666667px; text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20221983</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20222506</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20223290</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20223324</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20223360</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20223362</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20223364</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20223365</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20223366</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20223371</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl79" style="width:109.33333333333333px; color:black;
+  <td class="xl73" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border:1px solid #8CB5F9; height: 18px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20223384</td>
-  <td class="xl74" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl68" style="height:18px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:19px;">
-  <td class="xl81" style="width:109.33333333333333px; color:black;
+  <td class="xl75" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border-top:1px solid #8CB5F9;
 	border-right:none;
 	border-bottom:1.0pt solid #8CB5F9;
 	border-left:1px solid #8CB5F9; height: 19px; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">20223386</td>
-  <td class="xl82" style="height:19px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
+  <td class="xl76" style="height:19px; width:94.66666666666667px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	border-top:1px solid #8CB5F9;
@@ -3055,7 +3085,7 @@
 	border-left:none; border-top-width: initial; border-top-style: none;">전공,영어시험</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl68" rowspan="2" style="width:109.33333333333333px; font-family:'맑은 고딕', monospace;
+  <td class="xl85" rowspan="2" style="width:109.33333333333333px; font-family:'맑은 고딕', monospace;
 	mso-font-charset:129;
 	text-align:center;
 	vertical-align:middle;
@@ -3063,7 +3093,7 @@
 	border-right:1px solid #8CB5F9;
 	border-bottom:none;
 	border-left:1px solid #8CB5F9; border-bottom: 1px solid rgb(140, 181, 249); height: 36px; border-top-width: initial; border-top-style: none;">응시불가</td>
-  <td class="xl69" style="height:18px; width:94.66666666666667px; color:black;
+  <td class="xl66" style="height:18px; width:94.66666666666667px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border-top:none;
@@ -3079,7 +3109,7 @@
 	border-left:1px solid #8CB5F9; border-left-width: initial; border-left-style: none;">학점 부족</td>
  </tr>
  <tr style="height:18px;">
-  <td class="xl70" style="width:109.33333333333333px; color:black;
+  <td class="xl67" style="width:109.33333333333333px; color:black;
 	text-align:center;
 	vertical-align:middle;
 	border-top:1px solid #8CB5F9;
@@ -3093,9 +3123,9 @@
 	border-right:1px solid #8CB5F9;
 	border-bottom:1px solid #8CB5F9;
 	border-left:1px solid #8CB5F9; border-top-width: initial; border-top-style: none; border-left-width: initial; border-left-style: none;">학점 부족</td>
- </tr></tbody></table><p>&nbsp;</p><p>* 문의사항 : 경영학부 사무실 (02-820-0560)<span style="font-size: 12px;">&nbsp;</span></p>
+ </tr></tbody></table><p>&nbsp;</p><br><p>&nbsp;</p><p>* 문의사항 : 경영학부 사무실 (02-820-0560)<span style="font-size: 12px;">&nbsp;</span></p>
 </div>]]></content:encoded>
-      <atom:updated>2025-11-03T05:41:12.919342912Z</atom:updated>
+      <atom:updated>2025-11-04T02:18:03.778247305Z</atom:updated>
     </item>
     <item>
       <title>[공지]2025-2학기 경영학부 진로지도 상담 신청 및 상담카드 작성 안내</title>
