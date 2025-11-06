@@ -4,6 +4,22 @@
   "description": "숭실대학교 화학공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "753",
+      "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=753&sk=&sw=&offset=&category=",
+      "author": "관리자",
+      "title": "우수기업 현직자와 함께하는 일자리 수요데일 [주]유한양행: 신청기한 10/29 ~ 11/10(월)",
+      "description": null,
+      "category": [
+        "학부공지사항"
+      ],
+      "created_at": "2025-11-06T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div class=\"body\">\n\t\t\t\n\t<p><img src=\"/uploaded/webedit/2511/a51ecbe99f8bab1a8f2b7f80ae5e34d9_1762404330_81.png\" title=\"a51ecbe99f8bab1a8f2b7f80ae5e34d9_1762404330_81.png\"><br style=\"clear:both;\">&nbsp;</p>\n\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "752",
       "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=752&sk=&sw=&offset=&category=",
       "author": "관리자",
