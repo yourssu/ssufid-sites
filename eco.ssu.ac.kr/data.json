@@ -4,6 +4,28 @@
   "description": "숭실대학교 경제학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "104",
+      "url": "https://eco.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=104&page=1",
+      "author": "최고관리자",
+      "title": "2025-2학기 주요학사제도 안내",
+      "description": null,
+      "category": [
+        "학사안내"
+      ],
+      "created_at": "2025-11-07T16:34:00+09:00",
+      "updated_at": null,
+      "thumbnail": "https://eco.ssu.ac.kr/data/editor/2511/0d252445403a9eef0c7c9955ed878424_1762500884_7643.png",
+      "content": "<p><img alt=\"0d252445403a9eef0c7c9955ed878424_1762500884_7643.png\" src=\"https://eco.ssu.ac.kr/data/editor/2511/0d252445403a9eef0c7c9955ed878424_1762500884_7643.png\" title=\"0d252445403a9eef0c7c9955ed878424_1762500884_7643.png\"><br style=\"clear:both;\">&nbsp;</p>",
+      "attachments": [
+        {
+          "url": "https://eco.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=104&no=0&page=1",
+          "name": "2025학년도-2학기-주요-학사제도-안내학사과정.pdf",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "103",
       "url": "https://eco.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=103&page=1",
       "author": "최고관리자",
