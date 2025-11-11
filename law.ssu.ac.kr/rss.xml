@@ -561,6 +561,7 @@
       <description><![CDATA[
 						<p>안녕하세요, 법학과 사무실입니다.</p>
 <p>2025학년도 2학기 졸업...]]></description>
+      <category>공지</category>
       <guid isPermaLink="false">1661</guid>
       <pubDate>Wed, 10 Sep 2025 00:00:00 +0900</pubDate>
       <content:encoded><![CDATA[
@@ -621,7 +622,7 @@
 <p>&nbsp;</p>
 <ul>
 <li>졸업논문의 편집 양식은 숭실대학교 법학연구소가 간행하는 법학논총의 것을 따르기로 함(첨부파일 투고규정 참고).</li>
-<li>졸업논문은 표지와 본문으로 구성되며, 표지에는 반드시 지도교수의 서명이 있어야 하며, 논문 점수를 받아야 함.</li>
+<li>졸업논문은 표지와 본문으로 구성되며, <strong>표지에는 반드시 지도교수의 서명</strong>이 있어야&nbsp; 함.</li>
 <li>졸업논문은 책자 형태로 제본할 필요가 없고, 스테플러로 편철한 것이면 충분함.</li>
 <li>학과사무실 운영시간 : 월-금 9시 ~ 17시30분 (점심시간: 12시20분 ~ 13시20분)</li>
 </ul>
@@ -632,7 +633,7 @@
 </table>
 <p>&nbsp;</p>
 					]]></content:encoded>
-      <atom:updated>2025-10-24T02:09:38.653638321Z</atom:updated>
+      <atom:updated>2025-11-11T02:20:16.945222022Z</atom:updated>
     </item>
     <item>
       <title>[모집] 25-2학기 숭현관 실원 추가 모집 안내</title>
