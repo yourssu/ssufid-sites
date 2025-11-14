@@ -644,60 +644,60 @@
 <li>지원절차</li>
 </ol>
 <p>가. 지원자격</p>
-<table border="1" style="width: 917px">
+<table border="1" style="width: 917px;height: 684px">
 <tbody>
-<tr>
-<td style="width: 96.2188px">구분</td>
-<td colspan="2" style="width: 397.859px">내용</td>
-<td style="width: 400.922px">비고</td>
+<tr style="height: 24px">
+<td style="width: 96.2188px;height: 24px">구분</td>
+<td colspan="2" style="width: 397.844px;height: 24px">내용</td>
+<td style="width: 400.938px;height: 24px">비고</td>
 </tr>
-<tr>
-<td style="width: 96.2188px">수학학기</td>
-<td colspan="2" style="width: 397.859px">ㆍ본교에서 한 학기 이상 수료한 학부 재학생<p></p>
+<tr style="height: 288px">
+<td style="width: 96.2188px;height: 288px">수학학기</td>
+<td colspan="2" style="width: 397.844px;height: 288px">ㆍ본교에서 한 학기 이상 수료한 학부 재학생<p></p>
 <p><strong>[</strong><strong>개정사항]</strong></p>
 <p>ㆍ<strong>2025-1학기부터 졸업 전 정규 마지막 학기 파견이 불가함. (추가 학기 여부랑 무관하게 파견이 불가함.) </strong></p>
 <p>ㆍ<strong>4년제(8학기)의 경우 파견 가능 마지막 학기는 7학기, 5년제(10학기)의 경우 파견 가능 마지막 학기는 9학기 </strong></p>
 <p><strong>(7</strong><strong>학기 및 9학기 파견 시 파견 연장 불가, 최대 1학기만 파견 가능)</strong></p></td>
-<td style="width: 400.922px">ㆍ휴학생도 지원 가능하나, 파견학기인 2026-2학기에 필히 복학해야 함</td>
+<td style="width: 400.938px;height: 288px">ㆍ휴학생도 지원 가능하나, 파견학기인 2026-2학기에 필히 복학해야 함</td>
 </tr>
-<tr>
-<td rowspan="3" style="width: 96.2188px">평점평균</td>
-<td style="width: 94.2031px">교환·방문학생</td>
-<td style="width: 297.656px">ㆍ최소 2.5/4.5 이상</td>
-<td rowspan="3" style="width: 400.922px">ㆍ 증명용 성적증명서 기준<p></p>
+<tr style="height: 48px">
+<td rowspan="3" style="width: 96.2188px;height: 97px">평점평균</td>
+<td style="width: 94.1875px;height: 48px">교환·방문학생</td>
+<td style="width: 297.656px;height: 48px">ㆍ최소 2.5/4.5 이상</td>
+<td rowspan="3" style="width: 400.938px;height: 97px">ㆍ 증명용 성적증명서 기준<p></p>
 <p>ㆍ 각 프로그램 및 대학 별로 상이하므로 붙임 1 참고</p></td>
 </tr>
-<tr>
-<td style="width: 94.2031px">지역전문가</td>
-<td style="width: 297.656px">ㆍ최소 3.5/4.5 이상</td>
+<tr style="height: 24px">
+<td style="width: 94.1875px;height: 24px">지역전문가</td>
+<td style="width: 297.656px;height: 24px">ㆍ최소 3.5/4.5 이상</td>
 </tr>
-<tr>
-<td style="width: 94.2031px">SHP</td>
-<td style="width: 297.656px">ㆍ최소 3.5/4.5 이상</td>
+<tr style="height: 25px">
+<td style="width: 94.1875px;height: 25px">SHP</td>
+<td style="width: 297.656px;height: 25px">ㆍ최소 3.5/4.5 이상</td>
 </tr>
-<tr>
-<td rowspan="3" style="width: 96.2188px">외국어성적<p></p>
+<tr style="height: 52px">
+<td rowspan="3" style="width: 96.2188px;height: 155px">외국어성적<p></p>
 <p>(면접일에 원본 지참 필수(TOEIC 제외))</p></td>
-<td style="width: 94.2031px">교환·방문학생</td>
-<td style="width: 297.656px">ㆍ대학별로 상이하므로 [붙임1] 확인</td>
-<td rowspan="3" style="width: 400.922px">ㆍ본교 공인외국어성적 등급표: <a href="https://bit.ly/3qRAVbj">https://bit.ly/3qRAVbj</a><p></p>
+<td style="width: 94.1875px;height: 52px">교환·방문학생</td>
+<td style="width: 297.656px;height: 52px">ㆍ대학별로 상이하므로 [붙임6] 확인</td>
+<td rowspan="3" style="width: 400.938px;height: 155px">ㆍ본교 공인외국어성적 등급표: <a href="https://bit.ly/3qRAVbj">https://bit.ly/3qRAVbj</a><p></p>
 <p>ㆍ각 프로그램 및 대학 별로 상이하므로 첨부파일 참고</p>
 <p><strong><u>ㆍ지원서 제출 시점 기준 유효기간 2년 이내여야 함</u></strong></p></td>
 </tr>
-<tr>
-<td style="width: 94.2031px">지역전문가</td>
-<td style="width: 297.656px">ㆍ공인 외국어 성적 1등급 이상</td>
+<tr style="height: 26px">
+<td style="width: 94.1875px;height: 26px">지역전문가</td>
+<td style="width: 297.656px;height: 26px">ㆍ공인 외국어 성적 1등급 이상</td>
 </tr>
-<tr>
-<td style="width: 94.2031px">SHP</td>
-<td style="width: 297.656px">ㆍTOEFL iBT 90점 이상<br>
+<tr style="height: 77px">
+<td style="width: 94.1875px;height: 77px">SHP</td>
+<td style="width: 297.656px;height: 77px">ㆍTOEFL iBT 90점 이상<br>
 (기타 외국어의 경우 이에 상응하는 수준 이상)</td>
 </tr>
-<tr>
-<td style="width: 96.2188px">기타사항</td>
-<td colspan="2" style="width: 397.859px">ㆍ본교와 파견 예정 대학이 지정하는 자격요건(평점평균 및 외국어 성적 등)을 갖춘 학생<p></p>
+<tr style="height: 120px">
+<td style="width: 96.2188px;height: 120px">기타사항</td>
+<td colspan="2" style="width: 397.844px;height: 120px">ㆍ본교와 파견 예정 대학이 지정하는 자격요건(평점평균 및 외국어 성적 등)을 갖춘 학생<p></p>
 <p>ㆍ해외여행에 결격사유가 없는 학생</p></td>
-<td style="width: 400.922px">&nbsp;</td>
+<td style="width: 400.938px;height: 120px"></td>
 </tr>
 </tbody>
 </table>
@@ -829,9 +829,16 @@
 												<i class="icon-ssu icon-ssu-icon-29"></i>
 											</a>
 										</li>
+																				<li>
+											<a download="" href="/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fggcy0PGtVcu7puvnm6bTX1NadwJk8kgHd%2F9M5G5gr%2Bgdj930nKSL4OCtK2QXqvaSBD9KA1ycnOAaET7Kxbms9vFNmVCHgyd1shAv0FVPZmwrYAzSIL%2FIDOlJ4jdqWzgVBnzfYRhPMscBDOPeSUkmcCrM3lOISctPKHrDy86R%2FjcH6PBDpgVJu5lo28nmaXqj%2FWzbt4jVwh%2BK3wtJGzdPXVp3yYXKt9Uvt6VkA6trMRmKK39jgay8NQUBam8%2F%2BVEcbRETeu3%2FMpWzoxPexd%2BWzsK2soDRQL8Gfs480WtdXuv" target="_blank">
+												<span><i class="icon-ssu icon-ssu-icon-28"></i> 붙임6-2026-2학기-오스트리아-교환학생Ernst-Mach-Grant장학금-어학성적-기준.xlsx</span>
+												<i class="icon-ssu icon-ssu-icon-29"></i>
+											</a>
+										</li>
 																			</ul>
 																		
 								</div>]]></content:encoded>
+      <atom:updated>2025-11-14T02:20:04.401957106Z</atom:updated>
     </item>
     <item>
       <title></title>
