@@ -137,10 +137,10 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table border="1" style="height: 40px" width="856">
+<table border="1" style="height: 40px;width: 850px" width="856">
 <tbody>
 <tr>
-<td style="width: 846px">
+<td style="width: 840px">
 <p style="text-align: center"><span style="font-family: 'andale mono', monospace"><b>※ </b><b>모집 일정은 변경될 수 있으며 변경 시 해당자에 한 해 개별 안내 예정</b></span></p>
 </td>
 </tr>
@@ -200,6 +200,7 @@
 																			</ul>
 																		
 								</div>]]></content:encoded>
+      <atom:updated>2025-11-19T10:45:26.999938093Z</atom:updated>
     </item>
     <item>
       <title></title>
