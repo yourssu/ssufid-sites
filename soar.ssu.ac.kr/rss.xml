@@ -252,13 +252,12 @@
 <table>
 <tbody>
 <tr>
-<td>진로상담</td>
+<td></td>
 <td>총엠티 (1학기)</td>
 <td>필수과목</td>
 </tr>
 <tr>
-<td>불참시 장학생 선발<p></p>
-<p>우선순위 1단계 하락</p></td>
+<td></td>
 <td>불참시 장학생 선발<p></p>
 <p>우선순위 1단계 하락</p></td>
 <td>모든 전공 과목</td>
@@ -270,7 +269,7 @@
 <table>
 <tbody>
 <tr>
-<td>진로상담</td>
+<td></td>
 <td>총엠티<p></p>
 <p>(1학기)</p></td>
 <td>전공워크숍<p></p>
@@ -280,8 +279,7 @@
 <td colspan="3">필수과목</td>
 </tr>
 <tr>
-<td rowspan="5">불참시<p></p>
-<p>장학생 선발 우선순위 1단계 하락</p></td>
+<td rowspan="5"></td>
 <td rowspan="5">불참시<p></p>
 <p>장학생 선발 우선순위 1단계 하락</p></td>
 <td rowspan="5">불참시<p></p>
@@ -311,7 +309,7 @@
 <table>
 <tbody>
 <tr>
-<td>진로상담</td>
+<td></td>
 <td>총엠티<br>
 (1학기)</td>
 <td>전공워크숍<p></p>
@@ -321,7 +319,7 @@
 <td colspan="3">필수과목</td>
 </tr>
 <tr>
-<td rowspan="6">불참시 장학생 선발 우선순위 1단계 하락</td>
+<td rowspan="6"></td>
 <td rowspan="6">불참시 장학생 선발 우선순위 1단계 하락</td>
 <td rowspan="6">불참시 장학생 선발 우선순위 1단계 하락</td>
 <td rowspan="6">1회 불참시 장학생 선발 우선순위 1단계 하락</td>
@@ -378,16 +376,13 @@
 <table>
 <tbody>
 <tr>
-<td>진로상담</td>
+<td></td>
 <td>총엠티<p></p>
 <p>(1학기)</p></td>
 <td colspan="3">필수과목</td>
 </tr>
 <tr>
-<td rowspan="5">불참시<p></p>
-<p>장학생 선발</p>
-<p>우선순위</p>
-<p>1단계 하락</p></td>
+<td rowspan="5"></td>
 <td rowspan="5">불참시<p></p>
 <p>장학생 선발</p>
 <p>우선순위</p>
@@ -417,7 +412,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 					]]></content:encoded>
-      <atom:updated>2025-07-08T03:39:58.068961017Z</atom:updated>
+      <atom:updated>2025-11-21T08:48:45.636490271Z</atom:updated>
     </item>
     <item>
       <title>[건축학] 2023학년도 입학생 교과과정 및 수강신청 유의사항</title>
