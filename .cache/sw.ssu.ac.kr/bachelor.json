@@ -2500,13 +2500,13 @@
     "id": "1589",
     "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1589&page=1",
     "author": "최고관리자",
-    "title": "AI대학 신설 및 AI소프트웨어학부 관련 질의응답 자료 공유",
+    "title": "AI대학 신설 및 AI소프트웨어학부 관련 질의응답 자료 공유(교과과정 추가 업로드)",
     "description": null,
     "category": [
       "공지"
     ],
     "created_at": "2025-11-21T15:35:00+09:00",
-    "updated_at": null,
+    "updated_at": "2025-11-24T06:52:07.442265803Z",
     "thumbnail": null,
     "content": "<p>안녕하세요 학부사무실입니다.&nbsp;</p>\n<p>지난 19일(수)에 진행한 AI대학 설명회에서 진행된 질의응답 관련사항 자료를 공유드립니다.&nbsp;</p>\n<p>추가로 AI소프트웨어학부 교과과정도 공유드리오니 참고 부탁드립니다.&nbsp;</p>\n<p><br></p>\n<p>관련 문의사항이 있을 경우 학부사무실 820-0940으로 연락바랍니다.&nbsp;</p>\n<p><br></p>\n<p>감사합니다.&nbsp;</p>",
     "attachments": [
@@ -2518,6 +2518,16 @@
       {
         "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1589&no=1&page=1",
         "name": "참고자료교과과정_AI소프트웨어학부기존과목표시ver_251118.xlsx",
+        "mime_type": null
+      },
+      {
+        "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1589&no=2&page=1",
+        "name": "소프트웨어-AI소프트웨어학부 교과과정 매칭.xlsx",
+        "mime_type": null
+      },
+      {
+        "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1589&no=3&page=1",
+        "name": "AI융합학부-AI소프트웨어학부 교과과정 매칭.xlsx",
         "mime_type": null
       }
     ],
