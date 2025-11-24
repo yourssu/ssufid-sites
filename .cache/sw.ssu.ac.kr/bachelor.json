@@ -2532,5 +2532,42 @@
       }
     ],
     "metadata": null
+  },
+  {
+    "id": "1590",
+    "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1590&page=1",
+    "author": "최고관리자",
+    "title": "AI소프트웨어학부(AI대학) 전과(소속변경)신청 안내",
+    "description": null,
+    "category": [
+      "공지"
+    ],
+    "created_at": "2025-11-24T15:52:00+09:00",
+    "updated_at": null,
+    "thumbnail": null,
+    "content": "<p>안녕하세요 소프트웨어학부 사무실입니다.&nbsp;</p>\n<p><br></p>\n<p>AI대학 AI소프트웨어학부 전과(소속변경) 신청을 접수시작합니다.&nbsp;</p>\n<p>아래의 내용을 확인하시고 신청 접수를 해주시기 바랍니다.&nbsp;</p>\n<p><br></p>\n<p>1. 신청기한: 11.24(월)~12.03(수)13:00까지</p>\n<p>2. 신청방법:&nbsp;<a href=\"https://forms.gle/yT8xZzikD7BZnnqu6\" rel=\"nofollow\">https://forms.gle/yT8xZzikD7BZnnqu6</a> 링크에 접속하여 신청</p>\n<p><br></p>\n<p><br></p>\n<p>문의사항은 820-0940으로 연락바랍니다.&nbsp;</p>\n<p><br></p>\n<p>감사합니다.&nbsp;</p>",
+    "attachments": [
+      {
+        "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1590&no=0&page=1",
+        "name": "AI융합학부-AI소프트웨어학부 교과과정 매칭.xlsx",
+        "mime_type": null
+      },
+      {
+        "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1590&no=1&page=1",
+        "name": "소프트웨어-AI소프트웨어학부 교과과정 매칭.xlsx",
+        "mime_type": null
+      },
+      {
+        "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1590&no=2&page=1",
+        "name": "AI대학 설명회 질의응답.pptx",
+        "mime_type": null
+      },
+      {
+        "url": "https://sw.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=1590&no=4&page=1",
+        "name": "참고자료교과과정_AI소프트웨어학부기존과목표시ver_251118.xlsx",
+        "mime_type": null
+      }
+    ],
+    "metadata": null
   }
 ]
