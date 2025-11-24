@@ -4,6 +4,71 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "3796",
+      "url": "https://startup.ssu.ac.kr/board/notice/3796?boardEnName=notice",
+      "author": "admin",
+      "title": "DDM 청년창업센터 유니콘 &#39;2025 DDM Startup Home Coming&#39; 개최",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2025-11-24T11:23:25+09:00",
+      "updated_at": "2025-11-24T11:24:09+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;광운대학교 산학협력단에서 위탁 운영 중인 「DDM 청년창업센터 유니콘」에서 건전한 창업생태계 조성 및 잠재된 청년 창업자 발굴을 위해 아래와 같이 &lt;u&gt;&lsquo;2025 DDM Startup Home Coming&rsquo;&lt;/u&gt;프로그램을 추진하오니 창업에 관심있는 청년 및 (예비)창업자들의 많은 관심과 참여 바랍니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/11/a872795c-2247-445e-82e1-14ca576d9cc6.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;가. 프로그램 명 : DDM 청년창업센터 유니콘 &lsquo;2025 DDM Startup Home Coming&rsquo;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;나. 행사주제 : Remember The Start-처음의 설렘을 다시&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;다. 행사내용 : 세부내용 [첨부] 참조&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;라. 참석대상 : (예비)스타트업 및 프로그램에 참여하고 싶은 누구나&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;마. 추진장소 : DDM 청년창업센터 유니콘(서울시 동대문구 망우로 46 101동 2층)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;바. 추진일정 : 2025.12.09.(화) 13:00&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;사. 신청방법 : 구글폼에서 온라인 신청서 제출(URL : &lt;/span&gt;&lt;a href=&quot;http://https//forms.gle/FNptPVuqfgCHrU9D9&quot;&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;https://forms.gle/FNptPVuqfgCHrU9D9&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;아. 참가문의 : DDM 청년창업센터 유니콘 운영사무실(☎ : 02-3394-9225)&lt;/span&gt;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2748",
+          "name": "[첨부 1] 홈커밍 포스터_수정본.png",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2749",
+          "name": "[첨부 2] DDM 스타트업 홈커밍 참석 안내.hwp",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
+      "id": "3795",
+      "url": "https://startup.ssu.ac.kr/board/notice/3795?boardEnName=notice",
+      "author": "admin",
+      "title": "2025 KDB 창업교육 프로그램 성과공유회 참여 안내",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2025-11-24T11:20:52+09:00",
+      "updated_at": "2025-11-24T11:20:52+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;한국청년기업가정신재단은 미래세대 주역인 청년과 청소년에게 기업가정신을 함양한 도전적 창의 인재 양성을 위해 KDB청년창업지원사업을 운영하고 있으며 이에 올 한해 성과를 확인할 수 있는 &quot;2025 KDB 창업교육 프로그램 성과공유회&quot; 개최하니 많은 참여 바랍니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/11/e1194e5b-2254-4023-839e-28451595d48d.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;가. 행사명: 2025 KDB 창업교육 프로그램 성과공유회&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;나. 주최/주관: 한국산업은행, 산은나눔재단 / 한국청년기업가정신재단&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;다. 일시: 2025년 11월 27일(목) 11:30 ~ 17:00&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;라. 장소: 서초 플렌티컨벤션 플렌티홀&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;마. 주요내용&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;1) 창업교육 프로그램 참여&amp;nbsp; 대학 성과공유회&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;2) 다양한 체험 프로그램, 이벤트, 기념품 및 경품 지급 등&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;※ 세부내용은 홈페이지를 통해 확인 가능(kdbstartup.or.kr)]&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;바. 참여신청: 홍보물 큐알코드 또는 구글폼(https://forms.gle/GSbh4hqvWfLGdP9t6)를 통한 신청&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;사. 협조요청: 창업에 관심있는 교수, 교직원, 학생들이 참여할 수 있도록 홍보 요청&lt;/span&gt;&lt;/p&gt;",
+      "attachments": [],
+      "metadata": null
+    },
+    {
+      "id": "3794",
+      "url": "https://startup.ssu.ac.kr/board/notice/3794?boardEnName=notice",
+      "author": "admin",
+      "title": "2025 지역IP 투자&middot;기술 네트워킹데이 행사 참여 안",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2025-11-24T11:16:52+09:00",
+      "updated_at": "2025-11-24T11:16:52+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(57,57,57);&quot;&gt;&lt;strong&gt;지식재산처와 한국발명진흥회는『2025 지역IP투자기술 네트워킹 행사 』를 개최함으로써 &lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;IP(지식재산) 기술기반 기업의 성장 지원을 위해 IP투자 네트워킹, 데모데이, 1:1 투자상담회 등이 추진할 예정이며, 테마세션인 AI(인공지능) 분야 기술교류회를 추진하여 AI 관련 인재 및 중소기업에 최신 기술 정보 습득의 기회를 제공하고자 하니 &amp;nbsp;많은 관심과 참여 부탁드립니다.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;가. 행 사 명 : 2025 지역IP 투자&middot;기술 네트워킹데이&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;나. 행사일시 : 2025. 11. 27.(목) 10:00~17:00&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;다. 참가대상 : 교직원, 창업보육센터 육성 기업(예비창업자 포함) 및 인공지능관련 학과 학생 등 &amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;라. 행사장소 : 드림플러스 강남 B1F(서울특별시 서초구 강남대로 311)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;마. 주최/주관 : 지식재산처 / 한국발명진흥회&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;바. 참가신청 방법 : 구글폼 온라인 접수&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- https://walla.my/v/6hAVsSzpMACtNfxGNcum&lt;/span&gt;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2745",
+          "name": "(붙임) 2025 지역IP 투자·기술 네트워킹데이 홍보 포스터 (1).png",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "3790",
       "url": "https://startup.ssu.ac.kr/board/notice/3790?boardEnName=notice",
       "author": "admin",
