@@ -252,12 +252,10 @@
 <table>
 <tbody>
 <tr>
-<td></td>
-<td>총엠티 (1학기)</td>
+<td>&nbsp;총엠티 (1학기)</td>
 <td>필수과목</td>
 </tr>
 <tr>
-<td></td>
 <td>불참시 장학생 선발<p></p>
 <p>우선순위 1단계 하락</p></td>
 <td>모든 전공 과목</td>
@@ -266,153 +264,146 @@
 </table>
 <p>&nbsp;</p>
 <p>(2) 건축학전공 (2-5학년)</p>
-<table>
+<table style="width: 1022px;border-color: #000000">
 <tbody>
 <tr>
-<td></td>
-<td>총엠티<p></p>
+<td style="width: 154px">총엠티<p></p>
 <p>(1학기)</p></td>
-<td>전공워크숍<p></p>
+<td style="width: 159px">전공워크숍<p></p>
 <p>(2학기)</p></td>
-<td>목요강좌<p></p>
+<td style="width: 220px">목요강좌<p></p>
 <p>(3회)</p></td>
-<td colspan="3">필수과목</td>
+<td colspan="3" style="width: 235px">필수과목</td>
 </tr>
 <tr>
-<td rowspan="5"></td>
-<td rowspan="5">불참시<p></p>
+<td rowspan="5" style="width: 154px">불참시<p></p>
 <p>장학생 선발 우선순위 1단계 하락</p></td>
-<td rowspan="5">불참시<p></p>
+<td rowspan="5" style="width: 159px">불참시<p></p>
 <p>장학생 선발 우선순위 1단계 하락</p></td>
-<td rowspan="5">1회 불참시 장학생 선발 우선순위 1단계 하락</td>
-<td>학년</td>
-<td>1학기</td>
-<td>2학기</td>
+<td rowspan="5" style="width: 220px">1회 불참시 장학생 선발 우선순위 1단계 하락</td>
+<td style="width: 38.3594px">학년</td>
+<td style="width: 94.6406px">1학기</td>
+<td style="width: 102px">2학기</td>
 </tr>
 <tr>
-<td>2</td>
-<td colspan="2" rowspan="4">건축설계<p></p>
+<td style="width: 38.3594px">2</td>
+<td colspan="2" rowspan="4" style="width: 196.641px">&nbsp;건축설계<p></p>
 <p>(해당학년 이수여부 상관없음)</p></td>
 </tr>
 <tr>
-<td>3</td>
+<td style="width: 38.3594px">3</td>
 </tr>
 <tr>
-<td>4</td>
+<td style="width: 38.3594px">4</td>
 </tr>
 <tr>
-<td>5</td>
+<td style="width: 38.3594px">5</td>
 </tr>
 </tbody>
 </table>
 <p>(3) 건축공학전공 (2-4학년)</p>
-<table>
+<table style="width: 1336px">
 <tbody>
 <tr>
-<td></td>
-<td>총엠티<br>
-(1학기)</td>
-<td>전공워크숍<p></p>
+<td style="width: 246px">&nbsp;총엠티 (1학기)</td>
+<td style="width: 238px">전공워크숍<p></p>
 <p>(2학기)</p></td>
-<td>공학강좌<p></p>
+<td style="width: 266px">공학강좌<p></p>
 <p>(2회)</p></td>
-<td colspan="3">필수과목</td>
+<td colspan="3" style="width: 533px">필수과목</td>
 </tr>
 <tr>
-<td rowspan="6"></td>
-<td rowspan="6">불참시 장학생 선발 우선순위 1단계 하락</td>
-<td rowspan="6">불참시 장학생 선발 우선순위 1단계 하락</td>
-<td rowspan="6">1회 불참시 장학생 선발 우선순위 1단계 하락</td>
-<td>학년</td>
-<td>1학기</td>
-<td>2학기</td>
+<td rowspan="6" style="width: 246px">불참시 장학생 선발 우선순위 1단계 하락</td>
+<td rowspan="6" style="width: 238px">불참시 장학생 선발 우선순위 1단계 하락</td>
+<td rowspan="6" style="width: 266px">1회 불참시 장학생 선발 우선순위 1단계 하락</td>
+<td style="width: 47px">학년</td>
+<td style="width: 253.016px">1학기</td>
+<td style="width: 232.984px">2학기</td>
 </tr>
 <tr>
-<td rowspan="2">2</td>
-<td>재료역학및실습<p></p>
+<td rowspan="2" style="width: 47px">2</td>
+<td style="width: 253.016px">재료역학및실습<p></p>
 <p>(필수)</p></td>
-<td>구조역학및실습<p></p>
+<td style="width: 232.984px">구조역학및실습<p></p>
 <p>(필수)</p></td>
 </tr>
 <tr>
-<td>+<p></p>
+<td style="width: 253.016px">+<p></p>
 <p>건축구조시스템, 건축환경공학</p>
 <p>중 1과목 이상</p></td>
-<td>+<p></p>
+<td style="width: 232.984px">+<p></p>
 <p>건축IT, 강구조1, 건축리모델링</p>
 <p>중 2과목 이상</p></td>
 </tr>
 <tr>
-<td rowspan="2">3</td>
-<td>철근콘크리트1<p></p>
+<td rowspan="2" style="width: 47px">3</td>
+<td style="width: 253.016px">철근콘크리트1<p></p>
 <p>(필수)</p></td>
-<td>철근콘크리트2 (필수)</td>
+<td style="width: 232.984px">철근콘크리트2 (필수)</td>
 </tr>
 <tr>
-<td>+<p></p>
+<td style="width: 253.016px">+<p></p>
 <p>건축설비1,</p>
 <p>건축시공,</p>
 <p>건축구조설계입문</p>
 <p>중 2과목 이상</p></td>
-<td>+<p></p>
+<td style="width: 232.984px">+<p></p>
 <p>건축설비2,</p>
 <p>건축실무,</p>
 <p>건축코딩및실습</p>
 <p>중 2과목 이상</p></td>
 </tr>
 <tr>
-<td>4</td>
-<td>건축재료및실험<p></p>
+<td style="width: 47px">4</td>
+<td style="width: 253.016px">건축재료및실험<p></p>
 <p>건축시스템종합설계</p>
 <p>건축BIM</p>
 <p>건축경제</p>
 <p>중 3과목 이상</p></td>
-<td></td>
+<td style="width: 232.984px"></td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <p>(4) 실내건축전공 (1-4학년)</p>
-<table>
+<table style="width: 368px">
 <tbody>
-<tr>
-<td></td>
-<td>총엠티<p></p>
+<tr style="height: 120px">
+<td style="height: 120px;width: 104px">총엠티<p></p>
 <p>(1학기)</p></td>
-<td colspan="3">필수과목</td>
+<td colspan="3" style="height: 120px;width: 249px">필수과목</td>
 </tr>
 <tr>
-<td rowspan="5"></td>
-<td rowspan="5">불참시<p></p>
+<td rowspan="5" style="height: 120px;width: 104px">불참시<p></p>
 <p>장학생 선발</p>
 <p>우선순위</p>
 <p>1단계 하락</p></td>
-<td>학년</td>
-<td>1학기</td>
-<td>2학기</td>
+<td style="width: 33.9688px">학년</td>
+<td style="width: 84.0312px">1학기</td>
+<td style="width: 131px">2학기</td>
 </tr>
-<tr>
-<td>1</td>
-<td>–</td>
-<td>–</td>
+<tr style="height: 24px">
+<td style="height: 24px;width: 33.9688px">1</td>
+<td style="height: 24px;width: 84.0312px">–</td>
+<td style="height: 24px;width: 131px">–</td>
 </tr>
-<tr>
-<td>2</td>
-<td colspan="2" rowspan="3">디자인스튜디오<p></p>
+<tr style="height: 48px">
+<td style="height: 48px;width: 33.9688px">2</td>
+<td colspan="2" rowspan="3" style="height: 104px;width: 215.031px">&nbsp;디자인스튜디오<p></p>
 <p>(해당학년 이수여부 상관없음)</p></td>
 </tr>
-<tr>
-<td>3</td>
+<tr style="height: 28px">
+<td style="height: 28px;width: 33.9688px">3</td>
 </tr>
-<tr>
-<td>4</td>
+<tr style="height: 28px">
+<td style="height: 28px;width: 33.9688px">4</td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 					]]></content:encoded>
-      <atom:updated>2025-11-21T08:48:45.636490271Z</atom:updated>
+      <atom:updated>2025-11-25T02:20:57.283049261Z</atom:updated>
     </item>
     <item>
       <title>[건축학] 2023학년도 입학생 교과과정 및 수강신청 유의사항</title>
