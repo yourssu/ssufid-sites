@@ -4,6 +4,22 @@
   "description": "숭실대학교 화학공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "755",
+      "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=755&sk=&sw=&offset=&category=",
+      "author": "관리자",
+      "title": "2025-겨울방학 학부연구생 모집(박경원 교수 연구실): 신청기한 ~12/3(수)까지",
+      "description": null,
+      "category": [
+        "학부공지사항"
+      ],
+      "created_at": "2025-11-26T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div class=\"body\">\n\t\t\t\n\t<p><img src=\"/uploaded/webedit/2511/700af102cfe5318b9dc5e3417a8c538e_1764145231_73.png\" title=\"700af102cfe5318b9dc5e3417a8c538e_1764145231_73.png\"><br style=\"clear:both;\">&nbsp;</p>\n\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "754",
       "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=754&sk=&sw=&offset=&category=",
       "author": "관리자",
