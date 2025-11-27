@@ -4,6 +4,28 @@
   "description": "숭실대학교 공식 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "2026-1학기-재입학-신청-방법-안내",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-1%ED%95%99%EA%B8%B0-%EC%9E%AC%EC%9E%85%ED%95%99-%EC%8B%A0%EC%B2%AD-%EB%B0%A9%EB%B2%95-%EC%95%88%EB%82%B4&keyword",
+      "author": "학사팀",
+      "title": "",
+      "description": null,
+      "category": [
+        "학사"
+      ],
+      "created_at": "2025-11-27T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": "https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/11/홈페이지-공지2026-1학기-재입학-신청-방법-안내_1.jpg",
+      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><img alt=\"\" class=\"aligncenter size-full wp-image-96458\" height=\"1122\" sizes=\"(max-width: 793px) 100vw, 793px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/11/홈페이지-공지2026-1학기-재입학-신청-방법-안내_1.jpg\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/11/홈페이지-공지2026-1학기-재입학-신청-방법-안내_1.jpg 793w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/11/홈페이지-공지2026-1학기-재입학-신청-방법-안내_1-212x300.jpg 212w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/11/홈페이지-공지2026-1학기-재입학-신청-방법-안내_1-768x1087.jpg 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/11/홈페이지-공지2026-1학기-재입학-신청-방법-안내_1-724x1024.jpg 724w\" width=\"793\"></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"download-list mt-5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4FltSiJIGFXJXrYjpp7BTdxBFi30RDCwYnfi%2B0PyyMGafGLNGc1XzA2beNZNIQmPwgA6016Xu4mVwUUOXdMcJ1Tc%3D\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 재입학-신청서.hwp</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
+      "attachments": [
+        {
+          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4FltSiJIGFXJXrYjpp7BTdxBFi30RDCwYnfi%2B0PyyMGafGLNGc1XzA2beNZNIQmPwgA6016Xu4mVwUUOXdMcJ1Tc%3D",
+          "name": "재입학-신청서.hwp",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "차세대반도체학과-반도체-전문가-초청-특강-i-반도체-3",
       "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%B0%A8%EC%84%B8%EB%8C%80%EB%B0%98%EB%8F%84%EC%B2%B4%ED%95%99%EA%B3%BC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%84%EB%AC%B8%EA%B0%80-%EC%B4%88%EC%B2%AD-%ED%8A%B9%EA%B0%95-i-%EB%B0%98%EB%8F%84%EC%B2%B4-3&keyword",
       "author": "혁신융합대학사업단",
@@ -2219,33 +2241,6 @@
       "thumbnail": "https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/구석구석-서울탐방-4회차-홍보-포스터업로드용-724x1024.jpg",
       "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p style=\"text-align: center\"><span style=\"font-size: 18pt\">서울글로벌센터 &lt;구석구석 서울탐방&gt; 구로 전통시장편 참여자 모집</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt\">서울글로벌센터에서 서울생활OT&lt;구석구석 서울탐방&gt;구로편을 진행합니다.</span></p>\n<p><span style=\"font-size: 14pt\">유학생 여러분의 많은 참여 부탁드립니다.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt\"><b>프로그램 안내</b></span></p>\n<p><span style=\"font-size: 14pt\">&nbsp;-일정: 11/14(금) 14:00~17:00</span></p>\n<p><span style=\"font-size: 14pt\">&nbsp;-장소: 구로구 일대(집합장소 개별안내)</span></p>\n<p><span style=\"font-size: 14pt\">&nbsp;-대상: 서울 거주 외국인유학생</span></p>\n<p><span style=\"font-size: 14pt\">&nbsp;-내용: 서울생활OT, 전통시장 탐방</span></p>\n<p><span style=\"font-size: 14pt\">&nbsp;-진행언어: 한국어</span></p>\n<p><span style=\"font-size: 14pt\">&nbsp;-참가비: 무료</span></p>\n<p><span style=\"font-size: 14pt\">&nbsp;-편한 복장과 운동화 추천</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt\"><b>신청안내</b></span></p>\n<p><span style=\"font-size: 14pt\">&nbsp;-신청기간:~11/6(목)</span></p>\n<p><span style=\"font-size: 14pt\">&nbsp;-신청링크: <a href=\"https://m.site.naver.com/1TX9w\"><u>https://m.site.naver.com/1TX9w</u></a></span></p>\n<p><span style=\"font-size: 14pt\">&nbsp;-합격자발표:11/7(금) 17:00</span></p>\n<p>&nbsp;</p>\n<p><a href=\"https://scatch.ssu.ac.kr/%ea%b5%ac%ec%84%9d%ea%b5%ac%ec%84%9d-%ec%84%9c%ec%9a%b8%ed%83%90%eb%b0%a9-4%ed%9a%8c%ec%b0%a8-%ed%99%8d%eb%b3%b4-%ed%8f%ac%ec%8a%a4%ed%84%b0%ec%97%85%eb%a1%9c%eb%93%9c%ec%9a%a9/\" rel=\"attachment wp-att-95523\"><img alt=\"\" class=\"size-large wp-image-95523 aligncenter\" height=\"1024\" sizes=\"(max-width: 724px) 100vw, 724px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/구석구석-서울탐방-4회차-홍보-포스터업로드용-724x1024.jpg\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/구석구석-서울탐방-4회차-홍보-포스터업로드용-724x1024.jpg 724w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/구석구석-서울탐방-4회차-홍보-포스터업로드용-212x300.jpg 212w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/구석구석-서울탐방-4회차-홍보-포스터업로드용-768x1086.jpg 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2025/10/구석구석-서울탐방-4회차-홍보-포스터업로드용-1568x2217.jpg 1568w\" width=\"724\"></a></p>\n<p style=\"text-align: center\"><span style=\"font-size: 18pt\">2025.10.29.</span></p>\n<p style=\"text-align: center\"><span style=\"font-size: 18pt\">국제처장</span></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
       "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "★-2025학년도-2학기-특별장학금주거비-교통비-근면숭",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-2025%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%ED%8A%B9%EB%B3%84%EC%9E%A5%ED%95%99%EA%B8%88%EC%A3%BC%EA%B1%B0%EB%B9%84-%EA%B5%90%ED%86%B5%EB%B9%84-%EA%B7%BC%EB%A9%B4%EC%88%AD&keyword",
-      "author": "장학팀",
-      "title": "",
-      "description": null,
-      "category": [
-        "장학"
-      ],
-      "created_at": "2025-10-29T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><span style=\"font-family: verdana, geneva, sans-serif\">2025학년도 2학기 특별장학금을 시행하니, 학부생들의 많은 관심 및 신청 바랍니다. 자세한 사항은 붙임을 확인하여 주시기 바랍니다.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: verdana, geneva, sans-serif\">붙임1. 2025학년도 2학기 특별장학금 신청 안내</span></p>\n<p><span style=\"font-family: verdana, geneva, sans-serif\">붙임2. 2025학년도 2학기 특별장학금 세부사항 및 양식</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center\"><span style=\"font-family: verdana, geneva, sans-serif\">2025.10.29</span></p>\n<p style=\"text-align: center\"><span style=\"font-family: verdana, geneva, sans-serif\">학생처장</span></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"download-list mt-5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fov2xHSoRlJGyuXpJFlqnkfJGaVAxWUmK8sjKlJG0gpaZTrWZ5N3wvaIt31HqjbYPjt1dYw%2FfrBqdppopjtNKdqBFuH72XTDFmdwXD77Jw43TrHQyAJw0fYp8Zird0agLRN%2B5EOJBVTIsDx4AqYK06JznPWYFpBmr4IEca%2FH8ERNAzJKKtTxjBkb2p4EmKVixK5VkL0KKD8aJwBlkJAMcPU%3D\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 공지-2025-2학기-특별장학금-신청-안내_홈페이지-공지.pdf</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fh0gMIqCYWTMfEdbSOGkqvnIPXHpU3e2hmUul7ZemH7rgcCm7POWFSgfpXmncZoMMCE2DlpQc5t3zTzK3jCNrZCMOBkVLY2qPyDcjuTxQwtm8F%2FawgoBHb6MnktAWYcH%2B3xopJm7OStjq5txPfUcU4ilnzgkEcQ91OI4mBajuvXSgDHfJaUnyAQLpYt2M1dZcA%3D%3D\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 2025학년도-2학기-특별장학금-세부사항-및-양식.zip</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
-      "attachments": [
-        {
-          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fov2xHSoRlJGyuXpJFlqnkfJGaVAxWUmK8sjKlJG0gpaZTrWZ5N3wvaIt31HqjbYPjt1dYw%2FfrBqdppopjtNKdqBFuH72XTDFmdwXD77Jw43TrHQyAJw0fYp8Zird0agLRN%2B5EOJBVTIsDx4AqYK06JznPWYFpBmr4IEca%2FH8ERNAzJKKtTxjBkb2p4EmKVixK5VkL0KKD8aJwBlkJAMcPU%3D",
-          "name": "공지-2025-2학기-특별장학금-신청-안내_홈페이지-공지.pdf",
-          "mime_type": null
-        },
-        {
-          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fh0gMIqCYWTMfEdbSOGkqvnIPXHpU3e2hmUul7ZemH7rgcCm7POWFSgfpXmncZoMMCE2DlpQc5t3zTzK3jCNrZCMOBkVLY2qPyDcjuTxQwtm8F%2FawgoBHb6MnktAWYcH%2B3xopJm7OStjq5txPfUcU4ilnzgkEcQ91OI4mBajuvXSgDHfJaUnyAQLpYt2M1dZcA%3D%3D",
-          "name": "2025학년도-2학기-특별장학금-세부사항-및-양식.zip",
-          "mime_type": null
-        }
-      ],
       "metadata": null
     }
   ]
