@@ -1,0 +1,4 @@
+sites.json
+assets/
+**/index.html
+!.generator/**/index.html

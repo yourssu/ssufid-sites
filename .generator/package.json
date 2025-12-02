@@ -1,0 +1,27 @@
+{
+  "name": "ssufid-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "generate-sitemap": "node scripts/generate-sitemap.js",
+    "deploy-files": "node scripts/deploy.js",
+    "build": "pnpm generate-sitemap && vite build && pnpm deploy-files",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "glob": "^13.0.0",
+    "tailwindcss": "^4.1.17",
+    "typescript": "^5.5.3",
+    "vite": "^7.2.6"
+  }
+}

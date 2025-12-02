@@ -24,6 +24,46 @@ jobs:
     permissions:
       # push
       contents: write
-      # deploy-pages
+      id-token: write
+
+  deploy:
+    needs: daemon
+    runs-on: ubuntu-latest
+    permissions:
       pages: write
       id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+          cache: "pnpm"
+          cache-dependency-path: .generator/pnpm-lock.yaml
+
+      - name: Install dependencies and build
+        working-directory: .generator
+        run: |
+          pnpm install
+          pnpm build
+
+      - name: Remove hidden files and directories
+        run: |
+          find . -name '.*' -exec rm -rf {} +
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
