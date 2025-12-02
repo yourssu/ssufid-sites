@@ -1,3 +1,5 @@
+import sanitizeHtml from 'sanitize-html';
+
 import { NoticeItem as NoticeItemType } from '@/types';
 
 interface NoticeItemProps {
@@ -18,18 +20,34 @@ function NoticeItem({ item }: NoticeItemProps) {
     }
   };
 
+  const sanitizeContent = (html: string) => {
+    // HTML 태그 제거 및 HTML entities 디코딩
+    const cleaned = sanitizeHtml(html, {
+      allowedTags: [],
+      allowedAttributes: {},
+    });
+    // HTML entities를 실제 문자로 변환
+    const textarea = document.createElement('textarea');
+    textarea.innerHTML = cleaned;
+    return textarea.value;
+  };
+
   return (
     <div className="rounded-lg border border-gray-200 bg-white p-6 shadow-sm transition-shadow hover:shadow-md dark:border-gray-700 dark:bg-gray-800">
       <div className="mb-2 flex items-start justify-between">
         <a
           className="flex-1 text-lg font-semibold text-gray-900 hover:text-blue-600 dark:text-white dark:hover:text-blue-400"
-          href={item.link}
+          href={item.url}
           rel="noopener noreferrer"
           target="_blank"
         >
           {item.title}
         </a>
       </div>
+
+      {item.description && (
+        <p className="mb-2 text-sm text-gray-600 dark:text-gray-400">{item.description}</p>
+      )}
 
       <div className="mb-3 flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400">
         {item.author && (
@@ -56,6 +74,19 @@ function NoticeItem({ item }: NoticeItemProps) {
           </svg>
           {formatDate(item.created_at)}
         </span>
+        {item.updated_at && (
+          <span className="flex items-center gap-1 text-xs">
+            <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path
+                d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+              />
+            </svg>
+            수정: {formatDate(item.updated_at)}
+          </span>
+        )}
       </div>
 
       {item.category && item.category.length > 0 && (
@@ -72,10 +103,9 @@ function NoticeItem({ item }: NoticeItemProps) {
       )}
 
       {item.content && (
-        <div
-          className="line-clamp-3 text-sm text-gray-700 dark:text-gray-300"
-          dangerouslySetInnerHTML={{ __html: item.content }}
-        />
+        <div className="line-clamp-3 text-sm text-gray-700 dark:text-gray-300">
+          {sanitizeContent(item.content)}
+        </div>
       )}
 
       {item.attachments && item.attachments.length > 0 && (

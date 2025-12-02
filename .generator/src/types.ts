@@ -5,9 +5,14 @@ export interface NoticeItem {
   content: string;
   // eslint-disable-next-line @typescript-eslint/naming-convention
   created_at: string;
+  description: null | string;
   id: string;
-  link: string;
+  metadata: unknown;
+  thunbnail: null | string;
   title: string;
+  // eslint-disable-next-line @typescript-eslint/naming-convention
+  updated_at: null | string;
+  url: string;
 }
 
 export interface SiteData {
