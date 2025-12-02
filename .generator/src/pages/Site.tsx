@@ -1,3 +1,4 @@
+import { FileJson, Rss } from 'lucide-react';
 import { useEffect, useState } from 'react';
 
 import Layout from '@/components/Layout';
@@ -14,7 +15,9 @@ function Site() {
     // 현재 경로에서 ./data.json을 fetch
     fetch('./data.json')
       .then((res) => {
-        if (!res.ok) {throw new Error('Failed to fetch data.json');}
+        if (!res.ok) {
+          throw new Error('Failed to fetch data.json');
+        }
         return res.json();
       })
       .then((data) => {
@@ -55,16 +58,41 @@ function Site() {
               {siteData.description && (
                 <p className="mb-2 text-gray-600 dark:text-gray-400">{siteData.description}</p>
               )}
-              {siteData.source && (
-                <a
-                  className="text-sm text-blue-600 hover:underline dark:text-blue-400"
-                  href={siteData.source}
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  원본 사이트 방문 →
-                </a>
-              )}
+              <div className="flex flex-wrap items-center gap-4">
+                {siteData.source && (
+                  <a
+                    className="text-sm text-blue-600 hover:underline dark:text-blue-400"
+                    href={siteData.source}
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    원본 사이트 방문 →
+                  </a>
+                )}
+                <div className="flex items-center gap-2">
+                  <a
+                    className="inline-flex items-center gap-1 text-sm text-gray-600 hover:text-orange-600 dark:text-gray-400 dark:hover:text-orange-400"
+                    href="./rss.xml"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                    title="RSS Feed"
+                  >
+                    <Rss className="h-4 w-4" />
+                    <span>RSS</span>
+                  </a>
+                  <span className="text-gray-400">|</span>
+                  <a
+                    className="inline-flex items-center gap-1 text-sm text-gray-600 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400"
+                    href="./data.json"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                    title="JSON Data"
+                  >
+                    <FileJson className="h-4 w-4" />
+                    <span>JSON</span>
+                  </a>
+                </div>
+              </div>
             </div>
 
             <NoticeList items={siteData.items} />
