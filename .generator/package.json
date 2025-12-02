@@ -7,6 +7,9 @@
     "generate-sitemap": "node scripts/generate-sitemap.js",
     "deploy-files": "node scripts/deploy.js",
     "build": "pnpm generate-sitemap && vite build && pnpm deploy-files",
+    "lint": "eslint .",
+    "fix:lint": "eslint . --fix",
+    "fix:format": "prettier --write .",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -14,14 +17,26 @@
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
+    "@eslint/js": "^9.39.1",
     "@tailwindcss/vite": "^4.1.17",
     "@types/node": "^24.10.1",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-perfectionist": "^4.15.1",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "eslint-plugin-unused-imports": "^4.3.0",
     "glob": "^13.0.0",
+    "globals": "^16.5.0",
+    "prettier": "^3.7.3",
+    "prettier-plugin-tailwindcss": "^0.7.2",
     "tailwindcss": "^4.1.17",
     "typescript": "^5.5.3",
+    "typescript-eslint": "^8.48.1",
     "vite": "^7.2.6"
   }
 }
