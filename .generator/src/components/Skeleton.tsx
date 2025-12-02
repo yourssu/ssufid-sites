@@ -2,11 +2,11 @@ interface SkeletonProps {
   className?: string;
 }
 
-function Skeleton({ className = "" }: SkeletonProps) {
+function Skeleton({ className = '' }: SkeletonProps) {
   return (
     <div
-      className={`animate-pulse bg-gray-200 dark:bg-gray-700 rounded ${className}`}
       aria-hidden="true"
+      className={`animate-pulse rounded bg-gray-200 dark:bg-gray-700 ${className}`}
     />
   );
 }

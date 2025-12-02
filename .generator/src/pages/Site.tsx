@@ -1,19 +1,20 @@
-import { useEffect, useState } from "react";
-import Layout from "@/components/Layout";
-import NoticeList from "@/components/NoticeList";
-import Skeleton from "@/components/Skeleton";
-import { SiteData } from "@/types";
+import { useEffect, useState } from 'react';
+
+import Layout from '@/components/Layout';
+import NoticeList from '@/components/NoticeList';
+import Skeleton from '@/components/Skeleton';
+import { SiteData } from '@/types';
 
 function Site() {
-  const [siteData, setSiteData] = useState<SiteData | null>(null);
+  const [siteData, setSiteData] = useState<null | SiteData>(null);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+  const [error, setError] = useState<null | string>(null);
 
   useEffect(() => {
     // 현재 경로에서 ./data.json을 fetch
-    fetch("./data.json")
+    fetch('./data.json')
       .then((res) => {
-        if (!res.ok) throw new Error("Failed to fetch data.json");
+        if (!res.ok) {throw new Error('Failed to fetch data.json');}
         return res.json();
       })
       .then((data) => {
@@ -28,9 +29,9 @@ function Site() {
 
   return (
     <Layout
-      title={siteData?.title || "Loading..."}
       description={siteData?.description}
       source={siteData?.source}
+      title={siteData?.title || 'Loading...'}
     >
       <div className="container mx-auto px-4 py-8">
         {loading && (
@@ -38,34 +39,28 @@ function Site() {
             <Skeleton className="h-12 w-3/4" />
             <Skeleton className="h-6 w-1/2" />
             {[...Array(5)].map((_, i) => (
-              <Skeleton key={i} className="h-24" />
+              <Skeleton className="h-24" key={i} />
             ))}
           </div>
         )}
 
-        {error && (
-          <div className="text-center text-red-600 dark:text-red-400">
-            {error}
-          </div>
-        )}
+        {error && <div className="text-center text-red-600 dark:text-red-400">{error}</div>}
 
         {!loading && !error && siteData && (
           <>
             <div className="mb-8">
-              <h1 className="text-4xl font-bold mb-2 text-gray-900 dark:text-white">
+              <h1 className="mb-2 text-4xl font-bold text-gray-900 dark:text-white">
                 {siteData.title}
               </h1>
               {siteData.description && (
-                <p className="text-gray-600 dark:text-gray-400 mb-2">
-                  {siteData.description}
-                </p>
+                <p className="mb-2 text-gray-600 dark:text-gray-400">{siteData.description}</p>
               )}
               {siteData.source && (
                 <a
+                  className="text-sm text-blue-600 hover:underline dark:text-blue-400"
                   href={siteData.source}
-                  target="_blank"
                   rel="noopener noreferrer"
-                  className="text-blue-600 dark:text-blue-400 hover:underline text-sm"
+                  target="_blank"
                 >
                   원본 사이트 방문 →
                 </a>
@@ -77,9 +72,7 @@ function Site() {
         )}
 
         {!loading && !error && siteData && siteData.items.length === 0 && (
-          <div className="text-center text-gray-600 dark:text-gray-400">
-            공지사항이 없습니다.
-          </div>
+          <div className="text-center text-gray-600 dark:text-gray-400">공지사항이 없습니다.</div>
         )}
       </div>
     </Layout>

@@ -1,25 +1,26 @@
 export interface NoticeItem {
-  id: string;
-  title: string;
-  link: string;
-  author: string;
-  created_at: string;
-  content: string;
-  category: string[];
   attachments: string[];
+  author: string;
+  category: string[];
+  content: string;
+  // eslint-disable-next-line @typescript-eslint/naming-convention
+  created_at: string;
+  id: string;
+  link: string;
+  title: string;
 }
 
 export interface SiteData {
-  title: string;
-  source: string;
   description: string;
   items: NoticeItem[];
+  source: string;
+  title: string;
 }
 
 export interface SiteMetadata {
-  slug: string;
-  title: string;
   description: string;
-  source: string;
   itemCount: number;
+  slug: string;
+  source: string;
+  title: string;
 }
