@@ -4,6 +4,20 @@
   "description": "숭실대학교 철학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "5678",
+      "url": "https://philo.ssu.ac.kr/%ed%95%99%ea%b3%bc%ec%82%ac%eb%ac%b4%ec%8b%a4%ec%95%8c%eb%a6%bc/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=5678",
+      "author": null,
+      "title": "[공지] 수시 논술고사 기간 중 고사 장소 통제 안내(11/14~11/15)",
+      "description": null,
+      "category": [],
+      "created_at": "2025-10-28T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p>가.&nbsp;논술고사 기간</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr class=\"xfeDeleteRow\">\n<td rowspan=\"1\">일자</td>\n<td rowspan=\"1\">구분</td>\n<td rowspan=\"1\">계열</td>\n<td colspan=\"3\" rowspan=\"1\">지원인원(명)</td>\n<td colspan=\"2\" rowspan=\"1\">시간</td>\n</tr>\n<tr class=\"xfeDeleteRow\">\n<td rowspan=\"2\"><b>11.15(토)</b></td>\n<td rowspan=\"1\">1교시</td>\n<td colspan=\"1\" rowspan=\"1\">자연</td>\n<td colspan=\"3\" rowspan=\"1\">5,469</td>\n<td colspan=\"2\" rowspan=\"1\">10:00~11:40</td>\n</tr>\n<tr class=\"xfeDeleteRow\">\n<td rowspan=\"1\">2교시</td>\n<td rowspan=\"1\">인문, 경상</td>\n<td colspan=\"3\" rowspan=\"1\">4,038</td>\n<td colspan=\"2\" rowspan=\"1\">15:00~16:40</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>나. 통제 안내</p>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr class=\"xfeDeleteRow\">\n<td colspan=\"1\" rowspan=\"1\">구분</td>\n<td colspan=\"4\" rowspan=\"1\">기간</td>\n<td colspan=\"7\" rowspan=\"1\">장소</td>\n<td rowspan=\"1\">비고</td>\n</tr>\n<tr class=\"xfeDeleteRow\">\n<td rowspan=\"1\"><b>건물</b><p></p>\n<p><b>출입</b></p>\n<p><b>통제</b></p></td>\n<td colspan=\"4\" rowspan=\"1\"><b>11.14.(금)&nbsp;15:00</b><p></p>\n<p><b>~</b></p>\n<p><b>11.15.(토) 18:00</b></p></td>\n<td colspan=\"6\" rowspan=\"1\">조만식기념관<p></p>\n<p>진리관</p>\n<p>미래관</p>\n<p>숭덕경상관</p></td>\n<td rowspan=\"1\">\n<div id=\"xfe_tmp_div\">\n<p>문화관</p>\n<p>백마관</p>\n<p>교육관</p>\n<p>한경직기념관</p>\n</div>\n</td>\n<td rowspan=\"1\"><b>모든 인원 출입 불가</b></td>\n</tr>\n<tr class=\"xfeDeleteRow\">\n<td><b>차량</b><p></p>\n<p><b>출입</b></p>\n<p><b>통제</b></p></td>\n<td colspan=\"4\"><b>11.15.(토)</b><p></p>\n<p><b>07:00&nbsp;~&nbsp;18:00</b></p></td>\n<td colspan=\"7\">교내 전체 진출입로</td>\n<td><b>모든 차량 출입 불가</b></td>\n</tr>\n</tbody>\n</table>\n<p>※ 통제&nbsp;대상 외 건물은 논술고사 기간에도 사용 가능</p>\n<p>※ 고사 건물 내 근무자만 제한적으로 출입 가능</p>\n<p>※ 통제 기간은 고사 당일 상황에 따라 연장될 수 있음</p>\n<p>&nbsp;</p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "5671",
       "url": "https://philo.ssu.ac.kr/%ed%95%99%ea%b3%bc%ec%82%ac%eb%ac%b4%ec%8b%a4%ec%95%8c%eb%a6%bc/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=5671",
       "author": null,
