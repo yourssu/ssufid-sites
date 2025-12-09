@@ -4,6 +4,20 @@
   "description": "숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "15361",
+      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/15361",
+      "author": "임*은",
+      "title": "[모집] 도전! 벽돌책 격파 챌린지 참가자 모집(~12/22, 월)",
+      "description": null,
+      "category": [],
+      "created_at": "2025-12-09T13:47:33+09:00",
+      "updated_at": "2025-12-09T13:47:33+09:00",
+      "thumbnail": null,
+      "content": "<p><a href=\"http://path.ssu.ac.kr\"><span style=\"font-size:22px\"><strong>슈패스에서 &quot;벽돌책&quot; 검색 후 신청하기!</strong></span></a></p>\n\n<p><img src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/65417f07-8445-45d5-9754-bee34302252b\" style=\"height:1200px; width:900px\" /></p>\n\n<p>&lt;도전! 벽돌책 격파 챌린지&gt;는 선정된 3개의 도서 중 격파하고 싶은 도서를 신청하고, 30일 동안 매일 조금씩 읽어 완독하는 프로그램입니다.&nbsp;&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;▶ &nbsp;모집기간:&nbsp;<strong>~12/22(월)까지&nbsp;</strong></p>\n\n<p>&nbsp;▶ &nbsp;모집대상: 본교 학부생(재학, 휴학)&nbsp;&nbsp;</p>\n\n<p>&nbsp;▶ &nbsp;모집인원:&nbsp;<strong>총 60명 /&nbsp;<u>도서별 20명 선착순 접수</u></strong>&nbsp; (중복신청 불가)</p>\n\n<p>&nbsp;▶ &nbsp;신청방법: 선정된 3권의 벽돌책 중 본인이 격파하고 싶은 도서 1권을 선택하여 신청&nbsp;&nbsp;</p>\n\n<p>&nbsp;▶&nbsp; 도서수령</p>\n\n<p>&nbsp;&nbsp; - 기간: ~12/26(금)</p>\n\n<p>&nbsp;&nbsp; - 장소: 중앙도서관 1층 학술정보지원팀 사무실 방문 후 책 수령</p>\n\n<p>&nbsp;&nbsp; &nbsp;&nbsp;※ 미수료시 도서및 기념품 반납必</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;▶&nbsp; 챌린지 기간: 2026. 1. 1. ~ 1. 30.</p>\n\n<p>&nbsp;▶ &nbsp;운영 방식 [인증방식 간편화!]</p>\n\n<p>&nbsp;&nbsp; &nbsp;1) 전체 참가자 단톡방 입장</p>\n\n<p>&nbsp;&nbsp; &nbsp;2) 단톡방은 조용한 &#39;벽돌책 응원방&#39;입니다. 매일(평일) 독서챌린지 안내메시지가 올라갑니다.&nbsp;</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 별도응답없이 메시지 확인하시고&nbsp;하루하루 분량 맞춰 독서하시면 됩니다 :)</p>\n\n<p>&nbsp;&nbsp; &nbsp;3) 독서분량은 평일기준으로 안내됩니다. 주말은 휴식을 취하거나 밀린 독서를 진행해주시면 됩니다.&nbsp;</p>\n\n<p>&nbsp; &nbsp;4) 챌린지 미션 수행하기</p>\n\n<p>&nbsp;&nbsp; &nbsp; &nbsp;- 일일 미션: 정해진 독서분량을 읽고 &#39;30일 도전판(행사참가자 기념품)&#39;에 개인별 체크</p>\n\n<p>&nbsp;&nbsp; &nbsp; &nbsp;- 완료 미션1. 1,500자 이상 후기 제출 / 완료미션2. &#39;30일 도전판&#39; 완성후 사진을&nbsp;슈패스에 업로드</p>\n\n<p>&nbsp;&nbsp; &nbsp;<strong><u>※ 챌린지는 평일에만 진행됩니다.</u></strong></p>\n\n<p>&nbsp;&nbsp;</p>\n\n<p>&nbsp;&nbsp;&nbsp;▶ 챌린지가 필요한 분들</p>\n\n<p>&nbsp;&nbsp; 1) 텍스트힙 유행에 탑승하고 싶은 분</p>\n\n<p>&nbsp;&nbsp; 2) 의미 있는 30일을 보내고 싶은 분</p>\n\n<p>&nbsp;&nbsp; 3) 일상 독서 습관을 들이고 싶은 분</p>\n\n<p>&nbsp;&nbsp; 4) 함께 읽는 즐거움을 알고 싶은 분</p>\n\n<p>&nbsp;&nbsp;&nbsp;하나라도 해당된다면 30일간 함께 해요!!</p>\n\n<p>&nbsp;&nbsp;</p>\n\n<p>&nbsp;▶ 챌린지 팀채팅방 운영</p>\n\n<p>&nbsp;&nbsp;&nbsp; &nbsp;- 선정된 학생에게 문자로 URL 개별 안내 / 발송번호 02-820-0731</p>\n\n<p>▶ 챌린지 도전판 제공</p>\n\n<p>▶ 미수료시 도서반납 및&nbsp;블랙리스트 등재 예정(3개월)</p>\n\n<p>▶ &nbsp;문의처: 중앙도서관 독서인재프로그램 담당자(ssuy1105@ssu.ac.kr, 02-820-0731)</p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "15356",
       "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/15356",
       "author": "임*리",
@@ -1448,20 +1462,6 @@
       "updated_at": "2025-04-18T09:03:13+09:00",
       "thumbnail": null,
       "content": "<p><img alt=\"\" src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/3714ac3d-7d6f-423b-a29d-792d03221db7\" style=\"height:720px; width:960px\" /></p>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "14243",
-      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14243",
-      "author": "임*리",
-      "title": "[모집] 패스트 캠퍼스 무제한 이러닝 수강생(5월) 📅 4/23 신청 OPEN!",
-      "description": null,
-      "category": [],
-      "created_at": "2025-04-09T13:55:19+09:00",
-      "updated_at": "2025-04-23T10:00:00+09:00",
-      "thumbnail": null,
-      "content": "<p><span style=\"font-size:20px\"><strong>✅&nbsp;신청 링크: </strong><a href=\"https://forms.gle/ceTY17H2cpuVQUACA\"><span style=\"color:#ff3366\"><strong>https://forms.gle/ceTY17H2cpuVQUACA</strong></span></a>&nbsp;</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\">안녕하세요.&nbsp;<strong>숭실대학교 중앙도서관 X 패스트 캠퍼스가 함께하는 무제한 이러닝 수강생(5월)을 모집</strong>합니다.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>😍패스트 캠퍼스(FAST CAMPUS)는?</strong></span></p>\n\n<p><span style=\"font-size:18px\">패스트캠퍼스는 누적 수강생 20만명의 성인교육분야 국내 1위 교육 서비스입니다.</span></p>\n\n<p><span style=\"font-size:18px\">AI부터 프로그래밍, 데이터사이언스, 디자인, 마케팅까지 학생에게 필요한 약 40,000개의 콘텐츠를 제공합니다.</span></p>\n\n<p><span style=\"font-size:18px\"><strong>💻&nbsp;<a href=\"https://fastcampus.co.kr/event_online_last_2502\">패스트캠퍼스 사이트 살펴보기 click</a></strong></span></p>\n\n<p>&nbsp;</p>\n\n<p><a href=\"https://www.notion.so/X-FAST-CAMPUS-19d39fd47aec80069c10d985256e3a3c\"><img alt=\"\" src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/78feb1bc-6338-4d1f-97bc-2df6834378f5\" style=\"height:1123px; width:794px\" /></a><br />\n&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>1. 신청방법</strong></span></p>\n\n<p><span style=\"font-size:18px\">■ 모집&nbsp;기간: 25. 4. <strong><span style=\"color:#ff3366\">23.(수)</span> </strong>10:00&nbsp;~ 4. <strong><span style=\"color:#ff3366\">24(목)</span> </strong>23:59</span></p>\n\n<p><span style=\"font-size:18px\">■ 수강 대상:&nbsp;숭실대 학부 재학생 / 선착순 20명&nbsp;(※ 졸업생, 휴학생의 경우 신청 시 탈락 될 수 있습니다)</span></p>\n\n<p><span style=\"font-size:18px\">■ 수강 기간:&nbsp;25. 5. 01.(목) ~ 5. 31.(토)</span></p>\n\n<p><span style=\"font-size:18px\"><strong>🔗&nbsp;<a href=\"https://www.notion.so/X-FASTCAMPUS-19d39fd47aec80069c10d985256e3a3c\">패스트 캠퍼스 강의 리스트 &amp; 자세한 신청안내 click</a>&nbsp;</strong></span></p>\n\n<p><span style=\"font-size:18px\">※ <span style=\"color:#ff3366\"><strong>선정 여부는 4/29(화) 개별 안내</strong></span> 예정</span></p>\n\n<p><span style=\"font-size:18px\">※ 매월 신청 기간 동안, 신청 링크를 통해 수강 신청을 받습니다.&nbsp;단, 시험 기간이 포함된 월에는 신청 및 수강을 진행하지 않습니다.&nbsp;</span></p>\n\n<p><br />\n<span style=\"font-size:18px\"><strong>2. 수강방법</strong></span></p>\n\n<p><span style=\"font-size:18px\">1) 선정 여부 확인:&nbsp;신청서에 작성한 개별 이메일을 통해 선정 여부 발송(4/29, 화&nbsp;예정) &nbsp;</span></p>\n\n<p><span style=\"font-size:18px\">2) (선정자 대상) 강의장 접속 후, 메일로 안내받은 계정 정보를 확인하여 로그인&nbsp;</span></p>\n\n<p><br />\n<span style=\"font-size:18px\"><strong>⚠️ 신청 및 수강 유의 사항</strong></span></p>\n\n<p><span style=\"font-size:18px\">✔️&nbsp;<strong>신청은 한 학기에 1회 가능</strong>합니다. (※단, 신청자 미달 시 선정 가능)</span></p>\n\n<p><span style=\"font-size:18px\">✔️ 신청은&nbsp;<strong>선착순 마감</strong>됩니다.</span></p>\n\n<p><span style=\"font-size:18px\">✔️ 신청자 선정 여부는&nbsp;<strong>이메일로 개별 안내</strong>됩니다.&nbsp;</span></p>\n\n<p><span style=\"font-size:18px\">&nbsp; &nbsp; &nbsp;📢&nbsp;<em><u><strong>이메일 미확인으로 인한 불이익은 책임지지 않으니, 반드시 이메일을 확인</strong></u></em>하시기 바랍니다.</span></p>\n\n<p><span style=\"font-size:18px\">✔️ 선정된 학생은 이용 기간 내에 ⏳<strong>25시간 이상 강의를 수강하셔야 이수처리</strong>⏳가 되며,&nbsp;미이수시 1년&nbsp;간(2학기) 신청이 제한됩니다.</span></p>\n\n<p><span style=\"font-size:18px\">✔️&nbsp;<strong>신청한 강의는 해당 기간 동안만 수강</strong>할 수 있으며,&nbsp;<strong>선정 기간이 종료된 후에는 강의 내용을 확인할 수 있지만 실제 강의 수강은 불가능</strong>합니다.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\">*모집 및 신청 안내: 숭실대학교 중앙도서관 학술정보운영팀 02-820-0741</span></p>\n\n<p><span style=\"font-size:18px\">*패스트캠퍼스 서비스 및 콘텐츠 이용 문의: 런덕(LearnDuck) 010-8856-3638</span></p>\n\n<p>&nbsp;</p>",
       "attachments": [],
       "metadata": null
     }
