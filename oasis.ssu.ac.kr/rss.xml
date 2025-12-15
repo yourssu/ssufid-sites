@@ -491,16 +491,70 @@
       <atom:updated>2025-12-09T11:33:30+09:00</atom:updated>
     </item>
     <item>
-      <title>[교육] 🎓학위논문 온라인(dCollection) 제출 특강(12/15 월 10:00)</title>
+      <title>[교육] 🎓학위논문 온라인(dCollection) 제출 특강(📺녹화 다시보기)</title>
       <link>https://oasis.ssu.ac.kr/library-services/bulletin/notice/15323</link>
-      <description><![CDATA[<p>안녕하세요. 학위논문 제출자를 위한 &#39;학위논문 온라인(dCollection) ...]]></description>
+      <description><![CDATA[<p>안녕하세요. 학위논문 제출자를 위한 <strong><span style="backgr...]]></description>
       <author>임*리</author>
       <guid isPermaLink="false">15323</guid>
       <pubDate>Tue, 02 Dec 2025 14:35:15 +0900</pubDate>
-      <content:encoded><![CDATA[<p>안녕하세요. 학위논문 제출자를 위한 &#39;학위논문 온라인(dCollection) 제출 특강&#39; <u>12/15(월) 오후 중 녹화 영상 게시 예정</u>입니다.&nbsp;</p>
+      <content:encoded><![CDATA[<p>안녕하세요. 학위논문 제출자를 위한 <strong><span style="background-color:#ffffcc">&#39;학위논문 온라인(dCollection) 제출 특강&#39; 녹화 영상</span></strong>입니다.&nbsp;</p>
 
-<p><img alt="" src="https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/c9b8c817-2823-4dea-b879-af36edfc298d" style="height:445px; width:800px" /></p>]]></content:encoded>
-      <atom:updated>2025-12-15T11:20:40+09:00</atom:updated>
+<p>📺아래 이미지(유튜브 연결) 또는 ▶️하단 영상 재생 버튼 눌러서 재생하시면 됩니다.&nbsp;&nbsp;</p>
+
+<p><a href="https://youtu.be/AUYA-UGI38E?si=tcMVCLQJT-jWxvsZ"><img alt="" src="https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/c9b8c817-2823-4dea-b879-af36edfc298d" style="height:445px; width:800px" /></a></p>
+
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/AUYA-UGI38E?si=K2VB-9cVGklZtH_r" title="YouTube video player" width="560"></iframe></p>
+
+<p>🌐유튜브에서 <strong data-end="97" data-start="82"><span style="background-color:#ccffff">자막 설정(영어 등) 가능</span></strong>합니다. <strong><span style="background-color:#ccffff">영어 매뉴얼</span></strong>은 본 게시물 첨부파일 확인바랍니다.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span style="background-color:#ffffcc">💬📌교육 중 Q&amp;A를 공유합니다.&nbsp;</span></strong></p>
+
+<p><strong><span style="background-color:#dddddd">Q. 인준서를 컬러스캔해서 디콜렉션에도 올려야한다고 되어있는데, 혹시 이 부분은 기한이 28일까지가 맞나요?</span></strong></p>
+
+<p>A. 인준서와 논문 원문 파일 모두 업로드 기한 마감은 28일입니다.</p>
+
+<p><br />
+<strong><span style="background-color:#dddddd">Q. 혹시 반송되었을때 기한 내에 수정을 해서 다시 재제출을 하지 못하면 어떻게 되나요?</span></strong></p>
+
+<p>A. 반송되었을 때 재제출을 하지 않으시는 분들은 소속대학원에 미제출자 명단을 넘깁니다. 졸업에 문제가 있을 수 있습니다.</p>
+
+<p><br />
+<strong><span style="background-color:#dddddd">Q. 혹시 반송되면 따로 이유를 알려주시나요?</span></strong></p>
+
+<p>A. 반송되는 경우 메세지에 사유를 말씀드리고 있습니다.</p>
+
+<p><br />
+<strong><span style="background-color:#dddddd">Q. 해당 절차는 CopyKiller 검사 이후에 진행되는지 문의드립니다.</span></strong><br />
+A. dCollection 업로드는 최종 논문 심사가 모두 완료된 논문을 등록하는 절차입니다. 카피킬러 검사 등 논문 심사와 관련된 모든 제반 사항이 완료된 이후에 업로드해 주시기 바랍니다.</p>
+
+<p><br />
+<strong><span style="background-color:#dddddd">Q. 문의 사항이 있습니다.&nbsp;</span><br />
+<span style="background-color:#dddddd">1. 제출확인서 및 인준서 원본의 경우도 학과 사무실에 12월 28일 까지 제출해야하나요?</span><br />
+<span style="background-color:#dddddd">2. 논문 업로드시 인준서는 제거하라고 하셨는데, 그러면, 논문시작쪽수는 인준지를 제거한 상태에서의 쪽수인가요?</span><br />
+<span style="background-color:#dddddd">3. 이공계 등에서는 초록, 목차등에 윗첨자,아래 첨자를 쓰는 경우가 많은데, 이걸 쓸수 있는 기능이 따로 있나요? </span></strong><strong><span style="background-color:#dddddd">예를 들어 H2O를 쓸때, 아래첨자로 2를 쓸수 있나요? 아니면, 그냥 latex 형식처럼 H_2O 이렇게 밖게 적을수 없나요?</span></strong></p>
+
+<p>A. 답변드립니다.&nbsp;<br />
+1. 제출확인서와 인준서 제출 기한은 소속 대학원에 문의하셔야 합니다.<br />
+2. 인준서를 삭제하고 본문이 시작되는 페이지 순서가 논문시작 쪽수입니다.<br />
+3. 논문 작성 시 첨자 사용 가능 여부와 관련한 기능은 소속 대학원의 논문 작성 지침에 따라 달라질 수 있으므로 정확한 안내를 위해 소속 대학원에 문의하시는 게 바람직할 것으로 보입니다.</p>
+
+<p><br />
+<strong><span style="background-color:#dddddd">Q. 저는 영어논문으로 작성해서 궁금한 점이 생기는데</span><br />
+<span style="background-color:#dddddd">1언어에 영문, 2언어에 국문으로 제목 쓰고 부제는 없는데 제목 자체에 :가 들어가는데 이 경우 오류는 없나요?</span><br />
+<span style="background-color:#dddddd">영어논문도 목차 등록할 때 chapter랑 아라비아 숫자 사이 공백 없애나요?</span></strong></p>
+
+<p>A. 제목 자체에 콜론이 들어간 것 때문에 오류가 생기지는 않습니다. 혹시 이러한 사항 때문에 관리자 승인 단계에서 반송이 된다면 연락 주세요.<br />
+영어 논문도 chapter와 아라비아 숫자 사이에 공백을 삭제해야 합니다.</p>
+
+<p><br />
+<strong><span style="background-color:#dddddd">Q. acknowlegement 페이지 이후에 statement of publication 페이지가 있는경우도 문제가 없는지요?</span></strong></p>
+
+<p>A. statement of publication 페이지는 숭실대학교 논문 형식에 포함되지 않습니다. 삭제하시고 업로드해 주세요.</p>
+
+<p>&nbsp;</p>]]></content:encoded>
+      <atom:updated>2025-12-15T13:54:54+09:00</atom:updated>
     </item>
     <item>
       <title>[공지]2025학년도 2학기 학위논문 원문파일 제출 안내</title>
@@ -517,15 +571,7 @@
 
 <p>&nbsp;<span style="color:#c0392b"><u><strong>2025년 12월 &nbsp;15일(월) ~ 2025년 12월 28일(일) 23:59 까지</strong></u>&nbsp;(&nbsp;제출 기간 중 24시간 제출 가능)</span></p>
 
-<p>&nbsp;</p>
-
-<p><strong>※🎓학위논문 온라인(dCollection) 제출 특강 &nbsp;</strong></p>
-
-<ul>
-	<li>📅&nbsp;<strong>일정:</strong>&nbsp;12/15(월) 10:00 - 10:40</li>
-	<li>📍&nbsp;<strong>장소: </strong>온라인(zoom) *교육 종료 후 녹화 영상 게시 예정&nbsp;</li>
-	<li>🔗<span style="color:#ffffff"> </span><a href="https://ssu-ac-kr.zoom.us/meeting/register/h-6_bQccRWW0hsbBpAR4Qg"><span style="color:#ffffff"><strong><span style="background-color:#3498db">신청 링크 클릭</span></strong></span></a></li>
-</ul>
+<p><strong>※🎓학위논문 온라인(dCollection) 제출 특강(녹화)&nbsp;</strong>📺<strong>&nbsp;<a href="https://oasis.ssu.ac.kr/library-services/bulletin/notice/15323"><span style="background-color:#ffffcc">다시보기 클릭</span></a></strong></p>
 
 <p>&nbsp;</p>
 
@@ -600,7 +646,7 @@
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 중앙도서관 학위논문 담당자&nbsp;(820-0746) -</p>
 
 <p>&nbsp;</p>]]></content:encoded>
-      <atom:updated>2025-12-02T14:48:37+09:00</atom:updated>
+      <atom:updated>2025-12-15T13:49:03+09:00</atom:updated>
     </item>
     <item>
       <title>[수상자 발표] 2025 중앙도서관 우수이용자 시상</title>
