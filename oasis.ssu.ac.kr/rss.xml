@@ -5,6 +5,23 @@
     <link>https://oasis.ssu.ac.kr/library-services/bulletin/notice</link>
     <description>숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.</description>
     <item>
+      <title>[안내] 옥상 이용 시간 안내</title>
+      <link>https://oasis.ssu.ac.kr/library-services/bulletin/notice/15380</link>
+      <description><![CDATA[<p>옥상 운영 시간을 아래와 같이 안내드립니다.</p>
+
+<p>◾학기 중:&nbsp;09...]]></description>
+      <author>김*진</author>
+      <guid isPermaLink="false">15380</guid>
+      <pubDate>Fri, 19 Dec 2025 14:59:28 +0900</pubDate>
+      <content:encoded><![CDATA[<p>옥상 운영 시간을 아래와 같이 안내드립니다.</p>
+
+<p>◾학기 중:&nbsp;09:00 ~ 18:00<br />
+◾방학 중: 10:00 ~ 17:00</p>
+
+<p>주말 및 공휴일은 미개방입니다.</p>]]></content:encoded>
+      <atom:updated>2025-12-19T14:59:28+09:00</atom:updated>
+    </item>
+    <item>
       <title>[안내] 겨울방학 숭실고독 참가자 선정 결과</title>
       <link>https://oasis.ssu.ac.kr/library-services/bulletin/notice/15378</link>
       <description><![CDATA[<p><strong>안녕하세요. 중앙도서관입니다.</strong></p>
@@ -6524,16 +6541,6 @@ A. dCollection 업로드는 최종 논문 심사가 모두 완료된 논문을 �
 
 <p>그간 작업복에 대한 문제제기가 전혀 없었던 것은 아니다. 정규직과 계약직 노동자들이 서로 다른 옷/사원증을 지급받는다거나 여성 직원이 치마 유니폼을 강요받는 일 등 복장에 얽힌 차별은 여러 차례 다뤄진 바 있다. 하지만 옷/작업복 이야기는 주로 노동문제를 뒷받침하는 하나의 작은 사례 정도로만 제시돼왔다. 경향신문 작업복 기획팀이 선보인 이 기획은 그런 기존의 패턴을 과감하게 뒤집은 시도다. 작업복이라는 언뜻 사소해 보이는 소재를 전면화하고 일관되게 탐구해나가면서, 일터 구석구석 숨겨진 노동자의 분투를 세심히 드러냈다. 일터의 작은 부분 하나에 지나지 않을 것 같은 작업복은 우리의 생각보다 훨씬 더 많고 깊은 이야기를 품고있다. 책의 가장 큰 장점은 작업복을 문자 그대로의 &lsquo;옷&rsquo;에 국한시키지 않고, 그와 함께 지니거나 착용하는 도구, 안전장비, 소품까지 포괄하는 방식으로 머리부터 발끝까지 세밀하게 다뤘다는 데 있다. 또한 일터가 심리적으로도 안전한 곳인지를 묻기 위해 작업복의 범위를 제조업 생산직 노동자들이 입는 옷으로 한정하지 않았다. 불편한 유니폼을 강요하는 서비스산업, 그리고 무조건 남성 노동자가 표준이 되는 각종 건설 현장을 비중 있게 담아내며 일터 권력과 성차별 문제까지 촘촘히 살핀다.</p>]]></content:encoded>
       <atom:updated>2025-04-21T09:54:13+09:00</atom:updated>
-    </item>
-    <item>
-      <title>2025-1학기 중간고사 기간 중 도서관 이용 안내</title>
-      <link>https://oasis.ssu.ac.kr/library-services/bulletin/notice/14298</link>
-      <description><![CDATA[<p><img alt="b5a58065-6518-4e55-b900-0f5dfd6e180f ...]]></description>
-      <author>김*진</author>
-      <guid isPermaLink="false">14298</guid>
-      <pubDate>Fri, 18 Apr 2025 16:39:39 +0900</pubDate>
-      <content:encoded><![CDATA[<p><img alt="b5a58065-6518-4e55-b900-0f5dfd6e180f (992×1403)" src="https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/b5a58065-6518-4e55-b900-0f5dfd6e180f" /></p>]]></content:encoded>
-      <atom:updated>2025-04-18T16:39:39+09:00</atom:updated>
     </item>
   </channel>
 </rss>
