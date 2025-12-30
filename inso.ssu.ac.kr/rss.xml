@@ -5,6 +5,29 @@
     <link>http://inso.ssu.ac.kr/sub/sub04_01.php</link>
     <description>숭실대학교 정보사회학과 공지사항을 제공합니다.</description>
     <item>
+      <title>2025-2학기 졸업예정자 졸업확정신고(최종) 안내</title>
+      <link>http://inso.ssu.ac.kr/sub/sub04_01.php?boardid=notice&amp;mode=view&amp;idx=720&amp;sk=&amp;sw=&amp;offset=0&amp;category=</link>
+      <description><![CDATA[
+							<div align="center" id="file1">
+				  <a h...]]></description>
+      <author>정보사회학과</author>
+      <category>학과공지</category>
+      <guid isPermaLink="false">720</guid>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0900</pubDate>
+      <content:encoded><![CDATA[
+							<div align="center" id="file1">
+				  <a href="javascript:download('notice','720','1171');"><img border="0" height="400" src="/uploaded/board/notice/bfd1292a0addad66a6d31e0a9bc4c98e0.png" width="282.822523165"></a>
+				</div>
+								<div align="center" id="file2">
+				  <a href="javascript:download('notice','720','1172');"><img border="0" height="400" src="/uploaded/board/notice/83c9debc6ace039540e5b78af001dd130.png" width="282.822523165"></a>
+				</div>
+								<div align="center" id="file3">
+				  <a href="javascript:download('notice','720','1173');"><img border="0" height="400" src="/uploaded/board/notice/83c9debc6ace039540e5b78af001dd131.png" width="282.822523165"></a>
+				</div>
+										
+			<p>*졸업을 원하지 않는 경우에도, 반드시 졸업 확정 신고 진행 필수</p><p>&nbsp;- 만약, 졸업에 필요한 모든 학점(졸업논문 및 시험 제외) 기준을 충족한 학생이 졸업 확정 신고를 진행하지 않는 경우 자동으로 '수료' 처리됨<br style="clear:both;"><br style="clear:both;">[다전공 포기]</p><p>&nbsp;</p><p>&nbsp;3차 : 2026.01.05.(월) ~ 01.07.(수) 23:59&nbsp; / 학사팀 처리 일자 : 26.01.13.(화)</p><p>&nbsp;</p><p>&nbsp;</p><p>[이수구분 변경]</p><p>&nbsp;</p><p>3차 : 2025.12.29.(월) ~ 12.31.(수) 23:59 / 승인일자 : 26.01.07(수)</p><p>&nbsp;</p><p>&nbsp;</p><p>[졸업 확정 신고 기간]</p><p>&nbsp;</p><p>2차(최종) : 2026.01.05(월) ~ 01.18(일) 23:59&nbsp; /&nbsp; 승인일자 : 01.23.(금) 이후</p><p>&nbsp;</p><p>&nbsp;</p>]]></content:encoded>
+    </item>
+    <item>
       <title>2025-2학기 졸업논문 지도교수 배정 안내</title>
       <link>http://inso.ssu.ac.kr/sub/sub04_01.php?boardid=notice&amp;mode=view&amp;idx=719&amp;sk=&amp;sw=&amp;offset=0&amp;category=</link>
       <description><![CDATA[
@@ -1166,7 +1189,7 @@
 		<dt>다음글</dt>
 		<dd>
 		<!-- 다음글 -->
-		다음글이 없습니다.
+		<a href="/sub/sub04_01.php?mNum=4&amp;sNum=1&amp;boardid=notice&amp;mode=view&amp;idx=720" title="2025-2학기 졸업예정자 졸업확정신고(최종) 안내">2025-2학기 졸업예정자 졸업확정신고(최종) ...</a>
 		</dd>
 	</dl>
 </div>
@@ -1175,6 +1198,7 @@
 				<!-- content //-->
 				
 			]]></content:encoded>
+      <atom:updated>2025-12-30T02:29:44.730349705Z</atom:updated>
     </item>
     <item>
       <title>정보사회학과 해커스 온라인 자격증 선발자 공지</title>
