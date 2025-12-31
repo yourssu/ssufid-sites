@@ -4,6 +4,20 @@
   "description": "숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "15406",
+      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/15406",
+      "author": "최*진",
+      "title": "신정 휴관 안내",
+      "description": null,
+      "category": [],
+      "created_at": "2025-12-31T16:15:06+09:00",
+      "updated_at": "2025-12-31T16:15:06+09:00",
+      "thumbnail": null,
+      "content": "<p><img alt=\"\" src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/c771487f-7d14-446f-a48b-937ab300cf34\" style=\"height:720px; width:960px\" /></p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "15394",
       "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/15394",
       "author": "김*진",
@@ -1455,20 +1469,6 @@
           "mime_type": "application/pdf"
         }
       ],
-      "metadata": null
-    },
-    {
-      "id": "14333",
-      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14333",
-      "author": "신*은",
-      "title": "[모집] 팝업라이브러리 참여자 모집(~5/6)",
-      "description": null,
-      "category": [],
-      "created_at": "2025-04-23T16:24:18+09:00",
-      "updated_at": "2025-04-30T11:43:05+09:00",
-      "thumbnail": null,
-      "content": "<p><a href=\"http://path.ssu.ac.kr\"><strong><span style=\"font-size:24px\">※ 슈패스&nbsp;접속 후 &quot;팝업라이브러리&quot; 검색!!</span></strong></a></p>\n\n<p><img src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/60d8d3ba-8095-492b-8672-9887a5bd5287\" style=\"height:1132px; width:800px\" /></p>\n\n<p>안녕하세요! 중앙도서관입니다.</p>\n\n<p>오는 5월 8일 숭실대학교 중앙도서관과 서울야외도서관이 협업하여&nbsp;</p>\n\n<p>&lt;팝업라이브러리&gt;를 운영합니다!&nbsp;</p>\n\n<p>빈백, 캠핑 의자, 돗자리, 그리고 랜덤으로 제공되는 도서까지!</p>\n\n<p>맑은 하늘 아래 슈파크에서 야외 독서 어떠신가요?</p>\n\n<p>독서간식과 이벤트 상품도 준비되어있으니 많은 관심과 참여 바랍니다!&nbsp;</p>\n\n<p>팝업 북키트와 함께하는 야외도서관 프로그램!&nbsp;학우들과 함께 야외 독서를 즐겨보세요!!&nbsp;✨☀</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>1. 운영일정</strong></span></p>\n\n<p>- 1회차(낮독): 5월 8일(목) 10시~15시 [시간내 자유입장]</p>\n\n<p>- 2회차(밤독): 5월 8일(목) 16시~21시&nbsp;[시간내 자유입장]</p>\n\n<p><span style=\"color:#e74c3c\"><strong>※ 기상 악화시 일정이 조정될 수 있음&nbsp;</strong></span></p>\n\n<p><span style=\"color:#0000ff\"><strong>※ 참여 가능한 시간에 방문하셔서 가볍게 독서하고 가세요!</strong></span></p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:18px\">2. 모집 대상: 본교 학부생(재학, 휴학)</span></strong></p>\n\n<p><span style=\"font-size:18px\">※ (회차별) 사전접수 50팀 +현장접수 30팀 모집 예정</span></p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:18px\">3. 장소: 슈파크(숭덕경상관 앞 돌계단)</span></strong></p>\n\n<p><img src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/a364f112-de2e-4d32-9aae-0d6c596d0863\" /></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>4. 슈패스 모집인원: 200명(총 100팀, 2인 1팀)</strong></span></p>\n\n<p>※ 사전접수 100팀 모집+현장접수 30팀 모집 예정</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>5. 신청방법</strong></span></p>\n\n<p>- 슈패스에서 &lt;팝업라이브러리&gt; 검색</p>\n\n<p><strong>- <u><span style=\"font-size:18px\">2인 1팀 행사이며, 신청시 두 사람 모두 각각 신청</span></u>해야 합니다. (동반 참석자 이름과 학번 입력)</strong></p>\n\n<p>- <strong><span style=\"color:#0000ff\">1인 신청도 가능</span></strong>하며, 현장에서 독서메이트를 매칭해드립니다.&nbsp;&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>6. 참여혜택</strong></span></p>\n\n<p>- 팝업 북키트 대여: 도서 4권, 캠핑의자 2개, 돗자리, 담요 포함</p>\n\n<p>※ <span style=\"color:#0000ff\"><strong>조기반납 가능</strong></span>하며, 두 사람 중 <span style=\"color:#0000ff\"><strong>마지막까지 남은 분이 반납</strong></span>해주세요!</p>\n\n<p>※ 전체 행사 도서는 복본없는 랜덤 4권입니다! 우연히&nbsp;마주치는 행운처럼 행사를 통해 여러분과 좋은 책과의 만남을 기대합니다.^^</p>\n\n<p>- 독서 간식(생수 및 견과류) 제공</p>\n\n<p>- 참가자 확인용 손목띠와 북로그 티켓 제공</p>\n\n<p><img src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/8e444688-a88e-4f1c-9a7b-acf2cf046337\" style=\"height:600px; width:600px\" />&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>7. 행사 이벤트(선착순)</strong></span></p>\n\n<p>- 참여 방법: 도서관 인스타그램 팔로우하고 인증샷 올리기!</p>\n\n<p style=\"margin-left:40px\">*해시태그(#팝업라이브러리 #숭실대학교중앙도서관) + 계정 태그(@soongsil_library)</p>\n\n<p style=\"margin-left:40px\">*비공개 계정은 게시글 확인이 불가하여 이벤트 참여가 어렵습니다.&nbsp;</p>\n\n<p>- 참가자 두 명이 함께 인증하면 모두에게 상품 제공</p>\n\n<p>- 인증 이벤트는 선착순 진행되며 회차별 32팀 선발 예정 [마감시 도서관 인스타그램을 통해 공지]</p>\n\n<p>- 이벤트 상품: 우양산</p>\n\n<p><img src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/9a198746-3a08-46a5-89f0-a02e6ad6e4fc\" style=\"height:351px; width:400px\" /></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:20px\"><strong>📚 숭실대학교&lt;팝업라이브러리&gt;는 서울도서관&lt;서울야외도서관&gt;과 협업하여 진행됩니다.&nbsp;</strong></span></p>\n\n<p><span style=\"font-size:20px\"><strong>📚 &lt;서울야외도서관&gt; 소개</strong></span></p>\n\n<p><img src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/bee8d82b-a715-4eaa-bea6-c54a156accfd\" /> <img src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/3f8af954-7080-4529-bd1f-eeeb801ea890\" /></p>",
-      "attachments": [],
       "metadata": null
     }
   ]
