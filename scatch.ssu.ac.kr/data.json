@@ -4,6 +4,22 @@
   "description": "숭실대학교 공식 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "교수학습혁신센터-2025학년도-겨울학기-학습코칭-운영",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%EC%84%BC%ED%84%B0-2025%ED%95%99%EB%85%84%EB%8F%84-%EA%B2%A8%EC%9A%B8%ED%95%99%EA%B8%B0-%ED%95%99%EC%8A%B5%EC%BD%94%EC%B9%AD-%EC%9A%B4%EC%98%81&keyword",
+      "author": "교수학습혁신센터",
+      "title": "[교수학습혁신센터] 2025학년도 겨울학기 학습코칭 운영 *온라인만 가능",
+      "description": null,
+      "category": [
+        "비교과·행사"
+      ],
+      "created_at": "2025-12-31T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": "http://iihe.ssu.ac.kr/wp-content/uploads/sites/172/2025/12/학습코칭-홍보물-001-1024x1024.jpg",
+      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p>2025학년도 겨울학기 학습코칭 프로그램을 운영하오니, 많은 관심과 참여바랍니다.</p>\n<ul>\n<li class=\"first last\">신청 경로: 슈패스(<a href=\"https://path.ssu.ac.kr/\">https://path.ssu.ac.kr</a>) 로그인 – 통합상담 – 학습코칭신청</li>\n</ul>\n<p><a href=\"http://iihe.ssu.ac.kr/board/%ed%95%99%ec%8a%b5%ec%a7%80%ec%9b%90-2025-%ea%b2%a8%ec%9a%b8%ed%95%99%ea%b8%b0-%ed%95%99%ec%8a%b5%ec%bd%94%ec%b9%ad-%ec%9a%b4%ec%98%81/%ed%95%99%ec%8a%b5%ec%bd%94%ec%b9%ad-%ed%99%8d%eb%b3%b4%eb%ac%bc-001/\" rel=\"attachment wp-att-2417\"><img alt=\"\" class=\"alignnone size-large wp-image-2417\" height=\"1024\" src=\"http://iihe.ssu.ac.kr/wp-content/uploads/sites/172/2025/12/학습코칭-홍보물-001-1024x1024.jpg\" width=\"1024\"></a></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "2025-동계-타대학-교육-프로그램-안내공과-it대-대상",
       "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2025-%EB%8F%99%EA%B3%84-%ED%83%80%EB%8C%80%ED%95%99-%EA%B5%90%EC%9C%A1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%95%88%EB%82%B4%EA%B3%B5%EA%B3%BC-it%EB%8C%80-%EB%8C%80%EC%83%81&keyword",
       "author": "공학교육혁신팀",
@@ -2363,28 +2379,6 @@
         {
           "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fv7xfeznnRiNrWyj%2FBZ%2BzvVhR9l9i6S391fXD%2BuDEmnkfU3kNaBGaS9c934ei7qDctNX0plodmxavq3oW0gxtUiiJ7gLpyYSmgRXbYasIeNIYJ5bxZ%2BninzHvV03SST8uRpaM%2BiCdQkoHe%2Bz%2BKCXcJoLz1%2BvXTxRTGTQ00x8LZ5AJyhPLN1WVKC%2F5p0SXtCZS%2FW0btml6%2BamN2W8quT8gvk%3D",
           "name": "2026-1학기_교내장학금-선발자격-및-제출서류-안내.pdf",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "2026-1학기-자연과학대학-교육연구조교-모집-공고",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-1%ED%95%99%EA%B8%B0-%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%EB%8C%80%ED%95%99-%EA%B5%90%EC%9C%A1%EC%97%B0%EA%B5%AC%EC%A1%B0%EA%B5%90-%EB%AA%A8%EC%A7%91-%EA%B3%B5%EA%B3%A0&keyword",
-      "author": "자연과학대학 교학팀",
-      "title": "2026-1학기 자연과학대학 교육연구조교 모집 공고",
-      "description": null,
-      "category": [
-        "채용"
-      ],
-      "created_at": "2025-12-05T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><b>2026-1</b><b>학기 자연과학대학 교육연구조교 모집 공고&nbsp;</b></p>\n<p>&nbsp;</p>\n<ol>\n<li><strong>모집요건</strong></li>\n</ol>\n<p>가. 지원자격 : 본교 대학원 석·박사과정 재학생 및 입학예정자</p>\n<p>나. 채용인원 : 1명</p>\n<p>다. 등록금지원 : 1학기 등록금</p>\n<p>&nbsp;</p>\n<ol start=\"2\">\n<li><strong>채용일정</strong></li>\n</ol>\n<p>가. 모집기간 : 2025.12.05.(금)~12.17.(수)</p>\n<p>나. 서류접수 : E-mail 접수 (yskim@ssu.ac.kr)</p>\n<p>다. 면접일자 : 서류전형 합격자에 한하여 개별 안내</p>\n<p>&nbsp;</p>\n<ol start=\"3\">\n<li><strong>임용기간</strong> : 2026.03.01.~2026.08.31. (재학기간 내 연장 가능)</li>\n<li><strong>근무시간</strong> : 주14시간</li>\n<li><strong>담당업무</strong> : 교학팀 업무 보조</li>\n<li><strong>문 의</strong> : 숭실대학교 자연과학대학 교학팀 ☎ 02-820-0403</li>\n<li><strong>기 타</strong> : 채용 서류를 원본으로 제출한 경우(온라인/전자메일 제출 서류는 해당되지 않음), 모든 서류는 지원 이메일 주소로 반환 청구 신청 시 본인 확인 후 등기 발송(학교 부담)이 가능하며, 반환 요구가 없는 경우 채용 확정일로부터 180일 경과 후 폐기함</li>\n</ol>\n<p>&nbsp;</p>\n<p><strong>붙임 이력서 서식 1부</strong></p>\n<p>&nbsp;</p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"download-list mt-5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fjk3pk0JGzXj6d7D%2FG5QPSKEamFpkU3MpijnKVslm87DOaDplcXcRB9RfsoqYNB6dNJ%2BEmbRSlm6e553%2BER5iq0%3D\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 조교이력서양식.hwp</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
-      "attachments": [
-        {
-          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fjk3pk0JGzXj6d7D%2FG5QPSKEamFpkU3MpijnKVslm87DOaDplcXcRB9RfsoqYNB6dNJ%2BEmbRSlm6e553%2BER5iq0%3D",
-          "name": "조교이력서양식.hwp",
           "mime_type": null
         }
       ],
