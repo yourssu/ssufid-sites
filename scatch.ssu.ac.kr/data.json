@@ -4,6 +4,22 @@
   "description": "숭실대학교 공식 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "2025년-교육비-연말정산-세액공제자료교육비납입증명",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2025%EB%85%84-%EA%B5%90%EC%9C%A1%EB%B9%84-%EC%97%B0%EB%A7%90%EC%A0%95%EC%82%B0-%EC%84%B8%EC%95%A1%EA%B3%B5%EC%A0%9C%EC%9E%90%EB%A3%8C%EA%B5%90%EC%9C%A1%EB%B9%84%EB%82%A9%EC%9E%85%EC%A6%9D%EB%AA%85&keyword",
+      "author": "재무회계팀",
+      "title": "2025년 교육비 연말정산 세액공제자료(교육비납입증명서) 발급안내",
+      "description": null,
+      "category": [
+        "학사"
+      ],
+      "created_at": "2026-01-06T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><strong>※&nbsp;</strong><strong>교육비 내역은 학생의 개인정보에 해당하므로 아래 발급방법 및 재무·회계팀 본인 방문으로만 발급 가능하며, 유선으로 발급이 불가합니다.</strong><strong>&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p><strong><u>1. 발급기간 : 2026년 1월 15일(목)부터</u></strong><u></u></p>\n<p>&nbsp;</p>\n<p><strong>2. 발급방법</strong></p>\n<p>① 숭실대학교 u-SAINT 포털접속 &gt; 로그인 &gt; 등록/장학 &gt; 교육비납입증명서 출력(무료)</p>\n<p>② 숭실대학교 홈페이지 &gt; 학사 &gt;&nbsp;<strong><a href=\"https://certi.ssu.ac.kr/servlet/WMINDEX?COMMAND=CHOICE\">증명서발급</a></strong><strong>&nbsp;</strong></p>\n<p>③ 주민센터 방문 &gt; 팩스민원 신청(대리인 신청 가능)</p>\n<p>④&nbsp;<strong><a href=\"http://www.gov.kr/portal/main\">정부24 홈페이지</a></strong>&nbsp;&gt; 민원서비스</p>\n<p>⑤&nbsp;<strong><a href=\"https://www.hometax.go.kr/\">국세청홈택스 홈페이지</a></strong>&nbsp;&gt; 연말정산 간소화서비스 이용</p>\n<p>가. 2026. 1. 15.부터 이용 가능하며, 이용방법은 홈택스 홈페이지 참조</p>\n<p><strong>&nbsp; 나. 학생 본인이 아닌 경우 연말정산 간소화서비스에 ‘자료제공동의’를 해야 조회 가능</strong></p>\n<p><strong>&nbsp; &nbsp; &nbsp;☞ 홈택스 → 장려금⋅연말정산⋅기부금 → 연말정산간소화 → 부양가족자료제공동의 신청/조회/취소 → 자료제공동의 신청</strong></p>\n<p>&nbsp;</p>\n<p><strong>3. 교육비 내역</strong></p>\n<p>① 교육비 납입금액은 입학금, 수업료 등 교육비(학생회비, 논문지도비 등 제외)</p>\n<p>② 교육비 차감금액</p>\n<p>▶&nbsp; 한국장학재단에서 등록금 대출을 받아 지급한 교육비</p>\n<p>– 한국장학재단이 취급하는 취업 후 상환 학자금(든든학자금) 대출</p>\n<p>– 한국장학재단이 취급하는 일반 상환 학자금대출</p>\n<p>▶&nbsp;한국장학재단이 취급하는 농어촌출신 대학생 학자금 융자 학비감면 또는 직접지급 장학금 등</p>\n<p>▶&nbsp; 한국장학재단에 직접 학자금대출금으로 상환되는 장학금 등은 차감하지 않음</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>2026. 1. 6.&nbsp;</strong></p>\n<p><strong>총 무 처 장&nbsp;</strong></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "교수학습혁신센터-제2회-숭실-재학생-학습법-경진대",
       "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%EC%84%BC%ED%84%B0-%EC%A0%9C2%ED%9A%8C-%EC%88%AD%EC%8B%A4-%EC%9E%AC%ED%95%99%EC%83%9D-%ED%95%99%EC%8A%B5%EB%B2%95-%EA%B2%BD%EC%A7%84%EB%8C%80&keyword",
       "author": "교수학습혁신센터",
@@ -2371,33 +2387,6 @@
         {
           "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4FserCNRccWnSUUqrp2iGG2R9AEPKYXRCEZzgkSMdAgT7%2FdCcMg4P7%2BELJBzCoyZCBMm6jBjGp7F6V7rKpt55dniI8VjRv1onNCNORXSvSoTXcEBXTu2erEPffLReiTR%2BdglIt2AtjnsSlcJJ9SsfJOg%3D",
           "name": "2026-새빛독서캠프-참가자-안내자료.pdf",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "2026학년도-1학기-국제처-한국어교육원-교육연구조교b-모",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-1%ED%95%99%EA%B8%B0-%EA%B5%AD%EC%A0%9C%EC%B2%98-%ED%95%9C%EA%B5%AD%EC%96%B4%EA%B5%90%EC%9C%A1%EC%9B%90-%EA%B5%90%EC%9C%A1%EC%97%B0%EA%B5%AC%EC%A1%B0%EA%B5%90b-%EB%AA%A8&keyword",
-      "author": "국제팀",
-      "title": "2026학년도 1학기 국제처 한국어교육원 교육연구조교B 모집(~26년 1월 7일까지 접수)",
-      "description": null,
-      "category": [
-        "채용"
-      ],
-      "created_at": "2025-12-09T00:00:00+09:00",
-      "updated_at": "2025-12-23T05:46:35.834017002Z",
-      "thumbnail": null,
-      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p>&nbsp;</p>\n<p>국제처 한국어교육원에서 2026학년도 1학기 교육연구조교B를 아래와 같이 모집하오니 많은 지원 바랍니다.</p>\n<p>&nbsp;</p>\n<p><b>1.</b><b>모집요건</b></p>\n<p>가. 모집인원: 총 1명(영어 국적무관 1명)</p>\n<p>나. 지원자격</p>\n<p>1) 본교 대학원의 석·박사과정 재학생</p>\n<p>다. 우대사항</p>\n<p>1) 한국어 능력 우수자 우대</p>\n<p>&nbsp;</p>\n<p><b>2.</b><b>제출서류</b></p>\n<p>가. 이력서 1부 (첨부파일)</p>\n<p>나. 자기소개서 1부 (자유양식)</p>\n<p>다. 대학원 전(全)학기 성적증명서 1부</p>\n<p>라. 이력서에 작성한 어학 성적/자격증 사본 1부</p>\n<p>&nbsp;</p>\n<p><b>3.</b><b>채용일정 및 서류제출</b></p>\n<p>가. 모집기간: ~ 2026.01.7.(수) 23:59까지 (e-mail 도착 시간 기준)</p>\n<p>나. 서류제출: e-mail 제출 (ljh23@ssu.ac.kr)</p>\n<p>* e-mail 제목 : 2026-1학기 국제처 국제교육원 교육연구조교 지원_(본인이름)</p>\n<p>다. 면접일자: 서류 합격자에 한하여 개별 안내</p>\n<p>라. 기타: 채용 서류를 원본으로 제출한 경우(온라인/전자메일 제출 서류는 해당되지 않음), 모든 서류는 지원 이메일 주소로 반환 청구 신청 시 본인 확인 후 등기 발송(학교 부담)이 가능하며, 반환 요구가 없는 경우 채용 확정일로부터 180일이 경과 후 폐기함</p>\n<p>&nbsp;</p>\n<p><b>4.</b><b>근무조건</b></p>\n<p>가. 근무시간 : 평일 주 14시간</p>\n<p>나. 담당업무 : 국제교육원 민원 응대 및 업무 보조</p>\n<p>다. 근무기간 : 2026년 3월 1일부터 2026년 8월 31까지 (학기 단위 재임용)</p>\n<p>&nbsp;</p>\n<p><b>5.</b><b>문의</b></p>\n<p>가. 이메일: ljh23@ssu.ac.kr</p>\n<p>나. 사무실 위치: 전산관 510호</p>\n<p>다. 전화번호: 02-820-0786</p>\n<p>&nbsp;</p>\n<p>붙임 1. 이력서 1부. 끝.</p>\n<p>&nbsp;</p>\n<p><b>2025.12.08.</b></p>\n<p><b>한국어교육원장</b></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"download-list mt-5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fh3XU9Uxy4Z8nrbWhQWQCuCTtMIlX2l8TqRVjZGYB5iYeooJ1AYCIsZnopJwgvMJk800yt3KzC7fQL88Y2oCelU%3D\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 붙임1-이력서-1.docx</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fh3XU9Uxy4Z8nrbWhQWQCuBvJo0k11UV1MHltMBKsfixugI2xi0uymRSUK%2FT3Z9Sazqnr02wNkxP%2F6oDW2%2B6LaI%3D\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 붙임1-이력서-1.hwp</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
-      "attachments": [
-        {
-          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fh3XU9Uxy4Z8nrbWhQWQCuCTtMIlX2l8TqRVjZGYB5iYeooJ1AYCIsZnopJwgvMJk800yt3KzC7fQL88Y2oCelU%3D",
-          "name": "붙임1-이력서-1.docx",
-          "mime_type": null
-        },
-        {
-          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzI1KQhqa33JOBI5BB1Cc4Fh3XU9Uxy4Z8nrbWhQWQCuBvJo0k11UV1MHltMBKsfixugI2xi0uymRSUK%2FT3Z9Sazqnr02wNkxP%2F6oDW2%2B6LaI%3D",
-          "name": "붙임1-이력서-1.hwp",
           "mime_type": null
         }
       ],
