@@ -4,6 +4,20 @@
   "description": "숭실대학교 경영학부 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "bbs57623",
+      "url": "http://biz.ssu.ac.kr/bbs/read.do?aId=bbs57623&vMode=view&bId=BBS_03_NOTICE&sc_title=",
+      "author": "숭실대 경영학부",
+      "title": "교육수요자만족도조사 학생 간담회 (교육성과연구팀)",
+      "description": null,
+      "category": [],
+      "created_at": "2025-12-30T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div id=\"postContents\">\n<p><img alt=\"\" src=\"http://biz.ssu.ac.kr/file/fileImageView.do?p=L2RhdGExL3NzdWJpei91cGxvYWQvYmJzL2MyNzA1YmJlLWRlNzQtNGJlZC1iZTFhLTkyNWM2ZThj\nZTFlNw==\">&nbsp;</p>\n</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "bbs57629",
       "url": "http://biz.ssu.ac.kr/bbs/read.do?aId=bbs57629&vMode=view&bId=BBS_03_NOTICE&sc_title=",
       "author": "숭실대 경영학부",
