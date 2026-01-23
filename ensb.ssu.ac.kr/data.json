@@ -4,6 +4,20 @@
   "description": "숭실대학교 벤처중소기업학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "10171",
+      "url": "https://ensb.ssu.ac.kr/%ed%95%99%eb%b6%80%ec%95%8c%eb%a6%bc/%ed%95%99%eb%b6%80%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=10171",
+      "author": null,
+      "title": "[졸업] 2025-2학기 학과 졸업논문 성적 안내",
+      "description": null,
+      "category": [],
+      "created_at": "2025-12-15T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p><span style=\"font-family: 'Nanum Gothic';color: #000000\">붙임파일 열어서 본인&nbsp;<span style=\"color: #0000ff\"><strong>학번(8자리) + 이름(성과 이름 붙여서작성)</strong></span>&nbsp;입력 후 점수 확인요망</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'Nanum Gothic';color: #000000\">*졸업논문점수가 70점 이상이더라도&nbsp;<span style=\"color: #0000ff\"><strong>학과 자체 졸업요건</strong>&nbsp;<strong>미이수&nbsp;시</strong></span>&nbsp;졸업사정표에&nbsp;<span style=\"color: #ff0000\"><strong>졸업논문 점수 반영하지 않으니</strong></span>&nbsp;유의바랍니다.</span><span style=\"font-family: 'Nanum Gothic';color: #000000\">&nbsp; 끝.</span></p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "10167",
       "url": "https://ensb.ssu.ac.kr/%ed%95%99%eb%b6%80%ec%95%8c%eb%a6%bc/%ed%95%99%eb%b6%80%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=10167",
       "author": null,
