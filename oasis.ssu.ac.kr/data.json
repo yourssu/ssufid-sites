@@ -4,6 +4,20 @@
   "description": "숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "15516",
+      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/15516",
+      "author": "김*진",
+      "title": "[안내]  LG 유플러스 안테나 설치 공사(2/3(화))",
+      "description": null,
+      "category": [],
+      "created_at": "2026-02-02T11:02:40+09:00",
+      "updated_at": "2026-02-02T11:02:40+09:00",
+      "thumbnail": null,
+      "content": "<p>중앙도서관 내 &nbsp;LG 유플러스 안테나 설치 공사를 아래와 같이 안내드립니다.</p>\n\n<p>■ 공사 일시: 2026.2.3.(화) 09:00~17:00 (오전 중 완료 예정)<br />\n■ 공사 내용: 5층 숭실멀티라운지 천장&nbsp;안테나 설치 및 케이블 포설 작업</p>\n\n<p>작업 중 소음은 없을 것으로 예상되며,&nbsp; 신속히 작업을 완료하니&nbsp;이용에 양해 부탁드립니다.&nbsp;</p>\n\n<p>감사합니다.<br />\n&nbsp;</p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "15502",
       "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/15502",
       "author": "조*연",
@@ -1475,20 +1489,6 @@
       "updated_at": "2025-05-02T15:01:06+09:00",
       "thumbnail": null,
       "content": "<p><img alt=\"\" src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/d98f862c-213b-495f-aa73-849f4f5c1f98\" style=\"height:720px; width:960px\" /></p>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "14361",
-      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14361",
-      "author": "이*학",
-      "title": "[공지] 입시 홍보 촬영에 따른 시설 이용 안내(4/30)",
-      "description": null,
-      "category": [],
-      "created_at": "2025-04-29T10:41:48+09:00",
-      "updated_at": "2025-04-29T12:04:33+09:00",
-      "thumbnail": null,
-      "content": "<p data-end=\"129\" data-start=\"93\">안녕하세요, 중앙도서관입니다.</p>\n\n<p data-end=\"234\" data-start=\"149\">아래와 같이 입시 홍보용 촬영이 진행될 예정입니다.</p>\n\n<p data-end=\"234\" data-start=\"149\">촬영 시간대에는 시설물 이용 및 예약이 임시 중단되오니,</p>\n\n<p data-end=\"234\" data-start=\"149\">도서관 이용에 참고하여 주시기 바랍니다.</p>\n\n<p data-end=\"250\" data-start=\"236\">&nbsp;</p>\n\n<p data-end=\"250\" data-start=\"236\"><strong data-end=\"248\" data-start=\"236\">1. 촬영 일시</strong></p>\n\n<ul data-end=\"290\" data-start=\"251\">\n\t<li data-end=\"290\" data-start=\"251\">\n\t<p data-end=\"290\" data-start=\"253\">2025년 4월 30일(수) 14:00 ~ 16:00 (약 2시간)</p>\n\t</li>\n</ul>\n\n<p data-end=\"306\" data-start=\"292\"><strong data-end=\"304\" data-start=\"292\">2. 촬영 장소</strong></p>\n\n<ul data-end=\"352\" data-start=\"307\">\n\t<li data-end=\"324\" data-start=\"307\">\n\t<p data-end=\"324\" data-start=\"309\">1층: 로비, 숭실스퀘어</p>\n\t</li>\n\t<li data-end=\"341\" data-start=\"325\">\n\t<p data-end=\"341\" data-start=\"327\">2층: 숭실스퀘어 ON</p>\n\t</li>\n\t<li data-end=\"352\" data-start=\"342\">\n\t<p data-end=\"352\" data-start=\"344\">6층: 숭실마루</p>\n\t</li>\n</ul>\n\n<p data-end=\"384\" data-start=\"354\">&nbsp;</p>\n\n<p data-end=\"384\" data-start=\"354\">이용에 불편을 드려 죄송합니다.&nbsp;양해 부탁드립니다.</p>\n\n<p data-end=\"384\" data-start=\"354\">감사합니다.</p>",
       "attachments": [],
       "metadata": null
     }
