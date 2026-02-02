@@ -4,6 +4,22 @@
   "description": "숭실대학교 공식 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "사당종합사회복지관-설행사-봉사자-모집-안내",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%82%AC%EB%8B%B9%EC%A2%85%ED%95%A9%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B4%80-%EC%84%A4%ED%96%89%EC%82%AC-%EB%B4%89%EC%82%AC%EC%9E%90-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B4&keyword",
+      "author": "사회공헌팀",
+      "title": "[사당종합사회복지관] 설행사 봉사자 모집 안내",
+      "description": null,
+      "category": [
+        "봉사"
+      ],
+      "created_at": "2026-02-02T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><span style=\"font-family: arial, helvetica, sans-serif\">안녕하세요. 사당종합사회복지관입니다.</span><br data-end=\"74\" data-start=\"71\"><span style=\"font-family: arial, helvetica, sans-serif\">2026년 설 명절을 맞이하여 복지관을 이용하시는 어르신들과 함께 따뜻한 명절의 정을 나누고자 <strong data-end=\"138\" data-start=\"127\">설 맞이 행사</strong>를 진행합니다. </span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">이에 마음을 나누어 주실 봉사자분들을 모집하오니 많은 관심과 참여 부탁드립니다.&nbsp;</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">아래 구글폼을 통해 신청이 가능하며, 신청해주신 분들께는 담당자가 개별적으로 안내를 드릴 예정입니다.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\"><strong>신청 링크:</strong> <span style=\"font-size: 14pt;color: #0000ff\"><a href=\"https://forms.gle/HDUZYHd2zQSwBUsw6\" style=\"color: #0000ff\">https://forms.gle/HDUZYHd2zQSwBUsw6</a></span></span></p>\n<div><span style=\"font-family: arial, helvetica, sans-serif\">[ 안내 ]</span></div>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">1. 일 시:<b>&nbsp;</b></span></p>\n<div><span style=\"font-family: arial, helvetica, sans-serif\"><b>– 행사 준비: 2026.02.04.(수) 13:30~16:30&nbsp;</b></span></div>\n<div><span style=\"font-family: arial, helvetica, sans-serif\"><b>– 행사 진행 보조: 2026.02.09.(월) 9:00~13:00</b></span></div>\n<div><span style=\"font-family: arial, helvetica, sans-serif\"><b><br>\n</b>2. 장 소: 사당종합사회복지관</span><p></p>\n<div><span style=\"font-family: arial, helvetica, sans-serif\">(서울특별시 동작구 사당로14길 20)&nbsp;</span></div>\n<div><span style=\"font-family: arial, helvetica, sans-serif\">남성역 1번 출구</span></div>\n<div></div>\n<div>\n<div></div>\n<div><span style=\"font-family: arial, helvetica, sans-serif\">3. 주 관: 사당종합사회복지관</span></div>\n<div></div>\n<div><span style=\"font-family: arial, helvetica, sans-serif\">4. 문 의: 02-820-0810 숭실대학교 사회공헌센터</span></div>\n<div></div>\n<div>\n<div><span style=\"font-family: arial, helvetica, sans-serif\">5. 봉사시간(VMS) 제공</span></div>\n</div>\n</div>\n</div>\n<div></div>\n<div><span style=\"font-family: arial, helvetica, sans-serif\">6. 모집인원: 행사준비 5명, 행사진행보조 5~10명</span></div>\n<div></div>\n<div>\n<div><span style=\"font-family: arial, helvetica, sans-serif\">*신청은 선착순으로 마감됩니다.&nbsp;</span></div>\n</div>\n<p>&nbsp;</p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "★-2026학년도-신입생-대상-국가유공자-및-북한이탈주-2",
       "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-2026%ED%95%99%EB%85%84%EB%8F%84-%EC%8B%A0%EC%9E%85%EC%83%9D-%EB%8C%80%EC%83%81-%EA%B5%AD%EA%B0%80%EC%9C%A0%EA%B3%B5%EC%9E%90-%EB%B0%8F-%EB%B6%81%ED%95%9C%EC%9D%B4%ED%83%88%EC%A3%BC-2&keyword",
       "author": "장학팀",
@@ -2460,28 +2476,6 @@
       "thumbnail": "https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/9a4be4b1-2b73-4dd7-a440-ccf03ceb86dc",
       "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><span style=\"font-family: arial, helvetica, sans-serif\">안녕하세요.&nbsp;&nbsp;</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">겨울방학을 맞아<strong>&nbsp;</strong>🎓<strong>논문 워크숍(2월) : 제대로 작성하는 논문 &nbsp;&amp; 통계분석&nbsp;3-Days</strong>를&nbsp;진행합니다.&nbsp;</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">새해 목표를 실천할 가장 좋은 타이밍! 2월에도 함께해요😊</span></p>\n<hr>\n<p><span style=\"font-family: arial, helvetica, sans-serif\"><strong>📅 일정:</strong>&nbsp;2026. 2. 2.(월) ~ 2. 4.(수) 18:00-20:00, 3일&nbsp;집중 과정</span><br>\n<span style=\"font-family: arial, helvetica, sans-serif\"><strong>📍 장소:&nbsp;</strong>실시간 온라인(zoom) *링크 추후 전달 예정&nbsp;</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">🎯 논문 작성이 막막한 분들</span><br>\n<span style=\"font-family: arial, helvetica, sans-serif\">🎯&nbsp;학위논문 작성을 위한 기초통계 및 통계분석 방법을 배우고 싶은 분들</span><br>\n<span style=\"font-family: arial, helvetica, sans-serif\">🎯&nbsp;<strong>“올해는 꼭 논문 쓰자!”</strong>&nbsp;새해 목표를 실천하고 싶은 분들&nbsp;</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif\">👇 아래 이미지를 클릭하시면&nbsp;<span style=\"color: #3366ff\"><u><strong>신청 페이지로 이동</strong></u></span>합니다!</span></p>\n<p><a href=\"https://path.ssu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=9d859e2038064fab0493166eaa914f24&amp;paginationInfo.currentPageNo=1\"><img alt=\"\" class=\"\" height=\"1293\" src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/9a4be4b1-2b73-4dd7-a440-ccf03ceb86dc\" width=\"917\"></a></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
       "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "강서구청소년상담복지센터-학교-밖-청소년-학습지",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B0%95%EC%84%9C%EA%B5%AC%EC%B2%AD%EC%86%8C%EB%85%84%EC%83%81%EB%8B%B4%EB%B3%B5%EC%A7%80%EC%84%BC%ED%84%B0-%ED%95%99%EA%B5%90-%EB%B0%96-%EC%B2%AD%EC%86%8C%EB%85%84-%ED%95%99%EC%8A%B5%EC%A7%80&keyword",
-      "author": "사회공헌팀",
-      "title": "[강서구청소년상담복지센터] 학교 밖 청소년 학습지도(검정고시) 멘토 모집 안내",
-      "description": null,
-      "category": [
-        "봉사"
-      ],
-      "created_at": "2026-01-08T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": "https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/01/붙임-1.-2026년-검정고시-대비반-모집-포스터.pdf_page_1.jpg",
-      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p>안녕하세요, 강서구청소년상담복지센터(강서구학교밖청소년지원센터 꿈드림)입니다.</p>\n<p>학교밖청소년지원에 관한 법률에 의해 설립되어 학교 생활에 어려움을 겪고 있거나 학업을 중단한 청소년들에게 상담지원, 교육지원, 진로지원 등 다양한 프로그램을 지원 운영하고 있습니다.</p>\n<p>학교 밖 청소년들의 학력취득 지원을 위해 검정고시 대비반 학습지도 멘토를 모집하오니 많은 참여 바랍니다.</p>\n<p>&nbsp;</p>\n<p>가. 모집기간: 2026.01.02.(금) ~ 2026.01.16.(금) [2주간]</p>\n<p>나. 대상: 21세 이상의 청·장년 및 대학생(휴학생 포함)</p>\n<p>다. 지원방법: 멘토신청서 작성 후 E-mail 접수(26491318@hanmail.net)</p>\n<p>라. 내용</p>\n<p>– 2026년 검정고시 대비반 학습지도 멘토 모집</p>\n<p>– 주 1회 1일 2시간 검정고시 과목 교육봉사(개별 협의, 봉사활동 시간 인정)</p>\n<p>마. 문의: 02-3662-1388 (김동경 담당자)</p>\n<p>&nbsp;</p>\n<p><a href=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/01/붙임-1.-2026년-검정고시-대비반-모집-포스터.pdf_page_1.jpg\"><img alt=\"\" class=\"aligncenter size-full wp-image-98218\" height=\"1260\" sizes=\"(max-width: 890px) 100vw, 890px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/01/붙임-1.-2026년-검정고시-대비반-모집-포스터.pdf_page_1.jpg\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/01/붙임-1.-2026년-검정고시-대비반-모집-포스터.pdf_page_1.jpg 890w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/01/붙임-1.-2026년-검정고시-대비반-모집-포스터.pdf_page_1-212x300.jpg 212w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/01/붙임-1.-2026년-검정고시-대비반-모집-포스터.pdf_page_1-768x1087.jpg 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/01/붙임-1.-2026년-검정고시-대비반-모집-포스터.pdf_page_1-723x1024.jpg 723w\" width=\"890\"></a></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"download-list mt-5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs%2B%2FIoWSKejOeMAVzC0AJnElSg27NZxKMc2L%2FS%2FDNeSi3BCrpNgiqWVXNJXHut1GuaMhoCMUMAnNzU%2Bw2qbGu8IlofkM3CUo0CPX2ZzIkH44t\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 학습멘토신청서-1부.hwp</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
-      "attachments": [
-        {
-          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs%2B%2FIoWSKejOeMAVzC0AJnElSg27NZxKMc2L%2FS%2FDNeSi3BCrpNgiqWVXNJXHut1GuaMhoCMUMAnNzU%2Bw2qbGu8IlofkM3CUo0CPX2ZzIkH44t",
-          "name": "학습멘토신청서-1부.hwp",
-          "mime_type": null
-        }
-      ],
       "metadata": null
     }
   ]
