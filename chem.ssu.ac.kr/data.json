@@ -4,6 +4,20 @@
   "description": "숭실대학교 화학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "4942",
+      "url": "https://chem.ssu.ac.kr/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=4942",
+      "author": null,
+      "title": "[안내] 2025학년도 교직과정 이수예정자 선발 안내",
+      "description": null,
+      "category": [],
+      "created_at": "2026-01-15T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p>아래 두 명의 학생이 25학년도 교직과정 이수예정자로 선발되었습니다.</p>\n<p>선발 결과에 이의가 있는 경우 7일 이내에 학과 사무실 이메일로 이의 내용을 보내주시기 바랍니다.</p>\n<p>&nbsp;</p>\n<ol>\n<li>20242238</li>\n<li>20240688</li>\n</ol>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "4938",
       "url": "https://chem.ssu.ac.kr/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=4938",
       "author": null,
