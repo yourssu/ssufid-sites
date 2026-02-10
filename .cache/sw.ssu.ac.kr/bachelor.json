@@ -2845,5 +2845,21 @@
       }
     ],
     "metadata": null
+  },
+  {
+    "id": "1605",
+    "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1605&page=1",
+    "author": "최고관리자",
+    "title": "졸업사정 및 이전 학부 전공학점 인정 관련 공지",
+    "description": null,
+    "category": [
+      "공지"
+    ],
+    "created_at": "2026-02-10T14:33:00+09:00",
+    "updated_at": null,
+    "thumbnail": null,
+    "content": "<p><span style=\"font-size:12pt;\">졸업사정 및 이전 학부 전공학점 인정 관련 공지&nbsp;</span></p>\n<p><br></p>\n<p><span style=\"font-size:12pt;\">&nbsp;소프트웨어학부 및 AI융합학부에서 AI소프트웨어학부로 소속 변경한 학생들의 경우 학교 시스템 상 \"소속 변경\"이 아닌 \"전과\"로 인정되기 때문에 현재 졸업사정표는 “전과” 규정에 따라 이전 학부 전공학점이 일반선택으로 변경되어 있는 것으로 확인되었습니다.&nbsp;</span></p>\n<p><br></p>\n<p><span style=\"font-size:12pt;\">&nbsp;학부사무실에서는 수강신청시 혼선을 방지하기 위하여 학생들의 졸업사정표를 \"25-2학기까지 이수한 전공학점이 인정된 이전 시점\"으로 복원작업을 진행 중입니다. 19일까지 복원될 수 있도록 진행 예정이오니 수강신청 계획시 참고 부탁드립니다.&nbsp;</span></p>\n<p><br></p>\n<p><span style=\"font-size:12pt;\">&nbsp;수강신청이 모두 종료된 이후 전과학점 인정 시기(3월 중순으로 예정)에 맞춰 이전 학부(소프트웨어학부, AI융합학부)의 전공 학점 인정처리 작업이 진행될 예정입니다. 4월 중순 경 본인 졸업 사정표를 확인해보시고, 이상할 경우 학부 사무실(ai@ssu.ac.kr)로 문의바랍니다.</span></p>",
+    "attachments": [],
+    "metadata": null
   }
 ]
