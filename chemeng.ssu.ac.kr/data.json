@@ -4,6 +4,22 @@
   "description": "숭실대학교 화학공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "761",
+      "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=761&sk=&sw=&offset=&category=",
+      "author": "관리자",
+      "title": "2026-1학기 전공과목 증원 안내: 3월 3일 수강신청 가능",
+      "description": null,
+      "category": [
+        "학부공지사항"
+      ],
+      "created_at": "2026-02-26T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div class=\"body\">\n\t\t\t\n\t<p>1. 촉매공학 분반별: 각 10명 증원(정원 50명)</p><p><br></p><p>2. 분리공정: 10명 증원(정원 50명)</p><p><br></p><p>3. 환경에너지공학개론: 각 5명(정원 45명)</p>\n\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "760",
       "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=760&sk=&sw=&offset=&category=",
       "author": "관리자",
