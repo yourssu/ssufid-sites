@@ -1590,7 +1590,9 @@
 <ul>
 <li><span style="font-family: arial, helvetica, sans-serif;font-size: 14pt">모바일 학생증은 스마트카드 발급자의 경우에만 이용 가능하오니, 사용을 희망하는 학생들은 반드시 실물 학생증을 발급 받으시기 바랍니다.</span></li>
 <li><span style="font-family: arial, helvetica, sans-serif;font-size: 14pt">최초 로그인 정보(ID, 비밀번호)는 유세인트와 동일함</span></li>
-<li><span style="font-family: arial, helvetica, sans-serif;font-size: 14pt">스마트폰 설정 메뉴에서 ‘자동 날짜 및 시간’ 활성화 필요</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;font-size: 14pt">스마트폰 설정 메뉴에서 ‘자동 날짜 및 시간’ 활성화 필요</span><span style="font-family: arial, helvetica, sans-serif;font-size: 14pt">필요</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;font-size: 14pt">모바일 화면에서 개인정보(학적 정보) 확인이 안될 시 다크모드 해제</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;font-size: 14pt">학생증 신청 완료 후 신규가입고객 및 비밀번호 분실고객은 설치한 우리WON뱅킹 재 로그인하여 연결 게좌 개설 사항 확인하시기 바랍니다.</span></li>
 </ul>
 <p><span style="font-family: arial, helvetica, sans-serif;font-size: 14pt">붙임 2026년 우리WON뱅킹 대학 학생증카드 신청 매뉴얼 1부.&nbsp;</span></p>
 <p>&nbsp;</p>
@@ -1608,6 +1610,7 @@
 																			</ul>
 																		
 								</div>]]></content:encoded>
+      <atom:updated>2026-02-27T06:11:21.576574293Z</atom:updated>
     </item>
     <item>
       <title>2026년 상반기 한·미 대학생 연수(WEST) 참가자 모집</title>
