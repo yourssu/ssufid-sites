@@ -4,6 +4,22 @@
   "description": "숭실대학교 전기공학부 학부소식 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "367",
+      "url": "http://ee.ssu.ac.kr/sub/sub05_02.php?boardid=major&mode=view&idx=367&sk=&sw=&offset=0&category=",
+      "author": "elecadm",
+      "title": "2026-1학기 전공교과목 증원(1)",
+      "description": null,
+      "category": [
+        "Notice"
+      ],
+      "created_at": "2026-02-27T11:04:39+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p>- 디스플레이원리(나)(다) : 각 2명씩 증원 / 3월 3일(화) 수강 신청 가능&nbsp;</p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "366",
       "url": "http://ee.ssu.ac.kr/sub/sub05_02.php?boardid=major&mode=view&idx=366&sk=&sw=&offset=0&category=",
       "author": "elecadm",

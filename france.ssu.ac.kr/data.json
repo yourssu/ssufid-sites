@@ -4,6 +4,20 @@
   "description": "숭실대학교 불어불문학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "4659",
+      "url": "https://france.ssu.ac.kr/%ed%95%99%ea%b3%bc%ec%82%ac%eb%ac%b4%ec%8b%a4%ec%95%8c%eb%a6%bc/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=4659",
+      "author": null,
+      "title": "[공지] 2026학년도 1학기 유고결석 제도 운영 안내",
+      "description": null,
+      "category": [],
+      "created_at": "2026-02-09T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p>2026학년도 1학기 유고결석 제도 운영을 안내드리오니, 출결 관리에 참고하시기 바랍니다.</p>\n<p>&nbsp;</p>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td><b>결석 사유</b></td>\n<td><b>해당 사례</b></td>\n<td><b>인정 기간</b></td>\n<td><b>제출 서류</b></td>\n</tr>\n<tr>\n<td>본인 결혼</td>\n<td>본인의 결혼</td>\n<td>당일부터 7일</td>\n<td>· 혼인관계증명서<p></p>\n<p>· 청첩장</p></td>\n</tr>\n<tr>\n<td rowspan=\"2\">혈족 사망</td>\n<td>2촌 이내</td>\n<td>당일부터 5일</td>\n<td rowspan=\"2\">· 사망진단서<p></p>\n<p>· 가족관계증명서</p></td>\n</tr>\n<tr>\n<td>4촌 이내</td>\n<td>당일부터 3일</td>\n</tr>\n<tr>\n<td rowspan=\"2\">질병(최대 3회)</td>\n<td>입·퇴원</td>\n<td>입원~퇴원<p></p>\n<p>전체 일자</p></td>\n<td>· 입·퇴원확인서</td>\n</tr>\n<tr>\n<td>통원</td>\n<td>진료 당일 1일</td>\n<td>· 진단서, 진료확인서, 통원확인서 중 1개</td>\n</tr>\n<tr>\n<td>병무관계</td>\n<td>예비군, 신체검사, 군 면접</td>\n<td>해당 일</td>\n<td>· 신체검사확인서<p></p>\n<p>· 면접 확인서</p></td>\n</tr>\n<tr>\n<td>공식 행사</td>\n<td>체육대회, MT 등</td>\n<td>행사 기간</td>\n<td>· 단과대학 유고결석 승인 협조 요청 공문</td>\n</tr>\n</tbody>\n</table>\n<p>※ 상기 기준의 세부 내용 및 기타 유의사항은 [붙임1] 참고</p>\n<p>&nbsp;</p>\n<p>유의사항</p>\n<p>1) 유고결석은 반드시 학생 본인이 직접 신청하여야 하며, 대리 신청은 불가함.</p>\n<p>2) 필수 제출 서류가 누락될 경우 유고결석 승인이 불가함.</p>\n<p>3) 개인적인 사유(예: 기업 면접, OT, 행정부서 또는 학과(부) 소모임 등)는<br>\n유고결석 사유로 인정되지 않으며, 해당 사유에 따른 결석은 승인되지 않음.</p>\n<p>&nbsp;</p>\n<p><b>3. 유고결석 신청 절차 안내</b></p>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td><b>순서</b></td>\n<td><b>대상</b></td>\n<td><b>절차 내용</b></td>\n<td><b>비고</b></td>\n</tr>\n<tr>\n<td>1</td>\n<td>학생</td>\n<td>u-Saint 시스템을 통한 신청</td>\n<td>사유 발생일로부터 10일 이내 본인 직접 신청</td>\n</tr>\n<tr>\n<td>2</td>\n<td>학생서비스팀</td>\n<td>증빙서류 검토</td>\n<td>사유의 적법성 확인</td>\n</tr>\n<tr>\n<td>3</td>\n<td>담당 교원</td>\n<td>결석 인정 여부 최종 승인</td>\n<td>총 수업일 수의 3분의 1 미만</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>끝.</p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "4656",
       "url": "https://france.ssu.ac.kr/%ed%95%99%ea%b3%bc%ec%82%ac%eb%ac%b4%ec%8b%a4%ec%95%8c%eb%a6%bc/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=4656",
       "author": null,
