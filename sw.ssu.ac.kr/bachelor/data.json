@@ -4,6 +4,22 @@
   "description": "숭실대학교 소프트웨어 홈페이지의 학사 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "1610",
+      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1610&page=1",
+      "author": "최고관리자",
+      "title": "[수강신청 안내] 26-1학기 시스템보안(2150167801) 여석증원 안내",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2026-03-03T16:50:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p><span style=\"font-size:12pt;\">안녕하세요 학부사무실입니다.&nbsp;</span></p>\n<p><span style=\"font-size:12pt;\">26-1학기에 조해현교수님께서 강의하시는 시스템보안(2150167801)강의는 최종 정원 60명으로 조정됩니다.&nbsp;</span></p>\n<p><span style=\"font-size:12pt;\">조정된 정원은 3월4일(수) 오전 10시부터 수강신청이 가능하니, 수강계획에 참고하시기 바랍니다.&nbsp;</span></p>\n<p><span style=\"font-size:12pt;\">감사합니다.&nbsp;</span></p>\n<p><span style=\"font-size:12pt;\">- 학부사무실-&nbsp;</span></p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "1609",
       "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1609&page=1",
       "author": "최고관리자",
@@ -1876,20 +1892,6 @@
           "mime_type": null
         }
       ],
-      "metadata": null
-    },
-    {
-      "id": "1504",
-      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1504&page=2",
-      "author": "최고관리자",
-      "title": "[스파르탄SW교육원] 정보보안 SW 웹/앱 개발 공모전",
-      "description": null,
-      "category": [],
-      "created_at": "2025-01-17T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": "https://mail.google.com/mail/u/1?ui=2&ik=2b0eccd6fe&attid=0.1&permmsgid=msg-f:1821367956014178238&th=1946cc8187811fbe&view=fimg&fur=ip&permmsgid=msg-f:1821367956014178238&sz=s0-l75-ft&attbid=ANGjdJ82PSsesZqXFzr_QCd8uvNGRgmSgdj9t-4ORIUFLyy0XeLiW_Py9hGtk7zjIIejws8CPp0mmzZ34HDE0Jo_3AC9zg2_nciQj_DPGvldseBQHBUMuKUmI3SerUE&disp=emb&realattid=ii_m5yo0rhg0&zw",
-      "content": "<div style=\"color:rgb(34,34,34);font-family:Arial, Helvetica, sans-serif;font-size:small;background-color:rgb(255,255,255);\"><img alt=\"unnamed.png\" class=\"CToWUd a6T\" height=\"542\" src=\"https://mail.google.com/mail/u/1?ui=2&amp;ik=2b0eccd6fe&amp;attid=0.1&amp;permmsgid=msg-f:1821367956014178238&amp;th=1946cc8187811fbe&amp;view=fimg&amp;fur=ip&amp;permmsgid=msg-f:1821367956014178238&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ82PSsesZqXFzr_QCd8uvNGRgmSgdj9t-4ORIUFLyy0XeLiW_Py9hGtk7zjIIejws8CPp0mmzZ34HDE0Jo_3AC9zg2_nciQj_DPGvldseBQHBUMuKUmI3SerUE&amp;disp=emb&amp;realattid=ii_m5yo0rhg0&amp;zw\" width=\"383\"></div>\n<div style=\"color:rgb(34,34,34);font-family:Arial, Helvetica, sans-serif;font-size:small;background-color:rgb(255,255,255);\">링크:&nbsp;<a href=\"https://18607b68.streaklinks.com/CRplYIA__7wZH94cZgllix-o/https%3A%2F%2Fedu.ggumeasy.com%2F%3Fpn%3Dproduct.view%26pcode%3DZ7109-W6080-V3918\" rel=\"nofollow noreferrer noopener\" style=\"color:rgb(17,85,204);\" target=\"_blank\">[공모전] 정보보안 SW 웹/앱 개발 공모전 - 껌이지</a></div>",
-      "attachments": [],
       "metadata": null
     }
   ]
