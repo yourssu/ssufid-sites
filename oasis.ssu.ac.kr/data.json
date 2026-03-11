@@ -4,6 +4,20 @@
   "description": "숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "15693",
+      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/15693",
+      "author": "이*솔",
+      "title": "[안내] 1층 무인반납기 유리부스 설치 공사 안내(3/14)",
+      "description": null,
+      "category": [],
+      "created_at": "2026-03-11T10:47:01+09:00",
+      "updated_at": "2026-03-11T10:50:53+09:00",
+      "thumbnail": null,
+      "content": "<div>안녕하세요 중앙도서관입니다.&nbsp;</div><div><br></div><div>중앙도서관 1층 도서무인반납기 유리부스 설치 공사를 아래와 같이 안내드립니다.&nbsp;</div><div><br></div><div><b>• 공사 내용&nbsp;</b></div><div>&nbsp; &nbsp;- 도서무인반납기 유리부스 설치 공사</div><div><br></div><div><div><b>• 공사 장소&nbsp;</b></div><div>&nbsp; &nbsp;- 중앙도서관 1층 무인반납기 공간</div></div><div><br></div><div><b>• 공사 일정&nbsp;</b></div><div>&nbsp; &nbsp;- <font color=\"#001eff\">3월 14일(토) 종일</font> (오전 9시 공사 시작)</div><div>&nbsp; &nbsp;- 3월 16일(월) 이후: 소음이 발생하지 않는 추가 작업 진행</div><div><br></div><div>공사 기간 동안 소음이 발생할 수 있습니다.</div><div><br></div><div>도서관 이용에 불편을 드려 죄송하며, 이용자 여러분의 양해와 협조를 부탁드립니다.&nbsp;</div><div><br></div><div>감사합니다.&nbsp;</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "15660",
       "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/15660",
       "author": "조*욱",
@@ -1481,20 +1495,6 @@
       "updated_at": "2025-06-18T15:27:22+09:00",
       "thumbnail": null,
       "content": "<p><strong><span style=\"text-autospace:none\"><span style=\"font-family:함초롬바탕\"><span style=\"letter-spacing:0pt\">&nbsp;&lt;</span></span></span><span style=\"font-size:18px\">WILL 상호대차&nbsp;서비스 일시&nbsp;중단 안내&gt;</span></strong></p>\n\n<div class=\"hwp_editor_board_content\" data-hjsonver=\"1.0\" data-jsonlen=\"5403\" id=\"hwpEditorBoardContent\">우체국 택배비용 인상으로 인해 WILL 상호대차서비스가 아래와 같이 중단되오니</div>\n\n<p>이용에 참고하시기 바랍니다.</p>\n\n<p>&nbsp;</p>\n\n<p>○ <strong>중단기간 : 2025. 6. 26(목) 17:00 ~ 6. 30(월) 18:00</strong></p>\n\n<p>※ 상기 일정은 작업 진행 상황에 따라 변동될 수 있습니다.</p>\n\n<p>○ 중단사유 : 우체국 택배비용 인상으로 인한 서비스 중단</p>\n\n<p>○ 중단 서비스 : WILL 상호대차 복사 및 대출 서비스 신청, 제공 일시중단</p>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "14584",
-      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14584",
-      "author": "김*진",
-      "title": "[공지] 중앙도서관 리모델링 공사 안내",
-      "description": null,
-      "category": [],
-      "created_at": "2025-06-12T17:12:06+09:00",
-      "updated_at": "2025-06-12T17:12:28+09:00",
-      "thumbnail": null,
-      "content": "<p><img alt=\"faecc3ed-b27a-4d58-be3a-d62894ec646d (992×1403)\" src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/faecc3ed-b27a-4d58-be3a-d62894ec646d\" /></p>",
       "attachments": [],
       "metadata": null
     }
