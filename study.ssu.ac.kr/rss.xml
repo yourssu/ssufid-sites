@@ -165,8 +165,7 @@
 			<td style="width:483px;height:111px;">수업 기간<br />
 			* Barcelona 3주 프로그램<br />
 			7월 6일 &ndash; 7월 24일 (2 courses- 14 ECTS)<br />
-			<span style="color:#ff0000;">*바르셀로나 외 프로그램은 수업료 납부 해야하므로 수업료 납부하고<br />
-			다른 프로그램 참여 희망 시, 국제팀으로 별도 문의 바랍니</span>다.</td>
+			<span style="color:#ff0000;">*바르셀로나 외 다른 프로그램 참여 희망 시, 국제팀으로 별도 문의 바랍니</span>다.</td>
 		</tr>
 		<tr>
 			<td style="width:76px;height:102px;">수업시간<br />
@@ -201,7 +200,43 @@
 			항공료<br />
 			식비<br />
 			용돈<br />
-			등은 지불해야 함.</td>
+			등은 지불해야 함.<br />
+			&nbsp;
+			<table>
+				<thead>
+					<tr>
+						<th>프로그램</th>
+						<th>등록금</th>
+						<th>등록비</th>
+						<th>숙박비(선택)</th>
+						<th>니스 4일 여행</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>4주 (툴루즈)</td>
+						<td>면제</td>
+						<td>150&euro;</td>
+						<td>1500&euro;</td>
+						<td>250&euro;</td>
+					</tr>
+					<tr>
+						<td>3주 (바르셀로나)</td>
+						<td>면제</td>
+						<td>100&euro;</td>
+						<td>1050&euro;</td>
+						<td>-</td>
+					</tr>
+					<tr>
+						<td>5주 (툴루즈 + 바르셀로나)</td>
+						<td>면제</td>
+						<td>175&euro;</td>
+						<td>1970&euro;</td>
+						<td>250&euro;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
 		</tr>
 	</tbody>
 </table>
@@ -245,7 +280,7 @@ during the application process<br />
 
 <div data-hjsonver="1.0" data-jsonlen="38467" id="hwpEditorBoardContent">&nbsp;</div>
 ]]></content:encoded>
-      <atom:updated>2026-03-10T00:00:00+09:00</atom:updated>
+      <atom:updated>2026-03-13T00:00:00+09:00</atom:updated>
     </item>
     <item>
       <title>[여름 단기] 산동대학교(위해) 2026년 여름방학 단기 중국어연수 모집 안내</title>
