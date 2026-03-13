@@ -4,6 +4,113 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "3832",
+      "url": "https://startup.ssu.ac.kr/board/notice/3832?boardEnName=notice",
+      "author": "admin",
+      "title": "[경북대학교] MIT GSW 2026 행사 안내",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2026-03-13T17:52:04+09:00",
+      "updated_at": "2026-03-13T17:52:04+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;경북대학교는 개교 80주년을 맞아 글로벌 창업 네트워크 확산을 위해 「MIT GSW 2026(MIT Global Startup Workshop)」을 개최할 예정이오니, 각 대학에서는 적극적인 관심과 참여를 부탁드립니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&quot;image image_resized&quot; style=&quot;width:92.37%;&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/03/710b617e-5f6e-4702-b424-0156af8eaba5.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;가. 행 사 명:&lt;strong&gt; MIT GSW 2026&lt;/strong&gt;(MIT Global Startup Workshop)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;나. 개최기간: &lt;strong&gt;2026. 3. 26.(목)~3. 27.(금)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;다. 장 &amp;nbsp;&amp;nbsp;&amp;nbsp;소: 경북대학교 글로벌플라자 효석홀 및 경하홀Ⅰ&middot;Ⅱ 등&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;라. 참석대상: 대학 구성원 및 학생, 스타트업, 정부 및 지자체 관계자, 유관기관 등&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;마. 주요내용: MIT GSW팀 초청 기조강연, 워크샵, 패널토의, Hackathon, 전시 등&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;바. 참가신청: 온라인 신청(https://gsw2026.com/)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;사. 문 의 처: 경북대학교 창업지원단(☎053-950-6096)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2839",
+          "name": "초청장_국문.png",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2840",
+          "name": "포스터_국문.png",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
+      "id": "3831",
+      "url": "https://startup.ssu.ac.kr/board/notice/3831?boardEnName=notice",
+      "author": "admin",
+      "title": "[마산대학교] 2026년 스포츠산업 창업지원사업 예비초기창업기업 모집",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2026-03-13T17:45:56+09:00",
+      "updated_at": "2026-03-13T17:45:56+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&lt;strong&gt;문화체육관광부와 국민체육진흥공단이 주관하고 마산대학교가 운영하는 「2026 스포츠산업 창업지원사업」에서 스포츠산업 분야에 혁신적인 아이디어를 가진 예비&middot;초기 창업기업을 모집하오니 많은 관심과 참여 부탁드립니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/03/37e01ca4-bdf7-41f3-b4b8-a6e13f24e51a.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;가. &lt;strong&gt;모집개요:&lt;/strong&gt; 첨부 모집공고 및 상기 포스터 참고&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);&quot;&gt;나. &lt;strong&gt;문 의 처&lt;/strong&gt;: 마산대학교 스포츠산업 창업지원센터(055-230-0168)&lt;/span&gt;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2834",
+          "name": "1. 2026 예비초기 사업계획서(양식).hwp",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2835",
+          "name": "2. 2026 (예비)초기창업기업 모집공고.pdf",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2836",
+          "name": "3. 2026 스포츠산업 예비초기창업지원 참여기업 모집 포스터.jpg",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
+      "id": "3830",
+      "url": "https://startup.ssu.ac.kr/board/notice/3830?boardEnName=notice",
+      "author": "admin",
+      "title": "2026년 제8회 교육 공공데이터 AI 활용대회 개최 안내",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2026-03-13T17:40:06+09:00",
+      "updated_at": "2026-03-13T17:40:06+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;교육부와 17개 시&middot;도교육청이 공동 주최하고 한국교육학술정보원(KERIS)이 주관하는 「제8회 교육 공공데이터 AI 활용대회」를 아래와 같이 개최하오니 많은 관심과 참여 부탁드립니다.&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/03/85a9c4e3-7f78-4ddd-8017-a61052d6e919.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;가. &lt;strong&gt;대 회 명&lt;/strong&gt;: 제8회 교육 공공데이터 AI 활용대회&lt;/p&gt;&lt;p&gt;&amp;nbsp;나. &lt;strong&gt;주요일정&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;○ AI 이용권 신청: &#39;26. 3. 16.(월) ~ 4. 15.(수)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;○ 작품 접수 및 제출: &#39;26. 5. 1.(금) ~ 5. 31.(일)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;○ 심사 및 발표: 1&middot;2차 심사(6~7월)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;○ 시상식: &#39;26. 8. 11.(화) 예정&lt;/p&gt;&lt;p&gt;&amp;nbsp;다. &lt;strong&gt;참가대상&lt;/strong&gt;: 초&middot;중&middot;고등학생 및 대학(원)생, 교직원, 공무원, 일반인 등&lt;/p&gt;&lt;p&gt;&amp;nbsp;라. &lt;strong&gt;참가분야&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;○ 학생 부문: AI 활용 소속학교 홍보영상 제작(초등), AI 활용 아이디어 기획(중&middot;고등)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;○ 일반 부문: AI 활용 아이디어 기획(대학(원)생, 일반인, 교직원 등)&lt;/p&gt;&lt;p&gt;&amp;nbsp;마. &lt;strong&gt;신청방법&lt;/strong&gt;: 교육 공공데이터 AI 활용대회 홈페이지(data.edmgr.kr) 온라인 접수&lt;/p&gt;&lt;p&gt;&amp;nbsp;바. &lt;strong&gt;주최/주관&lt;/strong&gt;: 교육부, 17개 시&middot;도교육청 / 한국교육학술정보원(KERIS)&lt;/p&gt;&lt;p&gt;&amp;nbsp;사. &lt;strong&gt;후원기관&lt;/strong&gt;: 한국직업능력연구원, 한국교육과정평가원, 한국과학창의재단, 한국대학교육협의회, 한국교육개발원&lt;/p&gt;",
+      "attachments": [],
+      "metadata": null
+    },
+    {
+      "id": "3829",
+      "url": "https://startup.ssu.ac.kr/board/notice/3829?boardEnName=notice",
+      "author": "admin",
+      "title": "[단국대학교] 2026년 스포츠산업 예비초기창업지원센터 참여 기업 모집",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2026-03-13T17:33:21+09:00",
+      "updated_at": "2026-03-13T17:33:21+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,255);color:rgb(18,19,21);font-size:16px;&quot;&gt;&lt;strong&gt;단국대학교 창업지원단에서 스포츠산업 분야의 성장을 도울 「2026년 스포츠산업 창업지원사업」에 참여할 예비 및 초기 창업자를 모집합니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/03/0cc6b9f0-7cce-4eef-9bd1-091ccc5e00b5.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;가. 모집명 : 2026년 스포츠산업 예비초기창업지원(주관기관 : 단국대학교)&lt;/p&gt;&lt;p&gt;나. 접수기간 : 2026.03.09.(월) ~ 2026.03.24.(화) 16:00까지&lt;/p&gt;&lt;p&gt;다. 모집대상 : 스포츠산업분야 예비창업자 또는 3년 미만 초기 스타트업&lt;/p&gt;&lt;p&gt;라. 접수방법 :스포츠산업지원(&lt;strong&gt;https://dankook.ac.kr/bbs/url/212/28bc9&lt;u&gt;)을 통한 온라인 접수&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;마. 지원내용 : 사업화지원금 및 맞춤형 특화 프로그램 등&lt;/p&gt;&lt;p&gt;바. 온라인설명회 : 2026.03.11.(수) 10:30 / 온라인 ZOOM(836 7362 3992)&lt;/p&gt;&lt;p&gt;사. 문의처 : 단국대학교 창업지원단(031-8005-2869, dk_startup@dankook.ac.kr)&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2829",
+          "name": "붙임1. 스포츠 산업 예비초기 모집공고문_최종.pdf",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2830",
+          "name": "붙임2. 스포츠 산업 예비 초기 사업계획서 양식_최종본.hwp",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2831",
+          "name": "붙임3. 단국대 스포츠산업 포스터_최종본.pdf",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "3828",
       "url": "https://startup.ssu.ac.kr/board/notice/3828?boardEnName=notice",
       "author": "admin",
@@ -2184,87 +2291,6 @@
           "mime_type": null
         }
       ],
-      "metadata": null
-    },
-    {
-      "id": "3649",
-      "url": "https://startup.ssu.ac.kr/board/notice/3649?boardEnName=notice",
-      "author": "admin",
-      "title": "[캠퍼스타운기업성장센터] *기간연장* 카카오모빌리티 오픈이노베이션 Meet-up 기업 모집 ",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2025-06-04T11:07:01+09:00",
-      "updated_at": "2025-06-04T11:07:01+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/06/8006cf76-c08b-4b3b-bcff-f3f2361b8e9b.jpg&quot;&gt;&lt;/figure&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;모집대상 :&amp;nbsp;캠퍼스타운 보육&middot;졸업 기업 및 대학 창업기업&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;지원규모 : 10개사&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;모집방식 :&amp;nbsp;캠퍼스타운 기업성장센터 홈페이지 온라인 접수&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;모집기간 :&amp;nbsp;&#39;25. 5. 12.(월) ~ 6. 15.(일) 18:00까지&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;모집분야&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;① 주차&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&amp;nbsp;- 주차난 해소, 불법주차 문제 해결 등 주차와 관련된 다양한 문제를 창의적으로 해결할 수 있는 솔루션, 사업 모델, 기술 , 아이디어를 보유한 기업&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;- 스마트 주차 관리,&amp;nbsp;실시간 주차 공간 공유, AI&amp;nbsp;기반 불법주차 감지,&amp;nbsp;전기차 충전 인프라 연계 등 혁신적인 접근 방식을 통해 효율적인 주차 환경을 조성할 수 있는 기업&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;- 기존 주차 시스템의 문제점을 개선하거나 새로운 주차 서비스 모델을 제안할 수 있는 기업&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;② 물류&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;-&amp;nbsp;카카오모빌리티의 미들마일,&amp;nbsp;당일배송,&amp;nbsp;라스트마일&amp;nbsp;(퀵/도보배송)&amp;nbsp;사업과 연계해 시너지를 창출할 수 있는 다양한 사업 모델,&amp;nbsp;기술,&amp;nbsp;아이디어를 보유한 기업&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;- &amp;nbsp;AI&amp;nbsp;기반 물류 최적화,&amp;nbsp;배송 효율을 높일 수 있는 경로 추천 기술,&amp;nbsp;실시간 배송 모니터링 및 관리 시스템,&amp;nbsp;친환경&middot;전동화 물류 솔루션 등 물류 전 과정에서 혁신을 이끌 수 있는 기업&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;-&amp;nbsp; 기존 물류 인프라를 개선하거나 새로운 형태의 배송 서비스 모델을 제안할 수 있는 기업&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;③ 외국인&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;-&amp;nbsp;카카오모빌리티(K.ride)&amp;nbsp;플랫폼을 활용해 국내 거주 및 여행 외국인의 이동 편의를 높일 수 있는 기술,&amp;nbsp;서비스,&amp;nbsp;아이디어를 보유한 기업을 모집&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;-&amp;nbsp;다국어 지원 모빌리티 서비스,&amp;nbsp;외국인 맞춤형 경로 추천 및 예약 시스템,&amp;nbsp;간편 결제 솔루션,&amp;nbsp;현지 문화&middot;관광 정보 연계 서비스 등 이동 과정에서의 불편을 최소화 하고 이용 경험을 &amp;nbsp; &amp;nbsp;개선 할 수 있는 기업&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;-&amp;nbsp;외국인의 이동 접근성을 높이고,&amp;nbsp;보다 편리한 교통 환경을 조성할 수 있는 혁신적인 아이디어를 보유한 기업&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;지원내용&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;① 현장 밋업 :&amp;nbsp;참여기관 대상 1:1 협업 상담 및 투자 검토 지원&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- (상담회) &amp;nbsp;카카오모빌리티 PoC 검토 스타트업 대상 투자 및 협업 상담&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- (투자 검토)&amp;nbsp;카카오모빌리티 운영 펀드 및 씨엔티테크 투자 검토&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;②&amp;nbsp;카카오모빌리티 오픈이노베이션 PoC 검토&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;- PoC 확정 기업 대상 우수기업 선발 시&amp;nbsp;카카오모빌리티 오픈이노베이션 진행&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;③ 홍보 및 마케팅 :&amp;nbsp;우수기업 대외 홍보 지원&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp; &amp;nbsp;- (참여기업) 온라인 미디어 매체 활용 참여기업 홍보&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp; &amp;nbsp;- (우수기업) NBN, 스타트업 전문 유튜브 채널 CNTV 송출 지원&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;선발절차&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;온라인 신청&middot;접수 &rarr; 서류평가(12개사 선발) &rarr; 현장밋업(7분 IR 발표, 30분씩 상담회 참여 / 6개사 선발) &rarr; 오픈이노베이션 컨설팅&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;신청방법&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;① 홈페이지 신청&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;https://s-upcenter.startup-plus.kr/project/PRJ005682&quot;&gt;&lt;strong&gt;https://s-upcenter.startup-plus.kr/project/PRJ005682&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&amp;nbsp;홈페이지 내 신청&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;② 참가신청서 및 아이템 제안서 제출&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;첨부파일 작성 후&amp;nbsp;&lt;/strong&gt;&lt;a href=&quot;mailto:seoulcampustown@gmail.com&quot;&gt;&lt;strong&gt;seoulcampustown@gmail.com&amp;nbsp;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&amp;nbsp;로 제출&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;* 파일명 : 오픈이노베이션 참가신청_기업명.PDF / 오픈이노베이션 밋업 기술(아이템)제안서_기업명.PDF&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;제출서류&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;① 참가신청서 ([별첨1] 지정 양식 준용)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;② 사업계획서 ([별첨2] 지정 양식 준용)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;③ 개인정보 수집 및 이용 동의서 ([별첨1] 지정 양식 준용)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;④ 서약서 ([별첨1] 지정 양식 준용)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;⑤ 사업자등록증 및 (해당 시)법인등기부등본 (모집공고일(5/12) 이후 발급분)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;⑥ 캠퍼스타운 또는 대학 창업기업 증빙 (졸업/수료/보육 관련 증명서)&lt;/strong&gt;&lt;/p&gt;",
-      "attachments": [
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2506",
-          "name": "(별첨1) 2025년 캠퍼스타운 기업성장센터_오픈이노베이션 참가신청 양식.hwp",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2507",
-          "name": "(별첨2) 2025년 캠퍼스타운 기업성장센터_오픈이노베이션 밋업 기술(아이템) 제안서.pptx",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "3648",
-      "url": "https://startup.ssu.ac.kr/board/notice/3648?boardEnName=notice",
-      "author": "admin",
-      "title": "2025년 한국외국어대학교 소상공인 디지털특성화대학 3&middot;4기 교육생 모집",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2025-05-28T15:29:12+09:00",
-      "updated_at": "2025-05-28T15:29:12+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/05/3f0a2474-e1af-4c5f-a7b2-23d4fe4e2516.jpg&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;가. 행 사 명 : 2025년 한국외대 소상공인 디지털특성화대학사업 3&middot;4기 교육생 모집&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;나. 교육개요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; - 대 상 : 소상공인 및 예비창업자(소상공인 우선 선발)&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; - 내 용 : 전자상거래 입점 전략 (스마트스토어, 쿠팡, 아마존 등)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 디지털 마케팅 실습 (AI 콘텐츠, SNS, SEO 등)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 온라인 특강 (라이브커머스, AI, 마케팅 등)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 1:1 전문가 멘토링 지원&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; - 장 소 : 한국외국어대학교 서울캠퍼스(세부장소 개별 안내)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; - 혜 택 : 교육비 전액 무료&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 온라인 이커머스 전문가 멘토링&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 상세페이지 제작 지원(수료한 우수기업 우선, 세부내용 추후 안내)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;다. 일정&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; 1) 3기 월요일반&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 교육일정: 2025. 06. 09.(월) ~ 06. 30.(월) 4주간 총 20시간&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 지원신청: 2025. 05. 21.(수) ~ 06. 02.(월)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 서류심사: 2025. 05. 26.(월) ~ 06. 02.(월)&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 최종발표: 2025. 06. 03.(화) ※합격자 개별 문자 및 이메일 안내 예정&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 합격자 오리엔테이션: 2025. 06. 04.(수) *온라인 Zoom&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; 2) 4기 토요일반&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 교육일정: 2025. 06. 21.(토) ~ 07. 12.(토) 4주간 총 20시간&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 지원신청: 2025. 05. 21.(수) ~ 06. 16.(월)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 서류심사: 2025. 06. 09.(월) ~ 06. 16.(월)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 최종발표: 2025. 06. 18.(수) ※합격자 개별 문자 및 이메일 안내 예정&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 합격자 오리엔테이션: 2025. 06. 19.(목) *온라인 Zoom&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;라. 지원방법&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; 1) 셀프 문답지(https://forms.gle/dqjAxB3juHjfECoR7) 제출 후,&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;소상공인24(https://www.sbiz24.kr/#/pbanc/318) 홈페이지 지원&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; 2) 소상공인의 경우, 대표자 본인만 신청가능, 대리 신청 시 선정취소)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;마. 기 타&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; 1) 한국외대 글로벌창업지원단 홈페이지: https://bit.ly/43dAKxf&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; 2) 한국외대 글로벌창업지원단 문 의 처: 02-2173-2870~1, hufs.dt107@gmail.com&lt;/span&gt;&lt;/p&gt;",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "3647",
-      "url": "https://startup.ssu.ac.kr/board/notice/3647?boardEnName=notice",
-      "author": "admin",
-      "title": "2025 한양대학교 창업중심대학 린스타트업 참가자 모집 ",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2025-05-28T15:24:27+09:00",
-      "updated_at": "2025-05-28T15:24:27+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/05/e937b826-fced-4a35-b516-2e1c2e87e750.jpg&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;한양대학교는 창업중심대학사업의 주관기관으로서 유망 창업자 발굴 및 지원을 통해 권역내 창업 활성화를 도모하는 거점 역할을 수행하고 있습니다.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;혁신 아이디어를 보유한 권역 내 예비창업자들에게 실제 창업에 필요한 교육 및 시제품 제작을 지원하는 2025 창업중심대학「린스타트업 프로그램」을 운영하고자 하오니, 많은 참여 부탁드립니다.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;가. 프로그램명: &lt;strong&gt;2025 한양대학교 창업중심대학 린스타트업 프로그램&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;나. 대상: &lt;strong&gt;IT&middot;서비스 분야의 아이디어를 가진 수도권 내 예비창업자&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;다. 지원내용: 단계별 창업교육, MVP(최소요건제품) 제작비, 시장검증, 정부지원사업 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;후속연계 등&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;라. 신청기간: ~2025. 6. 4.(수) 오전 10시까지&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;마. 신청접수: 구글 폼을 통한 온라인 접수(bit.ly/4mjXWBk)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;바. 문의처: 한양대학교 창업지원단(02-2220-2851,2864 / if@hanyang.ac.kr)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;※ 세부내용 붙임파일과 한양대학교 창업지원단 홈페이지 공지사항 참조&lt;/span&gt;&lt;/p&gt;",
-      "attachments": [
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2501",
-          "name": "붙임2. 2025 한양대학교 창업중심대학 린스타트업 프로그램 모집 공고.pdf",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "3646",
-      "url": "https://startup.ssu.ac.kr/board/notice/3646?boardEnName=notice",
-      "author": "admin",
-      "title": "(D-3) 제4회 피노베이션 챌린지 모집 중! ",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2025-05-23T15:06:55+09:00",
-      "updated_at": "2025-05-23T15:06:55+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/05/e00722b1-48cd-4931-954b-18cbe216aafc.png&quot;&gt;&lt;/figure&gt;",
-      "attachments": [],
       "metadata": null
     }
   ]

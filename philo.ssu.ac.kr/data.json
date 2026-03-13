@@ -4,6 +4,20 @@
   "description": "숭실대학교 철학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "6231",
+      "url": "https://philo.ssu.ac.kr/%ed%95%99%ea%b3%bc%ec%82%ac%eb%ac%b4%ec%8b%a4%ec%95%8c%eb%a6%bc/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=6231",
+      "author": null,
+      "title": "[학사] 숭실대학교 철학과 교육 과정 로드맵(복수 필수 및 전공 기초 표기)",
+      "description": null,
+      "category": [],
+      "created_at": "2026-02-26T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p><img alt=\"\" class=\"aligncenter wp-image-6232\" height=\"1007\" sizes=\"(max-width: 1038px) 100vw, 1038px\" src=\"https://philo.ssu.ac.kr/wp-content/uploads/sites/112/2026/02/KakaoTalk_20260226_144337585.jpg\" srcset=\"https://philo.ssu.ac.kr/wp-content/uploads/sites/112/2026/02/KakaoTalk_20260226_144337585.jpg 1844w, https://philo.ssu.ac.kr/wp-content/uploads/sites/112/2026/02/KakaoTalk_20260226_144337585-300x291.jpg 300w, https://philo.ssu.ac.kr/wp-content/uploads/sites/112/2026/02/KakaoTalk_20260226_144337585-768x745.jpg 768w, https://philo.ssu.ac.kr/wp-content/uploads/sites/112/2026/02/KakaoTalk_20260226_144337585-1024x993.jpg 1024w\" width=\"1038\"></p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "6226",
       "url": "https://philo.ssu.ac.kr/%ed%95%99%ea%b3%bc%ec%82%ac%eb%ac%b4%ec%8b%a4%ec%95%8c%eb%a6%bc/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=6226",
       "author": null,
