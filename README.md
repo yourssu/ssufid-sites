@@ -8,7 +8,9 @@
 
 |배포 타입|url 형식|
 |:-:|:-:|
+|Site Index|`https://ssufid.yourssu.com/sites.json`|
 |RSS|`https://ssufid.yourssu.com/<IDENTIFIER>/rss.xml`|
 |JSON|`https://ssufid.yourssu.com/<IDENTIFIER>/data.json`|
+|iCalendar|`https://ssufid.yourssu.com/calendar/<IDENTIFIER>/calendar.ics`|
 |OpenAPI Docs|`https://ssufid.yourssu.com/docs/`|
 |OpenAPI JSON|`https://ssufid.yourssu.com/openapi.json`|

@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
 import { glob } from 'glob';
 import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
@@ -30,23 +30,82 @@ const NoticeItemSchema = z.object({
   url: z.string(),
 });
 
-const SiteDataSchema = z.object({
+const NoticeSiteDataSchema = z.object({
   description: z.string(),
   items: z.array(NoticeItemSchema),
   source: z.string(),
   title: z.string(),
 });
 
-function createOpenApiDocument(siteEntries) {
+const CalendarItemSchema = z.object({
+  description: z.string().nullable(),
+  ends_at: z.string(),
+  id: z.string(),
+  location: z.string().nullable(),
+  starts_at: z.string(),
+  title: z.string(),
+  url: z.string(),
+});
+
+const CalendarSiteDataSchema = z.object({
+  description: z.string(),
+  items: z.array(CalendarItemSchema),
+  source: z.string(),
+  title: z.string(),
+});
+
+const SiteMetadataSchema = z.object({
+  description: z.string(),
+  itemCount: z.number().int().nonnegative(),
+  slug: z.string(),
+  source: z.string(),
+  title: z.string(),
+});
+
+function createOpenApiDocument(siteEntries, sites) {
   const attachmentSchema = z.toJSONSchema(AttachmentSchema);
   const noticeItemSchema = z.toJSONSchema(NoticeItemSchema);
-  const siteDataSchema = z.toJSONSchema(SiteDataSchema);
-  const paths = {};
+  const noticeSiteDataSchema = z.toJSONSchema(NoticeSiteDataSchema);
+  const calendarItemSchema = z.toJSONSchema(CalendarItemSchema);
+  const calendarSiteDataSchema = z.toJSONSchema(CalendarSiteDataSchema);
+  const siteMetadataSchema = z.toJSONSchema(SiteMetadataSchema);
+  const siteIndexSchema = z.toJSONSchema(z.array(SiteMetadataSchema));
+  const paths = {
+    '/sites.json': {
+      get: {
+        description: '배포 중인 SSUFID feed 목록입니다.',
+        responses: {
+          200: {
+            content: {
+              'application/json': {
+                examples: {
+                  default: {
+                    value: sites,
+                  },
+                },
+                schema: {
+                  $ref: '#/components/schemas/SiteIndex',
+                },
+              },
+            },
+            description: 'Published site index',
+          },
+        },
+        summary: 'Published site index',
+        tags: ['Site index'],
+      },
+    },
+  };
 
   siteEntries.forEach((site) => {
     const siteDescription = [site.description, site.source ? `원본 사이트: ${site.source}` : null]
       .filter(Boolean)
       .join('\n\n');
+    const isCalendarFeed = site.feedType === 'calendar';
+    const dataSchemaRef = isCalendarFeed
+      ? '#/components/schemas/CalendarSiteData'
+      : '#/components/schemas/NoticeSiteData';
+    const dataSummary = `${site.title} JSON feed`;
 
     paths[`/${site.slug}/data.json`] = {
       get: {
@@ -61,61 +120,167 @@ function createOpenApiDocument(siteEntries) {
                   },
                 },
                 schema: {
-                  $ref: '#/components/schemas/SiteData',
+                  $ref: dataSchemaRef,
                 },
               },
             },
-            description: `${site.title} JSON feed`,
+            description: dataSummary,
           },
         },
-        summary: `${site.title} JSON feed`,
+        summary: dataSummary,
+        tags: [isCalendarFeed ? 'Calendar feeds' : 'Notice feeds'],
       },
     };
 
-    paths[`/${site.slug}/rss.xml`] = {
-      get: {
-        description: siteDescription || undefined,
-        responses: {
-          200: {
-            content: {
-              'application/rss+xml': {
-                schema: {
-                  type: 'string',
+    if (site.hasRss) {
+      paths[`/${site.slug}/rss.xml`] = {
+        get: {
+          description: siteDescription || undefined,
+          responses: {
+            200: {
+              content: {
+                'application/rss+xml': {
+                  schema: {
+                    type: 'string',
+                  },
+                },
+                'application/xml': {
+                  schema: {
+                    type: 'string',
+                  },
                 },
               },
-              'application/xml': {
-                schema: {
-                  type: 'string',
-                },
-              },
+              description: `${site.title} RSS feed`,
             },
-            description: `${site.title} RSS feed`,
           },
+          summary: `${site.title} RSS feed`,
+          tags: ['Notice feeds'],
         },
-        summary: `${site.title} RSS feed`,
-      },
-    };
+      };
+    }
+
+    if (site.hasCalendarIcs) {
+      paths[`/${site.slug}/calendar.ics`] = {
+        get: {
+          description: siteDescription || undefined,
+          responses: {
+            200: {
+              content: {
+                'text/calendar': {
+                  schema: {
+                    type: 'string',
+                  },
+                },
+              },
+              description: `${site.title} iCalendar feed`,
+            },
+          },
+          summary: `${site.title} iCalendar feed`,
+          tags: ['Calendar feeds'],
+        },
+      };
+    }
   });
+
+  const firstNoticeEntry = siteEntries.find((site) => site.feedType === 'notice');
+  const firstCalendarEntry = siteEntries.find((site) => site.feedType === 'calendar');
 
   return {
     components: {
       schemas: {
         Attachment: attachmentSchema,
-        NoticeItem: noticeItemSchema,
-        SiteData: {
-          ...siteDataSchema,
-          examples: siteEntries[0] ? [siteEntries[0].data] : undefined,
+        CalendarItem: calendarItemSchema,
+        CalendarSiteData: {
+          ...calendarSiteDataSchema,
+          examples: firstCalendarEntry ? [firstCalendarEntry.data] : undefined,
         },
+        NoticeItem: noticeItemSchema,
+        NoticeSiteData: {
+          ...noticeSiteDataSchema,
+          examples: firstNoticeEntry ? [firstNoticeEntry.data] : undefined,
+        },
+        SiteIndex: {
+          ...siteIndexSchema,
+          examples: sites.length > 0 ? [sites] : undefined,
+        },
+        SiteMetadata: siteMetadataSchema,
       },
     },
     info: {
-      description: 'SSUFID가 배포하는 숭실대학교 공지사항 JSON/RSS feed의 통합 OpenAPI 문서입니다.',
+      description:
+        'SSUFID가 배포하는 숭실대학교 공지사항/캘린더 JSON, RSS, iCalendar feed와 site index의 통합 OpenAPI 문서입니다.',
       title: 'SSUFID Feed API',
-      version: '1.0.0',
+      version: '1.1.0',
     },
     openapi: '3.1.0',
     paths,
     servers: [{ url: 'https://ssufid.yourssu.com' }],
+    tags: [
+      {
+        description: '배포 중인 SSUFID feed 목록',
+        name: 'Site index',
+      },
+      {
+        description: '숭실대학교 공지사항 JSON/RSS feed',
+        name: 'Notice feeds',
+      },
+      {
+        description: '숭실대학교 일정 JSON/iCalendar feed',
+        name: 'Calendar feeds',
+      },
+    ],
+  };
+}
+
+function parseSiteEntry(filePath) {
+  const fullPath = resolve(projectRoot, filePath);
+  const slug = dirname(filePath);
+  const siteDir = resolve(projectRoot, slug);
+  const rssPath = resolve(siteDir, 'rss.xml');
+  const calendarIcsPath = resolve(siteDir, 'calendar.ics');
+  const rawData = JSON.parse(readFileSync(fullPath, 'utf-8'));
+  const noticeResult = NoticeSiteDataSchema.safeParse(rawData);
+  const calendarResult = CalendarSiteDataSchema.safeParse(rawData);
+  const hasRss = existsSync(rssPath);
+  const hasCalendarIcs = existsSync(calendarIcsPath);
+
+  let data;
+  let feedType;
+
+  if (hasCalendarIcs) {
+    if (!calendarResult.success) {
+      throw calendarResult.error;
+    }
+
+    data = calendarResult.data;
+    feedType = 'calendar';
+  } else if (hasRss) {
+    if (!noticeResult.success) {
+      throw noticeResult.error;
+    }
+
+    data = noticeResult.data;
+    feedType = 'notice';
+  } else if (noticeResult.success && !calendarResult.success) {
+    data = noticeResult.data;
+    feedType = 'notice';
+  } else if (calendarResult.success && !noticeResult.success) {
+    data = calendarResult.data;
+    feedType = 'calendar';
+  } else {
+    throw new Error(`Unable to determine feed type for ${filePath}`);
+  }
+
+  return {
+    data,
+    description: data.description || '',
+    feedType,
+    hasCalendarIcs,
+    hasRss,
+    itemCount: data.items.length,
+    slug,
+    source: data.source || '',
+    title: data.title || slug,
   };
 }
 
@@ -133,20 +298,7 @@ console.log();
 
 console.log('📝 Generating sites.json and openapi.json...');
 const siteEntries = dataJsonFiles
-  .map((filePath) => {
-    const fullPath = resolve(projectRoot, filePath);
-    const parsed = SiteDataSchema.parse(JSON.parse(readFileSync(fullPath, 'utf-8')));
-    const slug = dirname(filePath);
-
-    return {
-      data: parsed,
-      description: parsed.description || '',
-      itemCount: parsed.items.length,
-      slug,
-      source: parsed.source || '',
-      title: parsed.title || slug,
-    };
-  })
+  .map((filePath) => parseSiteEntry(filePath))
   .sort((a, b) => a.title.localeCompare(b.title, 'ko'));
 
 const sites = siteEntries.map(({ description, itemCount, slug, source, title }) => ({
@@ -157,7 +309,7 @@ const sites = siteEntries.map(({ description, itemCount, slug, source, title }) 
   title,
 }));
 
-const openApiDocument = createOpenApiDocument(siteEntries);
+const openApiDocument = createOpenApiDocument(siteEntries, sites);
 const sitesJsonPath = resolve(projectRoot, 'sites.json');
 const generatorSitesJsonPath = resolve(projectRoot, '.generator/src/sites.json');
 const openApiJsonPath = resolve(projectRoot, 'openapi.json');
@@ -176,4 +328,4 @@ console.log(`   - ${generatorSitesJsonPath}`);
 console.log('✅ openapi.json created');
 console.log(`   - ${openApiJsonPath}`);
 console.log(`   - ${generatorOpenApiJsonPath}`);
-console.log(`   Total notices: ${sites.reduce((sum, site) => sum + site.itemCount, 0)}\n`);
+console.log(`   Total items: ${sites.reduce((sum, site) => sum + site.itemCount, 0)}\n`);
