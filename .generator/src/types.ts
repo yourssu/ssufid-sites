@@ -1,4 +1,4 @@
-export interface NoticeItem {
+export interface SsufidPost {
   attachments: string[];
   author: string;
   category: string[];
@@ -8,7 +8,7 @@ export interface NoticeItem {
   description: null | string;
   id: string;
   metadata: unknown;
-  thunbnail: null | string;
+  thumbnail: null | string;
   title: string;
   // eslint-disable-next-line @typescript-eslint/naming-convention
   updated_at: null | string;
@@ -17,7 +17,7 @@ export interface NoticeItem {
 
 export interface SiteData {
   description: string;
-  items: NoticeItem[];
+  items: SsufidPost[];
   source: string;
   title: string;
 }

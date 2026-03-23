@@ -9,10 +9,10 @@ interface LayoutProps {
   title?: string;
 }
 
-function Layout({ children, title, description, source }: LayoutProps) {
+function Layout({ children, title }: LayoutProps) {
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-      <Header description={description} source={source} title={title} />
+      <Header title={title} />
       <main>{children}</main>
       <footer className="mt-auto border-t border-gray-200 bg-white dark:border-gray-700 dark:bg-gray-800">
         <div className="container mx-auto px-4 py-6 text-center text-sm text-gray-600 dark:text-gray-400">

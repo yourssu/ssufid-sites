@@ -1,9 +1,9 @@
 import sanitizeHtml from 'sanitize-html';
 
-import { NoticeItem as NoticeItemType } from '@/types';
+import { SsufidPost } from '@/types';
 
 interface NoticeItemProps {
-  item: NoticeItemType;
+  item: SsufidPost;
 }
 
 function NoticeItem({ item }: NoticeItemProps) {

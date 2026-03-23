@@ -1,10 +1,10 @@
 import { useState } from 'react';
 
 import NoticeItem from '@/components/NoticeItem';
-import { NoticeItem as NoticeItemType } from '@/types';
+import { SsufidPost } from '@/types';
 
 interface NoticeListProps {
-  items: NoticeItemType[];
+  items: SsufidPost[];
 }
 
 type SortOption = 'created_asc' | 'created_desc' | 'updated_asc' | 'updated_desc';
@@ -34,7 +34,7 @@ function NoticeList({ items }: NoticeListProps) {
   });
 
   // 월별로 그룹화
-  const groupedByMonth: { [key: string]: NoticeItemType[] } = {};
+  const groupedByMonth: { [key: string]: SsufidPost[] } = {};
   sortedItems.forEach((item) => {
     const date = new Date(
       sortOption.startsWith('updated') ? item.updated_at || item.created_at : item.created_at,
@@ -77,7 +77,9 @@ function NoticeList({ items }: NoticeListProps) {
           <div key={monthKey}>
             {index > 0 && <div className="my-6 border-t border-gray-600" />}
             <div className="mb-3 flex items-center gap-2 text-sm font-semibold text-gray-300">
-              <span>{year}년 {month}월</span>
+              <span>
+                {year}년 {month}월
+              </span>
               <span className="text-xs font-normal text-gray-400">
                 ({groupedByMonth[monthKey].length}개)
               </span>

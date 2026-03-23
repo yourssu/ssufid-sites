@@ -10,3 +10,5 @@
 |:-:|:-:|
 |RSS|`https://ssufid.yourssu.com/<IDENTIFIER>/rss.xml`|
 |JSON|`https://ssufid.yourssu.com/<IDENTIFIER>/data.json`|
+|OpenAPI Docs|`https://ssufid.yourssu.com/docs/`|
+|OpenAPI JSON|`https://ssufid.yourssu.com/openapi.json`|

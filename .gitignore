@@ -1,4 +1,5 @@
 sites.json
+openapi.json
 assets/
 **/index.html
 !.generator/**/index.html
