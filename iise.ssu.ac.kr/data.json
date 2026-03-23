@@ -4,6 +4,20 @@
   "description": "숭실대학교 산업정보시스템공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "48544",
+      "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48544",
+      "author": null,
+      "title": "[공지] 2026-1학 교내장학금 2차 신청 안내",
+      "description": null,
+      "category": [],
+      "created_at": "2026-02-24T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p>2026학년도 1학기 교내장학금 2차 신청을 다음과 같이 안내합니다.</p>\n<p>&nbsp;</p>\n<p><strong>1. 교내장학금 자격요건</strong></p>\n<p><b>&nbsp;&nbsp;</b>가. 2026학년도 1학기 국가장학금 신청 및 서류제출을 완료하고 소득분위가 조회된 자</p>\n<p>(국가장학금 지급 대상 분위의 경우 심사가 완료된 자)</p>\n<p>※ 국가장학금 1차 신청기간: 2025.11.20(목) 9:00 ~ 12.26(금) 18:00[마감]</p>\n<p><b>국가장학금 2차 신청기간: 2026.02.03(화) 9:00 ~ 03.17(화) 18:00</b></p>\n<p>나. 2026학년도 1학기 재학(<u>신입생 포함</u>) 및 복학(예정)자로 등록금 납부 예정인 자</p>\n<p>1) 2026학년도 1학기 前 등록 휴학 후 복학 시 장학생 선발대상에서 제외</p>\n<p>2) 미등록, 입학취소, 복학취소, 휴학 등 학적변동 시 모든 장학금 취소</p>\n<p>다. 직전학기 15학점 이상 이수한 자(최종 직전학기는 12학점)</p>\n<p>라. 정규등록학기가 8학기 이내인 자(건축학부 건축학전공은 10학기 이내)</p>\n<p>&nbsp;</p>\n<p><strong>2. 학생 신청 절차</strong></p>\n<p>가. 온라인 신청 및 서류제출기간 :&nbsp;<b><u>2026.03.03(화) 9:00~2026.03.31(화) 17:30</u></b></p>\n<p>나. 신청방법: u-SAINT포털 → 등록/장학&nbsp;→&nbsp;장학&nbsp;→&nbsp;장학금 신청</p>\n<p>다. 서류제출: 온라인 신청기간 내 방문 및 등기우편제출 가능(세부내용 붙임 파일 참조)</p>\n<p>※ 단, 전문자격시험합격자장학금의 경우 등기우편 불가</p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "48532",
       "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48532",
       "author": null,
@@ -1390,22 +1404,6 @@
       "updated_at": null,
       "thumbnail": null,
       "content": "\n\t\t\t\t\t\t<p>현재 학과 VDI 내부 사설 인증서가 만료되어 조치 중에 있습니다.</p>\n<p>VDI를 이용하기 위한 가이드라인을&nbsp; 공지하니 이용하고자 하는 학생은 참고 바랍니다.</p>\n<p>&nbsp;</p>\n\t\t\t\t\t",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "45484",
-      "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=45484",
-      "author": null,
-      "title": "학부연구생 등록 절차 및 서류",
-      "description": null,
-      "category": [
-        "공지"
-      ],
-      "created_at": "2023-04-12T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "\n\t\t\t\t\t\t<p><span style=\"color: #000000\">학부연구생은 교수와 대학원생으로 구성되는 연구실에서 학부생 신분으로 지도교수의 연구에 참여하여 연구 경험을 쌓는 학생을 의미합니다. </span></p>\n<p><span style=\"color: #000000\">우리 학과의 학부연구생에 등록하기 위해서는 아래 절차를 따라야 하며, 연구 활동을 하지 않을 경우 학부연구생 등록을 취소합니다.&nbsp;</span></p>\n<p>&nbsp;</p>\n<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<ol style=\"list-style-type: lower-roman\">\n<li><span style=\"color: #000000\">1. 학부연구생으로 등록하고자 하는 학생은 ‘<span style=\"color: #0000ff\"><strong>학부연구생 등록신청서</strong></span>‘를 작성하여 본인 및 지도교수 서명 후 학과장에게 제출해야 함</span></li>\n<li><span style=\"color: #000000\">2. 재학생 신분이 아닌 경우 (휴학, 수료, 졸업 등) 학부연구생 등록을 원칙적으로 불허함. 단, ‘<span style=\"color: #0000ff\"><strong>비재학생 공동연구 수행 확인서</strong></span>‘를 제출하여 지도교수와 공동연구를 수행 중임이 확인된 비재학생만 연구생으로 등록가능함</span></li>\n<li><span style=\"color: #000000\">3. 학부연구생 등록 없이 연구실 사용이 적발되는 경우, 향후 학부연구생 등록을 허용하지 않음&nbsp;</span></li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n\t\t\t\t\t",
       "attachments": [],
       "metadata": null
     }
