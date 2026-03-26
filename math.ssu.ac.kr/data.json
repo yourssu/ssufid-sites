@@ -4,6 +4,20 @@
   "description": "숭실대학교 수학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "3754",
+      "url": "https://math.ssu.ac.kr/?page_id=977&term_id&slug=3754",
+      "author": null,
+      "title": "[학술정보운영팀] 2026-1학기 신입생 대상 중앙도서관 오리엔테이션 안내",
+      "description": null,
+      "category": [],
+      "created_at": "2026-03-13T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p>[숭실대학교 중앙도서관]에서 신입생을 대상으로&nbsp;오리엔테이션을 운영합니다.&nbsp; 학교생활에 도움이 되는 안내가 준비되어 있으니 많은 참여 바랍니다.</p>\n<p>&nbsp;</p>\n<p>1.안내 및 신청:&nbsp;https://m.site.naver.com/22Nqq</p>\n<p>&nbsp;</p>\n<p>2. 운영 개요</p>\n<p>가. 프로그램명: 2026 신입생을 위한 중앙도서관 오리엔테이션</p>\n<p>나. 대상: 2026년 숭실대학교 신입생</p>\n<p>다. 일정: 2026. 3. 18.(수) ~ 3. 20.(금)</p>\n<p>라. 운영방식: 온라인(zoom)</p>\n<p>마. 신청방법: 슈패스(path.ssu.ac.kr) 로그인 &gt; 도서관 오리엔테이션 검색 &gt; 신청하기(기초/심화)</p>\n<p>바. 교육내용: 기본 및 심화 과정으로 구분된 사서 직강 온라인 교육</p>\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"height: 419px\" width=\"609\">\n<tbody>\n<tr>\n<td colspan=\"2\" rowspan=\"1\" style=\"width: 267.922px\"><b>&nbsp;일정</b></td>\n<td rowspan=\"1\" style=\"width: 105.375px\"><b>&nbsp;구분</b></td>\n<td rowspan=\"1\" style=\"width: 227.703px\"><b>비고&nbsp;</b></td>\n</tr>\n<tr>\n<td colspan=\"1\" rowspan=\"2\" style=\"width: 108.297px\">3. 18.(수)</td>\n<td rowspan=\"1\" style=\"width: 157.625px\">16:00 ~ 17:00</td>\n<td rowspan=\"1\" style=\"width: 105.375px\">기초 과정</td>\n<td colspan=\"1\" rowspan=\"4\" style=\"width: 227.703px\">zoom 실시간 운영</td>\n</tr>\n<tr>\n<td style=\"width: 157.625px\">17:00 ~ 18:00</td>\n<td style=\"width: 105.375px\">심화 과정</td>\n</tr>\n<tr>\n<td colspan=\"1\" rowspan=\"2\" style=\"width: 108.297px\">3. 19.(목)</td>\n<td rowspan=\"1\" style=\"width: 157.625px\">16:00 ~ 17:00</td>\n<td rowspan=\"1\" style=\"width: 105.375px\">기초 과정</td>\n</tr>\n<tr>\n<td style=\"width: 157.625px\">17:00 ~ 18:00</td>\n<td style=\"width: 105.375px\">심화 과정</td>\n</tr>\n<tr>\n<td colspan=\"1\" rowspan=\"2\" style=\"width: 108.297px\">3. 20.(금)</td>\n<td rowspan=\"1\" style=\"width: 157.625px\">16:00 ~ 17:00</td>\n<td rowspan=\"1\" style=\"width: 105.375px\">기초 과정</td>\n<td colspan=\"1\" rowspan=\"2\" style=\"width: 227.703px\">zoom 녹화 영상 운영</td>\n</tr>\n<tr>\n<td style=\"width: 157.625px\">17:00 ~ 18:00</td>\n<td style=\"width: 105.375px\">심화 과정</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "3725",
       "url": "https://math.ssu.ac.kr/?page_id=977&term_id&slug=3725",
       "author": null,
