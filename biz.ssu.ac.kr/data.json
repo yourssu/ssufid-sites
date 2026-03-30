@@ -4,6 +4,20 @@
   "description": "숭실대학교 경영학부 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "bbs57760",
+      "url": "http://biz.ssu.ac.kr/bbs/read.do?aId=bbs57760&vMode=view&bId=BBS_03_NOTICE&sc_title=",
+      "author": "숭실대 경영학부",
+      "title": "[공지][주의] 외부 교육프로그램 피해 주의",
+      "description": null,
+      "category": [],
+      "created_at": "2026-03-30T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div id=\"postContents\">\n<p><span style=\"font-size: 18pt; color: rgb(255, 0, 0);\">&nbsp; 최근 금융 회사에서 학교와 협의된 바 없는 교육프로그램을 진행한다고 홍보하는 사례가 발생하고 있습니다.&nbsp;</span></p><p style=\"font-size: 12px; font-family: 'Malgun Gothic', NanumGothic;\"><span style=\"font-size: 11pt; font-family: 나눔고딕코딩, NanumGothicCoding, sans-serif; color: rgb(255, 0, 0);\"><span style=\"font-size: 14.6667px;\"><span style=\"font-size: 18pt;\">&nbsp; 해당 외부 프로그램은 학교에서 어떠한 프로그램인지 확인되지 않은 경우가 많고, 일부 학생들의 피해가 우려되는 경우도 있는 것으로 파악되고 있으니, 학교 정식 프로그램이 아닌 점을 유의해 주기 바랍니다.</span></span></span></p>\n</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "bbs57757",
       "url": "http://biz.ssu.ac.kr/bbs/read.do?aId=bbs57757&vMode=view&bId=BBS_03_NOTICE&sc_title=",
       "author": "숭실대 경영학부",
