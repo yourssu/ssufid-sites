@@ -4,6 +4,22 @@
   "description": "숭실대학교 화학공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "765",
+      "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=765&sk=&sw=&offset=&category=",
+      "author": "관리자",
+      "title": "2026-1학기 공업유기화학1 중간고사 일정 안내: 4월 28일(화) 오후 8:00 백마관 308호, 403호",
+      "description": null,
+      "category": [
+        "학부공지사항"
+      ],
+      "created_at": "2026-03-30T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div class=\"body\">\n\t\t\t\n\t<p>2026-1학기 공업유기화학1 중간고사 일정</p><p><br></p><p>1. 일시: 4월 28일(화) 오후 8:00</p><p>2. 강의실: 백마관 308호, 403호</p>\n\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "764",
       "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=764&sk=&sw=&offset=&category=",
       "author": "관리자",
