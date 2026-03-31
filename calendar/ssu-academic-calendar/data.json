@@ -436,15 +436,6 @@
       "url": "https://ssu.ac.kr/%ED%95%99%EC%82%AC/%ED%95%99%EC%82%AC%EC%9D%BC%EC%A0%95/?years=2026"
     },
     {
-      "id": "ssu-academic-calendar:2026-05-27:2026-05-27:2026학년도-1학기-비전채플-종강",
-      "title": "2026학년도 1학기 비전채플 종강",
-      "description": null,
-      "starts_at": "2026-05-27T00:00:00+09:00",
-      "ends_at": "2026-05-27T23:59:59+09:00",
-      "location": null,
-      "url": "https://ssu.ac.kr/%ED%95%99%EC%82%AC/%ED%95%99%EC%82%AC%EC%9D%BC%EC%A0%95/?years=2026"
-    },
-    {
       "id": "ssu-academic-calendar:2026-05-26:2026-06-08:2026학년도-1학기-기말-강의-평가",
       "title": "2026학년도 1학기 기말 강의 평가",
       "description": null,
@@ -468,6 +459,15 @@
       "description": null,
       "starts_at": "2026-05-01T00:00:00+09:00",
       "ends_at": "2026-05-30T23:59:59+09:00",
+      "location": null,
+      "url": "https://ssu.ac.kr/%ED%95%99%EC%82%AC/%ED%95%99%EC%82%AC%EC%9D%BC%EC%A0%95/?years=2026"
+    },
+    {
+      "id": "ssu-academic-calendar:2026-04-29:2026-04-29:2026학년도-1학기-비전채플-종강",
+      "title": "2026학년도 1학기 비전채플 종강",
+      "description": null,
+      "starts_at": "2026-04-29T00:00:00+09:00",
+      "ends_at": "2026-04-29T23:59:59+09:00",
       "location": null,
       "url": "https://ssu.ac.kr/%ED%95%99%EC%82%AC/%ED%95%99%EC%82%AC%EC%9D%BC%EC%A0%95/?years=2026"
     },
