@@ -4,6 +4,22 @@
   "description": "숭실대학교 소프트웨어 홈페이지의 학사 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "1620",
+      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1620&page=1",
+      "author": "최고관리자",
+      "title": "2026-1학기 진로지도교수 상담 신청(~4/10)",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2026-03-31T15:17:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">안녕하세요. 학부 사무실입니다.</p>\n<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">&nbsp;</p>\n<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">진로지도교수 상담제도가 변경되어 2~5학년은 상담 신청자에 한하여 상담이 진행됩니다.</p>\n<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">학과 교수님께 학기 중 진로지도 상담을 받고 싶은 학생은 아래 링크에서 기한 내 신청해주시기 바랍니다.</p>\n<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">※1학년(26학번)은 의무상담으로 신청이 필요하지 않습니다.</p>\n<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">&nbsp;</p>\n<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">대상자 : 26-1학기 2~5학년 숭실대학교 재학생</p>\n<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">신청방법 : 네이버 폼에서 신청 ( <a href=\"https://naver.me/FWTLlSFA\" rel=\"nofollow\">https://naver.me/FWTLlSFA</a> )</p>\n<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">신청기간 : 2026.03.30(월).09:00 ~ 04.10(금). 17:30</p>\n<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">&nbsp;</p>\n<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">문의: knh2@ssu.ac.kr / 02-820-0168</p>\n<p style=\"font-family:Helvetica, Arial, Tahoma, Verdana, sans-serif;font-size:medium;\">숭실대학교 진로취업센터</p>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "1619",
       "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1619&page=1",
       "author": "최고관리자",
@@ -1892,20 +1908,6 @@
       "updated_at": null,
       "thumbnail": null,
       "content": "<p>안녕하세요.</p>\n<p>학부사무실입니다.</p>\n<p><br></p>\n<p>25-1학기 선형대수 여석 증원 안내드립니다.</p>\n<p>&nbsp;- 2150686501 선형대수(가)반 정원 50명 -&gt; 55명&nbsp;</p>\n<p>&nbsp;- 2150686502 선형대수(나)반 정원 50명 -&gt; 55명</p>\n<p><br></p>\n<p>전체수강신청일인 2월 24일(월) 10시부터 수강신청 가능합니다.</p>\n<p><br></p>\n<p>감사합니다.</p>\n<p><br></p>\n<p>-학부사무실 드림.&nbsp;</p>\n<p><br></p>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "1512",
-      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1512&page=2",
-      "author": "최고관리자",
-      "title": "[25-1학기 수강신청 안내] 시스템프로그래밍(21500134) 여석 증원 안내(2/24 수강신청 가능)",
-      "description": null,
-      "category": [],
-      "created_at": "2025-02-19T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<p>안녕하세요.</p>\n<p>학부사무실입니다.</p>\n<p><br></p>\n<p>25-1학기 시스템프로그래밍 여석 증원 안내드립니다.</p>\n<p>&nbsp;- 2150013401 시스템프로그래밍(가)반 정원 40 -&gt; 50석으로 조정</p>\n<p><br></p>\n<p>전체수강신청일인 2월 24일(월) 10시부터 수강신청 가능합니다.</p>\n<p><br></p>\n<p>감사합니다.</p>\n<p><br></p>\n<p>-학부사무실 드림.&nbsp;</p>\n<p><br></p>",
       "attachments": [],
       "metadata": null
     }
