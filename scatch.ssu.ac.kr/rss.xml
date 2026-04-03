@@ -241,7 +241,9 @@
 <tr>
 <td style="width: 118.281px;text-align: center"><span style="font-family: arial, helvetica, sans-serif">학적</span></td>
 <td style="width: 867.48px;text-align: center"><span style="font-family: arial, helvetica, sans-serif">본교에서 한 학기 이상 수료한 학부 재학생 (이공계열 전공) 복수·부전공이 이공계이며 해당 전공으로 파견하는 경우도 가능<br>
-졸업 전 정규 마지막 학기 파견 불가 (4년제: 5학기까지, 5년제: 7학기까지)</span></td>
+졸업 전 정규 마지막 학기 파견 불가<br>
+(파견가능한 마지막 학기(27-1 기준) 4년제: 6학기, 5년제: 8학기)<br>
+</span></td>
 </tr>
 <tr>
 <td style="width: 118.281px;text-align: center"><span style="font-family: arial, helvetica, sans-serif">성적</span></td>
@@ -483,7 +485,7 @@
 																			</ul>
 																		
 								</div>]]></content:encoded>
-      <atom:updated>2026-04-02T08:34:38.142024559Z</atom:updated>
+      <atom:updated>2026-04-03T05:56:51.925783332Z</atom:updated>
     </item>
     <item>
       <title>2026년 제 4회 한중 청년 미래 우호증진단 모집 안내</title>
