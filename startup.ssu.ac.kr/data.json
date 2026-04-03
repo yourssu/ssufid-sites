@@ -4,6 +4,92 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "3848",
+      "url": "https://startup.ssu.ac.kr/board/notice/3848?boardEnName=notice",
+      "author": "admin",
+      "title": "[중소벤처기업부] 2026년 투자연계형 GMEP(글로벌 액셀러레이팅) 창업기업 모집 공고",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2026-04-03T11:06:48+09:00",
+      "updated_at": "2026-04-03T11:06:48+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;중소벤처기업부 공고 제 2026-230호&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;&lt;strong&gt;2026년 투자연계형 GMEP 창업기업 모집 공고&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;글로벌 경쟁력을 보유한 유망 AI 분야 창업기업의 해외투자유치 등을 지원하는 &#39;2026년 투자유치형 GMEP&#39;에 참여할 창업기업을 다음과 같이 모집 공고합니다.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:right;&quot;&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;&lt;strong&gt;2026년 03월 31일&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;중소벤처기업부 장관&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:right;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;□ 사업목적: 글로벌 진출을 희망하는 AI분야 창업기업에 국내외 액셀러레이팅 프로그램을 통해 글로벌 성장 기반 마련 및 경쟁력 함양&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;□ 지원대상: 해외 진출을 희망하는 업력 10년 이내 AI 분야 창업기업&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;□ 협약기간: &#39;26. 6. 1. ~ 11. 30. (6개월)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;□ 선정규모: 총 10개사 내외&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;&amp;nbsp;* 본 공고는 일반공모 유형으로 주관기관 및 해외투자사 등 추천을 통한 모집은 별도 진행예정&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;□ 지원내용: 현지 투자유치 프로그램 및 해외 진출자금 80백만원&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;□ 지원방법: K-Startup 홈페이지 온라인 접수&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;&amp;nbsp;* &lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?pbancClssCd=PBC010&amp;amp;schM=view&amp;amp;pbancSn=176981&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;※상세한 내용은 첨부된 모집 공고문 등을 참조해주세요&lt;/span&gt;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2976",
+          "name": "1. 2026년 투자연계형 GMEP(글로벌 액셀러레이팅) 창업기업 모집 공고.pdf",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2977",
+          "name": "2026년 투자연계형 GMEP(글로벌 액셀러레이팅) 창업기업_관련 자료.zip",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
+      "id": "3847",
+      "url": "https://startup.ssu.ac.kr/board/notice/3847?boardEnName=notice",
+      "author": "admin",
+      "title": "Korea Financial Innovation Program 2026 참가자 모집 안내",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2026-04-03T10:18:38+09:00",
+      "updated_at": "2026-04-03T10:20:30+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,255);color:rgb(18,19,21);font-size:16px;&quot;&gt;&lt;strong&gt;서울핀테크랩과 XRPL Korea가 함께하는 「Korea Financial Innovation Program 2026」에서 혁신적인 금융 서비스를 함께 만들어갈 팀과 개인을 모집합니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/04/ce53e514-b1ac-490a-ac1b-51f955f2ea85.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;1. 프로그램 개요&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&middot;목표:&lt;/strong&gt; 블록체인(XRPL) 기반 금융 서비스 모델 구체화 및 사업화&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;기간:&lt;/strong&gt; 2026년 4월 1일(수) ~ 6월 25일(목) (약 3개월)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;진행 단계:&lt;/strong&gt; 예선(접수 및 심사) &rarr; 본선(집중 멘토링) &rarr; 결선(Final Pitch Day)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;주요 혜택:&lt;/strong&gt; XRPL 기술 멘토링, 아키텍처 피드백, IR Deck 고도화, 법률/회계/세무 자문&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;2. 모집 대상&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&middot;예비창업자 및 초기 스타트업:&lt;/strong&gt; 아이디어를 디지털 자산 서비스로 구체화하고 사업 가능성을 점검&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;기존 핀테크&middot;기업:&lt;/strong&gt; 디지털 자산 기반 서비스의 사업성 검증 및 PoC를 넘어선 실제 확장 레퍼런스 설계&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;개인 참가자(학생, 개발자, 기획자 등):&lt;/strong&gt; 기업 프로젝트 합류 및 팀빌딩을 통한 실무 경험 및 커리어 발굴&lt;ul&gt;&lt;li&gt;&lt;i&gt;&amp;nbsp; ※팀이 없어도 지원 가능! Milgram 커뮤니티와 오프라인 밋업을 통해 팀빌딩 기회를 제공합니다.&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;3. 시상 및 혜택 (총 상금 3,200만 원 규모)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&middot;상금:&lt;/strong&gt; 1등(500만 원+경비지원), 2등(300만 원+경비지원), 3등(200만 원), 특별상(토스/KORFIN 각 100만 원)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;법률 자문:&lt;/strong&gt; 1&middot;2등 팀 대상 법무법인 태평양 1년(월 3시간) 무료 법률 자문 (팀당 600만 원, 총 1,200만 원 상당)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;글로벌 지원:&lt;/strong&gt; 1&middot;2등 팀 해외 컨퍼런스(Swell, 뉴욕 예정) 참가 경비 지원 (각 400만 원 상당)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;공간 지원:&lt;/strong&gt; 서울핀테크랩 입주 기회(1등) 및 멤버십 제공(2등)&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;4. 주요 일정&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&middot;참가 신청:&lt;/strong&gt; 2026년 4월 1일 ~ 5월 6일&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;오프라인 밋업:&lt;/strong&gt; 2026년 4월 22일(수) 15:00~17:00 (금융기관&middot;파트너 네트워킹)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;본선 집중 멘토링:&lt;/strong&gt; 2026년 5월 28일 ~ 6월 19일&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;Final Pitch Day:&lt;/strong&gt; 2026년 6월 25일 (Two IFC 서울 더 포럼 3층)&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;5. 신청 안내&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&middot;공식 홈페이지:&lt;/strong&gt; &lt;a href=&quot;https://program.xrplkorea.org/&quot;&gt;&lt;strong&gt;https://program.xrplkorea.org/&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;참가 신청(Luma):&lt;/strong&gt; &lt;a href=&quot;https://luma.com/p6h2heqg&quot;&gt;&lt;strong&gt;https://luma.com/p6h2heqg&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&middot;문의:&lt;/strong&gt; 02-786-0654 / &lt;a href=&quot;mailto:ehju@seoulfintechlab.kr&quot;&gt;&lt;strong&gt;ehju@seoulfintechlab.kr&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2974",
+          "name": "모집 포스터.jpg",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2975",
+          "name": "프로그램 진행 타임테이블.jpg",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
+      "id": "3846",
+      "url": "https://startup.ssu.ac.kr/board/notice/3846?boardEnName=notice",
+      "author": "admin",
+      "title": "[와이앤아처] 2026 BNK 경남은행 「CHAIN-G 프로그램」 3기 기업 모집",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2026-04-03T10:08:51+09:00",
+      "updated_at": "2026-04-03T11:08:40+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,255);color:rgb(18,19,21);font-size:22px;&quot;&gt;&lt;strong&gt;BNK 경남은행과 와이앤아처(주)가 함께하는 「CHAIN-G 프로그램」 3기 기업을 모집합니다. 본 프로그램에 관심 있는 기업들의 적극적인 지원을 기다립니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/04/1a8f013e-9bb1-4aa0-8451-d32534dc3942.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,191);font-size:22px;&quot;&gt;&lt;strong&gt;&lt;img class=&quot;image_resized&quot; style=&quot;width:1.2em;&quot; src=&quot;https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4a1/72.png&quot; alt=&quot;💡&quot;&gt; 모집기간&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp; &amp;nbsp;-&amp;nbsp;2026. 03. 16.(월) ~ 04. 03.(금) 14:00까지&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,191);color:rgb(0,0,0);font-size:22px;&quot;&gt;&lt;img class=&quot;image_resized&quot; style=&quot;width:1.2em;&quot; src=&quot;https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4a1/72.png&quot; alt=&quot;💡&quot;&gt; &lt;strong&gt;모집대상&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp; &amp;nbsp;-&amp;nbsp;혁신기술을 보유한 창업기업&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp; &amp;nbsp;-&amp;nbsp;공고일 기준 업력&amp;nbsp;7년 이내&amp;nbsp;15개사 내외&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,191);color:rgb(0,0,0);font-size:22px;&quot;&gt;&lt;strong&gt;&lt;img class=&quot;image_resized&quot; style=&quot;width:1.2em;&quot; src=&quot;https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4a1/72.png&quot; alt=&quot;💡&quot;&gt; 지원내용&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp;&lt;strong&gt;&amp;nbsp;- Change (변화)&lt;/strong&gt;&amp;nbsp;기업 비즈니스 모델 진단 및 분석, IR컨설팅 및 고도화 지원&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp;&lt;strong&gt;&amp;nbsp;- Harmorny (상생)&amp;nbsp;&lt;/strong&gt;대기업&middot;금융기관&middot;대학 등과 협력기반 구축,&amp;nbsp;판로개척 및 사업협력&amp;nbsp;기회 발굴&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp; &lt;strong&gt;- Accelerate (육성)&lt;/strong&gt;&amp;nbsp;분야별 전문가 맞춤형 멘토링 지원,&amp;nbsp;산업 트렌드 및 사업화 특강&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp;&lt;strong&gt;&amp;nbsp;- Invest (투자)&amp;nbsp;&lt;/strong&gt;투자자 밋업&middot;IR데모데이&middot;TIPS&amp;nbsp;프로그램 연계&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp; &lt;strong&gt;- Networking (연결)&lt;/strong&gt;&amp;nbsp;네트워킹 데이,AC&middot;VC&amp;nbsp;및 금융권 네트워킹 지원,&amp;nbsp;글로벌 프로그램 연계&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp;&lt;strong&gt;&amp;nbsp;- Growth (성장)&lt;/strong&gt;&amp;nbsp;후속투자 및 정책자금 연계 지원,&amp;nbsp;기관 프로그램 연계 지원&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,191);color:rgb(0,0,0);font-size:22px;&quot;&gt;&lt;img class=&quot;image_resized&quot; style=&quot;width:1.2em;&quot; src=&quot;https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4a1/72.png&quot; alt=&quot;💡&quot;&gt; 신청방법&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp;-&amp;nbsp;경남은행 홈페이지(&lt;/span&gt;&lt;a href=&quot;https://www.knbank.co.kr/&quot;&gt;&lt;span style=&quot;color:rgb(128,0,128);font-size:22px;&quot;&gt;&lt;u&gt;https://www.knbank.co.kr&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;)&amp;nbsp;은행소식&lt;img class=&quot;image_resized&quot; style=&quot;width:1.2em;&quot; src=&quot;https://fonts.gstatic.com/s/e/notoemoji/17.0/25b6/72.png&quot; alt=&quot;▶&quot;&gt;새소식 공고글 참조&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp;-&amp;nbsp;게시글 내 제출 서류 다운로드,&amp;nbsp;작성 후 이메일 제출&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:22px;&quot;&gt;&amp;nbsp;-&amp;nbsp;이메일:&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;mailto:dg@ynarcher.com&quot;&gt;&lt;span style=&quot;color:rgb(0,0,255);font-size:22px;&quot;&gt;&lt;u&gt;yna@ynarcher.com&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2969",
+          "name": "(붙임1) 2026년 BNK경남은행 CHAIN-G 프로그램 참여 기업 모집공고.pdf",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2970",
+          "name": "(붙임2) 참가신청서 및 사업계획서 및 관련 동의서.hwp",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/2971",
+          "name": "2026 BNK 경남은행 CHAIN-G 모집공고 포스터.jpg",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "3845",
       "url": "https://startup.ssu.ac.kr/board/notice/3845?boardEnName=notice",
       "author": "admin",
@@ -2238,82 +2324,6 @@
         {
           "url": "https://startup.ssu.ac.kr/api/resource/download/2550",
           "name": "[붙임1] 2025 GITEX Global 출전지원 프로그램 참가신청서.hwp",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "3662",
-      "url": "https://startup.ssu.ac.kr/board/notice/3662?boardEnName=notice",
-      "author": "admin",
-      "title": "[숭실대학교  캠퍼스타운 x G밸리] 2025 G밸리 창업경진대회 모집공고",
-      "description": null,
-      "category": [
-        "공지사항"
-      ],
-      "created_at": "2025-07-08T10:35:40+09:00",
-      "updated_at": "2025-07-08T10:35:40+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;서울디지털산업단지(이하 &#39;G밸리&#39;)는 대한민국 산업 발전을 선도해온 핵심 거점이자, 미래 신산업을 견인하는 혁신의 중심지로 자리매김하고 있습니다.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;한국산업단지공단은 숭실대학교, 신용보증기금, 중소벤처기업진흥공단을 비롯해 서울시, 구로구, 금천구 등 G밸리 주요 기관과의 협업을 바탕으로, 「2025 G밸리 창업경진대회」를 개최합니다.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;금번 경진대회는 미래 산업을 선도할 유망 창업기업을 발굴하고, 산업단지와의 연계 및 시장 진출을 촉진하는 G밸리 대표 창업 프로그램으로서, 올해로 9회째를 맞이합니다.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;창의성과 성장 가능성을 갖춘 예비창업자 및 창업 10년 이내 기업 여러분의 많은 관심과 참여를 바랍니다.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:right;&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;2025년 7월 7일 한국산업단지공단&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:right;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;text-align:right;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/07/e2a04e59-e0f3-473c-bfad-0231d1aa9586.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,255);color:rgb(34,34,34);font-size:20px;&quot;&gt;&lt;strong&gt;&lt;img class=&quot;image_resized&quot; style=&quot;width:1.2em;&quot; src=&quot;https://fonts.gstatic.com/s/e/notoemoji/15.0/25b6/32.png&quot; alt=&quot;▶&quot;&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:20px;&quot;&gt; &amp;nbsp;대회명: 2025 제 9회 G밸리창업경진대회&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,255);color:rgb(34,34,34);font-size:20px;&quot;&gt;&lt;strong&gt;&lt;img class=&quot;image_resized&quot; style=&quot;width:1.2em;&quot; src=&quot;https://fonts.gstatic.com/s/e/notoemoji/15.0/25b6/32.png&quot; alt=&quot;▶&quot;&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:20px;&quot;&gt; &amp;nbsp;주최: 산업통상자원부&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,255);color:rgb(34,34,34);font-size:20px;&quot;&gt;&lt;strong&gt;&lt;img class=&quot;image_resized&quot; style=&quot;width:1.2em;&quot; src=&quot;https://fonts.gstatic.com/s/e/notoemoji/15.0/25b6/32.png&quot; alt=&quot;▶&quot;&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:20px;&quot;&gt; &amp;nbsp;주관: 숭실대학교, 한국산업단지공단, 신용보증기금, 중소벤처기업진흥공단, 서울특별시, 구로구, 금천구&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,255);color:rgb(34,34,34);font-size:20px;&quot;&gt;&lt;strong&gt;&lt;img class=&quot;image_resized&quot; style=&quot;width:1.2em;&quot; src=&quot;https://fonts.gstatic.com/s/e/notoemoji/15.0/25b6/32.png&quot; alt=&quot;▶&quot;&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:20px;&quot;&gt; &amp;nbsp;운영: 씨엔티테크(주)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:rgb(255,255,255);color:rgb(34,34,34);font-size:20px;&quot;&gt;&lt;strong&gt;&lt;img class=&quot;image_resized&quot; style=&quot;width:1.2em;&quot; src=&quot;https://fonts.gstatic.com/s/e/notoemoji/15.0/25b6/32.png&quot; alt=&quot;▶&quot;&gt;&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:20px;&quot;&gt; &lt;strong&gt;숭실대학교 캠퍼스타운 입주기업 가점 2점&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;&lt;strong&gt;※자세한 사항은 모집 공고문 참조&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
-      "attachments": [
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2544",
-          "name": "01. [2025 제9회 G밸리창업경진대회] 모집 공고문_수정_v.1.3.hwp",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2545",
-          "name": "[2025 제9회 G밸리 창업경진대회] 포스터.jpg",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "3661",
-      "url": "https://startup.ssu.ac.kr/board/notice/3661?boardEnName=notice",
-      "author": "admin",
-      "title": "「2025 경기 스타트업 서밋」 참가기업 모집",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2025-07-02T16:04:41+09:00",
-      "updated_at": "2025-07-02T16:04:41+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;img class=&quot;image_resized&quot; style=&quot;width:100%;&quot; src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/07/9e0acc80-8682-4892-ae07-ad89fdbfbc0a.jpg&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;경기도에서는 지속가능한 창업생태계 조성 및 스타트업의 해외 진출과 투자유치 지원을 위해 &lt;strong&gt;「2025 경기 스타트업 서밋」&lt;/strong&gt; 행사를 다음과 같이 개최할 예정입니다.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:right;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&quot;table&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;padding:0px;&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td style=&quot;padding:0px;&quot; colspan=&quot;1&quot; rowspan=&quot;2&quot;&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;≪ 2025 경기 스타트업 서밋 행사개요 ≫&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot;padding:0px;&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding:0px;&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td style=&quot;padding:0px;&quot; colspan=&quot;1&quot; rowspan=&quot;1&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding:0px;&quot; colspan=&quot;3&quot; rowspan=&quot;1&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;? (기간/장소) &lt;strong&gt;&rsquo;25.10.1.(수)~10.2.(목) / 수원컨벤션센터(광교)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;? (참석대상) 스타트업, VC&middot;AC 등 투자기관, 글로벌 대기업 등 창업생태계 관계자&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;? (행사내용) 스타트업 경연&middot;전시, 강연, 오픈이노베이션, 투자상담, 네트워킹 등&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;※ &rsquo;24년 성과 : 10개국 참여, 투자상담 1,036억원, 참관객 13,220명, 전시규모 253개 부스&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;? (주최/주관) 경기도 / 경기도경제과학진흥원&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;특히 금년도 행사는 유럽(South Summit, 스페인) 및 미주(Plug and Play, 미국) 지역의 글로벌 스타트업 플랫폼과 협업을 강화하여 세계 유수의 벤처캐피탈 및 혁신 기업 관계자들이 참여할 예정으로 &lt;strong&gt;참가 기업에게 맞춤형 투자연계 및 비즈니스 기회를 제공&lt;/strong&gt;할 계획입니다.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;img src=&quot;https://gw.ssu.ac.kr/myoffice/ezApprovalG/printer/ezApproval_HTML_Cross.aspx&quot; alt=&quot;&quot;&gt;이와 관련, &lt;strong&gt;혁신 기술 기반 국내외 스타트업을 대상&lt;/strong&gt;으로 &lt;strong&gt;전시 참가기업을 모집&lt;/strong&gt;하오니, 귀 기관의 관심 있는 기업들은 아래의 내용을 참고하시기 바랍니다.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;가. &lt;strong&gt;모집기간 : &#39;25.6.18.(수) ~ 8.14.(목)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;나. &lt;strong&gt;신청방법 : 2025 경기 스타트업 서밋 홈페이지(https://g-startupsummit.or.kr)를 통한 온라인 접수&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;다. 문 의 처 : 2025 경기 스타트업 서밋 운영사무국(070-4820-1634)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
-      "attachments": [
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2542",
-          "name": "경기 스타트업 서밋 참가기업 모집 안내서.pdf",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "3660",
-      "url": "https://startup.ssu.ac.kr/board/notice/3660?boardEnName=notice",
-      "author": "admin",
-      "title": "[NK Innovation Hackathon 2025] 모집 공고",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2025-07-02T16:00:41+09:00",
-      "updated_at": "2025-07-02T16:00:41+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/07/6a0a31f3-13ee-4439-adec-3b7a0c7766ef.png&quot;&gt;부산외국어대학교와 나비미래연구소가 주관&middot;주최하는 &#39;NK 이노베이션 해카톤&#39;의 모집 공고에 대해 안내드립니다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&#39;NK 이노베이션 해카톤&#39;은 북한이 개방될 때를 대비하여 교육&middot;기술 등 주요 영역에서 우수한 아이디어와 비즈니스 모델을 발굴하여 실현하는 것을 목표로 하며,&amp;nbsp;&lt;/p&gt;&lt;p&gt;부산외국어대학교에서 8월 21일부터 23일까지 개최될 예정입니다.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;[NK Innovation Hackathon 2025] 모집 안내&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;◦ (신청&middot;접수 기간) 2025. 6. 25(수) ~ 7. 25(금) 18:00 까지&lt;br&gt;◦ (접수방법) 이메일 &lt;a href=&quot;mailto:nkinnovation.group@gmail.com&quot;&gt;nkinnovation.group@gmail.com&lt;/a&gt;으로 제출&lt;br&gt;◦ (제출서류) 신청서 및 세부내역서&lt;br&gt;&amp;nbsp; &amp;nbsp; 트랙1: 자기소개서, 아이디어 소개서 및 가점서류(필요시)&lt;br&gt;&amp;nbsp; &amp;nbsp; 트랙2: 자기소개서, 사업계획서 및 가점서류(필요시)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- 신청서 및 세부내역서 파일형식은 워드나 한글파일로 접수&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;- 가점서류는 해당자만 제출(pdf, jpg 가능)&lt;/p&gt;&lt;p&gt;◦ (문의처) &lt;a href=&quot;mailto:nkinnovation.group@gmail.com&quot;&gt;nkinnovation.group@gmail.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:#ff0000;&quot;&gt;※자세한 내용은 반드시 첨부 파일(포스터 및 모집 공고문)을 통해 확인 바랍니다.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;많은 참여 부탁드립니다.&lt;/p&gt;",
-      "attachments": [
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2539",
-          "name": "[공고문·신청서] NK Innovation Hackathon 2025.hwp",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2540",
-          "name": "[공고문·신청서] NK Innovation Hackathon 2025.docx",
           "mime_type": null
         }
       ],
