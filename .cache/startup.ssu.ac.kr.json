@@ -3400,5 +3400,32 @@
       }
     ],
     "metadata": null
+  },
+  {
+    "id": "3854",
+    "url": "https://startup.ssu.ac.kr/board/notice/3854?boardEnName=notice",
+    "author": "admin",
+    "title": "경상북도 공공데이터 활용 창업경진대회 안내",
+    "description": null,
+    "category": [
+      "외부사업공고"
+    ],
+    "created_at": "2026-04-08T11:48:26+09:00",
+    "updated_at": "2026-04-08T11:48:26+09:00",
+    "thumbnail": null,
+    "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;경상북도에서 공공데이터 활용문화 확산과 새로운 비즈니스모델 및 참신한 아이디어 발굴을 위하여 &lsquo;제6회 경상북도 공공데이터 활용 창업 경진대회&rsquo; 를 추진하고 있습니다. 창업에 관심있는 예비창업가 및 기업 인들의 많은 참여를 부탁드립니다.&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/04/012fbf7f-28ef-4b10-9c9e-38b9d02fb5c8.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;가. 접수기간 : 2026. 4. 2.(목) ~ 5. 28.(목)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;나. 모집분야 : 아이디어기획, 제품 및 서비스개발&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;다. 참가자격 : 예비창업자 등 대한민국 국민 누구나 참가 가능&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;라. 시상규모 : 총 시상금 11,000천원, 4팀 수상&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;마. 참가방법 : 『붙임 1』 서식 작성 이메일 접수(triz83@ccei.kr)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+    "attachments": [
+      {
+        "url": "https://startup.ssu.ac.kr/api/resource/download/3000",
+        "name": "제6회 경북 공공데이터 활용 창업경진대회 모집공고 및 참가신청서식.hwp",
+        "mime_type": null
+      },
+      {
+        "url": "https://startup.ssu.ac.kr/api/resource/download/3001",
+        "name": "제6회 경북 창업경진대회 포스터.png",
+        "mime_type": null
+      }
+    ],
+    "metadata": null
   }
 ]
