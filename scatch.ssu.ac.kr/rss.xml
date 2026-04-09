@@ -132,31 +132,31 @@
 <table border="1">
 <tbody>
 <tr>
-<td style="text-align: center"><b>부서명 </b></td>
-<td style="text-align: center"><b>지원 자격</b></td>
-<td style="text-align: center"><b>모집구분</b></td>
-<td style="text-align: center"><b>우대 사항</b></td>
-<td style="text-align: center"><b>인원</b></td>
-<td style="text-align: center"><b>비고</b></td>
+<td style="text-align: center;width: 140px"><b>부서명 </b></td>
+<td style="text-align: center;width: 363px"><b>지원 자격</b></td>
+<td style="text-align: center;width: 179px"><b>모집구분</b></td>
+<td style="text-align: center;width: 215px"><b>우대 사항</b></td>
+<td style="text-align: center;width: 38px"><b>인원</b></td>
+<td style="text-align: center;width: 392px"><b>비고</b></td>
 </tr>
 <tr>
-<td rowspan="2">
+<td rowspan="2" style="width: 140px">
 <p style="text-align: center"><b>글로벌미래교육원</b></p>
 <p style="text-align: center"><b>미래교육팀</b></p>
 </td>
-<td rowspan="2">· 본교 직원 임용 자격 기준에 결격 사유가 없는 자<p></p>
+<td rowspan="2" style="width: 363px">· 본교 직원 임용 자격 기준에 결격 사유가 없는 자<p></p>
 <p>· 본교 건학이념에 부합하는 기독교인(천주교인 및 개신교인)</p>
 <p>· 남성의 경우 군필자 또는 면제자</p>
 <p>· 전문학위 이상 소지자</p></td>
-<td rowspan="2">· 전문교육과정 지원<p></p>
+<td rowspan="2" style="width: 179px">· 전문교육과정 지원<p></p>
 <p>· 학점은행제 지원</p></td>
-<td rowspan="2">· 보훈 대상자<p></p>
+<td rowspan="2" style="width: 215px">· 보훈 대상자<p></p>
 <p>· Excel 등 OA 활용 가능자</p></td>
-<td style="text-align: center">0명</td>
-<td rowspan="2" style="text-align: center">· 면접예정일: 서류전형 합격자에 한하여 개별 안내 예정</td>
+<td style="text-align: center;width: 38px">0명</td>
+<td rowspan="2" style="text-align: center;width: 392px">· 면접예정일: 서류전형 합격자에 한하여 개별 안내 예정</td>
 </tr>
 <tr>
-<td style="text-align: center">0명</td>
+<td style="text-align: center;width: 38px">0명</td>
 </tr>
 </tbody>
 </table>
@@ -201,6 +201,7 @@
 																			</ul>
 																		
 								</div>]]></content:encoded>
+      <atom:updated>2026-04-09T11:31:21.529902259Z</atom:updated>
     </item>
     <item>
       <title>2026년 숭실대학교 교무처 교무팀 계약직 직원 모집</title>
@@ -236,7 +237,7 @@
 <p><b>(</b><b>지원기간 및 접수처</b><b>)</b></p></td>
 </tr>
 <tr>
-<td style="width: 104px">교무처 교무팀</td>
+<td style="width: 104px;text-align: center">교무처 교무팀</td>
 <td style="width: 419px">대학 4년제 졸업 이상(졸업예정)<p></p>
 <p>본교 직원 임용 자격 기준에 결격 사유가 없는 자</p>
 <p>본교 건학이념에 부합하는 기독교인(천주교인 및 개신교인)</p>
@@ -247,7 +248,8 @@
 <td style="width: 188px">
 <p style="text-align: center">교무팀</p>
 <p style="text-align: center">(2026.04.19.자정까지,</p>
-<p style="text-align: center">academic@ssu.ac.kr 제출)</p>
+<p style="text-align: center">academic@ssu.ac.kr</p>
+<p style="text-align: center">제출)</p>
 </td>
 </tr>
 </tbody>
@@ -291,6 +293,7 @@
 																			</ul>
 																		
 								</div>]]></content:encoded>
+      <atom:updated>2026-04-09T11:31:21.529902259Z</atom:updated>
     </item>
     <item>
       <title>2026년 (재)고속도로장학재단 미래기술분야 자격취득 지원사업 대상자 모집 안내(~4/19일)</title>
