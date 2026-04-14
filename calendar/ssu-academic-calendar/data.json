@@ -157,15 +157,6 @@
       "url": "https://ssu.ac.kr/%ED%95%99%EC%82%AC/%ED%95%99%EC%82%AC%EC%9D%BC%EC%A0%95/?years=2026"
     },
     {
-      "id": "ssu-academic-calendar:2026-11-25:2026-11-25:2026학년도-2학기-비전채플-종강",
-      "title": "2026학년도 2학기 비전채플 종강",
-      "description": null,
-      "starts_at": "2026-11-25T00:00:00+09:00",
-      "ends_at": "2026-11-25T23:59:59+09:00",
-      "location": null,
-      "url": "https://ssu.ac.kr/%ED%95%99%EC%82%AC/%ED%95%99%EC%82%AC%EC%9D%BC%EC%A0%95/?years=2026"
-    },
-    {
       "id": "ssu-academic-calendar:2026-11-24:2026-12-07:2026학년도-2학기-기말-강의-평가",
       "title": "2026학년도 2학기 기말 강의 평가",
       "description": null,
@@ -189,6 +180,15 @@
       "description": null,
       "starts_at": "2026-10-31T00:00:00+09:00",
       "ends_at": "2026-11-29T23:59:59+09:00",
+      "location": null,
+      "url": "https://ssu.ac.kr/%ED%95%99%EC%82%AC/%ED%95%99%EC%82%AC%EC%9D%BC%EC%A0%95/?years=2026"
+    },
+    {
+      "id": "ssu-academic-calendar:2026-10-28:2026-10-28:2026학년도-2학기-비전채플-종강",
+      "title": "2026학년도 2학기 비전채플 종강",
+      "description": null,
+      "starts_at": "2026-10-28T00:00:00+09:00",
+      "ends_at": "2026-10-28T23:59:59+09:00",
       "location": null,
       "url": "https://ssu.ac.kr/%ED%95%99%EC%82%AC/%ED%95%99%EC%82%AC%EC%9D%BC%EC%A0%95/?years=2026"
     },
@@ -274,11 +274,11 @@
       "url": "https://ssu.ac.kr/%ED%95%99%EC%82%AC/%ED%95%99%EC%82%AC%EC%9D%BC%EC%A0%95/?years=2026"
     },
     {
-      "id": "ssu-academic-calendar:2026-09-01:2026-09-04:2026학년도-2학기-휴학-시-수업료-전액-반환-기간",
+      "id": "ssu-academic-calendar:2026-09-01:2026-09-06:2026학년도-2학기-휴학-시-수업료-전액-반환-기간",
       "title": "2026학년도 2학기 휴학 시 수업료 전액 반환 기간",
       "description": null,
       "starts_at": "2026-09-01T00:00:00+09:00",
-      "ends_at": "2026-09-04T23:59:59+09:00",
+      "ends_at": "2026-09-06T23:59:59+09:00",
       "location": null,
       "url": "https://ssu.ac.kr/%ED%95%99%EC%82%AC/%ED%95%99%EC%82%AC%EC%9D%BC%EC%A0%95/?years=2026"
     },
