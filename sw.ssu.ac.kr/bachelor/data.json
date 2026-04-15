@@ -4,6 +4,22 @@
   "description": "숭실대학교 소프트웨어 홈페이지의 학사 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "1623",
+      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1623&page=1",
+      "author": "최고관리자",
+      "title": "[스파르탄SW교육원] 2026 글로벌 SW교육 프로그램(SW Pioneer Program at USC)",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2026-04-15T16:38:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "1622",
       "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1622&page=1",
       "author": "최고관리자",
@@ -1904,20 +1920,6 @@
       "updated_at": null,
       "thumbnail": null,
       "content": "<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\">안녕하세요.</span></span></p>\n<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\">학부사무실입니다.&nbsp;</span></span></p>\n<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\"><br></span></span></p>\n<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\">25-1학기 네트워크프로그래밍(21500131) 여석 증원 안내드립니다.&nbsp;</span></span></p>\n<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\">&nbsp;- 2150013101 네트워크프로그래밍(가)분반 현재 50명 -&gt; 조정 후 52명</span></span></p>\n<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\">&nbsp;- 2150013102 네트워크프로그래밍(나)분반 현재 50명 -&gt; 조정 후 55명&nbsp;</span></span></p>\n<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\"><br></span></span></p>\n<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\">수강신청 변경일 3월 4일(화) 10시부터 수강신청 가능합니다.&nbsp;</span></span></p>\n<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\">*선수과목 미이수자 중 수강 허가받은 학생은 없습니다. 양해부탁드립니다.&nbsp;</span></span></p>\n<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\">*(가)분반의 경우 강의실 최대수용인원이 52명입니다. 참고 부탁드립니다.&nbsp;</span></span></p>\n<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\"><br></span></span></p>\n<p style=\"background-color:rgb(255,255,255);\"><span style=\"font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, sans-serif;color:rgb(34,34,34);\"><span style=\"font-size:13px;letter-spacing:-0.7px;\">-학부사무실 드림.</span></span></p>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "1516",
-      "url": "https://sw.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=1516&page=2",
-      "author": "최고관리자",
-      "title": "[25-1학기 수강신청 안내] 21500134 시스템프로그래밍 여석 증원 안내(3/4 수강신청 가능)",
-      "description": null,
-      "category": [],
-      "created_at": "2025-02-26T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<p>안녕하세요.</p>\n<p>학부사무실입니다.&nbsp;</p>\n<p><br></p>\n<p>25-1학기 시스템프로그래밍(21500134) 여석 증원 안내드립니다.&nbsp;</p>\n<p>&nbsp;- 2150013401 시스템프로그래밍(가)분반 현재 50명 -&gt; 조정 후 55명</p>\n<p>&nbsp;- 2150013402 시스템프로그래밍(나)분반 현재 50명 -&gt; 조정 후 55명&nbsp;</p>\n<p><br></p>\n<p>수강신청 변경일 3월 4일(화) 10시부터 수강신청 가능합니다.&nbsp;</p>\n<p><br></p>\n<p>또한 각 분반별로 선수 과목을 미이수한 학생 5명씩 수용할 예정입니다.</p>\n<p>관련하여 사전에 신청한 학생들 중 5명을 선발하여 학부사무실에서 따로 연락드릴 예정입니다.</p>\n<p>&nbsp;* 시스템프로그래밍의 최종 정원은 60명으로 조정될 예정.&nbsp;</p>\n<p><br></p>\n<p>-학부사무실 드림.</p>",
       "attachments": [],
       "metadata": null
     }
