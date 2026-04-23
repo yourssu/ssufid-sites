@@ -4,6 +4,22 @@
   "description": "숭실대학교 공식 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "2026학년도-국내대학-학점교류-신청안내",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-%EA%B5%AD%EB%82%B4%EB%8C%80%ED%95%99-%ED%95%99%EC%A0%90%EA%B5%90%EB%A5%98-%EC%8B%A0%EC%B2%AD%EC%95%88%EB%82%B4&keyword",
+      "author": "학사팀",
+      "title": "2026학년도 국내대학 학점교류 신청안내",
+      "description": null,
+      "category": [
+        "학사"
+      ],
+      "created_at": "2026-04-23T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": "https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/04/홈페이지공지-2026학년도-여름계절제-국내대학-학점교류-신청-안내_page-0001.jpg",
+      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><span style=\"font-family: georgia, palatino, serif;font-size: 36pt;color: #00ccff\"><a href=\"https://ssu.ac.kr/%EA%B8%B0%ED%83%80%EC%84%9C%EB%B9%84%EC%8A%A4/%ED%95%99%EC%A0%90%EA%B5%90%EB%A5%98-%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0/\" style=\"color: #00ccff\">국내대학 학점교류 신청 게시판 바로가기</a></span></p>\n<p><img alt=\"\" class=\"aligncenter size-full wp-image-101825\" height=\"1753\" sizes=\"(max-width: 1240px) 100vw, 1240px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/04/홈페이지공지-2026학년도-여름계절제-국내대학-학점교류-신청-안내_page-0001.jpg\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/04/홈페이지공지-2026학년도-여름계절제-국내대학-학점교류-신청-안내_page-0001.jpg 1240w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/04/홈페이지공지-2026학년도-여름계절제-국내대학-학점교류-신청-안내_page-0001-212x300.jpg 212w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/04/홈페이지공지-2026학년도-여름계절제-국내대학-학점교류-신청-안내_page-0001-768x1086.jpg 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/04/홈페이지공지-2026학년도-여름계절제-국내대학-학점교류-신청-안내_page-0001-724x1024.jpg 724w\" width=\"1240\"> <img alt=\"\" class=\"aligncenter size-full wp-image-101826\" height=\"1753\" sizes=\"(max-width: 1240px) 100vw, 1240px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/04/홈페이지공지-2026학년도-여름계절제-국내대학-학점교류-신청-안내_page-0002.jpg\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/04/홈페이지공지-2026학년도-여름계절제-국내대학-학점교류-신청-안내_page-0002.jpg 1240w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/04/홈페이지공지-2026학년도-여름계절제-국내대학-학점교류-신청-안내_page-0002-212x300.jpg 212w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/04/홈페이지공지-2026학년도-여름계절제-국내대학-학점교류-신청-안내_page-0002-768x1086.jpg 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/04/홈페이지공지-2026학년도-여름계절제-국내대학-학점교류-신청-안내_page-0002-724x1024.jpg 724w\" width=\"1240\"></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "2026-2027-불가리아-정부초청-장학생-선발-안내",
       "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-2027-%EB%B6%88%EA%B0%80%EB%A6%AC%EC%95%84-%EC%A0%95%EB%B6%80%EC%B4%88%EC%B2%AD-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B4&keyword",
       "author": "국제팀",
@@ -2370,33 +2386,6 @@
         {
           "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs0m34OWFhyYZwt5s7X0FmRqHQDqkzCmmKNds8E4dnS1TBqQ2ee%2BdjzAx00VxBItgJXAgwHx%2F3OK2QnOFaIp3i743vtPS0TLqEZ9a44Mq0MM%2B5pxrbR3jzi9PRM5SS3Dc0zJD%2B9ORjuhGavYtn0kp1CR0DbRsHoI2CGTGqjHherBNDwOfLRfr0eb6o0hqFUa%2B8g%3D%3D",
           "name": "붙임3싱가포르PSB_스터디투어_2026하계-브로셔.pdf",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "2026년도-상반기-재춘천인재육성장학재단-봄내장학생",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84%EB%8F%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%9E%AC%EC%B6%98%EC%B2%9C%EC%9D%B8%EC%9E%AC%EC%9C%A1%EC%84%B1%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8-%EB%B4%84%EB%82%B4%EC%9E%A5%ED%95%99%EC%83%9D&keyword",
-      "author": "장학팀",
-      "title": "2026년도 상반기 (재)춘천인재육성장학재단 봄내장학생 선발 안내(3/30월~4/8수 18시)",
-      "description": null,
-      "category": [
-        "장학"
-      ],
-      "created_at": "2026-03-25T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": "https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_1.png",
-      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p style=\"text-align: center\">(재단법인 춘천시민장학재단이 <strong>‘재단법인 춘천인재육성장학재단’</strong>으로 새롭게 출범하였음을 안내드립니다.)</p>\n<p style=\"text-align: center\">※ 추천서에 학교장 직인 날인 필요 시, ① 공고문과 ② 제출서류 전체 를 지참하시어 장학팀(미래관106-2호)으로 방문하여 주시기 바랍니다.</p>\n<p style=\"text-align: center\">제출 서류 중 장학금지급확인서는 교내 키오스크 또는 유세인트 통합로그인 &gt; 자주찾는메뉴 &gt; 인터넷증명발급 에서 발급 가능합니다.</p>\n<p style=\"text-align: center\">신청자는 <strong>서류 원본 제출 뿐 아니라 온라인 신청서도 함께 제출</strong>하여야 하니, 관련 공고문을 잘 확인하시기 바랍니다.</p>\n<p><a href=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_1.png\"><img alt=\"\" class=\"aligncenter size-full wp-image-100842\" height=\"4958\" sizes=\"(max-width: 7008px) 100vw, 7008px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_1.png\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_1.png 7008w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_1-300x212.png 300w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_1-768x543.png 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_1-1024x724.png 1024w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_1-1568x1109.png 1568w\" width=\"7008\"></a><a href=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_2.png\"><img alt=\"\" class=\"aligncenter size-full wp-image-100843\" height=\"4958\" sizes=\"(max-width: 7008px) 100vw, 7008px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_2.png\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_2.png 7008w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_2-300x212.png 300w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_2-768x543.png 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_2-1024x724.png 1024w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_2-1568x1109.png 1568w\" width=\"7008\"></a><a href=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_3.png\"><img alt=\"\" class=\"aligncenter size-full wp-image-100844\" height=\"4958\" sizes=\"(max-width: 7008px) 100vw, 7008px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_3.png\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_3.png 7008w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_3-300x212.png 300w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_3-768x543.png 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_3-1024x724.png 1024w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/2026년도-상반기-봄내장학생-선발공고-복사2_3-1568x1109.png 1568w\" width=\"7008\"></a><a href=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/자주-묻는-질문26년-상반기_봄내장학금-복사_1.png\"><img alt=\"\" class=\"aligncenter size-full wp-image-100847\" height=\"4958\" sizes=\"(max-width: 7008px) 100vw, 7008px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/자주-묻는-질문26년-상반기_봄내장학금-복사_1.png\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/자주-묻는-질문26년-상반기_봄내장학금-복사_1.png 7008w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/자주-묻는-질문26년-상반기_봄내장학금-복사_1-300x212.png 300w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/자주-묻는-질문26년-상반기_봄내장학금-복사_1-768x543.png 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/자주-묻는-질문26년-상반기_봄내장학금-복사_1-1024x724.png 1024w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/03/자주-묻는-질문26년-상반기_봄내장학금-복사_1-1568x1109.png 1568w\" width=\"7008\"></a></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"download-list mt-5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbsyKxJBnfnEGxYTu36C5dazVea5AVRn%2FmZ1IAud5BIBTJf8W%2FjBiIZJlyYFivxnAioCnEl94GlQpQlrIiKdt3kOI18OG6fcPo2dYosMhBGpdMSeVH%2BeloOJqBDrqPYNgbMAFyNM4HdUxDgeXW9WIjbFL1CR5Gj6uvAE1U0pAZgEMp\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 2026년도-상반기-봄내장학생-선발공고.hwp</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs4530Xgl93iWwH1gDgfEjEE3LPbJ%2Bi9AXk7WaMO17IZ0ZKfhMaFXQUurSQvg6Lpkw5Y12s%2FPg3Qa4yfDVGCaTWflF0wxiToP9UAR9M5KQJUsX%2FALASdHUUOatj%2FSrz9uWNs4%2FJRkl8cBddTWx2rzKOfjpB7bftku6byla%2B25dQiG\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 자주-묻는-질문26년-상반기_봄내장학금.hwp</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
-      "attachments": [
-        {
-          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbsyKxJBnfnEGxYTu36C5dazVea5AVRn%2FmZ1IAud5BIBTJf8W%2FjBiIZJlyYFivxnAioCnEl94GlQpQlrIiKdt3kOI18OG6fcPo2dYosMhBGpdMSeVH%2BeloOJqBDrqPYNgbMAFyNM4HdUxDgeXW9WIjbFL1CR5Gj6uvAE1U0pAZgEMp",
-          "name": "2026년도-상반기-봄내장학생-선발공고.hwp",
-          "mime_type": null
-        },
-        {
-          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs4530Xgl93iWwH1gDgfEjEE3LPbJ%2Bi9AXk7WaMO17IZ0ZKfhMaFXQUurSQvg6Lpkw5Y12s%2FPg3Qa4yfDVGCaTWflF0wxiToP9UAR9M5KQJUsX%2FALASdHUUOatj%2FSrz9uWNs4%2FJRkl8cBddTWx2rzKOfjpB7bftku6byla%2B25dQiG",
-          "name": "자주-묻는-질문26년-상반기_봄내장학금.hwp",
           "mime_type": null
         }
       ],
