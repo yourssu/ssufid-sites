@@ -4,6 +4,33 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "3895",
+      "url": "https://startup.ssu.ac.kr/board/notice/3895?boardEnName=notice",
+      "author": "admin",
+      "title": "[한양대학교] 2026년「모두의 창업 프로젝트」참여자 모집 안내",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2026-04-30T10:22:44+09:00",
+      "updated_at": "2026-04-30T10:22:44+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;한양대학교에서는 중소벤처기업부가 주관하고 창업진흥원이 운영하는 「모두의 창업 프로젝트」의 운영기관으로 선정되어, 멘토링부터 시제품 제작, 사업화까지 전 과정을 지원하는 국가 차원의 창업 오디션 「모두의 창업」 도전자를 모집하고 있습니다. 창업에 관심있는 (예비) 창업자분들의 많은 참여 부탁드립니다.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/04/d48643fa-64ca-4fcd-ab33-efbaa0159e4d.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;가. 사업명: &lt;strong&gt;「모두의 창업 프로젝트」 (일반/기술트랙)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;나. 접수마감: &lt;strong&gt;2026년 5월 15일 16시&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;다. 접수방법: 공식홈페이지(www.modoo.or.kr)에서 도전하기&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;&rarr; 멘토기관 &ldquo;한양대학교 선택&rdquo;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;라. 주요내용&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;1) 공통사항: 최초 아이디어 심사 통과자 4,000명 대상 창업활동자금(2백만원),&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;AI 솔루션&middot;책임멘토링 지원, 라운드별(1R 5백명 &rarr; 2R 2백명 &rarr; 3R 1백명 &rarr;Final 5명) 단계적 프로그램 및 멘토링 지원 등&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2) 한양대 특화: 모두의 창업 스타트캠프, MVP-IR 역량강화프로그램, Market-Fit검증데이, 파이널 맞춤 클리닉 등 &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;마. 문의: 02-2220-2857,2867 / youngceo@hanyang.ac.kr&lt;/span&gt;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3111",
+          "name": "제2026_275호_「모두의_창업_프로젝트」_통합_모집_수정공고.pdf",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3112",
+          "name": "2026 모두의 창업 한양대 모집 포스터.jpg",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "3889",
       "url": "https://startup.ssu.ac.kr/board/notice/3889?boardEnName=notice",
       "author": "admin",
@@ -2514,33 +2541,6 @@
         {
           "url": "https://startup.ssu.ac.kr/api/resource/download/2662",
           "name": "제3회 춘천 Station C 창업엑스포(배포용).pdf",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "3747",
-      "url": "https://startup.ssu.ac.kr/board/notice/3747?boardEnName=notice",
-      "author": "admin",
-      "title": "서울특별시 마포구「청년창업 아이디어 경진대회(MAPO NEXT STAGE)」참가자 모집",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2025-10-14T10:08:48+09:00",
-      "updated_at": "2025-10-14T10:08:48+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;span style=&quot;color:rgb(57,57,57);font-size:18px;&quot;&gt;&lt;strong&gt;혁신적이고 창의적인&amp;nbsp;AI&amp;nbsp;아이디어 사업화를 추진하는 청년들을 발굴하고 청년창업문화 활성화를 위해 마포청년창업취업지원센터 나루와 함께&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;span style=&quot;color:rgb(57,57,57);font-size:18px;&quot;&gt;&lt;strong&gt;「MAPO NEXT STAGE(AI&middot;미래혁신 청년창업가의 무대)」의 참가자를 다음과&amp;nbsp;같이 모집하오니 관심 있는 청년들의 많은 참여 바랍니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;figure class=&quot;image image_resized&quot; style=&quot;width:61.84%;&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/10/ba3e7506-3bd7-40b7-914e-a23a9e95dca1.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;span style=&quot;font-size:15.0pt;&quot;&gt;&lt;strong&gt;1.&amp;nbsp;대 회 명: MAPO NEXT STAGE(AI&middot;미래혁신 청년창업가의 무대)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:15.0pt;&quot;&gt;&lt;strong&gt;2.&amp;nbsp;주최/주관:&amp;nbsp;마포구/마포청년창업취업지원센터 나루&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:15.0pt;&quot;&gt;&lt;strong&gt;3.&amp;nbsp;모집분야:&amp;nbsp;생성형 인공지능(AI),&amp;nbsp;기술혁신분야(로봇,사이버 보안 등)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:15.0pt;&quot;&gt;&lt;strong&gt;4.&amp;nbsp;참가자격&amp;nbsp;: 19세~39세 이하 청년으로 창업에 관심 있는 개인(팀*), 예비창업자, 1~3년차 초기 창업자&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt;(*대표자 포함&amp;nbsp;5명 이내)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:14.0pt;&quot;&gt;&amp;nbsp;가.&amp;nbsp;거주지 제한 없음.&amp;nbsp;외국인 제외,&amp;nbsp;팀 단위 신청 시 대표자는 청년이어야 함&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:14.0pt;&quot;&gt;&amp;nbsp;나.&amp;nbsp;사업공고일(&rsquo;25. 9. 24.)기준 신청자 명의의 사업자 등록 및 법인 설립등기를 하지 않거나(예비창업자), 3년이내인 자(초기창업자)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:14.0pt;&quot;&gt;&amp;nbsp;다.&amp;nbsp;사업공고일 기준&amp;nbsp;2025년(&rsquo;25. 1. 1. ~ 9. 24.)에 개인사업자 폐업 또는 법인 사업자 폐업(해산 및 청산)을 하지 않은 자&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:15.0pt;&quot;&gt;&lt;strong&gt;4.&amp;nbsp;신청방법&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:14.0pt;&quot;&gt;&amp;nbsp;가.&amp;nbsp;신청기간&amp;nbsp;: 2025. 9. 24.(수) ~ 10. 10.(금) 14:00까지&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:14.0pt;&quot;&gt;&amp;nbsp;나.&amp;nbsp;신청방법&amp;nbsp;:&amp;nbsp;이메일 제출&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:14.0pt;&quot;&gt;&amp;nbsp;다.&amp;nbsp;제출서류&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:14.0pt;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;&quot;&gt;①&amp;nbsp;참가 신청서&amp;nbsp;1부&amp;nbsp;②&amp;nbsp;사업계획서&amp;nbsp;1부&amp;nbsp;③&amp;nbsp;참가 서약서(&lt;u&gt;서명 필수&lt;/u&gt;) 1부&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:12.0pt;&quot;&gt;&amp;nbsp; &amp;nbsp;④&amp;nbsp;개인정보 수집&middot;이용 및 제3자 제공 동의서(&lt;u&gt;서명 필수&lt;/u&gt;) 1부&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:12.0pt;&quot;&gt;&amp;nbsp; &amp;nbsp;⑤&amp;nbsp;사실증명(사업자등록사실여부) 1부&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;&quot;&gt;*성장트랙 참여자만 해당&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:12.0pt;&quot;&gt;&amp;nbsp; &amp;nbsp;⑥&amp;nbsp;대표신청자 주민등록 초본(주민번호 뒷자리 비공개,&amp;nbsp;발급일 기준&amp;nbsp;3개월 이내)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:12.0pt;&quot;&gt;&amp;nbsp; &amp;nbsp;⑦&amp;nbsp;발표 자료(자유 양식,&amp;nbsp;사업계획서 바탕으로 작성)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:15.0pt;&quot;&gt;&lt;strong&gt;5. 문의처: 마포청년창업취업지원센터 나루&amp;nbsp;☎070-5222-1946 / sylee@naroo.or.kr&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
-      "attachments": [
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2659",
-          "name": "공고문(신청서류).hwpx",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2660",
-          "name": "(250929) 포스터 최종.png",
           "mime_type": null
         }
       ],
