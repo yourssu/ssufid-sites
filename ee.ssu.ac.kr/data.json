@@ -4,6 +4,22 @@
   "description": "숭실대학교 전기공학부 학부소식 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "375",
+      "url": "http://ee.ssu.ac.kr/sub/sub05_02.php?boardid=major&mode=view&idx=375&sk=&sw=&offset=0&category=",
+      "author": "elecadm",
+      "title": "2026-1학기 전기전자종합설계 관련 설계실 사용 관련 공지",
+      "description": null,
+      "category": [
+        "Notice"
+      ],
+      "created_at": "2026-05-06T10:46:07+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p><br></p><div style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); font-family: &quot;Malgun Gothic&quot;, &quot;맑은 고딕&quot;, sans-serif; font-size: 14px; letter-spacing: -0.5px; margin-left: 220px;\">---&nbsp;<span class=\"il\">설계실 사용</span>&nbsp;관련 공지사항 ---</div><ul style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255); padding-left: 30px; margin: 0px; list-style-type: none;\"><li style=\"margin-left: 15px;\"><div style=\"font-family: &quot;Malgun Gothic&quot;, &quot;맑은 고딕&quot;, sans-serif; font-size: 14px; letter-spacing: -0.5px;\"><span style=\"font-weight: bold;\">운영시간 10:00 ~ 22:00 (주말, 공휴일 제외)</span></div></li></ul><ul style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255); padding-left: 30px; margin: 0px; list-style-type: none;\"><li style=\"margin-left: 15px;\"><div style=\"font-family: &quot;Malgun Gothic&quot;, &quot;맑은 고딕&quot;, sans-serif; font-size: 14px; letter-spacing: -0.5px;\">한번에 최대&nbsp;<span style=\"font-weight: bold;\">4개조까지 이용가능</span></div></li></ul><ul style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255); padding-left: 30px; margin: 0px; list-style-type: none;\"><li style=\"margin-left: 15px;\"><div style=\"font-family: &quot;Malgun Gothic&quot;, &quot;맑은 고딕&quot;, sans-serif; font-size: 14px; letter-spacing: -0.5px;\"><span class=\"il\">설계실</span>&nbsp;예약은 조장 + 조교가 참여하는&nbsp;<span class=\"il\">설계실</span>&nbsp;예약 톡방을 하나 생성 후,&nbsp;<span style=\"font-weight: bold;\">톡방을 통해 예약가능</span></div></li></ul><div style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); font-family: &quot;Malgun Gothic&quot;, &quot;맑은 고딕&quot;, sans-serif; font-size: 14px; letter-spacing: -0.5px; margin-left: 20px;\">&nbsp; &nbsp;-. 예약 현황은 구글 캘린더를 이용해 모든 조에게 공유</div><div style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); font-family: &quot;Malgun Gothic&quot;, &quot;맑은 고딕&quot;, sans-serif; font-size: 14px; letter-spacing: -0.5px; margin-left: 20px;\">&nbsp; &nbsp;-. 예약은&nbsp;<span style=\"font-weight: bold;\">각 조별로 1회에 2시간, 일주일에 최대 3회 예약 가능</span></div><ul style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255); padding-left: 30px; margin: 0px; list-style-type: none;\"><li style=\"margin-left: 15px;\"><div style=\"font-family: &quot;Malgun Gothic&quot;, &quot;맑은 고딕&quot;, sans-serif; font-size: 14px; letter-spacing: -0.5px;\">예약이 꽉 차지 않은 시간대는 다른 조가 선착순으로 이용가능</div></li></ul><div style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); font-family: &quot;Malgun Gothic&quot;, &quot;맑은 고딕&quot;, sans-serif; font-size: 14px; letter-spacing: -0.5px; margin-left: 20px;\">&nbsp; (ex: 10:00~12:00 예약이 3조만 되어있는 경우, 이 시간대에 다른 조가 예약을 하지 않고 와서&nbsp;<span class=\"il\">사용</span>해도 괜찮음)</div><ul style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255); padding-left: 30px; margin: 0px; list-style-type: none;\"><li style=\"margin-left: 15px;\"><div style=\"font-family: &quot;Malgun Gothic&quot;, &quot;맑은 고딕&quot;, sans-serif; font-size: 14px; letter-spacing: -0.5px;\">기타 문의사항 or 이슈는&nbsp;<span style=\"font-weight: bold;\">예약 톡방이나 날짜 별 담당조교에게 문의</span></div></li></ul>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "374",
       "url": "http://ee.ssu.ac.kr/sub/sub05_02.php?boardid=major&mode=view&idx=374&sk=&sw=&offset=0&category=",
       "author": "elecadm",
