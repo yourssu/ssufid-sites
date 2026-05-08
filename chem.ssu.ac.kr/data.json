@@ -4,6 +4,20 @@
   "description": "숭실대학교 화학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "5114",
+      "url": "https://chem.ssu.ac.kr/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=5114",
+      "author": null,
+      "title": "2026. 04. 23. 화학과 세미나(한결, 쩐반홍, 박준서, 강준혁, 안지원)",
+      "description": null,
+      "category": [],
+      "created_at": "2026-04-23T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p>2026학년도 1학기 화학과 세미나 안내</p>\n<p>&nbsp;</p>\n<div>일정 : 4/23(목) 16:30</div>\n<div>장소: 베어드홀 101-3</div>\n<div>발표자:&nbsp;한결, 쩐반홍, 박준서, 강준혁, 안지원</div>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "5120",
       "url": "https://chem.ssu.ac.kr/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=5120",
       "author": null,
