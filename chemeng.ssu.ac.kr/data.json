@@ -4,6 +4,22 @@
   "description": "숭실대학교 화학공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "768",
+      "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=768&sk=&sw=&offset=&category=",
+      "author": "관리자",
+      "title": "2026-1학기 특성화학과 비교과 프로그램(화학공학과세미나)_2,3차",
+      "description": null,
+      "category": [
+        "학부공지사항"
+      ],
+      "created_at": "2026-05-14T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div class=\"body\">\n\t\t\t\n\t<p><img src=\"/uploaded/webedit/2605/dfeeca2f83eb92252d1e069385ab647f_1778726849_63.png\" title=\"dfeeca2f83eb92252d1e069385ab647f_1778726849_63.png\"><br style=\"clear:both;\">&nbsp;</p>\n\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "767",
       "url": "http://chemeng.ssu.ac.kr/sub/sub03_01.php?boardid=notice1&mode=view&idx=767&sk=&sw=&offset=&category=",
       "author": "관리자",
