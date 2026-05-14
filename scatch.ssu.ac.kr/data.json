@@ -4,6 +4,22 @@
   "description": "숭실대학교 공식 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "2026학년도-숭실대학교-캠퍼스-사진공모전봄-심사-결과",
+      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EC%82%AC%EC%A7%84%EA%B3%B5%EB%AA%A8%EC%A0%84%EB%B4%84-%EC%8B%AC%EC%82%AC-%EA%B2%B0%EA%B3%BC&keyword",
+      "author": "웹마스터",
+      "title": "2026학년도 숭실대학교 캠퍼스 사진공모전[봄] 심사 결과 발표",
+      "description": null,
+      "category": [
+        "비교과·행사"
+      ],
+      "created_at": "2026-05-14T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": "https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/05/2026학년도-캠퍼스-사진-공모전봄-수상자홈페이지-724x1024.jpg",
+      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p><img alt=\"\" class=\"aligncenter size-large wp-image-102544\" height=\"1024\" sizes=\"(max-width: 724px) 100vw, 724px\" src=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/05/2026학년도-캠퍼스-사진-공모전봄-수상자홈페이지-724x1024.jpg\" srcset=\"https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/05/2026학년도-캠퍼스-사진-공모전봄-수상자홈페이지-724x1024.jpg 724w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/05/2026학년도-캠퍼스-사진-공모전봄-수상자홈페이지-212x300.jpg 212w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/05/2026학년도-캠퍼스-사진-공모전봄-수상자홈페이지-768x1087.jpg 768w, https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/05/2026학년도-캠퍼스-사진-공모전봄-수상자홈페이지.jpg 793w\" width=\"724\"></p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "2026년-숭실대학교-안전융합대학원-교학팀-계약직-직원",
       "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EC%95%88%EC%A0%84%EC%9C%B5%ED%95%A9%EB%8C%80%ED%95%99%EC%9B%90-%EA%B5%90%ED%95%99%ED%8C%80-%EA%B3%84%EC%95%BD%EC%A7%81-%EC%A7%81%EC%9B%90&keyword",
       "author": "총무·인사팀",
@@ -2333,33 +2349,6 @@
         {
           "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs8cqgxIPmqVDGVtcQwa9DgzVHknW7%2FG80USV09rzjCxRJxPAQ5wtVFdmwW88mjzPgyyM4s12Fj3N8JMmhXyuOBF8f02FjH3n7O%2Bejb9H3g7wJvvIy4G%2FrYF2QTNfnHAKkg%3D%3D",
           "name": "서식-장학금-신청서류-2026.hwp",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "2026년-숭실대학교-법무팀-계약직-직원-모집",
-      "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EB%B2%95%EB%AC%B4%ED%8C%80-%EA%B3%84%EC%95%BD%EC%A7%81-%EC%A7%81%EC%9B%90-%EB%AA%A8%EC%A7%91&keyword",
-      "author": "총무·인사팀",
-      "title": "2026년 숭실대학교 법무팀 계약직 직원 모집",
-      "description": null,
-      "category": [
-        "채용"
-      ],
-      "created_at": "2026-04-14T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<div>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p>본교 대외협력실 법무팀에서 아래와 같이 계약직 직원을 모집합니다</p>\n<p>모집 관련 자세한 사항은 아래의 모집공고를 참고하여 주시기 바랍니다</p>\n<p>&nbsp;</p>\n<p><b>1. 모집 관련 사항</b></p>\n<p>&nbsp;</p>\n<p><b>가</b><b>. </b><b>모집 인원</b>: 1명 (2026.04.20.(월) 임용 예정, 협의 가능)</p>\n<p><b>나</b><b>. </b><b>지원 기간</b>: <u>2026.04.17.(</u><u>금</u><u>) 12:00</u><u>까지</u></p>\n<p><b>다</b><b>. </b><b>지원 방법</b>: <b>이메일 지원</b>(<u>teuksa@ssu.ac.kr</u> 로 제출서류 발송, 이메일 제목: 숭실대학교 법무팀 직원 채용 지원_지원자 성명)</p>\n<p><b>라</b><b>. </b><b>전형 일정</b>: 서류전형 → 면접전형(1회) → 최종합격</p>\n<p><b>마</b><b>. </b><b>모집 부서 관련사항</b></p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><b>부서명 </b></td>\n<td><b>지원 자격</b></td>\n<td><b>수행 업무</b></td>\n<td><b>비고</b></td>\n<td><b>우대 사항</b></td>\n</tr>\n<tr>\n<td><b>대외협력실</b><p></p>\n<p><b>법무팀</b></p></td>\n<td>· 본교 직원 임용 자격 기준에 결격 사유가 없는 자<p></p>\n<p>· 본교 건학이념에 부합하는 기독교인(천주교인 및 개신교인)</p>\n<p>· 남성의 경우 군필자 또는 면제자</p>\n<p>· 4년제 대학교 학사학위 이상 소지자(졸업예정자 포함)</p></td>\n<td>· 법무팀 행정 및 서무 업무<p></p>\n<p>&nbsp;</p></td>\n<td>· 면접예정일: 서류전형 합격자에 한하여 개별 안내 예정</td>\n<td>· 보훈 대상자<p></p>\n<p>· 법학 전공 또는 부전공자</p>\n<p>· 법률사무 등 관련 업무<br>\n유경험자</p>\n<p>· OA 활용 능통자</p></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><b>바</b><b>. </b><b>근무 조건 관련사항</b></p>\n<ul>\n<li>근무기간: 채용일로부터 11개월</li>\n</ul>\n<p>※ 1차 년도 계약 종료시점 업무성과평가후 2차년도 12개월 연장여부 결정</p>\n<ul>\n<li>급여: 본교 계약직원 급여 기준에 따름(학사학위 소지 기준으로 지급)</li>\n<li>4대 보험 및 교직원 단체상해보험 가입</li>\n<li>근무시간: 학기 중 09:00~17:30, 방학 중 10:00~17:00</li>\n</ul>\n<p><b>사</b><b>. (</b><b>필수</b><b>) </b><b>제출 서류</b></p>\n<ul>\n<li>입사지원서, 자기소개서, 개인정보 수집·이용 동의서 (본교 양식)</li>\n<li>교인증명서 또는 세례증명서(천주교인 및 개신교인 모두 지원 가능, 입사지원 시 제출하지 못 할 경우 면접 시 지참)</li>\n<li>졸업증명서 및 성적증명서 (학사 학위 이상)</li>\n<li>(해당자) 경력증명서 및 자격증 사본(해당자)</li>\n<li>(해당자) 보훈대상자 증명 서류</li>\n</ul>\n<p>&nbsp;</p>\n<p><b>2. 기타 사항</b></p>\n<p>– 입사지원서 기재사항 및 제출서류에 허위사항이 있을 경우 합격·임용 취소</p>\n<p>– 채용이 조기 종료될 수 있음</p>\n<p>– 적임자가 없을 경우 채용하지 않을 수 있음</p>\n<p>– 보훈대상자 및 장애인은 채용 시 우대</p>\n<p>– 채용 서류를 원본으로 제출한 경우(온라인/전자메일 제출 서류는 해당되지 않음), 모든 서류는 지원 이메일 주소로 반환 청구 신청 시 본인 확인 후 등기 발송(학교 부담)이 가능하며, 반환 요구가 없는 경우 채용 확정일로부터 180일이 경과 후 폐기함</p>\n<p>&nbsp;</p>\n<p><b>3. 문의처</b></p>\n<p>– 업무 관련: 숭실대학교 법무팀(02-829-8243)</p>\n<p>– 근무 조건 관련: 총무·인사팀(02-820-0175)</p>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"download-list mt-5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbsxMSk44MnGAKRn7PzG84Wv%2FBwKWBtqKOcCmg0wuIV0zb7P%2B%2F%2BFFWPrMLgduY8%2Bh8oHz6zyK%2Bjox3EaJdTL0fNF%2FsKoTH03fj3WE%2BeKRr0zeznSQkQNqZHXqDY5iTWyVPATe87%2B1RWNo1mlvNduKkb6dBsN%2F3%2FBUnyucMQZxJypdp%2F5aAE8D5oXt1eD2wFjAMog%3D%3D\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 2026년-숭실대학교-법무팀-계약직-직원-모집.hwp</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<a download=\"\" href=\"/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbsxyimIV59r6%2BPXhrYDIf4dJLqCg0cTfbmKsCWPXCo3PmXudP4LVg06MaV1F5EC9%2BUDie3%2BWKbbLXL3RYr08nSvgKRp3wvqawdBSXHnzu%2F7cKHK0YXVYo42Z17OMAs%2F30zv4X%2BzjLoUQtkYZz8bxY4B6BqxRoQGeREMESueflS%2B2f0GXAgrK8eZIMrrrMZIMkJwMEehMG21cFL1OR1bYgEP4%2BuDnw3IuQlvbxJ5aqdkAq\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span><i class=\"icon-ssu icon-ssu-icon-28\"></i> 숭실대학교-입사지원서-및-개인정보수집이용동의서-양식-1.hwp</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-ssu icon-ssu-icon-29\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</div>",
-      "attachments": [
-        {
-          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbsxMSk44MnGAKRn7PzG84Wv%2FBwKWBtqKOcCmg0wuIV0zb7P%2B%2F%2BFFWPrMLgduY8%2Bh8oHz6zyK%2Bjox3EaJdTL0fNF%2FsKoTH03fj3WE%2BeKRr0zeznSQkQNqZHXqDY5iTWyVPATe87%2B1RWNo1mlvNduKkb6dBsN%2F3%2FBUnyucMQZxJypdp%2F5aAE8D5oXt1eD2wFjAMog%3D%3D",
-          "name": "2026년-숭실대학교-법무팀-계약직-직원-모집.hwp",
-          "mime_type": null
-        },
-        {
-          "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbsxyimIV59r6%2BPXhrYDIf4dJLqCg0cTfbmKsCWPXCo3PmXudP4LVg06MaV1F5EC9%2BUDie3%2BWKbbLXL3RYr08nSvgKRp3wvqawdBSXHnzu%2F7cKHK0YXVYo42Z17OMAs%2F30zv4X%2BzjLoUQtkYZz8bxY4B6BqxRoQGeREMESueflS%2B2f0GXAgrK8eZIMrrrMZIMkJwMEehMG21cFL1OR1bYgEP4%2BuDnw3IuQlvbxJ5aqdkAq",
-          "name": "숭실대학교-입사지원서-및-개인정보수집이용동의서-양식-1.hwp",
           "mime_type": null
         }
       ],
