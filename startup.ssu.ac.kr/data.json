@@ -4,6 +4,38 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "3911",
+      "url": "https://startup.ssu.ac.kr/board/notice/3911?boardEnName=notice",
+      "author": "admin",
+      "title": "[한국생산성본부] 2026년 제7회 환경분야 청년창업 지원사업 지원기업 모집공고 안내",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2026-05-15T10:00:46+09:00",
+      "updated_at": "2026-05-15T10:00:46+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;한국생산성본부에서는 한국환경공단&middot;NH농협은행과 협력하여 환경분야의 청년 창업기업을 발굴하고, 이들과 동반 성장을 지원하기 위해 「2026년 제7회 환경분야 청년창업 지원사업」을 추진하고 있습니다. 관심있는 청년 창업자 분들의 많은 참여 부탁드립니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/05/ac08de12-6401-4e86-a19c-5fabad683f71.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;◎ 사업명 : 2026년 제7회 환경분야 청년창업 지원사업&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;◎ 모집대상 : 환경분야 창업 아이디어를 보유한 7년 이내 창업기업이자, 대표자 청년 (만 39세 이하)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;◎ 모집규모 : 총 16개사 (신규 8개사, 지속 8개사)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;◎ 지원내용 :&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp; - (공통) 한국환경공단 전문가 1:1 컨설팅, 맞춤형 IR 컨설팅, 네트워킹 데이, 성과공유회&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&amp;nbsp; - (신규 8개사) 성장지원금 800만원, 우수기업 3개사 최대 200만원 장려금&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;◎&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color:rgb(255,255,255);color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;접수기간 : ~2026. 05. 27.(수) 23시 59분까지&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;◎ 지원방법 : 이메일(&lt;/span&gt;&lt;a href=&quot;mailto:kpcstartup2@gmail.com&quot;&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;kpcstartup2@gmail.com&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;)로 구비서류 제출&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;◎ 문의 : 한국생산성본부 DX컨설팅센터 운영사무국 (&lt;/span&gt;&lt;a href=&quot;mailto:kpcstartup2@gmail.com&quot;&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;kpcstartup2@gmail.com&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt; / 02-398-6425)&lt;/span&gt;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3189",
+          "name": "붙임 1. 사업신청서.hwp",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3190",
+          "name": "붙임 2. 서류 제출 현황 요약.xlsx",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3191",
+          "name": "2026년 제7회 환경분야 청년창업 지원사업 포스터.png",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "3910",
       "url": "https://startup.ssu.ac.kr/board/notice/3910?boardEnName=notice",
       "author": "admin",
@@ -2609,22 +2641,6 @@
           "mime_type": null
         }
       ],
-      "metadata": null
-    },
-    {
-      "id": "3773",
-      "url": "https://startup.ssu.ac.kr/board/notice/3773?boardEnName=notice",
-      "author": "admin",
-      "title": "[숭실대 캠퍼스타운] 2025년&nbsp;서남권 캠퍼스타운&nbsp;AI&nbsp;창업 활성화 워크샵 (모집 공고)&nbsp;",
-      "description": null,
-      "category": [
-        "공지사항"
-      ],
-      "created_at": "2025-11-10T16:03:59+09:00",
-      "updated_at": "2025-11-10T16:27:04+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;서남권&amp;nbsp;3개 대학(서울대학교,&amp;nbsp;숭실대학교,&amp;nbsp;중앙대학교)이 함께하는 &lt;/span&gt;&lt;span style=&quot;color:hsl(0,0%,0%);font-size:18px;&quot;&gt;&lt;strong&gt;[2025년&amp;nbsp;서남권 캠퍼스타운&amp;nbsp;AI&amp;nbsp;창업 활성화 워크샵]&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;을 개최합니다.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;숭실대 입주 기업 임직원들의 많은 참여 바랍니다.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0,0%,0%);font-size:18px;&quot;&gt;&lt;strong&gt;💬 AI&amp;nbsp;시대,&amp;nbsp;당신의 기업을 위한 맞춤 성장의 자리.&amp;nbsp;지금 바로 참여하세요!!!&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;1.&amp;nbsp;프로그램명:&lt;/strong&gt; 2025년 서남권 캠퍼스타운 AI 창업 활성화 워크샵&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;2. 일시:&lt;/strong&gt; 2025. 11. 27(목)~11.28(금) (1박&amp;nbsp;2일)&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;3.&amp;nbsp;장소:&lt;/strong&gt;&amp;nbsp;호텔 스카이파크 판교&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;4.&amp;nbsp;신청 대상:&lt;/strong&gt;&amp;nbsp;숭실대 캠퍼스타운 입주 기업 임직원&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;※&amp;nbsp;기업별 신청 인원수 제한은 없으나,&amp;nbsp;신청자가 많을 경우 참석 인원 조정 될 수 있습니다. &amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;※ AI&amp;nbsp;분야 입주 기업 임직원 우대&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;5. 신청 방법:&lt;/strong&gt; &lt;strong&gt;11월 12일(수) 17:00까지&lt;/strong&gt; &amp;nbsp;구글폼 신청서 제출&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; -&amp;nbsp;신청서 링크:&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://forms.gle/WHDDQjnEuQJzsuYCA&quot;&gt;&lt;span style=&quot;color:#800080;font-size:18px;&quot;&gt;&lt;strong&gt;&lt;u&gt;https://forms.gle/WHDDQjnEuQJzsuYCA&lt;/u&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;6. 프로그램 주요 내용&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - 2026년 창업지원 정책&amp;nbsp;&amp;amp;&amp;nbsp;투자 동향 미리보기&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - AWS&amp;nbsp;연계&amp;nbsp;AI&amp;nbsp;크레딧 지원 프로그램&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; -&amp;nbsp;강점 분석 기반 조직 컨설팅&amp;nbsp;(갤럽 테스트 지원)&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; - AI&amp;nbsp;선도기업 탐방&amp;nbsp;&amp;amp;&amp;nbsp;네트워킹 등 다양한 실전형 프로그램이 준비되어 있습니다&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;7.&amp;nbsp;기타&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; -&amp;nbsp;숙식 제공(2인&amp;nbsp;1실)&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&amp;nbsp; &amp;nbsp; -&amp;nbsp;참여자 기념품 제공 예정&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;문의처&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;Tel. 02-828-7487&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;Email. hjkim2025@ssu.ac.kr&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2025/11/3977e57d-e4fb-40c6-8ef5-f0a724b5e3fa.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
-      "attachments": [],
       "metadata": null
     }
   ]
