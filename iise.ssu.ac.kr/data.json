@@ -4,6 +4,20 @@
   "description": "숭실대학교 산업정보시스템공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "48737",
+      "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48737",
+      "author": null,
+      "title": "[공지] 인간복합시스템연구실 학부연구생 모집 공고",
+      "description": null,
+      "category": [],
+      "created_at": "2026-05-13T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p><img alt=\"\" class=\"alignnone size-full wp-image-48738\" height=\"2000\" sizes=\"(max-width: 1414px) 100vw, 1414px\" src=\"https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2026/05/인간복합시스템-모집-공고.jpg\" srcset=\"https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2026/05/인간복합시스템-모집-공고.jpg 1414w, https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2026/05/인간복합시스템-모집-공고-212x300.jpg 212w, https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2026/05/인간복합시스템-모집-공고-768x1086.jpg 768w, https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2026/05/인간복합시스템-모집-공고-724x1024.jpg 724w\" width=\"1414\"></p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "48725",
       "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48725",
       "author": null,
@@ -1388,20 +1402,6 @@
       "updated_at": null,
       "thumbnail": null,
       "content": "\n\t\t\t\t\t\t<p>학과 사무실에서 학과 폐기예정 도서의 무료 배부와 관련하여 안내드립니다.</p>\n<p>오늘 오픈라운지 회의실 유리벽 앞에 학과 소유 폐기 예정인 도서들을 비치하였습니다.</p>\n<p>해당 도서들은 4월 4일까지 비치 예정이니 만일 원하는 학생분들이 있으시다면 자유롭게 가져가셔도 좋습니다.</p>\n<p><img alt=\"\" class=\"alignnone  wp-image-47914\" height=\"1323\" src=\"https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2025/03/KakaoTalk_20250328_142802430.jpg\" width=\"992\"></p>\n<p>감사합니다.</p>\n\t\t\t\t\t",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "47910",
-      "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=47910",
-      "author": null,
-      "title": "[공지] 2025학년도 대통령과학장학금 신청 안내",
-      "description": null,
-      "category": [],
-      "created_at": "2025-03-26T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "\n\t\t\t\t\t\t<p>학과사무실에서 2025학년도 대통령과학장학금 신청과 관련하여 안내드립니다.</p>\n<p>안내사항은 아래와 같습니다.</p>\n<p class=\"0\">\n</p><p class=\"0\">&nbsp;가.&nbsp;신청기한: 2025.04.08.(화) 18:00까지</p>\n<p class=\"0\">&nbsp;나.&nbsp;신청대상</p>\n<p class=\"0\">&nbsp; 1)&nbsp;대한민국 국적 소지자</p>\n<p class=\"0\">&nbsp; 2)&nbsp;국내&nbsp;4년제 대학(자연과학 및 공학계열 학과(부))에 재학 중인&nbsp;①&nbsp;2025년 신입생 및</p>\n<p class=\"0\">&nbsp; &nbsp;②&nbsp;3학년생&nbsp;③&nbsp;해외&nbsp;4년제 대학(자연과학 및 공학계열 학과(부))에&nbsp;2025년 입학 예정 및</p>\n<p class=\"0\">&nbsp; &nbsp; 확정인 신입생</p>\n<p class=\"0\">&nbsp; 다.&nbsp;신청방법:&nbsp;한국장학재단 홈페이지(www.kosaf.go.kr)&nbsp;및 모바일 앱에서 신청</p>\n<p class=\"0\">\n\t\t\t\t\t</p>",
       "attachments": [],
       "metadata": null
     }
