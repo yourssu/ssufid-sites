@@ -4,6 +4,20 @@
   "description": "숭실대학교 도서관 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "16266",
+      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/16266",
+      "author": "양*미",
+      "title": "중앙도서관 세부이용지침 개정 시행 알림",
+      "description": null,
+      "category": [],
+      "created_at": "2026-06-01T10:49:51+09:00",
+      "updated_at": "2026-06-01T10:49:51+09:00",
+      "thumbnail": null,
+      "content": "안녕하세요. 중앙도서관입니다.&nbsp;<div><span style=\"background-color: transparent; font-size: inherit;\">중앙도서관 세부이용지침을 개정하여 시행함을 알려드립니다.&nbsp;</span></div><div><br></div><div><div><span style=\"font-size: 14px;\">▪개정 내용</span></div><div><span style=\"font-size: 14px;\">1) 전자책 대출 수량과 기간 명시</span></div><div><span style=\"font-size: 14px;\">2) 전자자료 부정 사용 행위, 계정 대여 및 도용에 대한 제재 명시</span></div><div><span style=\"font-size: 14px;\"><br></span></div><div><span style=\"background-color: transparent; font-size: inherit;\">▪</span><span style=\"font-size: 14px;\">세부이용지침 보기:&nbsp;</span><a href=\"https://oasis.ssu.ac.kr/library-guide/rules?tabIndex=1\" target=\"_blank\" title=\"새창열기\" style=\"background-color: transparent; font-size: inherit;\">https://oasis.ssu.ac.kr/library-guide/rules?tabIndex=1</a></div><div><span style=\"font-size: 14px;\"><br></span></div><div>도서관 이용에 참고하시기 바랍니다.&nbsp;</div><div>감사합니다.&nbsp;</div></div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "16245",
       "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/16245",
       "author": "최*진",
@@ -1512,20 +1526,6 @@
       "updated_at": "2025-10-13T16:08:04+09:00",
       "thumbnail": null,
       "content": "<p>안녕하세요 중앙도서관입니다.</p>\n\n<p>9월 독서후기클럽에 참여하신 모든 분들께 감사드립니다.</p>\n\n<p><img src=\"https://oasis.ssu.ac.kr/pyxis-api/attachments/BULLETIN/84ddf1c7-53d2-4918-aaf0-7bfa0c08e226\" style=\"width:481px\" /></p>\n\n<p>위 학생들에게는 상금 3만원이 부상으로 지급될 예정입니다.</p>\n\n<p>&nbsp;</p>\n\n<p>(추후 별도 안내 예정)</p>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "14981",
-      "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/14981",
-      "author": "조*연",
-      "title": "[안내] 6층 숭실마루 한시적 이용제한 안내(9월 30일, 10월 2일 17:30~20:00)",
-      "description": null,
-      "category": [],
-      "created_at": "2025-09-24T11:36:52+09:00",
-      "updated_at": "2025-09-24T11:36:52+09:00",
-      "thumbnail": null,
-      "content": "<p>안녕하세요, 중앙도서관입니다.</p>\n\n<p>영상 촬영을 위해 다음과 같이 6층 숭실마루 이용을 한시적으로 제한합니다.</p>\n\n<p>1. 일시<br />\n&nbsp; 가. 9월 30일(화) 17:30~20:00<br />\n&nbsp; 나. 10월 2일(목) 17:30~20:00</p>\n\n<p>2. 내용: 9월 독서후기클럽 우수 후기자 &#39;2게더책방&#39; 영상 촬영</p>\n\n<p>양해 부탁드립니다.</p>\n\n<p>&nbsp;</p>\n\n<p>문의: 02-820-0731/ssuy1105@ssu.ac.kr</p>",
       "attachments": [],
       "metadata": null
     }
