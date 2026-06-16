@@ -4,6 +4,28 @@
   "description": "숭실대학교 경제학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "138",
+      "url": "https://eco.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=138&page=1",
+      "author": "최고관리자",
+      "title": "[인권센터]  2026 인권 공모전 홍보",
+      "description": null,
+      "category": [
+        "비교과안내"
+      ],
+      "created_at": "2026-06-16T11:01:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p style=\"font-family:'한컴바탕';font-size:11pt;\"><span style=\"font-family:Arial;\">1. 인권센터에서 2026학년도 인권 공모전을 진행하고 있습니다. 각 대학 및 대학원 소속 학생들의 적극적인 참여 바랍니다.</span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;\"><span style=\"font-family:Arial;\">&nbsp;</span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;\"><span style=\"font-family:Arial;\">2. 2026학년도 인권 공모전 안내</span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;margin-left:10px;\"><span style=\"font-family:Arial;\">가. 공모명: '인권침해 없는 숭실대학교 만들기' 공모전</span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;margin-left:10px;\"><span style=\"font-family:Arial;\">나. 접수기간: 2026.06.01.(월) ~ 2026.06.30.(화)</span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;margin-left:10px;\"><span style=\"font-size:11pt;font-family:Arial;\">다. 대상: 숭실대학교 학부생 및 대학원생</span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;margin-left:10px;\"><span style=\"font-size:11pt;font-family:Arial;\">라. 주제: 인권침해 없는 숭실대학교 만들기</span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;margin-left:20px;\"><span style=\"font-size:11pt;font-family:Arial;\">1) 인권 친화적 대학 문화 조성을 위한 내용</span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;margin-left:20px;\"><span style=\"font-size:11pt;font-family:Arial;\">2) 성폭력·성희롱, 괴롭힘 등 대학에서 발생할 수 있는 인권침해 예방을 위한 내용</span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;margin-left:10px;\"><span style=\"font-size:11pt;font-family:Arial;\">마. 공모부문: 정책 제안, 숏폼, 슬로건(캘리그라피)</span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;margin-left:10px;\"><br></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;margin-left:10px;\"><span style=\"font-size:11pt;font-family:'돋움', Dotum;\"><u><span style=\"font-family:'돋움', Dotum;\"><br></span></u></span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;\"><span style=\"font-size:11pt;font-family:Arial;\">붙&nbsp; 임 1. 2026학년도 인권 공모전 안내문.</span></p>\n<p style=\"font-family:'한컴바탕';font-size:11pt;\"><span style=\"font-size:11pt;font-family:Arial;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2. 인권 공모전 포스터 1부.&nbsp;</span><span style=\"font-size:11pt;font-family:Arial;\">&nbsp;</span><span style=\"font-family:Arial;font-size:11pt;\">끝.</span></p>",
+      "attachments": [
+        {
+          "url": "https://eco.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=138&no=0&page=1",
+          "name": "붙임1. 2026학년도 인권 공모전 안내문.hwp",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "131",
       "url": "https://eco.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=131&page=1",
       "author": "최고관리자",
