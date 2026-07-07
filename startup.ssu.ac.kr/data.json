@@ -4,6 +4,38 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "3968",
+      "url": "https://startup.ssu.ac.kr/board/notice/3968?boardEnName=notice",
+      "author": "admin",
+      "title": "[부산기술창업투자원] 제8회 B-스타트업 챌린지 참가기업 모집 안내",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2026-07-07T14:07:56+09:00",
+      "updated_at": "2026-07-07T14:07:56+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;부산기술창업투자원에서 운영하는 제8회 창업투자경진대회 B-스타트업챌린지에 참가기업을 모집하고 있습니다. 우수 창업기업 5개 팀에 총 3억 원을 BNK 부산은행이 지분투자하는 대회로, 창업 5년 이내 기업이라면 제한 없이 지원할 수 있습니다. 관심있는 기업인 여러분의 많은 참여 부탁드립니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/07/b8bfe90a-63c1-4038-8a47-383e5ec85f36.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;■ 모집기간 : 2026. 07. 01.(수) ~ 07. 29.(수) 18:00&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;■ 지원대상 : 창업 5년 이내 기업(지역 제한 없음, &rsquo;21.1.1. 이후 등록 / 개인사업자&middot;예비창업자도 신청 가능)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;■ 지원방법 : 부산창업포털 온라인 접수&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;&amp;nbsp; ※ 접수링크 :&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;a href=&quot;https://www.busanstartup.kr/biz_sup/2165?mcode=biz02&quot;&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;https://www.busanstartup.kr/biz_sup/2165?mcode=biz02&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;■ 투 자 금 : 5개사 총 3억 원&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;■ 주최기관 :&amp;nbsp;부산광역시, BNK부산은행, 부산문화방송(MBC)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:hsl(0, 0%, 0%);font-size:18px;&quot;&gt;&lt;strong&gt;■ 주관기관 :&amp;nbsp;부산기술창업투자원, BNK벤처투자&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3321",
+          "name": "제8회 창업투자경진대회 B-스타트업챌린지 포스터_게시용.jpg",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3322",
+          "name": "[공고문]제8회 창업투자경진대회 B-스타트업 챌린지.pdf",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3323",
+          "name": "(기관추천)제8회 창업투자경진대회 신청기업 기재사항_(기관명).xlsx",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "3967",
       "url": "https://startup.ssu.ac.kr/board/notice/3967?boardEnName=notice",
       "author": "admin",
@@ -2685,33 +2717,6 @@
         {
           "url": "https://startup.ssu.ac.kr/api/resource/download/2957",
           "name": "kepco 사업화유망 기술 리스트.hwp",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "3844",
-      "url": "https://startup.ssu.ac.kr/board/notice/3844?boardEnName=notice",
-      "author": "admin",
-      "title": "[대전창조경제혁신센터] 대전창업문화주간 &times; Tech Biz Korea 2026 행사 안내",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2026-03-23T16:13:17+09:00",
-      "updated_at": "2026-03-23T16:13:17+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:16px;&quot;&gt;&lt;strong&gt;대전 시민 및 청소년, 대학생 등 비(非) 창업자층을 대상으로 창업의 의미와 융합적 시간을 제공하는 창업 저변 확대를 위해 대전창업문화주간 프로그램을 &lsquo;Tech Biz Korea 2026&rsquo;과 연계하여 진행할 예정이오니, 관심있는 여러분의 많은 참여 부탁드립니다.&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/03/b84ddc94-f1f0-443d-92bc-030b3aaae27b.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;가. 행 사 명 : 대전창업문화주간 &times; Tech Biz Korea 2026&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;나. 주&amp;nbsp;&amp;nbsp;&amp;nbsp; 제 : AI가 바꾼 창업: 과학, 음악, 기술이 만나는 순간&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;다. 일&amp;nbsp;&amp;nbsp;&amp;nbsp; 시 : 2026년 4월 3일(금) 09:50 ~ 11:40&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;라. 장&amp;nbsp;&amp;nbsp;&amp;nbsp; 소 : 대전컨벤션센터 2층 그랜드볼룸 201호&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp; 마. 프로그램 : 상기 포스터 참조&amp;nbsp;&lt;/p&gt;",
-      "attachments": [
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2949",
-          "name": "붙임1. 대전창업문화주간 × Tech Biz Korea 2026 개최 계획(안).pdf",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/2950",
-          "name": "붙임2. 대전창업문화주간 × Tech Biz Korea 2026 포스터.png",
           "mime_type": null
         }
       ],
