@@ -4,6 +4,20 @@
   "description": "숭실대학교 산업정보시스템공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "48827",
+      "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48827",
+      "author": null,
+      "title": "[모집] 2026 산업시찰 참가자 선발 및 대기자 공지",
+      "description": null,
+      "category": [],
+      "created_at": "2026-06-28T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p>2026 산업시찰에 신청해 준 학생 여러분 고맙습니다. 모든 신청자와 함께 가고 싶지만 견학 인원의 물리적인 제약이 있어 총 37명을 선발하였습니다. 공지한 바와 같이 선착순에 따라 선발하였고, 선발 결과는 슈패스에서 확인할 수 있습니다(승인된 신청자). 참가자는 출발 전 오리엔테이션에 참석해야 하며 (<strong>8/28(금) 오전 11:00)</strong>,<strong>&nbsp;</strong>미참석 시 대기자를 대체 선발합니다.</p>\n<p>대기자 명단은 다음과 같이 공지합니다. 기선발자에 결원이 발생할 경우 대기자가 선발될 수 있으며 숙소 사정으로 대기 순번은 남/여에 개별적으로 적용됩니다. 대기자가 선발될 경우 개별적으로 연락할 예정입니다.</p>\n<table style=\"height: 141px;width: 419px\">\n<tbody>\n<tr>\n<td style=\"width: 97px\">대기순번</td>\n<td style=\"width: 144.641px\">남학생</td>\n<td style=\"width: 153.359px\">여학생</td>\n</tr>\n<tr>\n<td style=\"width: 97px\">1</td>\n<td style=\"width: 144.641px\">허*범(2022)</td>\n<td style=\"width: 153.359px\">서*림(2023)</td>\n</tr>\n<tr>\n<td style=\"width: 97px\">2</td>\n<td style=\"width: 144.641px\">윤*환(2021)</td>\n<td style=\"width: 153.359px\">강*진(2023)</td>\n</tr>\n<tr>\n<td style=\"width: 97px\">3</td>\n<td style=\"width: 144.641px\">우*현(2021)</td>\n<td style=\"width: 153.359px\">이*림(2024)</td>\n</tr>\n<tr>\n<td style=\"width: 97px\">4</td>\n<td style=\"width: 144.641px\">이*석(2022)</td>\n<td style=\"width: 153.359px\">안*이(2024)</td>\n</tr>\n<tr>\n<td style=\"width: 97px\">5</td>\n<td style=\"width: 144.641px\">강*혁(2021)</td>\n<td style=\"width: 153.359px\">유*연(2024)</td>\n</tr>\n</tbody>\n</table>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "48821",
       "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48821",
       "author": null,
@@ -1388,20 +1402,6 @@
       "updated_at": null,
       "thumbnail": null,
       "content": "\n\t\t\t\t\t\t<p>2025-2학기 한국장학재단 국가장학금 1차 신청 관련하여 안내드립니다.</p>\n<p>&nbsp;</p>\n<p>#. 홍보내용 : <a href=\"https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&amp;category=%EC%9E%A5%ED%95%99&amp;slug=%E2%98%85%E2%98%85%E2%98%85-2025%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%ED%95%9C%EA%B5%AD%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8-%EA%B5%AD%EA%B0%80%EC%9E%A5%ED%95%99%EA%B8%88-1%EC%B0%A8&amp;keyword\">학교 공지사항 바로가기</a></p>\n<p>&nbsp;</p>\n<p>#. 국가장학금 지원 단가 인상 관련 안내</p>\n<table style=\"width: 1270px\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"width: 189px;text-align: center\" valign=\"middle\">\n<p class=\"0\">구분</p>\n</td>\n<td style=\"width: 172px;text-align: center\" valign=\"middle\">\n<p class=\"0\">기초·</p>\n<p class=\"0\">차상위</p>\n</td>\n<td style=\"width: 91px;text-align: center\" valign=\"middle\">\n<p class=\"0\">1구간</p>\n</td>\n<td style=\"width: 89px;text-align: center\" valign=\"middle\">\n<p class=\"0\">2구간</p>\n</td>\n<td style=\"width: 88px;text-align: center\" valign=\"middle\">\n<p class=\"0\">3구간</p>\n</td>\n<td style=\"width: 94px;text-align: center\" valign=\"middle\">\n<p class=\"0\">4구간</p>\n</td>\n<td style=\"width: 88px;text-align: center\" valign=\"middle\">\n<p class=\"0\">5구간</p>\n</td>\n<td style=\"width: 89px;text-align: center\" valign=\"middle\">\n<p class=\"0\">6구간</p>\n</td>\n<td style=\"width: 91px;text-align: center\" valign=\"middle\">\n<p class=\"0\">7구간</p>\n</td>\n<td style=\"width: 95px;text-align: center\" valign=\"middle\">\n<p class=\"0\">8구간</p>\n</td>\n<td style=\"width: 99px;text-align: center\" valign=\"middle\">\n<p class=\"0\">9구간</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"width: 189px;text-align: center\" valign=\"middle\">\n<p class=\"0\">Ⅰ유형</p>\n</td>\n<td rowspan=\"3\" style=\"width: 172px;text-align: center\" valign=\"middle\">\n<p class=\"0\">전액</p>\n</td>\n<td colspan=\"3\" style=\"width: 268px;text-align: center\" valign=\"middle\">\n<p class=\"0\">285→300</p>\n</td>\n<td colspan=\"3\" style=\"width: 271px;text-align: center\" valign=\"middle\">\n<p class=\"0\">210→220</p>\n</td>\n<td colspan=\"2\" style=\"width: 186px;text-align: center\" valign=\"middle\">\n<p class=\"0\">175→180</p>\n</td>\n<td style=\"width: 99px;text-align: center\" valign=\"middle\">\n<p class=\"0\">50</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" style=\"width: 90.8403px;text-align: center\" valign=\"middle\">\n<p class=\"0\">다자녀</p>\n</td>\n<td style=\"width: 98.1597px;text-align: center\" valign=\"middle\">\n<p class=\"0\">첫째,</p>\n<p class=\"0\">둘째</p>\n</td>\n<td colspan=\"3\" style=\"width: 268px;text-align: center\" valign=\"middle\">\n<p class=\"0\">285→305</p>\n</td>\n<td colspan=\"3\" style=\"width: 271px;text-align: center\" valign=\"middle\">\n<p class=\"0\">240→252.5</p>\n</td>\n<td colspan=\"2\" style=\"width: 186px;text-align: center\" valign=\"middle\">\n<p class=\"0\">225→232.5</p>\n</td>\n<td style=\"width: 99px;text-align: center\" valign=\"middle\">\n<p class=\"0\">67.5</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 98.1597px;text-align: center\" valign=\"middle\">\n<p class=\"0\">셋째</p>\n<p class=\"0\">이상</p>\n</td>\n<td colspan=\"8\" style=\"width: 725px;text-align: center\" valign=\"middle\">\n<p class=\"0\">전액</p>\n</td>\n<td style=\"width: 99px;text-align: center\" valign=\"middle\">\n<p class=\"0\">100</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p class=\"0\">#.&nbsp;세부안내</p>\n<p class=\"0\">&nbsp;<span style=\"color: #0000ff\"><strong>가.&nbsp;신청기간:&nbsp;2025.05.23.(금)~06.23.(월) 18:00까지</strong></span></p>\n<p class=\"0\"><span style=\"color: #0000ff\"><strong>&nbsp;나.&nbsp;서류 제출 및 가구원 동의 기간:&nbsp;2025.05.23.(금) 9:00~06.30.(월) 18:00까지</strong></span></p>\n<p class=\"0\">&nbsp;다.&nbsp;신청대상:&nbsp;재학생,&nbsp;신입생(2학기 입학예정자),&nbsp;편입생,&nbsp;재입학생,&nbsp;복학생 및 휴학생 등&nbsp;모든 학적 신청가능</p>\n<p class=\"0\">&nbsp;※&nbsp;재학생은&nbsp;1차 신청이 원칙이며,&nbsp;재학중&nbsp;2회에 한해&nbsp;2차 신청으로 수혜가능</p>\n<p class=\"0\">&nbsp;※&nbsp;국가장학금 신청후 소득분위 심사가 완료된 학생에게 교내장학금 지급이 가능하므로</p>\n<p class=\"0\">&nbsp; &nbsp;반드시 신청</p>\n<p class=\"0\">&nbsp;라.&nbsp;신청방법:&nbsp;한국장학재단 홈페이지(www.kosaf.go.kr)&nbsp;및 모바일 앱에서 신청</p>\n\t\t\t\t\t",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "48070",
-      "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48070",
-      "author": null,
-      "title": "[장학] 2025학년도 2학기 교내장학금 신청 안내",
-      "description": null,
-      "category": [],
-      "created_at": "2025-05-27T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "\n\t\t\t\t\t\t<p><strong>1. 교내장학금 자격요건</strong></p>\n<p>가. 2025학년도 2학기 국가장학금 신청(1차: ~ 2025.06.23(월) 18:00까지 신청) 및&nbsp;서류&nbsp;제출을 완료하고 소득분위가 조회된 자</p>\n<p>나. 2025학년도 2학기 재학 및 복학(예정)자로 등록금 납부 예정인 자</p>\n<p>1) 2025학년도 2학기 前 등록휴학 후 복학 시 장학생 선발대상에서 제외</p>\n<p>2) 미등록, 입학취소, 복학취소, 휴학 등 학적변동 시 모든 장학금 취소</p>\n<p>다. 직전학기 15학점 이상 이수한 자(최종 정규학기의 경우, 직전학기 12학점 이상)</p>\n<p>라. 정규등록학기가 8학기 이내인 자(건축학부 건축학전공은 10학기 이내)</p>\n<p>&nbsp;</p>\n<p><strong>2. 학생 신청절차</strong></p>\n<p>가. 온라인 신청 및 서류제출기간 :&nbsp;<b><u>2025.6.2(월)10:00 ~ 2025.06.27(금) 17:30</u></b></p>\n<p>※ 2차: 2025. 09. 01(월)~ 2025. 09. 26(금) 예정</p>\n<p>나. 학생 신청방법: u-SAINT포털 → 등록/장학&nbsp;→&nbsp;장학메뉴&nbsp;→&nbsp;장학금 신청</p>\n<p>다. 학생 서류제출: 온라인 신청기간 내 방문 및 등기우편제출 가능(세부내용 붙임 파일 참</p>\n<p>조)</p>\n<p>※ 단, 전문자격시험합격자장학금의 경우 등기우편 불가</p>\n\t\t\t\t\t",
       "attachments": [],
       "metadata": null
     }
