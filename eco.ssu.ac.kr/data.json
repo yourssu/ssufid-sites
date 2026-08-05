@@ -4,6 +4,28 @@
   "description": "숭실대학교 경제학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "143",
+      "url": "https://eco.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=143&page=1",
+      "author": "최고관리자",
+      "title": "2026학년도 2학기 주요학사제도 안내",
+      "description": null,
+      "category": [
+        "학사안내"
+      ],
+      "created_at": "2026-08-05T11:27:00+09:00",
+      "updated_at": null,
+      "thumbnail": "https://eco.ssu.ac.kr/data/editor/2608/630b6a27820b13f273ce82b41010e62a_1785896857_3967.png",
+      "content": "<p><img alt=\"630b6a27820b13f273ce82b41010e62a_1785896857_3967.png\" src=\"https://eco.ssu.ac.kr/data/editor/2608/630b6a27820b13f273ce82b41010e62a_1785896857_3967.png\" title=\"630b6a27820b13f273ce82b41010e62a_1785896857_3967.png\"><br style=\"clear:both;\">&nbsp;</p>",
+      "attachments": [
+        {
+          "url": "https://eco.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=143&no=0&page=1",
+          "name": "2026-2학기 주요 학사제도 안내학생용.pdf",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "142",
       "url": "https://eco.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=142&page=1",
       "author": "최고관리자",
