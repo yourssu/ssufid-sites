@@ -4,6 +4,22 @@
   "description": "숭실대학교 컴퓨터학부 홈페이지의 학사 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "4964",
+      "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=4964&page=1",
+      "author": "최고관리자",
+      "title": "2026년 하반기 TOPCIT 정기평가 강연회 신청(~9/7까지)",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2026-08-24T13:48:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<div><b>&lt;2026년 하반기 TOPCIT 정기평가 강연회&gt;</b><br>시간: 2026.09.11.(금) 10:00 ~ 11:00<br>장소: 전산관 328호<br>강의내용: ① TOPCIT의 모델개정 전·후 소개, ② 시험준비/인증서활용 방법, ③ AI산업계 부합한 역량수준<br><br>※ 강의실 정원은 30석으로, 인원 초과 시 서서 참여하실 수 있는 점 참고 부탁드립니다.<br><br>구글폼: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdX3S1_PbuHfc8RJKujzYJta2U1-cv_1A4bRchAxdA79sCDrw/viewform?usp=header\" rel=\"nofollow noreferrer noopener\" style=\"color:rgb(17,85,204);\" target=\"_blank\">https://docs.google.com/forms/d/e/1FAIpQLSdX3S1_PbuHfc8RJKujzYJta2U1-cv_1A4bRchAxdA79sCDrw/viewform?usp=header</a></div>\n<div><br style=\"color:rgb(34,34,34);font-family:Arial, Helvetica, sans-serif;font-size:small;background-color:rgb(255,255,255);\"></div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "4963",
       "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=4963&page=1",
       "author": "최고관리자",
@@ -1818,22 +1834,6 @@
       "updated_at": null,
       "thumbnail": null,
       "content": "<p>안녕하세요.</p>\n<p>컴퓨터학부사무실입니다.</p>\n<p><br></p>\n<p>25-2학기 수강신청 유의사항 및 개설 안내 공지에서 안내 드렸던 모바일네트워크(21506091) 과목 개설이 최종 확정되었습니다.</p>\n<p>다만, 해당 과목의 담당 교원이 당초 예정과 달라짐에 따라 부득이하게 수업 시간이 변경되었습니다.&nbsp;</p>\n<p>최대한 다른 4학년 과목 및 공통-재수강 과목이 배정되지 않은 시간으로 개설을 진행 중이니 참고 부탁드립니다.</p>\n<p>&nbsp;* 개설 예정 시간: 수요일 4교시, 목요일 5교시</p>\n<p><br></p>\n<p>여러 차례 변동으로 인해 혼선을 드린 점 양해 부탁드립니다.&nbsp;</p>\n<p><br></p>\n<p>-학부사무실 드림.&nbsp;</p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "4841",
-      "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=4841&page=1",
-      "author": "최고관리자",
-      "title": "[수강신청 안내] 25-2학기 정보보안(21506308) 증원 안내",
-      "description": null,
-      "category": [
-        "공지"
-      ],
-      "created_at": "2025-08-13T16:30:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<p>안녕하세요.</p>\n<p>학부사무실입니다.</p>\n<p><br></p>\n<p>25-2학기에 안상임교수님께서 강의하실 정보보안(21506308) 2개 분반 모두 최종 정원 55명으로 조정될 예정입니다.</p>\n<p>정원 변경 사항은 8월 28일 이후 강의시간표에 반영될 예정입니다.</p>\n<p><br></p>\n<p>조정된 정원은 9월 1일(월) 오전 10시부터 수강신청이 가능하오니, 수강계획에 참고하시기 바랍니다.</p>\n<p><br></p>\n<p>감사합니다.</p>\n<p><br></p>\n<p>-학부사무실 드림.&nbsp;</p>",
       "attachments": [],
       "metadata": null
     }
