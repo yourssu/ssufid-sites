@@ -4,6 +4,33 @@
   "description": "숭실대학교 컴퓨터학부 홈페이지의 학사 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "4965",
+      "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=4965&page=1",
+      "author": "최고관리자",
+      "title": "2026학년도 2학기 유고결석 안내",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2026-08-28T15:19:00+09:00",
+      "updated_at": null,
+      "thumbnail": "https://cse.ssu.ac.kr/data/editor/2608/thumb-251859c5c9c1440d1941a24e2ff7ff2f_1787897912_7636_835x626.png",
+      "content": "<p style=\"margin-bottom:1rem;color:rgb(102,102,102);font-family:Roboto, 'Noto Sans KR', sans-serif;font-size:16px;letter-spacing:-0.5px;background-color:rgb(255,255,255);\">2026학년도 2학기 유고결석에 대해 상세히 안내하니 반드시 참고하시어 유고결석을 신청하시기 바랍니다.</p>\n<p style=\"margin-bottom:1rem;color:rgb(102,102,102);font-family:Roboto, 'Noto Sans KR', sans-serif;font-size:16px;letter-spacing:-0.5px;background-color:rgb(255,255,255);\">&nbsp;</p>\n<p style=\"margin-bottom:1rem;color:rgb(102,102,102);font-family:Roboto, 'Noto Sans KR', sans-serif;font-size:16px;letter-spacing:-0.5px;background-color:rgb(255,255,255);\"><span style=\"font-weight:bolder;\">※ 유고결석은 시스템 상 미리 신청되지 않습니다</span>. <span style=\"font-weight:bolder;\">결석 종료일 이후 신청 가능합니다.</span></p>\n<p style=\"margin-bottom:1rem;color:rgb(102,102,102);font-family:Roboto, 'Noto Sans KR', sans-serif;font-size:16px;letter-spacing:-0.5px;background-color:rgb(255,255,255);\"><span style=\"font-weight:bolder;\">※ 유의사항</span>: 파일 업로드 시 <span style=\"font-weight:bolder;\">증빙서류가 미비하거나 파일이 손상된 경우</span>, 유고결석이 <span style=\"font-weight:bolder;\">‘거부’</span> 처리 될 수 있습니다.</p>\n<p style=\"margin-bottom:1rem;color:rgb(102,102,102);font-family:Roboto, 'Noto Sans KR', sans-serif;font-size:16px;letter-spacing:-0.5px;background-color:rgb(255,255,255);\"><a class=\"view_image\" href=\"https://cse.ssu.ac.kr/bbs/view_image.php?fn=%2Fdata%2Feditor%2F2608%2F251859c5c9c1440d1941a24e2ff7ff2f_1787897912_7636.png\" target=\"_blank\"><img alt=\"251859c5c9c1440d1941a24e2ff7ff2f_1787897912_7636.png\" src=\"https://cse.ssu.ac.kr/data/editor/2608/thumb-251859c5c9c1440d1941a24e2ff7ff2f_1787897912_7636_835x626.png\"></a></p>\n<p style=\"margin-bottom:1rem;color:rgb(102,102,102);font-family:Roboto, 'Noto Sans KR', sans-serif;font-size:16px;letter-spacing:-0.5px;background-color:rgb(255,255,255);\"><span style=\"font-weight:bolder;\">상세한 신청 방법 및 증빙서류 요건은 붙임 파일 참고하시기 바랍니다.</span></p>\n<p style=\"margin-bottom:1rem;color:rgb(102,102,102);font-family:Roboto, 'Noto Sans KR', sans-serif;font-size:16px;letter-spacing:-0.5px;background-color:rgb(255,255,255);\"><br></p>\n<p style=\"margin-bottom:1rem;color:rgb(102,102,102);font-family:Roboto, 'Noto Sans KR', sans-serif;font-size:16px;letter-spacing:-0.5px;background-color:rgb(255,255,255);\">문의: 학생지원팀(학생회관 406호)&nbsp;&nbsp;<img alt=\"☎\" class=\"emoji\" src=\"https://s.w.org/images/core/emoji/11.2.0/svg/260e.svg\" style=\"vertical-align:-0.1em;border-style:none;border-width:medium;margin:0px 0.07em;background-image:none;padding:0px;\">02-820-0064, 0067</p>",
+      "attachments": [
+        {
+          "url": "https://cse.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=4965&no=0&page=1",
+          "name": "붙임1-유고결석-안내사항2026-2학기.pdf",
+          "mime_type": null
+        },
+        {
+          "url": "https://cse.ssu.ac.kr/bbs/download.php?bo_table=notice&wr_id=4965&no=1&page=1",
+          "name": "붙임2-재학생-유고결석-신청-매뉴얼.pdf",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "4964",
       "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=4964&page=1",
       "author": "최고관리자",
@@ -1818,22 +1845,6 @@
       "updated_at": null,
       "thumbnail": null,
       "content": "<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">안녕하세요.</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">학부사무실입니다.&nbsp;</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\"><br></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">25년 8월 졸업자 여러분의 학위증을 아래와 같이 배부할 예정이니, 방문 수령 계획이 있는 졸업자들은 참고하여 주시기 바랍니다.</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\"><br></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">1. 기간: 2025년 8월 19일(화) ~ 26일(화) 매일 오전 11시~16:30까지</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">&nbsp; &nbsp;* 학부사무실 점심시간: 12시 20분~13시 20분&nbsp;</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">2. 장소: 정보과학관 105호 컴퓨터학부사무실&nbsp;</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">3. 학위증 수령 시 주의 사항</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">&nbsp; 가. 신분증/학생증을 확인하니 미리 준비해주시기 바랍니다.</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">&nbsp; &nbsp; &nbsp;* 대리인 수령 시 졸업생 신분증 원본, 사본, 사진 제시 바랍니다.</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">&nbsp; 나. 대출 도서가 있는 경우 학위증 수령이 불가합니다.&nbsp;</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">&nbsp; &nbsp; &nbsp; &nbsp;학부사무실에서 어플/홈페이지를 통해 확인 시 대출 도서 있는 것으로 확인되면 반납 후 수령 가능하니 미리 반납하고 방문하시기 바랍니다.&nbsp;</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">&nbsp; 다. 대학 우등상 수상자 및 25년 8월 이전 졸업자는 학사팀(신양관 102호)에서 배부합니다.&nbsp;</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">&nbsp; 라. 외국인 유학생은 국제팀으로 가셔서 수령하시기 바랍니다.</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">&nbsp; 마. 위의 배부기간 이후 방문이 예정되신 졸업생들은 전화 문의 부탁드립니다.&nbsp;</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">&nbsp; &nbsp; - 8월 30일까지는 학부사무실에서 수령 가능하며 9월 2일부터는 학사팀에서 수령 가능하니 방문 전 미리 확인 전화 주시면 미리 준비해두겠습니다.&nbsp;</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">&nbsp;</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">여러분의 졸업을 축하드립니다!</div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\"><br></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\"><br></div>\n<div style=\"margin:0px;padding:0px;color:rgb(34,34,34);font-family:noto, MalgunGothic, '맑은 고딕', '돋움', tahoma, 'sans-serif';font-size:13px;letter-spacing:-0.7px;background-color:rgb(255,255,255);\">-학부사무실 드림.&nbsp;</div>",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "4842",
-      "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=notice&wr_id=4842&page=1",
-      "author": "최고관리자",
-      "title": "25-2학기 모바일네트워크(21506091) 시간 변경 안내",
-      "description": null,
-      "category": [
-        "공지"
-      ],
-      "created_at": "2025-08-21T11:15:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<p>안녕하세요.</p>\n<p>컴퓨터학부사무실입니다.</p>\n<p><br></p>\n<p>25-2학기 수강신청 유의사항 및 개설 안내 공지에서 안내 드렸던 모바일네트워크(21506091) 과목 개설이 최종 확정되었습니다.</p>\n<p>다만, 해당 과목의 담당 교원이 당초 예정과 달라짐에 따라 부득이하게 수업 시간이 변경되었습니다.&nbsp;</p>\n<p>최대한 다른 4학년 과목 및 공통-재수강 과목이 배정되지 않은 시간으로 개설을 진행 중이니 참고 부탁드립니다.</p>\n<p>&nbsp;* 개설 예정 시간: 수요일 4교시, 목요일 5교시</p>\n<p><br></p>\n<p>여러 차례 변동으로 인해 혼선을 드린 점 양해 부탁드립니다.&nbsp;</p>\n<p><br></p>\n<p>-학부사무실 드림.&nbsp;</p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n<p><br></p>",
       "attachments": [],
       "metadata": null
     }
