@@ -4,6 +4,20 @@
   "description": "숭실대학교 수학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "3877",
+      "url": "https://math.ssu.ac.kr/?page_id=977&term_id&slug=3877",
+      "author": null,
+      "title": "[G-LAMP사업단] SSU G-LAMP 사업단 서포터즈 모집 홍보",
+      "description": null,
+      "category": [],
+      "created_at": "2026-08-25T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p><img alt=\"\" class=\"alignnone size-large wp-image-3878\" height=\"1024\" sizes=\"(max-width: 724px) 100vw, 724px\" src=\"https://math.ssu.ac.kr/wp-content/uploads/sites/94/2026/08/서포터즈-2기-모집-포스터-724x1024.jpg\" srcset=\"https://math.ssu.ac.kr/wp-content/uploads/sites/94/2026/08/서포터즈-2기-모집-포스터-724x1024.jpg 724w, https://math.ssu.ac.kr/wp-content/uploads/sites/94/2026/08/서포터즈-2기-모집-포스터-212x300.jpg 212w, https://math.ssu.ac.kr/wp-content/uploads/sites/94/2026/08/서포터즈-2기-모집-포스터-768x1086.jpg 768w, https://math.ssu.ac.kr/wp-content/uploads/sites/94/2026/08/서포터즈-2기-모집-포스터.jpg 1587w\" width=\"724\"></p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "3868",
       "url": "https://math.ssu.ac.kr/?page_id=977&term_id&slug=3868",
       "author": null,
