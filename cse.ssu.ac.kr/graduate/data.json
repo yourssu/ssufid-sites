@@ -4,6 +4,22 @@
   "description": "숭실대학교 컴퓨터학부 홈페이지의 대학원 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "689",
+      "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=gra_notice&wr_id=689&page=1",
+      "author": "최고관리자",
+      "title": "2026-2학기 학적변동(휴학, 복학) 신청 기간(2차) 안내(~9/10 16시)",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2026-09-08T09:27:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p><span style=\"color:rgb(34,34,34);font-family:Arial;font-size:11pt;background-color:rgb(255,255,255);\">2026학년도 2학기 학적변동(휴학, 복학) 신청 기간(2차)을 안내드립니다.&nbsp;</span></p>\n<p><span style=\"color:rgb(34,34,34);font-family:Arial, Helvetica, sans-serif;font-size:small;background-color:rgb(255,255,255);\"><br></span></p>\n<div><span style=\"font-size:11pt;font-family:Arial;\">9월 초에 휴학원을 미리 제출하신 분들의 경우, 9/8(화) 자로 휴학 처리될 예정임을 안내드립니다.&nbsp;&nbsp;</span></div>\n<div><span style=\"font-size:11pt;font-family:Arial;\">--</span></div>\n<div><p style=\"color:rgb(102,102,102);letter-spacing:-0.5px;\"><span style=\"font-family:Arial;font-size:11pt;\">1. 휴학</span></p><p style=\"letter-spacing:-0.5px;\"><span style=\"font-family:arial, sans-serif;\"><span style=\"color:rgb(102,102,102);font-size:11pt;font-family:Arial;\">가. 신청기간: </span><b><span style=\"color:rgb(255,0,0);font-size:11pt;font-family:Arial;\">2026. 9. 8.(화) ~ 2026. 9. 10.(목)</span></b></span></p><p style=\"color:rgb(102,102,102);letter-spacing:-0.5px;\"><span style=\"font-family:Arial;font-size:11pt;\">나. 신청방법: 휴학원 작성 후 대학원 교학팀으로 직접 제출(주임교수 서명 또는 날인을 필함)</span></p><p style=\"color:rgb(102,102,102);letter-spacing:-0.5px;\"><span style=\"font-family:Arial;font-size:11pt;\">※ 2026학년도 2학기 신입생은 2026. 9. 1(화)부터 휴학신청이 가능함</span></p><p style=\"color:rgb(102,102,102);letter-spacing:-0.5px;\"><span style=\"font-family:Arial;font-size:11pt;\">※ 직전학기 미등록 휴학 이력이 있는 경우에는 복학신청 및 등록금 납부 후 휴학 신청이 가능함</span><span style=\"font-family:Arial;font-size:11pt;\">(등록금은 이월됨)</span></p><p style=\"color:rgb(102,102,102);letter-spacing:-0.5px;\"><br></p><p style=\"color:rgb(102,102,102);letter-spacing:-0.5px;\"><span style=\"font-family:Arial;font-size:11pt;\">2. 복학</span></p><p style=\"letter-spacing:-0.5px;\"><span style=\"font-family:arial, sans-serif;\"><span style=\"color:rgb(102,102,102);font-size:11pt;font-family:Arial;\">가. 신청기간:</span><b><span style=\"color:rgb(255,0,0);font-size:11pt;font-family:Arial;\"> 2026. 9. 8.(화) ~ 2026. 9. 10.(목)</span></b></span></p><p style=\"color:rgb(102,102,102);letter-spacing:-0.5px;\"><span style=\"font-family:Arial;font-size:11pt;\">나. <span style=\"font-weight:700;font-size:11pt;font-family:Arial;\">신청방법(온라인)</span></span></p><p style=\"color:rgb(102,102,102);letter-spacing:-0.5px;\"><span style=\"font-family:Arial;font-size:11pt;\">1) 유세인트(<a href=\"https://saint.ssu.ac.kr/irj/portal)\" rel=\"nofollow\">https://saint.ssu.ac.kr/irj/portal)</a> 로그인</span></p><p style=\"color:rgb(102,102,102);letter-spacing:-0.5px;\"><span style=\"font-family:Arial;font-size:11pt;\">2) 학적정보 &gt; 복학신청/조회(첨부파일 참조)</span></p><p style=\"color:rgb(102,102,102);letter-spacing:-0.5px;\"><span style=\"font-weight:700;font-family:Arial;font-size:11pt;\">※ 수강신청, 등록금 고지서 발급의 사유로 기한 내 반드시 신청 완료</span></p></div>\n<div><br style=\"color:rgb(34,34,34);font-family:Arial, Helvetica, sans-serif;font-size:small;background-color:rgb(255,255,255);\"></div>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "688",
       "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=gra_notice&wr_id=688&page=1",
       "author": "최고관리자",
@@ -1918,26 +1934,6 @@
         {
           "url": "https://cse.ssu.ac.kr/bbs/download.php?bo_table=gra_notice&wr_id=542&no=1&page=2",
           "name": "제출 안내.zip",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "539",
-      "url": "https://cse.ssu.ac.kr/bbs/board.php?bo_table=gra_notice&wr_id=539&page=2",
-      "author": "관리자",
-      "title": "2022학년도 2학기 석⋅박사통합과정 지원 및 선발 안내",
-      "description": null,
-      "category": [],
-      "created_at": "2022-05-18T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "<p><span>1. 기원기간 : 2022.06.07(화)~06.24(금)</span></p>\n<p><span>2. 지원자격</span></p>\n<p><span>&nbsp; &nbsp;가. 일반대학원 석사과정 2학기 또는 3학기 재학생(복학예정자 포함)</span></p>\n<p><span>&nbsp; &nbsp;나. 학업전념학생(2015학년도 2학기 석사입학자부터 적용)</span></p>\n<p><span>&nbsp; &nbsp;다. 18학점 이상 취득 또는 취득예정인 학생</span></p>\n<p><span>&nbsp; &nbsp;라. 석사과정 전공분야와 통합과정 지원 전공분야가 동일한 자</span></p>\n<p><span>3. 제출서류</span></p>\n<p><span>&nbsp; &nbsp;가. 공통 : 석·박사통합과정 지원서 1부. (붙임1 양식)</span></p>\n<p><span>&nbsp; &nbsp;나. 2015년 2학기 이후 입학자 : 4대 사회보험 가입내역 확인서 1부.</span></p>\n<p><span>&nbsp; &nbsp;<span>&nbsp;&nbsp;※ 4대 사회보험 정보연계센터(<a href=\"%5C\">www.4insure.or.kr</a>) 공인인증서 로그인 → [증명서발급] → 4대 사회보험 가입내역 확인 청구서 신청 → 4개 처리기관의 처리여부 “출력가능” 확인 후 증명서 출력</span></span></p>\n<p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※&nbsp;강사는 다음의 요건 충족 시 예외적 지원 허용&nbsp;:&nbsp;주 6시간 이내 근무로 인한 4대 사회보험 가입은 별도의 증빙서류(경력증명서)제출 시 학업전념학생으로 인정</span></p>\n<p><span>&nbsp; &nbsp;&nbsp;<span>&nbsp;※&nbsp;<span><u>건강보험 지역가입자 중 사업장이 표기되어 있는 경우와&nbsp;4대 사회보험 미가입자이나 종교기관 등에서 전임으로 재직하는 경우 등은&nbsp;직장병행학생으로 간주하여 지원 불가함</u></span></span></span></p>\n<p><span>&nbsp;4. 지원방법 : 제출서류를 작성하여 대학원 교학팀으로 제출(웨스트민스터홀 658호)</span></p>\n<p><span>&nbsp;5. 선발인원 : 박사과정 전체 입학정원의 20%</span></p>\n<p><span>&nbsp;6. 발표일 : 2022년 07.26(화) 학과 및 개별통지</span></p>\n<p><span>&nbsp;7. 과정안내</span></p>\n<p><span>&nbsp;&nbsp;&nbsp;가. 수업연한</span></p>\n<p><span>&nbsp; &nbsp; 1) 4년(8학기) : 석사과정 입학 학기부터</span></p>\n<p><span>&nbsp; &nbsp;&nbsp;2) 수업연한 단축 : 수업연한의 단축을 희망하는 경우<u>&nbsp;</u><u>석·박사통합과정 6학기 또는 7학기 개시 전(방학 중) 대학원 교학팀에 수업연한단축신청서를 제출</u>하고 해당 학기 종료 시 수료요건 충족 및 총 평점평균이 4.0 이상이면 6학기 또는 7학기에 수료 가능, 단&nbsp;<u>학업전념학생(Full Time)만 수업연한단축신청이 가능함</u></span></p>\n<p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나. 석사과정 종합시험, 석사논문 면제</span></p>\n<p><span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<u><span>(</span></u><u><span>석·박사통합과정 선발 후 박사과정에 해당하는 종합시험만 인정)</span></u></span></p>\n<p><span><span>&nbsp;&nbsp;</span>&nbsp;&nbsp;다.&nbsp;박사과정 입학금 면제</span></p>\n<p><span>&nbsp; &nbsp; 라. 안내 : 대학원 홈페이지 내 공지사항 게시</span></p>\n<p><span>&nbsp;8. 관련근거</span></p>\n<table><tbody><tr class=\"\\&quot;first\"><td class=\"\\&quot;first\">&nbsp;■학칙시행세칙(대학원)<p></p><p>제67조(선발인원) 통합과정 선발인원은 박사과정 입학정원의 20% 범위 내에서 대학원&nbsp;운영위원회에서 정한다.[본조신설 2014.11.29.]</p><p>제68조(지원요건) 통합과정에 지원하고자 하는 자는 다음 각 호의 요건을 모두 갖추어야 한다.<br>1. 일반대학원 석사학위과정 2학기 또는 3학기 재학생(복학예정자 포함)<br>2. 학업전념학생<br>3. 18학점 이상을 취득 또는 취득 예정인 학생<br>4. 석사과정 전공분야와 통합과정 전공분야가 동일<br>5. 지도교수의 추천[본조신설 2014.11.29.]</p></td></tr></tbody></table>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><br></p>",
-      "attachments": [
-        {
-          "url": "https://cse.ssu.ac.kr/bbs/download.php?bo_table=gra_notice&wr_id=539&no=1&page=2",
-          "name": "석박사통합과정-지원서.hwp",
           "mime_type": null
         }
       ],
