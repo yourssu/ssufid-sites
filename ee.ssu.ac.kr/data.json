@@ -4,6 +4,22 @@
   "description": "숭실대학교 전기공학부 학부소식 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "390",
+      "url": "http://ee.ssu.ac.kr/sub/sub05_02.php?boardid=major&mode=view&idx=390&sk=&sw=&offset=0&category=",
+      "author": "elecadm",
+      "title": "박봉출 동문(前 삼성전자 부사장) 초청 특강 및 간담회 안내 (9/17)",
+      "description": null,
+      "category": [
+        "Notice"
+      ],
+      "created_at": "2026-09-10T16:48:48+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "<p style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\">숭실대학교 전기공학부에서는 학생들의 진로 탐색과 기업 실무에 대한 이해를 돕기 위해 <strong>박봉출 동문(現 서강대학교 겸임교수, 前 삼성전자 DA사업부 부사장)</strong>을 모시고 초청특강 및 간담회를 개최합니다.<span aria-hidden=\"true\"></span></p><p style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\"><br></p><p style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\">박봉출 동문은 숭실대학교 전기공학과에 입학하여 삼성전자 VD사업부 구매팀을 시작으로 구매부문 상무, DA사업부 전무 및 부사장을 역임하였으며, 현재는 서강대학교 겸임교수로 재직하고 있습니다.</p><p style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\"><br></p><p style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\">이번 특강에서는 <strong>「구매, 기업의 숨은 엔진」</strong>을 주제로, 기업에서 구매 조직이 수행하는 역할과 전략적 구매, 공급망 관리, 원가 및 리스크 관리 등에 대한 실제 경험을 소개할 예정입니다.</p><p style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\"><br></p><p style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\">특히 전기공학 전공자의 진로가 연구개발이나 생산기술에만 국한되지 않으며, <strong>공학적 지식과 분석적 사고를 바탕으로 기업의 다양한 직무와 경영 영역으로 진출할 수 있는 가능성</strong>에 대해서도 함께 이야기할 예정입니다.</p><p style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\"><br></p><p style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\">특강 후에는 학생들의 <strong>취업 및 진로에 관한 자유로운 질의응답과 간담회</strong>도 진행될 예정이오니, 전기공학부 학생들의 많은 관심과 참여 바랍니다.</p><p style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\"><strong>■ 행사 개요</strong><span aria-hidden=\"true\"></span></p><ul style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);\"><li style=\"margin-left: 15px;\"><strong>일시:</strong> 2026년 9월 17일(목) 오후 3시</li><li style=\"margin-left: 15px;\"><strong>장소:</strong> 숭실대학교 미래관 406호</li><li style=\"margin-left: 15px;\"><strong>강연자:</strong> 박봉출 교수<br>· 現 서강대학교 겸임교수<br>· 前 삼성전자 DA사업부 부사장<br>· 숭실대학교 전기공학과 동문</li><li style=\"margin-left: 15px;\"><strong>주제:</strong> 「구매, 기업의 숨은 엔진」</li><li style=\"margin-left: 15px;\"><strong>대상:</strong> 숭실대학교 전기공학부 학생</li><li style=\"margin-left: 15px;\"><strong>내용:</strong> 기업의 구매 및 공급망 관리, 전략적 구매의 역할, 전기공학 전공자의 다양한 진로, 취업·진로 Q&amp;A</li></ul>",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "389",
       "url": "http://ee.ssu.ac.kr/sub/sub05_02.php?boardid=major&mode=view&idx=389&sk=&sw=&offset=0&category=",
       "author": "elecadm",
