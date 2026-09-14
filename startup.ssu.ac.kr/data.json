@@ -4,6 +4,28 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "4039",
+      "url": "https://startup.ssu.ac.kr/board/notice/4039?boardEnName=notice",
+      "author": "admin",
+      "title": "[한국지식재산보호원] 2026년 영업비밀/기술보호 컨설팅 모집 공고 ",
+      "description": null,
+      "category": [
+        "외부사업공고"
+      ],
+      "created_at": "2026-09-14T11:32:28+09:00",
+      "updated_at": "2026-09-14T11:32:52+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;기업, &amp;nbsp;대학&middot;공공연구기관 등의 기술유출 방지 및 영업비밀 보호 강화를 위한 「2026년 영업비밀&middot;기술 보호 컨설팅」을 아래와 같이 변경 공고합니다.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&quot;image image_resized&quot; style=&quot;width:60.89%;&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/09/5e91625f-cf90-4b68-9f34-1a7b8ed5f5b6.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;&lt;strong&gt;※자세한 내용은 첨부된 모집 공고문 참조&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3544",
+          "name": "2026년 영업비밀·기술 보호 컨설팅 모집 공고문(제2026-62호).pdf",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "4038",
       "url": "https://startup.ssu.ac.kr/board/notice/4038?boardEnName=notice",
       "author": "admin",
@@ -2585,33 +2607,6 @@
         {
           "url": "https://startup.ssu.ac.kr/api/resource/download/3210",
           "name": "스포츠산업창업아이디어공모전_포스터_1.png",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "3923",
-      "url": "https://startup.ssu.ac.kr/board/notice/3923?boardEnName=notice",
-      "author": "admin",
-      "title": "[서울창조경제혁신센터] &#39;올해의 K-스타트업 2026&#39; 혁신창업리그 참가기업 모집 안내",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2026-05-20T17:10:21+09:00",
-      "updated_at": "2026-05-20T17:10:21+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&lt;strong&gt;범부처 창업경진대회인 「올해의 K-스타트업 2026」 혁신창업리그를 통해 혁신 기술 및 성장 가능성이 높은 창업기업을 발굴 및 포상하여 창업생태계를 활성화하고 창업분위기를 확산하고자 하오니, 관심있는 창업기업의 많은 참여 부탁드립니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/05/316ed5fa-87ca-45d9-9a33-00844a10f3b9.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;1) 사 업 명: 「올해의 K-스타트업 2026」 혁신창업리그&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2) 모집기간: 2026. 04. 22.(수) ~ 05. 20.(수) 16:00까지&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;3) 참가대상: 통합공고일(2026.3.27.) 기준 3년 이내 창업기업&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;※ 단 2026.03.28.~04.27. 기간 내 창업 시 창업기업으로 인정&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;4) 선발규모: 「올해의 K-스타트업 2026」 통합본선 진출 22팀&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5) 신청방법: K-Startup(k-startup.go.kr) 접속 후, 「올해의 K-스타트업 2026」 혁신창업리그 공고를 통해 참가신청서 및 사업계획서 온라인 제출&amp;nbsp;&lt;/span&gt;&lt;/p&gt;",
-      "attachments": [
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3206",
-          "name": "[붙임1] 『올해의 K-스타트업 2026』 혁신창업리그 참여기업 모집공고.pdf",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3207",
-          "name": "[붙임2] 『올해의 K-스타트업 2026』 혁신창업리그_포스터.png",
           "mime_type": null
         }
       ],
