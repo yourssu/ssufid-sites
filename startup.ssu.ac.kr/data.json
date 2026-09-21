@@ -4,6 +4,33 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "4051",
+      "url": "https://startup.ssu.ac.kr/board/notice/4051?boardEnName=notice",
+      "author": "admin",
+      "title": "[2026년 서울캠퍼스타운] (입주기업 대상) 시장검증(PMF) 지원 프로그램 참여기업 모집공고",
+      "description": null,
+      "category": [
+        "공지사항"
+      ],
+      "created_at": "2026-09-21T08:23:53+09:00",
+      "updated_at": "2026-09-21T08:25:34+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;숭실대학교 캠퍼스타운에서 입주기업 창업 아이템의 목표시장 환경,&amp;nbsp;타겟 고객군에 대한&amp;nbsp;&lt;/p&gt;&lt;p&gt;객관적인 분석을 통해 마케팅 전략 수립 및 제품&middot;서비스 보완이 가능한 기초자료를 제공하기 위해 시장검증(PMF)을 지원하고자 합니다.&lt;/p&gt;&lt;p&gt;많은 관심 부탁드립니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;▶ &amp;nbsp;참여 대상:&amp;nbsp;숭실대학교 캠퍼스타운 입주기업&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;▶ &amp;nbsp;모집 기간: 2026년&amp;nbsp;9월&amp;nbsp;26일&amp;nbsp;(토) 23:59까지&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;▶ &amp;nbsp;선발 결과:&amp;nbsp;개별 이메일 통보&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;▶ &amp;nbsp;신청 방법:&amp;nbsp;시장검증(PMF)&amp;nbsp;프로그램 지원 신청서 작성하여 구글폼에 첨부 후 제출&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;▶ &amp;nbsp;진행 기간: 9월~11월&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;▶ &amp;nbsp;구글폼링크: https://forms.gle/G5dRHtkf1CjkToZn6&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;※&amp;nbsp;자세한 사항은&amp;nbsp;&quot;시장검증(PMF)&amp;nbsp;모집안내문&quot;을 확인해 주시기 바랍니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;문의:&amp;nbsp;숭실대학교 캠퍼사타운 사업단&amp;nbsp;02-829-8212, son1027@ssu.ac.kr&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3555",
+          "name": "[2026년 숭실대학교 캠퍼스타운] 시장검증(PMF) 모집안내문.hwp",
+          "mime_type": null
+        },
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3556",
+          "name": "(기업명) 숭실대학교 캠퍼스타운 시장검증(PMF) 프로그램 지원 신청서_양식.xlsx",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "4050",
       "url": "https://startup.ssu.ac.kr/board/notice/4050?boardEnName=notice",
       "author": "admin",
@@ -23,13 +50,13 @@
       "id": "4049",
       "url": "https://startup.ssu.ac.kr/board/notice/4049?boardEnName=notice",
       "author": "admin",
-      "title": "Pre-아기유니콘 발굴 및 육성 9월 프로그램",
+      "title": "[2026년 서울캠퍼스타운] Pre-아기유니콘 발굴 및 육성 9월 프로그램",
       "description": null,
       "category": [
         "공지사항"
       ],
       "created_at": "2026-09-18T13:31:54+09:00",
-      "updated_at": "2026-09-18T13:31:54+09:00",
+      "updated_at": "2026-09-21T08:26:11+09:00",
       "thumbnail": null,
       "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/09/5b26b9d8-372a-4a41-8e49-df4d389d1096.png&quot;&gt;&lt;/figure&gt;",
       "attachments": [],
@@ -2521,33 +2548,6 @@
         {
           "url": "https://startup.ssu.ac.kr/api/resource/download/3224",
           "name": "2026년 장애인 기업가 역량강화 프로그램 예비창업자 교육생 모집 홍보포스터.pdf",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "3929",
-      "url": "https://startup.ssu.ac.kr/board/notice/3929?boardEnName=notice",
-      "author": "admin",
-      "title": "[티비지파트너스] 2026년 바이오 스타트업 액셀러레이팅 프로그램 참여 스타트업 모집 ",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2026-06-04T09:51:14+09:00",
-      "updated_at": "2026-06-04T09:51:14+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;이번 프로그램은 성장 잠재력이 높은 바이오 분야 스타트업을 선발하여 최대 2,200만 원의 사업화 자금과 바이오 특화 액셀러레이팅을 지원하고, 단순 멘토링을 넘어 귀사 포트폴리오 기업의 후속 투자 유치 및 글로벌 스케일업을 직접적으로 돕기 위해 설계하였습니다. 특히 본 사업에 선정된 기업에는 티비지파트너스의 자체 투자 검토 및 TIPS 추천 외에도, 인천 모펀드를 보유한 유력 투자사와의 프라이빗 1:1 매칭, 국내외 제약사 오픈이노베이션 기회가 제공됩니다. 관심있는 기업 대표 여러분의 많은 참여 부탁드립니다.&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;■ 사업 개요&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;- 선발규모&amp;nbsp;: 총 10개사&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;- 지원기간&amp;nbsp;: ~6월 11일(목)&amp;nbsp;24:00&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;- 사업공고&amp;nbsp;:&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;a href=&quot;https://m.site.naver.com/28HT3&quot;&gt;&lt;span style=&quot;background-color:yellow;color:black;font-size:18px;&quot;&gt;https://m.site.naver.com/28HT3&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;- 지원방법&amp;nbsp;:&amp;nbsp;신청서 작성 후 이메일&amp;nbsp;제출 (&lt;/strong&gt;&lt;/span&gt;&lt;a href=&quot;mailto:info@tbzpartners.co&quot;&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;info@tbzpartners.co&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;)&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;- 지원기간&amp;nbsp;: 2026.7~ 12.&lt;/strong&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;img class=&quot;image_resized&quot; style=&quot;width:94.79%;&quot; src=&quot;https://mail.google.com/mail/u/0?ui=2&amp;amp;ik=528f9cfc17&amp;amp;attid=0.0.1&amp;amp;permmsgid=msg-f:1867024907180362534&amp;amp;th=19e90142db4acb26&amp;amp;view=fimg&amp;amp;fur=ip&amp;amp;permmsgid=msg-f:1867024907180362534&amp;amp;sz=s0-l75-ft&amp;amp;attbid=ANGjdJ_qdx8ObE1B5mrlDcn3JIqecxiaFuePRPCUGcM7junDv9lW48q8834ezQOHap96F2SJNQXwJ25knQLsVK_SrNK4poIPlpSGiqWrCQUyW_mUthv7mB-OoFhw7o4&amp;amp;disp=emb&amp;amp;realattid=ii_19e9013a8844cff311&amp;amp;zw&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;■ 모집 대상 :&amp;nbsp;&lt;/strong&gt;바이오 분야 예비창업자 및 창업 7년 이하 기업&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;※&amp;nbsp;중소기업창업&amp;nbsp;지원법상&amp;nbsp;신산업&amp;nbsp;창업&amp;nbsp;분야의&amp;nbsp;경우&amp;nbsp;창업&amp;nbsp;10년&amp;nbsp;이하&amp;nbsp;기업도&amp;nbsp;지원&amp;nbsp;가능&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;※&amp;nbsp;인천&amp;nbsp;외&amp;nbsp;지역&amp;nbsp;기업은&amp;nbsp;선정&amp;nbsp;후&amp;nbsp;사업&amp;nbsp;종료&amp;nbsp;1개월&amp;nbsp;이내&amp;nbsp;(26년&amp;nbsp;12월까지)인천으로&amp;nbsp;본사,&amp;nbsp;지사&amp;nbsp;또는&amp;nbsp;연구소&amp;nbsp;이전&amp;nbsp;필요&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;u&gt;※ 타 기관에서 정부(또는 지자체 등) 지원사업을 수행 중이더라도 동일 산출물 또는 유사한 산물출이 도출되는 것이 아닌 경우 사업 신청이 가능&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;■ 주요 지원혜택&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;사업화지원금&amp;nbsp;제공 (최대&amp;nbsp;2,200만 원)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;직접투자 검토 및 TIPS 추천&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;데모데이&amp;nbsp;및 바이오 특화&amp;nbsp;투자사&amp;nbsp;1:1밋업&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;바이오&amp;nbsp;특화&amp;nbsp;액셀러레이팅&amp;nbsp;프로그램&amp;nbsp;제공&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;- 기업진단 및&amp;nbsp;BM&middot;비즈니스&amp;nbsp;1:1 맞춤형 멘토링&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;- IP,&amp;nbsp;인허가,&amp;nbsp;재무, IR 등&amp;nbsp;전문&amp;nbsp;컨설팅&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;바이오&amp;nbsp;BD전략&amp;nbsp;지원&amp;nbsp;및&amp;nbsp;제약사&amp;nbsp;오픈이노베이션&amp;nbsp;1:1지원&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;해외 투자설명회(싱가포르&amp;nbsp;3박 4일) 참여&amp;nbsp;지원&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;*개인&amp;nbsp;체류비&amp;nbsp;외에 항공/숙소/프로그램&amp;nbsp;참여비&amp;nbsp;지원&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;■ 관련 문의&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&lt;strong&gt;티비지파트너스&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;- 봉길원&amp;nbsp;매니저&amp;nbsp;/&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;mailto:dylan@tbzpartners.co&quot;&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;dylan@tbzpartners.co&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&amp;nbsp;/ 010-2012-8325&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;-&amp;nbsp;김민경 팀장&amp;nbsp;/&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;mailto:angela@tbzpartners.co&quot;&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;angela@tbzpartners.co&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;color:black;font-size:18px;&quot;&gt;&amp;nbsp;/ 010-8903-2563&amp;nbsp;&lt;/span&gt;&lt;/p&gt;",
-      "attachments": [
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3220",
-          "name": "[별첨1] 바이오 스타트업 지원을 위한 액셀러레이팅 프로그램 참가기업_모집공고.pdf",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3221",
-          "name": "[별첨2] 2026 바이오 스타트업 지원을 위한 액셀러레이팅 프로그램 참가기업 모집_공고신청 서식.hwp",
           "mime_type": null
         }
       ],
