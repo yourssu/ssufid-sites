@@ -4,6 +4,34 @@
   "description": "숭실대학교 의생명시스템학부 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "6283",
+      "url": "https://bioinfo.ssu.ac.kr/%ea%b2%8c%ec%8b%9c%ed%8c%90/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=6283",
+      "author": null,
+      "title": "[수강신청] 26-2학기 ‘세포생물학’, ‘R을활용한’, ‘NGS분석’, ‘분자생물실험’, ‘신약개발’ 증원 안내",
+      "description": null,
+      "category": [],
+      "created_at": "2026-08-13T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p><span style=\"font-size: 14pt;font-family: helvetica, arial, sans-serif\">학부 사무실에서 안내합니다.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;font-family: helvetica, arial, sans-serif\">학생들의 증원 요청에 따라 담당 교원들의 숙고 끝에 하기와 같이 일부 교과목 증원 예정이니 참고하십시오.</span></p>\n<p>&nbsp;</p>\n<ol>\n<li><span style=\"font-size: 14pt;font-family: helvetica, arial, sans-serif\"><strong>&nbsp;1. 세포생물학-&nbsp; 65*인으로 증원(08.27 결정)</strong></span></li>\n<li><span style=\"font-size: 14pt;font-family: helvetica, arial, sans-serif\"><strong>&nbsp;2. R을활용한데이터분석-&nbsp; 1, 2분반 모두 각 40인으로 증원</strong></span></li>\n<li><span style=\"font-size: 14pt;font-family: helvetica, arial, sans-serif\"><strong>&nbsp;3. NGS데이터분석- 55인으로 증원</strong></span></li>\n<li><span style=\"font-size: 14pt;font-family: helvetica, arial, sans-serif\"><strong>&nbsp;4. 분자생물학실험-&nbsp; 1, 2분반 모두 각 17인으로 증원</strong></span></li>\n<li><strong><span style=\"font-size: 14pt;font-family: helvetica, arial, sans-serif\">&nbsp;5. 컴퓨터신약개발- 40인으로 증원</span></strong></li>\n</ol>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt;font-family: helvetica, arial, sans-serif\">증원 시스템은 학부 사무실에서 불가하며 이에 학사팀에 요청한 상태니 학생 여러분들은 이를 확인하시고,</span></p>\n<p><span style=\"font-size: 14pt;font-family: helvetica, arial, sans-serif\">익일 혹은 9월 1일 시작되는 전체 수강신청 및 수강 변경일자에 맞춰 진행하시기 바랍니다.</span></p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
+      "id": "6281",
+      "url": "https://bioinfo.ssu.ac.kr/%ea%b2%8c%ec%8b%9c%ed%8c%90/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=6281",
+      "author": null,
+      "title": "[수강신청] 26-2학기 ‘세포생물학’ 시간표 변경 건",
+      "description": null,
+      "category": [],
+      "created_at": "2026-08-12T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p><span style=\"font-size: 14pt\">학부 사무실에서 안내 말씀 드립니다.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt\">작일 오후(8월 11일) 박상연 학부장님께서 기존 4학년 대상 교과목인 ‘Co-op AI첨단의약품제조’를</span></p>\n<p><span style=\"font-size: 14pt\">3학년 학생들에게도 수업 참여 기회를 주고싶다고 의지를 밝히셨습니다.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt\">이에 따라 학부 사무실은 학부장님과 ‘세포생물학’ 교과 담당 교원분의 의견을 수렴하여</span></p>\n<p><span style=\"font-size: 14pt\">기존 ‘화, 목 7교시’에서 ‘목 7, 8’ 으로 변경하였음을 알려드립니다.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt\">학생 여러분들의 확인 바랍니다.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14pt\">학부사무실</span></p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "6272",
       "url": "https://bioinfo.ssu.ac.kr/%ea%b2%8c%ec%8b%9c%ed%8c%90/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=6272",
       "author": null,
