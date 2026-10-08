@@ -10,7 +10,7 @@
       <description><![CDATA[AI 시대 새로운 진로 방향을 제시하다 : 창직과 신직업을 말하다.]]></description>
       <author>진로취업팀</author>
       <category>모집중</category>
-      <enclosure url="/common/cmnFile/thumbnail.do?encSvrFileNm=04faf93d0c63483a3e5bf74c59c997e4d680ed59693f6ef49afc19edbe614b2a9b1dffed2504b12ffdab80ab8cf7829a51c3227dc10bbba332d577582ddb1c6c&amp;width=170&amp;height=120" length="0" type="image/*"/>
+      <enclosure url="/common/cmnFile/thumbnail.do?encSvrFileNm=&amp;width=170&amp;height=120" length="0" type="image/*"/>
       <guid isPermaLink="false">8b24ee14ed9022a401cb21faa50c163c</guid>
       <pubDate>Wed, 07 Oct 2026 14:00:00 +0900</pubDate>
       <content:encoded><![CDATA[---
@@ -38,7 +38,7 @@
   - 2026-11-04T20:00:00+09:00
   모집정원: 100
   대기정원: 100
-  신청인원: 5
+  신청인원: 6
   대기신청인원: 0
 - 번호: 3
   분반명: 창직&신직업 토크콘서트 [직톡] - 4회차 상품기획 브랜드 메이커스
@@ -113,7 +113,7 @@ SCLP+UP
 리더십역량25%
 ---
 ]]></content:encoded>
-      <atom:updated>2026-10-07T22:09:57.457631786Z</atom:updated>
+      <atom:updated>2026-10-08T02:09:10.341802696Z</atom:updated>
     </item>
     <item>
       <title>금융·에너지 데이터 해커톤</title>
@@ -297,7 +297,7 @@ SCLP+UP
 운영방식: 대면
 운영조직: 상담팀
 이수 인증서: O
-정원/대기자: 정원 30명 / 대기자 10명
+정원/대기자: 정원 40명 / 대기자 10명
 지급 마일리지: 48
 진행속성: 1회
 첨부파일: -
@@ -315,6 +315,7 @@ SCLP+UP
 의사소통역량25%
 ---
 26학년도 2학기 심리상담 체험 프로그램 많은 신청 부탁드립니다]]></content:encoded>
+      <atom:updated>2026-10-08T02:09:10.341802696Z</atom:updated>
     </item>
     <item>
       <title>글로벌통상학과 외국인유학생 문화체험 버디 프로그램</title>
