@@ -4,6 +4,28 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "4078",
+      "url": "https://startup.ssu.ac.kr/board/notice/4078?boardEnName=notice",
+      "author": "admin",
+      "title": "[2026년 서울캠퍼스타운] (하반기) 외국인 유학생 창업스쿨 &lt;K-Culture, Next!&gt; 모집안내",
+      "description": null,
+      "category": [
+        "공지사항"
+      ],
+      "created_at": "2026-10-20T14:22:40+09:00",
+      "updated_at": "2026-10-20T14:36:41+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;1. 프로그램명: (하반기) 외국인 유학생 창업스쿨 &amp;lt;K-Culture, Next!&amp;gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2. 신청기한: 2026. 10. 26.(월) 10:00 까지&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;3. 운영기간: 2026. 11. 9.(월)~ 11. 28.(토)&lt;br&gt;&amp;nbsp; &amp;nbsp;- 2026. 11. 09.(월): MEET YOUR GLOBAL TEAM(사전 OT)&lt;br&gt;&amp;nbsp; &amp;nbsp;- 2026. 11. 27.(금) ~ 11. 28.(토): K-Culture, Next!&lt;br&gt;&lt;br&gt;4. 참가대상: 창업에 관심 있는 외국인 유학생 및 본교 창업동아리(시너지)등 40~50명&lt;br&gt;&amp;nbsp; &amp;nbsp;※단, 본교 재학생이 팀장 필수&lt;br&gt;&amp;nbsp; &amp;nbsp;※신청 인원이 많은 경우 외국인 유학생 및 창업지원단 소속 창업동아리 학생을 우선 고려하며, 참여자 구성 비율과 전 일정 참여 가능 여부 등을 종합적으로 반영하여 최종 참여자를 선정함&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;5. 접수방법: 구글폼 신청서 작성 및 제출(&lt;a href=&quot;https://forms.gle/nmfjYdn5131pvAqv5&quot;&gt;https://forms.gle/nmfjYdn5131pvAqv5&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;6. 지원내용&lt;br&gt;&amp;nbsp;1) 전문가 멘토링 제공&lt;br&gt;&amp;nbsp;2) 우수팀(3개 팀) 시상 및 상금(최대 150만원) 지급&lt;br&gt;&amp;nbsp;3) 캠프 전 일정(OT포함) 참여시 캠퍼스타운사업 단장명의 이수증 발급&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;※자세한 내용은 첨부문서의 안내문을 확인해주시기 바랍니다.&lt;/strong&gt;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/10/125ddfd2-c66c-497f-819a-21e26a28dbd6.png&quot;&gt;&lt;/figure&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3621",
+          "name": "(배포용) 2026년 (하반기)외국인 유학생 창업스쿨 K-Culture Next 안내문.pdf",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "4077",
       "url": "https://startup.ssu.ac.kr/board/notice/4077?boardEnName=notice",
       "author": "admin",
@@ -2483,22 +2505,6 @@
           "mime_type": null
         }
       ],
-      "metadata": null
-    },
-    {
-      "id": "3958",
-      "url": "https://startup.ssu.ac.kr/board/notice/3958?boardEnName=notice",
-      "author": "admin",
-      "title": "[서울 AI허브] 고성능 컴퓨팅 인프라 지원사업 안내",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2026-07-01T14:11:27+09:00",
-      "updated_at": "2026-07-01T14:11:27+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;서울 AI 허브에서 운영 중인&amp;nbsp;&lt;strong&gt;「2026 하반기 고성능 컴퓨팅 인프라 지원사업」&lt;/strong&gt;&amp;nbsp;참여기업을 모집하고 있습니다.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;최근 수요가 급증하며 확보가 매우 어려워진&lt;strong&gt;&amp;nbsp;클라우드 GPU 자원을 서울 AI 허브가 선제적으로 확보&lt;/strong&gt;해 둔 만큼, GPU가 꼭 필요한 스타트업들이 실질적인 도움을 받을 수 있습니다.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/07/eccd43b6-e07c-4b43-ae9f-7d812e13041c.png&quot;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;&lt;strong&gt;■ 지원 내용&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;지정 MSP(메가존클라우드)를 통한 클라우드 GPU 자원 비용을 크레딧으로 지원 (선정 40개사 내외)&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Track 1 (고도화 지원): 최대 6천만원 상당 크레딧 (자부담금 지원금의 20%)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Track 2 (초기&middot;검증 지원): 최대 1천만원 상당 크레딧 (자부담금 지원금의 10%)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;멀티 CSP 선택 가능 (KT Cloud, Naver Cloud, Google Cloud, AWS, Microsoft Azure, NHN Cloud 등)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;&lt;strong&gt;■ 신청 자격&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;서울시 소재 창업 7년 미만 AI 스타트업&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;※ 서울시 소재: 본사&middot;지점&middot;연구소 등 등록지가 서울이면 가능&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;※&amp;nbsp;&lt;u&gt;신산업(신기술) 분야는 창업 10년 미만까지&lt;/u&gt;&amp;nbsp;신청 가능&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;&lt;strong&gt;■ 신청 기간&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;2026. 7. 3.(금) 18:00 까지&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;&lt;strong&gt;■ 신청 방법&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;스타트업플러스 플랫폼에서 신청&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;&rarr;&lt;/span&gt;&lt;a href=&quot;https://www.startup-plus.kr/project/PRJ007010&quot;&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;&amp;nbsp;https://www.startup-plus.kr/project/PRJ007010&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;&lt;strong&gt;■ 문의&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;서울 AI 허브 임정아 매니저 (02-2135-6983 / &lt;/span&gt;&lt;a href=&quot;mailto:ija@seoulaihub.kr&quot;&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;ija@seoulaihub.kr&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;background-color:transparent;font-size:20px;&quot;&gt;)&lt;/span&gt;&lt;/p&gt;",
-      "attachments": [],
       "metadata": null
     }
   ]
