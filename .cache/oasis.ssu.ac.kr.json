@@ -3285,5 +3285,19 @@
       }
     ],
     "metadata": null
+  },
+  {
+    "id": "16797",
+    "url": "https://oasis.ssu.ac.kr/library-services/bulletin/notice/16797",
+    "author": "이*학",
+    "title": "‘학술논문(Article)’ 검색 장애 안내",
+    "description": null,
+    "category": [],
+    "created_at": "2026-10-23T11:58:49+09:00",
+    "updated_at": "2026-10-23T11:58:49+09:00",
+    "thumbnail": null,
+    "content": "<div>안녕하세요. 중앙도서관입니다.</div><div><br></div><div>현재 도서관 통합검색에서 학술논문(Article) 검색이 정상적으로 이루어지지 않고 있습니다.</div><div><br></div><div>API Gateway 서버에 보안 위협이 확인되어 긴급 보안 패치 작업을 진행 중이며, 이로 인해 검색 장애가 발생하였습니다.</div><div><br></div><div><span style=\"background-color: transparent; font-size: inherit;\">이용에 불편을 드려 죄송합니다. 신속히 복구할 수 있도록 노력하겠습니다.&nbsp;</span></div><div><span style=\"background-color: transparent; font-size: inherit;\"><br></span></div><div><span style=\"background-color: transparent; font-size: inherit;\">감사합니다.</span></div>",
+    "attachments": [],
+    "metadata": null
   }
 ]
