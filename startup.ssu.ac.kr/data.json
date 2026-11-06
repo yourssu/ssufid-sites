@@ -4,6 +4,28 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "4097",
+      "url": "https://startup.ssu.ac.kr/board/notice/4097?boardEnName=notice",
+      "author": "admin",
+      "title": "[한양대학교&amp;숭실대학교] 2026 K-TOURISM STARTUP CHALLENGE 예비창업자(팀) 모집 안내",
+      "description": null,
+      "category": [
+        "공지사항"
+      ],
+      "created_at": "2026-11-06T11:27:25+09:00",
+      "updated_at": "2026-11-06T11:28:02+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/11/5ec9ac3a-8fd5-445b-b61e-cd8885f80360.jpg&quot;&gt;&lt;/figure&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3672",
+          "name": "지역관광 창업챌린지 포스터.pdf",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "4096",
       "url": "https://startup.ssu.ac.kr/board/notice/4096?boardEnName=notice",
       "author": "admin",
@@ -2413,48 +2435,6 @@
         {
           "url": "https://startup.ssu.ac.kr/api/resource/download/3335",
           "name": "붙임. 제105회 대전창업포럼(바이오) 포스터.png",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "3970",
-      "url": "https://startup.ssu.ac.kr/board/notice/3970?boardEnName=notice",
-      "author": "admin",
-      "title": "[경기도경제과학진흥원] 2026년 경기도 반려동물 창업공모전 참가자 모집 안내",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2026-07-13T11:04:18+09:00",
-      "updated_at": "2026-07-13T11:04:18+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&lt;strong&gt;경기도와 경기도경제과학진흥원에서는 반려동물산업 분야의 유망 창업 아이디어를 보유한 &amp;nbsp;예비&middot;초기 창업자를 발굴하고자 경기도「반려동물 창업 공모전」의 참가자를 모집하고 있습니다. 관심있는 여러분의 많은 참여 부탁드립니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/07/3fa0f77e-1b73-4768-af6d-c91dc5852552.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&amp;nbsp;가. 공 고 명 : &lt;strong&gt;2026년 경기도「반려동물 창업 공모전」참가자 모집&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;나. 모집기간 : &lt;strong&gt;2026. 7.6(월) ~ 8.24(월) 17:00까지&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;다. 모집대상 : &lt;strong&gt;도내 &lt;u&gt;사회적경제조직*&lt;/u&gt;의 제품 및 기술을 활용&lt;/strong&gt;한 반려동물산업 관련 &lt;strong&gt;기술&middot;지식산업형&amp;nbsp;&amp;nbsp;사업화 아이템을 보유한 &lt;/strong&gt;도내 거주 &lt;strong&gt;예비창업자 및 &lt;/strong&gt;도내 &lt;strong&gt;3년 이내 초기 창업자&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;* 사회적경제조직 : (예비)사회적기업, 마을기업, 협동조합, 소셜벤처 등&lt;/p&gt;&lt;p&gt;&amp;nbsp;라. 우대사항 : 여성(1점), 사회적경제조직(각 1점. 최대 2점) 가점 부여 ※ 증빙자료 제출 시&lt;/p&gt;&lt;p&gt;&amp;nbsp;마. 시상내역 : &lt;strong&gt;10팀, 총 상금 3천만원&lt;/strong&gt; 및 &lt;strong&gt;경기도경제과학진흥원장상&lt;/strong&gt; 수여(예비창업 5팀, 초기창업 5팀)&lt;/p&gt;&lt;p&gt;&amp;nbsp;바. 선정절차 : 예선(서류)-본선(발표)-결선(순위결정)&lt;/p&gt;&lt;p&gt;&amp;nbsp;사. 신청방법 : 경기스타트업플랫폼(www.gsp.or.kr)에서 온라인 신청 및 첨부서류 업로드&lt;/p&gt;",
-      "attachments": [
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3329",
-          "name": "붙임1. (공고문) 2026년 「경기도 반려동물 창업 공모전」 참가자 모집(v1.0)).hwp",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3330",
-          "name": "붙임2. 참가 신청서식(v1.0).hwp",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3331",
-          "name": "붙임3. 단계별 심사평가표(v1.0).hwp",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3332",
-          "name": "붙임4. 경기도 사회적경제조직 현황표(2607)xlsx.xlsx",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3333",
-          "name": "공모전 참가자 모집 포스터.jpg",
           "mime_type": null
         }
       ],
