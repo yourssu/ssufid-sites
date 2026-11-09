@@ -4,6 +4,22 @@
   "description": "숭실대학교 영어영문학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "8255",
+      "url": "https://englan.ssu.ac.kr/%eb%8c%80%ed%95%99%ec%9b%90/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=8255",
+      "author": null,
+      "title": "2027학년도 전기 대학원 정시모집 안내",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2026-10-02T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p>2027학년도 전기 대학원 정시모집을 아래와 같이 안내드립니다.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>1. 모집일정</p>\n<p>-원서접수 : 2026. 10. 6. (화) ~ <b>2026. 10. 16. (금)</b></p>\n<p>-학과 면접 전형일 : <b>2026. 10. 31. (토)</b></p>\n<p>-합격자발표 : 2026. 11. 27. (금) 예정</p>\n<p>-합격자등록 : 2027. 1. 5. (화) ~ 2027. 1. 7. (목)</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>2. 숭실대학교 대학원 홈페이지(<a href=\"https://grad.ssu.ac.kr/\">https://grad.ssu.ac.kr</a>)참조 : 관련 <a href=\"https://grad.ssu.ac.kr/%ec%a0%95%eb%b3%b4%ea%b4%91%ec%9e%a5/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?slug=12827\" target=\"none\">공지사항</a> 링크</p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "8177",
       "url": "https://englan.ssu.ac.kr/%eb%8c%80%ed%95%99%ec%9b%90/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?term_id&slug=8177",
       "author": null,
@@ -23,11 +39,9 @@
       "author": null,
       "title": "2026학년도 후기 대학원 수시모집 안내(세부전공: 문학, 어학, 어학교육)",
       "description": null,
-      "category": [
-        "공지"
-      ],
+      "category": [],
       "created_at": "2026-06-02T00:00:00+09:00",
-      "updated_at": null,
+      "updated_at": "2026-11-09T08:17:55.042544785Z",
       "thumbnail": null,
       "content": "\n\t\t\t\t\t\t<p><strong>※ 정원 내 박사 신입학은 모집하지 않음</strong></p>\n<p><strong>모집분야: 문학, 어학, 교수법</strong></p>\n<ol>\n<li class=\"first last\">모집일정(Application Schedule)<br>\n<table width=\"733\">\n<tbody>\n<tr class=\"first\">\n<td class=\"first\">원서접수 및 서류 제출(Application &amp; Submit Required Documents)</td>\n<td class=\"last\">2026.06.08.(월) 10:00~2026.06.16.(화) 16:00</td>\n</tr>\n<tr>\n<td class=\"first\">전형일(Interview)</td>\n<td class=\"last\">2026.06.26.(금)</td>\n</tr>\n<tr>\n<td class=\"first\">합격자발표(Result Announcement)</td>\n<td class=\"last\">2026.07.21.(화) 예정</td>\n</tr>\n<tr class=\"last\">\n<td class=\"first\">합격자등록(Tuition Payment)</td>\n<td class=\"last\">2026.07.28.(화) 09:00~2026.07.29.(수) 16:00</td>\n</tr>\n</tbody>\n</table>\n</li>\n</ol>\n<p>ㅤ</p>\n<ol start=\"2\">\n<li class=\"first last\">기타사항: 붙임 모집요강 참조<br>\n(For English, please refer to page 12 of the attached admission guide.)</li>\n</ol>\n<p>ㅤ</p>\n<ol start=\"3\">\n<li class=\"first last\"><span style=\"color: #0000ff\">☞&nbsp;<a href=\"https://grad.ssu.ac.kr/%ec%a0%95%eb%b3%b4%ea%b4%91%ec%9e%a5/%ec%96%91%ec%8b%9d%ec%9e%90%eb%a3%8c%ec%8b%a4/?term_id&amp;slug=11683\" style=\"color: #0000ff\">양식 파일 다운로드</a></span><br>\n<span style=\"color: #0000ff\">(Download the form file)</span></li>\n</ol>\n<p><b>2026.06.</b><b><br>\n</b><b>대학원장</b></p>\n\t\t\t\t\t",
       "attachments": [],
