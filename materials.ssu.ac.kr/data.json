@@ -4,6 +4,28 @@
   "description": "숭실대학교 신소재공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "593",
+      "url": "https://materials.ssu.ac.kr/bbs/board.php?tbl=bbs51&mode=VIEW&num=593&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1",
+      "author": null,
+      "title": "2026학년도 2학기 졸업 종합 안내",
+      "description": null,
+      "category": [
+        "공지"
+      ],
+      "created_at": "2026-11-12T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t<p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 15px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\"><span style=\"font-size: 14pt; font-family: 돋움, Dotum;\">26-2학기 졸업예정자* 대상 졸업 종합 안내입니다.</span></p><p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 15px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\"><span style=\"font-size: 14pt; font-family: 돋움, Dotum;\">*졸업예정자: 8학기 이상 재학생이면서 127학점 이상 이수중인 학생 또는 수료생 또는 학사학위 취득유예생</span></p><p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 15px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\"><span style=\"font-size: 14pt; font-family: 돋움, Dotum;\">&nbsp;</span></p><p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 15px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\"><span style=\"font-size: 14pt; font-family: 돋움, Dotum;\">세부 내용은 첨부파일을 참고하시기 바랍니다.</span></p><p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 15px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\"><span style=\"font-size: 14pt; font-family: 돋움, Dotum;\">감사합니다.</span></p>\t\t\t\t\t\t\t<div class=\"file_box\">\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<em><img alt=\"\" src=\"/images/sub/sub0501_icon01.png\"></em>\n\t\t\t\t\t\t\t<a href=\"/bbs/download2.php?tbl=bbs51&amp;no=603\">2026-2학기-졸업-종합-안내학생-공지용 (1).pdf</a>\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t\t\t\t",
+      "attachments": [
+        {
+          "url": "https://materials.ssu.ac.kr/bbs/download2.php?tbl=bbs51&no=603",
+          "name": "2026-2학기-졸업-종합-안내학생-공지용 (1).pdf",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "591",
       "url": "https://materials.ssu.ac.kr/bbs/board.php?tbl=bbs51&mode=VIEW&num=591&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1",
       "author": null,
@@ -1839,22 +1861,6 @@
           "mime_type": null
         }
       ],
-      "metadata": null
-    },
-    {
-      "id": "481",
-      "url": "https://materials.ssu.ac.kr/bbs/board.php?tbl=bbs51&mode=VIEW&num=481&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1",
-      "author": null,
-      "title": "2025학년도 2학기 특별장학금(성적향상장학금) 선발 및 지급 안내",
-      "description": null,
-      "category": [
-        "공지"
-      ],
-      "created_at": "2026-01-16T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "\n\t\t\t\t<p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 16px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\">2025학년도 2학기 특별장학금(성적장학금) 선발 및 지급 관련하여 다음과 같이 안내합니다.</p><p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 16px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\">1. 장학금명: 성적향상장학금_학업장려비</p><p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 16px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\">2. 장학금액: 1인당 500,000원(100명 선발)</p><p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 16px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\">3. 선발기준<br style=\"box-sizing: border-box;\">가. 직전학기(2025-1) 평점평균을 4구간으로 구분하여 구간별 신청자 내 순위 산정<br style=\"box-sizing: border-box;\">나. 선발 순위<br style=\"box-sizing: border-box;\">1) 1순위: 2025-1학기 대비 2025-2학기 평점평균 차이가 높은 자<br style=\"box-sizing: border-box;\">2) 2순위: 2025-1학기 대비 2025-2학기 산술평균 차이가 높은 자<br style=\"box-sizing: border-box;\">3) 3순위: 2025-2학기 취득학점이 높은 자</p><p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 16px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\">4. 확인방법<br style=\"box-sizing: border-box;\">: u-SAINT 로그인 → 등록/장학 → 장학 → 교내장학금 수혜내역 조회(2025-2학기)</p><p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 16px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\">5. 장학금 지급 예정일: 2026.01.30.(금) 오후 예정</p><p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 16px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\">6. 기타<br style=\"box-sizing: border-box;\">가.&nbsp;<span style=\"box-sizing: border-box; font-weight: bolder;\">자격요건 중 정규등록 8학기 이내 여부, 취득학점(15학점 이상), 평점평균(2.5 이상) 기준은 2025학년도 2학기 기준임</span><br style=\"box-sizing: border-box;\">나. 기 안내한 바와 같이 2025학년도 2학기 성적확정일인 2026.01.08.(목)까지 인정된 학점 및 성적까지만 산정하여 선발하였으며,<br style=\"box-sizing: border-box;\">이후 인정된 학점(K-MOOC, 학점교류 학점 등)은 성적향상장학금의 기준 학점 및 평점평균에 반영하지 않음</p><p style=\"box-sizing: border-box; margin-bottom: 1rem; color: rgb(102, 102, 102); font-family: Roboto, &quot;Noto Sans KR&quot;, sans-serif; font-size: 16px; letter-spacing: -0.5px; background-color: rgb(255, 255, 255);\"><span style=\"box-sizing: border-box; font-weight: bolder;\">2026. 1.<br style=\"box-sizing: border-box;\">학 생 처 장</span></p>\t\t\t\t\t\t",
-      "attachments": [],
       "metadata": null
     }
   ]
