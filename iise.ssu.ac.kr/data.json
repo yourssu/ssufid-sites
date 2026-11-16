@@ -4,6 +4,20 @@
   "description": "숭실대학교 산업정보시스템공학과 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "49100",
+      "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=49100",
+      "author": null,
+      "title": "[졸업] 2027년 2월 졸업예정자 졸업논문계획서 제출 안내(~12/04(금) 16:00까지)",
+      "description": null,
+      "category": [],
+      "created_at": "2026-11-03T00:00:00+09:00",
+      "updated_at": null,
+      "thumbnail": null,
+      "content": "\n\t\t\t\t\t\t<p><span style=\"font-family: terminal, monaco, monospace\"><strong>2027년 2월 졸업예정자 대상 졸업논문계획서 제출을 안내드리니 졸업 희망자께서는 반드시 숙지 후 제출 바랍니다.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: terminal, monaco, monospace;color: #3366ff\"><strong>1. 졸업논문계획서 제출기한:&nbsp;&nbsp;~ 2026.12.04.(금) 16:00까지</strong></span></p>\n<p><span style=\"font-family: terminal, monaco, monospace\">2.&nbsp;제출 대상자:&nbsp;2027년 2월 학부 졸업예정자 (7학기 이상 재학생 또는 졸업논문 제출을 합격한 수료생)</span></p>\n<p><span style=\"font-family: terminal, monaco, monospace;color: #3366ff\">3. 제출 방식: 첨부파일 양식을 작성하여&nbsp;<strong>학과사무실로 직접 제출 혹은&nbsp;이메일로 제출(insteng@ssu.ac.kr)</strong>.&nbsp;<strong>이메일 발송 시 제목에 “학번/성명/졸업논문계획서 제출” 기재.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: terminal, monaco, monospace\">4. 참고사항</span></p>\n<p><span style=\"font-family: terminal, monaco, monospace\">1) &lt;전공종합설계및논문&gt; 과목을 이미 수강한 학생도 졸업논문계획서를 작성하여 제출. 이미 제출한 학생은 재제출 필요 없음.</span></p>\n<p><span style=\"font-family: terminal, monaco, monospace\">2) 양식 중&nbsp;<strong>논문지도교수(전종설은 과목담당교수)</strong>와&nbsp;<strong>논문제목</strong>&nbsp;칸 필히 기재!</span></p>\n<p><span style=\"font-family: terminal, monaco, monospace\">3) 양식 중 “논문내용 및 연구방법” 과 “논문진행계획 및 참고자료” 칸은 논문제출예정자만 작성. &lt;전공종합설계및논문&gt; 과목을 수강한 학생은 빈칸으로 제출.</span></p>\n<p><span style=\"font-family: terminal, monaco, monospace\">4) &lt;전공종합설계및논문&gt; 과목을 수강한 학생은 논문성적표를 별도로 제출하지 않음.&nbsp;그 외 논문제출예정자는 논문을 완성하여 지도교수님께 받은&nbsp;논문성적표를<strong>&nbsp;12.04.(금) 16:00까지</strong>&nbsp;학과사무실로 제출.</span></p>\n<p><span style=\"font-family: terminal, monaco, monospace\">5) 수료생 및 논문성적표 원본을 가지고 있는 학생은 성적표 원본을 학과사무실로 제출.</span></p>\n<p><span style=\"font-family: terminal, monaco, monospace\">6) 이전 학기에 졸업 연기하여 논문(대체)성적표 원본을 받아간 학생은 졸업확정 시에만 학과사무실에 제출.</span></p>\n<p><span style=\"font-family: terminal, monaco, monospace\"><strong>7) 논문을 제출하거나 전공종합설계및논문을 수강했다고 졸업이 되는 것이 아니라,&nbsp;&nbsp;학생이 직접 졸업논문계획서 혹은 논문성적표 제출 및 유세인트에서 졸업확정신고 작업을 거쳐야 졸업 확정 가능.&nbsp;</strong></span></p>\n<p><span style=\"font-family: terminal, monaco, monospace\">8) u-saint에서 본인의 이수학점, 이수구분 등 논문 제출(대체) 이외 사항에 문제가 없는지 확인.</span></p>\n<p><span style=\"font-family: terminal, monaco, monospace\">9) u-saint 상 졸업요건에서 논문/졸업시험이수가 “N”으로 표기는 모든 재학생, 수료생이 공통적인 사항.</span></p>\n<p><span style=\"font-family: terminal, monaco, monospace\"><strong>10) 제출 요구 일자 이후의 제출은 통과 과정 진행이 어려울 수 있으므로 반드시 기한 엄수하여 제출할 것.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: terminal, monaco, monospace\">* 절차:&nbsp;졸업예정대상자가 졸업논문계획서&nbsp;회신&nbsp;→ 학과사무실에서 논문점수 입력&nbsp;→ 학생이 직접 졸업확정신고 신청&nbsp;→ 학사팀을 거쳐 졸업 시점에 “Y”로 변경.</span></p>\n\t\t\t\t\t",
+      "attachments": [],
+      "metadata": null
+    },
+    {
       "id": "49068",
       "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=49068",
       "author": null,
@@ -1388,20 +1402,6 @@
       "updated_at": null,
       "thumbnail": null,
       "content": "\n\t\t\t\t\t\t<p><strong>2025학년도 에브리띵</strong><b>(북한, 통일, 남북관계)</b><strong>&nbsp;공모전</strong></p>\n<p><b>“일단 뭐든지 가져와봐!”</b></p>\n<p><img alt=\"📅\" class=\"an1\" src=\"https://fonts.gstatic.com/s/e/notoemoji/16.0/1f4c5/32.png\">&nbsp;접수:&nbsp;<strong>8.1(금) ~ 11.2(일)</strong></p>\n<p><img alt=\"👩‍🎓\" class=\"an1\" src=\"https://fonts.gstatic.com/s/e/notoemoji/16.0/1f469_200d_1f393/32.png\">&nbsp;대상:&nbsp;<strong>본교 학부 재학생·휴학생 (팀/개인)</strong></p>\n<p><img alt=\"📝\" class=\"an1\" src=\"https://fonts.gstatic.com/s/e/notoemoji/16.0/1f4dd/32.png\">&nbsp;분야:&nbsp;<strong>영상·음악 / 만화·디자인 / 아이디어 제안</strong></p>\n<p><img alt=\"🏆\" class=\"an1\" src=\"https://fonts.gstatic.com/s/e/notoemoji/16.0/1f3c6/32.png\">&nbsp;시상:&nbsp;<strong>대상 70만원, 우수상 50만원, 장려상 30만원 + 상장</strong></p>\n<p><img alt=\"📌\" class=\"an1\" src=\"https://fonts.gstatic.com/s/e/notoemoji/16.0/1f4cc/32.png\">&nbsp;제출:&nbsp;<strong>슈패스 신청 (</strong><a href=\"https://m.site.naver.com/1O3kE\" rel=\"noopener\" target=\"_blank\">https://m.site.naver.com/1O3kE</a>)</p>\n<p><b><img alt=\"👉\" class=\"an1\" src=\"https://fonts.gstatic.com/s/e/notoemoji/16.0/1f449/32.png\"></b>&nbsp;창의적인 아이디어로 통일·평화를 표현하세요!</p>\n<p>문의: 02-820-0725/<a href=\"mailto:min369@ssu.ac.kr\" rel=\"noopener\" target=\"_blank\">min369@ssu.ac.kr</a></p>\n<p>&nbsp;</p>\n<p><img alt=\"\" class=\"alignnone  wp-image-48324\" height=\"2020\" sizes=\"(max-width: 1429px) 100vw, 1429px\" src=\"https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2025/10/에브리띵-포스터.jpg\" srcset=\"https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2025/10/에브리띵-포스터.jpg 3510w, https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2025/10/에브리띵-포스터-212x300.jpg 212w, https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2025/10/에브리띵-포스터-768x1085.jpg 768w, https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2025/10/에브리띵-포스터-724x1024.jpg 724w\" width=\"1429\"></p>\n\t\t\t\t\t",
-      "attachments": [],
-      "metadata": null
-    },
-    {
-      "id": "48326",
-      "url": "https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48326",
-      "author": null,
-      "title": "[홍보] 창직&신직업 토크콘서트 “직톡:職Talk” 신청 안내",
-      "description": null,
-      "category": [],
-      "created_at": "2025-10-02T00:00:00+09:00",
-      "updated_at": null,
-      "thumbnail": null,
-      "content": "\n\t\t\t\t\t\t<div>1. 프로그램명: (창직&amp;신직업 토크콘서트) 직톡:職Talk</div>\n<div></div>\n<div>2. 프로그램 목적 및 취지: 신직업(세장에 없던 직업)의 개념과 사례를 소개하고 이를 통해 새로운 일자리나 직업을 상상하고 설계하는 창직역량을 기르기 하기 위한 목적</div>\n<div></div>\n<div>3. 일정: 2025.10.28~11.12 (18시~20시)</div>\n<div></div>\n<div>4. 수업방법: 실시간 비대면 프로그램 (Zoom)</div>\n<div></div>\n<div>5. 신청방법: 슈패스 바로가기 (<a href=\"https://path.ssu.ac.kr/\" rel=\"noopener\" target=\"_blank\">https://path.ssu.ac.kr</a>)</div>\n<div></div>\n<div>6. 모집일정: 현재 모집중</div>\n<div></div>\n<div><img alt=\"\" class=\"alignnone  wp-image-48327\" height=\"1711\" sizes=\"(max-width: 1209px) 100vw, 1209px\" src=\"https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2025/10/세로형-포스터-숭실대학교-창직-신직업-토크콘서트-직톡_좋은일컴퍼니.png\" srcset=\"https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2025/10/세로형-포스터-숭실대학교-창직-신직업-토크콘서트-직톡_좋은일컴퍼니.png 1587w, https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2025/10/세로형-포스터-숭실대학교-창직-신직업-토크콘서트-직톡_좋은일컴퍼니-212x300.png 212w, https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2025/10/세로형-포스터-숭실대학교-창직-신직업-토크콘서트-직톡_좋은일컴퍼니-768x1086.png 768w, https://iise.ssu.ac.kr/wp-content/uploads/sites/34/2025/10/세로형-포스터-숭실대학교-창직-신직업-토크콘서트-직톡_좋은일컴퍼니-724x1024.png 724w\" width=\"1209\"></div>\n\t\t\t\t\t",
       "attachments": [],
       "metadata": null
     }
