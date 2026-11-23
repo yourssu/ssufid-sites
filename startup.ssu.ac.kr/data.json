@@ -4,6 +4,28 @@
   "description": "숭실대학교 창업포털 홈페이지의 공지사항을 제공합니다.",
   "items": [
     {
+      "id": "4106",
+      "url": "https://startup.ssu.ac.kr/board/notice/4106?boardEnName=notice",
+      "author": "admin",
+      "title": "2026년 창업역량장학금 신청자 모집(~2027.1.4.(월) 11시까지)",
+      "description": null,
+      "category": [
+        "공지사항"
+      ],
+      "created_at": "2026-11-23T10:44:25+09:00",
+      "updated_at": "2026-11-23T10:44:25+09:00",
+      "thumbnail": null,
+      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/11/65a843b3-83ce-46ba-9006-c09d68c387e1.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;■ 신청기간:&amp;nbsp;&lt;strong&gt;&lt;u&gt;2027. 01. 04.(월) 11:00 까지&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;■ 신청방법: 슈패스(https://path.ssu.ac.kr)에 제출서류 첨부하여 참여신청&lt;/p&gt;&lt;p&gt;■ 대상: 아래 요건을 모두 충족하는 창업에 관심이 있는 재학생&lt;/p&gt;&lt;p&gt;&ndash; 2026학년도 창업교육, 창업 관련 행사 등에 적극 참여한 학생&lt;/p&gt;&lt;p&gt;&ndash; 2026학년도 2학기 등록금을 완납하고 재학중인 학생&lt;/p&gt;&lt;p&gt;* 휴학생, 졸업생, 수료(졸업유예)생, 미등록자, 0학점자 선발 제외&lt;/p&gt;&lt;p&gt;■ 장학금액: 500,000원&lt;/p&gt;&lt;p&gt;■ 제출서류&lt;/p&gt;&lt;p&gt;1. 창업역량 장학금 신청서&lt;/p&gt;&lt;p&gt;2. 창업활동 보고서&lt;/p&gt;&lt;p&gt;3. 정량평가 항목별 증빙서류(해당시)&lt;/p&gt;&lt;p&gt;■ 평가항목&lt;/p&gt;&lt;p&gt;&ndash; 정성평가: 창업활동 보고서 작성의 충실성(10점), 창업활동 실적의 우수성(25점), 창업활동의 발전 가능성(15점)&lt;/p&gt;&lt;p&gt;&ndash; 정량평가: 창업 실행 및 사업화 활동(50점)&lt;/p&gt;&lt;p&gt;■ 문의: 02-820-0016 /&amp;nbsp; pnuema1318@ssu.ac.kr&lt;/p&gt;&lt;p&gt;※ 자세한 일정은 포스터를 참고하여 주시기 바랍니다.&lt;/p&gt;",
+      "attachments": [
+        {
+          "url": "https://startup.ssu.ac.kr/api/resource/download/3699",
+          "name": "2026학년도 창업역량장학금 신청서_양식.hwp",
+          "mime_type": null
+        }
+      ],
+      "metadata": null
+    },
+    {
       "id": "4105",
       "url": "https://startup.ssu.ac.kr/board/notice/4105?boardEnName=notice",
       "author": "admin",
@@ -2381,38 +2403,6 @@
         {
           "url": "https://startup.ssu.ac.kr/api/resource/download/3368",
           "name": "2026 빅웨이브 글로벌(일본4차) 츄가이제약 밋업 포스터.jpg",
-          "mime_type": null
-        }
-      ],
-      "metadata": null
-    },
-    {
-      "id": "3978",
-      "url": "https://startup.ssu.ac.kr/board/notice/3978?boardEnName=notice",
-      "author": "admin",
-      "title": "[수원시] 2026 창업오디션 참가자 모집 안내",
-      "description": null,
-      "category": [
-        "외부사업공고"
-      ],
-      "created_at": "2026-07-22T10:23:51+09:00",
-      "updated_at": "2026-07-22T10:24:11+09:00",
-      "thumbnail": null,
-      "content": "&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&lt;strong&gt;수원시와 수원도시재단은 우수한 창업아이템을 보유한 예비창업자와 기술력 및 성장 가능성을 갖춘 창업기업을 발굴&middot;육성하기 위하여 「2026 창업오디션」 을 추진하고 있습니다. 창업에 관심있는 분들의 많은 참여 부탁드립니다.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;figure class=&quot;image&quot;&gt;&lt;img src=&quot;https://startup.ssu.ac.kr/api/resource/BOARD_CONTENT_IMG/2026/07/f2f1ae01-5f17-4e42-a939-e3f77a98f8bb.jpg&quot;&gt;&lt;/figure&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;가. 행 사 명 : &lt;strong&gt;2026 창업오디션&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;나. 접수기간 : 2026. 6. 22.(월) ~ 7. 27.(월) 15:00까지&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;다. 접수방법 : 이메일 접수(kik@sscf2016.or.kr)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;라. 협조요청 : 홈페이지, SNS 게시, 게시판 부착 등&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0,0,0);font-size:18px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;마. 문 의 처 : 수원도시재단 창업지원센터(☎031-280-6362)&lt;/span&gt;&lt;/p&gt;",
-      "attachments": [
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3363",
-          "name": "(공고문)2026 창업오디션 모집.pdf",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3364",
-          "name": "2026 창업오디션 포스터.jpg",
-          "mime_type": null
-        },
-        {
-          "url": "https://startup.ssu.ac.kr/api/resource/download/3365",
-          "name": "2026 창업오디션 인스타 세로형(1080X1350).jpg",
           "mime_type": null
         }
       ],
